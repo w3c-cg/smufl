@@ -1,6 +1,10 @@
 Version history
 ===============
 
+Version 1.5 (2022):
+
+-   Added recommended stylistic alternate `gClef8vbFrench` to [Clefs](../tables/clefs.md) range ([#239](https://github.com/w3c/smufl/issues/239))
+
 Version 1.40 (2021-03-15):
 
 -   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))

@@ -38,7 +38,7 @@ Recommended stylistic alternates
 |<span class="bravura_large">&#xf474;</span> | **uniE062.ss01**<br/>*fClefSmall*<br/>F clef (small staff) | <span class="bravura_large">&#xf409;</span> | **uniE069.salt01**<br/>*unpitchedPercussionClef1Alt*<br/>Unpitched percussion clef 1 (thick-thin)
 |<span class="bravura_large">&#xf40a;</span> | **uniE06D.salt01**<br/>*6stringTabClefTall*<br/>6-string tab clef (tall) | <span class="bravura_large">&#xf40b;</span> | **uniE06D.salt02**<br/>*6stringTabClefSerif*<br/>6-string tab clef (serif)
 |<span class="bravura_large">&#xf40c;</span> | **uniE06E.salt01**<br/>*4stringTabClefTall*<br/>4-string tab clef (tall) | <span class="bravura_large">&#xf40d;</span> | **uniE06E.salt02**<br/>*4stringTabClefSerif*<br/>4-string tab clef (serif)
-|<span class="bravura_large">&#xf4c0;</span> | **uniE07B.salt01**<br/>*cClefFrench20CChange*<br/>C clef change (French, 20th century) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf4c0;</span> | **uniE07B.salt01**<br/>*cClefFrench20CChange*<br/>C clef change (French, 20th century) | &nbsp; | <span class="bravura_large">&#xf606;</span> | **uniE052.salt01**<br/>*gClef8vbFrench*<br/>G clef ottava bassa (Durand)
 
 Recommended ligatures
 ---------------------
