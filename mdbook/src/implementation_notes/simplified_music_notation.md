@@ -5,4 +5,4 @@ white notes on the piano (e.g. B sharp and E sharp) are notated using
 “history signs.”
 
 For more information about Simplified Music Notation, visit
-<http://www.simplifiedmusicnotation.org/>
+<https://web.archive.org/web/20230120000705/https://simplifiedmusicnotation.org/>
