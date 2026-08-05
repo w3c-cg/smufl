@@ -6,8 +6,6 @@ This document describes the build process for the SMuFL specification.
 
 ## Repository layout
 
-**_config.yml** contains some basic [Jekyll configuration](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) for GitHub Pages. We use the **exclude** directive to tell Jekyll not to build certain files/folders in the repository.
-
 **BUILDING.md** is this document.
 
 **drafts** contains published drafts of the SMuFL specification. Each draft version should be contained in a subfolder named _version-date_, e.g. **1.4-2021-01-03**. The contents of each subfolder is a complete set of GitBook (for versions up to 1.4) or mdBook (for 1.5 or later) output.
@@ -16,7 +14,7 @@ This document describes the build process for the SMuFL specification.
 
 **index.html** similarly redirects to **/latest**.
 
-**latest** contains the mdBook output for the current state of the specification.
+**latest** is not stored in the repository — it's built fresh from **mdbook** and published by the GitHub Actions workflow on every push to **gh-pages** (see below).
 
 **mdbook** contains the input and configuration files used to build the mdBook output.
 
