@@ -30,9 +30,14 @@ This document describes the build process for the SMuFL specification.
 
 **w3c.json** contains configuration data used by the W3C organisation to manage their many GitHub repositories.
 
+**metadata/schema** contains [JSON Schema](https://json-schema.org/) definitions for **glyphnames.json**, **classes.json** and **ranges.json**, plus **check_consistency.py**, a script that checks relationships between those three files that a schema alone can't express (e.g. that every glyph's codepoint falls within the range it belongs to).
+
+**.github/workflows/pages.yml** is the GitHub Actions workflow that validates and publishes the specification (see below).
+
 ## Prerequisites
 
 * [Install mdBook](https://rust-lang.github.io/mdBook/guide/installation.html)
+* Python 3, if you want to run the metadata validation locally (`pip install check-jsonschema`)
 
 ## Updating the specification
 
@@ -52,15 +57,32 @@ mdbook serve --open
 
 This will open the default web browser and point it at the local web server.
 
-## Building the specification
+## Validating your changes locally
 
-To build the book, using Terminal:
+Before opening a pull request, it's worth running the same checks CI will run. From the root of the repository:
+
+```
+pip install check-jsonschema
+check-jsonschema --schemafile metadata/schema/glyphnames.schema.json metadata/glyphnames.json
+check-jsonschema --schemafile metadata/schema/ranges.schema.json metadata/ranges.json
+check-jsonschema --schemafile metadata/schema/classes.schema.json metadata/classes.json
+python3 metadata/schema/check_consistency.py
+```
+
+And that the book itself builds without errors:
 
 ```
 cd mdbook
 mdbook build
 ```
 
-This creates a folder called **book**. Rename this folder to **latest** and replace the existing **latest** folder in the root of the repository with this folder.
+## Building and publishing the specification
 
-Now commit and push to the **gh-pages** branch.
+Publishing is automated. Every push and pull request against **gh-pages** triggers the **Validate and publish specification** GitHub Actions workflow (`.github/workflows/pages.yml`), which:
+
+1. Validates **glyphnames.json**, **classes.json** and **ranges.json** against their JSON Schemas, and runs the cross-file consistency checks.
+2. Builds the book with `mdbook build` to confirm the Markdown sources are well-formed.
+
+On a push to **gh-pages** (i.e. once a pull request is merged), a second job also runs, which builds the book again, assembles the site (the built book, plus **drafts**, **releases**, **gitbook**, **metadata**, **index.html** and **w3c.json**), and deploys it directly to GitHub Pages. There is no longer a manual "build, rename the folder, commit" step — merging is enough.
+
+This requires the repository's Pages source (Settings → Pages) to be set to "GitHub Actions" rather than "Deploy from a branch".

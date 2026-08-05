@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://w3c.github.io/smufl/metadata/schema/classes.schema.json",
+  "title": "SMuFL classes.json",
+  "description": "Maps each SMuFL glyph class name to the list of glyph names that are members of it.",
+  "type": "object",
+  "additionalProperties": {
+    "type": "array",
+    "items": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "minProperties": 1
+}

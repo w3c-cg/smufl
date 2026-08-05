@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://w3c.github.io/smufl/metadata/schema/glyphnames.schema.json",
+  "title": "SMuFL glyphnames.json",
+  "description": "Maps each canonical SMuFL glyph name to its codepoint, description, and (where applicable) alternate Unicode codepoint.",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "codepoint": {
+        "type": "string",
+        "pattern": "^U\\+[0-9A-F]{4,6}$"
+      },
+      "description": {
+        "type": "string",
+        "minLength": 1
+      },
+      "alternateCodepoint": {
+        "type": "string",
+        "pattern": "^U\\+[0-9A-F]{4,6}$"
+      }
+    },
+    "required": ["codepoint", "description"],
+    "additionalProperties": false
+  },
+  "minProperties": 1
+}

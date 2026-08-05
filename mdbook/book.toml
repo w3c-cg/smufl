@@ -1,6 +1,5 @@
 [book]
 authors = ["Daniel Spreadbury"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Standard Music Font Layout (SMuFL)"
