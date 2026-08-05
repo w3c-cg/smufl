@@ -7,7 +7,8 @@
 }
 
 html {
-    font-family: "Open Sans", sans-serif;
+    /* Site customisation: was "Open Sans", sans-serif in mdBook's default. */
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
@@ -105,9 +106,10 @@ html:not(.js) .page-wrapper,
     margin-inline-end: auto;
     max-width: var(--content-max-width);
 }
-.content p { line-height: 1.45em; }
-.content ol { line-height: 1.45em; }
-.content ul { line-height: 1.45em; }
+/* Site customisation: was 1.45em in mdBook's default. */
+.content p { line-height: 1.8em; }
+.content ol { line-height: 1.8em; }
+.content ul { line-height: 1.8em; }
 .content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
 .content img, .content video { max-width: 100%; }
@@ -126,6 +128,8 @@ html:not(.js) .page-wrapper,
 table {
     margin: 0 auto;
     border-collapse: collapse;
+    /* Site customisation: not present in mdBook's default table rule. */
+    line-height: 1.8em;
 }
 table td {
     padding: 3px 20px;
