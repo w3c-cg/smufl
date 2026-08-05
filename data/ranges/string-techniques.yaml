@@ -1,0 +1,80 @@
+name: stringTechniques
+description: String techniques
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/string-techniques.md
+codepointRangeStart: U+E610
+codepointRangeEnd: U+E62F
+hidden: false
+glyphs:
+- name: stringsDownBow
+  description: Down bow
+  alternateCodepoint: U+1D1AA
+- name: stringsDownBowTurned
+  description: Turned down bow
+- name: stringsUpBow
+  description: Up bow
+  alternateCodepoint: U+1D1AB
+- name: stringsUpBowTurned
+  description: Turned up bow
+- name: stringsHarmonic
+  description: Harmonic
+  alternateCodepoint: U+1D1AC
+- name: stringsHalfHarmonic
+  description: Half-harmonic
+- name: stringsMuteOn
+  description: Mute on
+- name: stringsMuteOff
+  description: Mute off
+- name: stringsBowBehindBridge
+  description: Bow behind bridge (sul ponticello)
+  classes:
+  - stemDecorations
+- name: stringsBowOnBridge
+  description: Bow on top of bridge
+  classes:
+  - stemDecorations
+- name: stringsBowOnTailpiece
+  description: Bow on tailpiece
+  classes:
+  - stemDecorations
+- name: stringsOverpressureDownBow
+  description: Overpressure, down bow
+- name: stringsOverpressureUpBow
+  description: Overpressure, up bow
+- name: stringsOverpressurePossibileDownBow
+  description: Overpressure possibile, down bow
+- name: stringsOverpressurePossibileUpBow
+  description: Overpressure possibile, up bow
+- name: stringsOverpressureNoDirection
+  description: Overpressure, no bow direction
+- name: stringsJeteAbove
+  description: Jeté (gettato) above
+- name: stringsJeteBelow
+  description: Jeté (gettato) below
+- name: stringsFouette
+  description: Fouetté
+- name: stringsVibratoPulse
+  description: Vibrato pulse accent (Saunders) for stem
+  classes:
+  - stemDecorations
+- name: stringsThumbPosition
+  description: Thumb position
+- name: stringsThumbPositionTurned
+  description: Turned thumb position
+- name: stringsChangeBowDirection
+  description: Change bow direction, indeterminate
+- name: stringsBowBehindBridgeOneString
+  description: Bow behind bridge on one string
+- name: stringsBowBehindBridgeTwoStrings
+  description: Bow behind bridge on two strings
+- name: stringsBowBehindBridgeThreeStrings
+  description: Bow behind bridge on three strings
+- name: stringsBowBehindBridgeFourStrings
+  description: Bow behind bridge on four strings
+stylisticAlternates:
+- for: stringsChangeBowDirection
+  name: stringsChangeBowDirectionLiga
+  description: Change bow direction, indeterminate (Pricope)
+- for: stringsChangeBowDirection
+  name: stringsChangeBowDirectionImposed
+  description: Change bow direction, indeterminate (Plötz)

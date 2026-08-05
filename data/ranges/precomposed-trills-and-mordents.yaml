@@ -1,0 +1,121 @@
+name: precomposedTrillsAndMordents
+description: Precomposed trills and mordents
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/precomposed_trills_and_mordents.md
+codepointRangeStart: U+E5B0
+codepointRangeEnd: U+E5CF
+hidden: false
+glyphs:
+- name: ornamentPrecompSlide
+  description: Slide
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompDescendingSlide
+  description: Descending slide
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompAppoggTrill
+  description: Supported appoggiatura trill
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompAppoggTrillSuffix
+  description: Supported appoggiatura trill with two-note suffix
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompTurnTrillDAnglebert
+  description: Turn-trill (D'Anglebert)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompSlideTrillDAnglebert
+  description: Slide-trill (D'Anglebert)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompSlideTrillMarpurg
+  description: Slide-trill with one-note suffix (Marpurg)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompTurnTrillBach
+  description: Turn-trill with two-note suffix (J.S. Bach)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompSlideTrillBach
+  description: Slide-trill with two-note suffix (J.S. Bach)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompSlideTrillMuffat
+  description: Slide-trill (Muffat)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompSlideTrillSuffixMuffat
+  description: Slide-trill with two-note suffix (Muffat)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompTrillSuffixDandrieu
+  description: Trill with two-note suffix (Dandrieu)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompPortDeVoixMordent
+  description: Pre-beat port de voix followed by multiple mordent (Dandrieu)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPrecompTrillWithMordent
+  description: Trill with mordent
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompCadence
+  description: Cadence
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompCadenceWithTurn
+  description: Cadence with turn
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompDoubleCadenceLowerPrefix
+  description: Double cadence with lower prefix
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompCadenceUpperPrefix
+  description: Cadence with upper prefix
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompCadenceUpperPrefixTurn
+  description: Cadence with upper prefix and turn
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompDoubleCadenceUpperPrefix
+  description: Double cadence with upper prefix
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompDoubleCadenceUpperPrefixTurn
+  description: Double cadence with upper prefix and turn
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompMordentRelease
+  description: Mordent with release
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompMordentUpperPrefix
+  description: Mordent with upper prefix
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompInvertedMordentUpperPrefix
+  description: Inverted mordent with upper prefix
+  classes:
+  - tf_ornaments
+- name: ornamentPrecompTrillLowerSuffix
+  description: Trill with lower suffix
+  classes:
+  - tf_ornaments

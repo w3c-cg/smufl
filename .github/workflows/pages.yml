@@ -24,6 +24,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,6 +46,24 @@ jobs:
 
       - name: Check cross-file metadata consistency
         run: python3 metadata/schema/check_consistency.py
+
+      - name: Check codepoint immutability against v1.4
+        run: python3 metadata/schema/check_immutability.py
+
+      - name: Validate data/ranges/*.yaml against schema
+        run: find data/ranges -name '*.yaml' ! -name 'manifest.yaml' -print0 | xargs -0 check-jsonschema --schemafile data/schema/range.schema.json
+
+      - name: Validate data/ranges/manifest.yaml against schema
+        run: check-jsonschema --schemafile data/schema/manifest.schema.json data/ranges/manifest.yaml
+
+      - name: Validate data/stylistic-sets.yaml against schema
+        run: check-jsonschema --schemafile data/schema/stylistic-sets.schema.json data/stylistic-sets.yaml
+
+      - name: Install generator dependencies
+        run: pip install pyyaml
+
+      - name: Check generated output matches committed metadata and tables
+        run: python3 tools/generate.py --check
 
       - name: Install mdBook
         run: |

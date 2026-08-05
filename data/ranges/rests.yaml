@@ -1,0 +1,129 @@
+name: rests
+description: Rests
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/rests.md
+codepointRangeStart: U+E4E0
+codepointRangeEnd: U+E4FF
+hidden: false
+glyphs:
+- name: restMaxima
+  description: Maxima rest
+  classes:
+  - rests
+- name: restLonga
+  description: Longa rest
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restDoubleWhole
+  description: Double whole (breve) rest
+  alternateCodepoint: U+1D13A
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restWhole
+  description: Whole (semibreve) rest
+  alternateCodepoint: U+1D13B
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restHalf
+  description: Half (minim) rest
+  alternateCodepoint: U+1D13C
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restQuarter
+  description: Quarter (crotchet) rest
+  alternateCodepoint: U+1D13D
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest8th
+  description: Eighth (quaver) rest
+  alternateCodepoint: U+1D13E
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest16th
+  description: 16th (semiquaver) rest
+  alternateCodepoint: U+1D13F
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest32nd
+  description: 32nd (demisemiquaver) rest
+  alternateCodepoint: U+1D140
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest64th
+  description: 64th (hemidemisemiquaver) rest
+  alternateCodepoint: U+1D141
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest128th
+  description: 128th (semihemidemisemiquaver) rest
+  alternateCodepoint: U+1D142
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest256th
+  description: 256th rest
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest512th
+  description: 512th rest
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: rest1024th
+  description: 1024th rest
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restHBar
+  description: Multiple measure rest
+  alternateCodepoint: U+1D129
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restHBarLeft
+  description: H-bar, left half
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restHBarMiddle
+  description: H-bar, middle
+  classes:
+  - forTextBasedApplications
+- name: restHBarRight
+  description: H-bar, right half
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restQuarterOld
+  description: Old-style quarter (crotchet) rest
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restDoubleWholeLegerLine
+  description: Double whole rest on leger lines
+  classes:
+  - rests
+- name: restWholeLegerLine
+  description: Whole rest on leger line
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restHalfLegerLine
+  description: Half rest on leger line
+  classes:
+  - combiningStaffPositions
+  - rests
+- name: restQuarterZ
+  description: Z-style quarter (crotchet) rest
+  classes:
+  - rests

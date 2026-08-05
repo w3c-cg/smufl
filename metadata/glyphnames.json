@@ -11439,9 +11439,41 @@
 		"codepoint": "U+E889",
 		"description": "Tuplet 9"
 	},
+	"tupletBracketLeftItalic": {
+		"codepoint": "U+EF14",
+		"description": "Opening bracket italic"
+	},
+	"tupletBracketLeftRoman": {
+		"codepoint": "U+EF16",
+		"description": "Opening bracket roman"
+	},
+	"tupletBracketRightItalic": {
+		"codepoint": "U+EF15",
+		"description": "Closing bracket italic"
+	},
+	"tupletBracketRightRoman": {
+		"codepoint": "U+EF17",
+		"description": "Closing bracket roman"
+	},
 	"tupletColon": {
 		"codepoint": "U+E88A",
 		"description": "Tuplet colon"
+	},
+	"tupletParenthesisLeftItalic": {
+		"codepoint": "U+EF10",
+		"description": "Opening parenthesis italic"
+	},
+	"tupletParenthesisLeftRoman": {
+		"codepoint": "U+EF12",
+		"description": "Opening parenthesis roman"
+	},
+	"tupletParenthesisRightItalic": {
+		"codepoint": "U+EF11",
+		"description": "Closing parenthesis italic"
+	},
+	"tupletParenthesisRightRoman": {
+		"codepoint": "U+EF13",
+		"description": "Closing parenthesis roman"
 	},
 	"unmeasuredTremolo": {
 		"codepoint": "U+E22C",

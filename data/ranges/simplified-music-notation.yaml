@@ -1,0 +1,30 @@
+name: simplifiedMusicNotation
+description: Simplified Music Notation
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/simplified_music_notation.md
+codepointRangeStart: U+EC50
+codepointRangeEnd: U+EC5F
+hidden: false
+glyphs:
+- name: smnSharp
+  description: Sharp stem up
+- name: smnSharpWhite
+  description: Sharp (white) stem up
+- name: smnFlat
+  description: Flat
+- name: smnFlatWhite
+  description: Flat (white)
+- name: smnHistorySharp
+  description: Sharp history sign
+- name: smnHistoryDoubleSharp
+  description: Double sharp history sign
+- name: smnHistoryFlat
+  description: Flat history sign
+- name: smnHistoryDoubleFlat
+  description: Double flat history sign
+- name: smnNatural
+  description: Natural (N)
+- name: smnSharpDown
+  description: Sharp stem down
+- name: smnSharpWhiteDown
+  description: Sharp (white) stem down

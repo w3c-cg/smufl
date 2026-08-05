@@ -1,0 +1,104 @@
+name: spartanSagittalSingleShaftAccidentals
+description: Spartan Sagittal single-shaft accidentals
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/spartan_sagittal_single-shaft_accidentals.md
+codepointRangeStart: U+E300
+codepointRangeEnd: U+E30F
+hidden: false
+glyphs:
+- name: accSagittal5v7KleismaUp
+  description: 5:7 kleisma up, (5:7k, ~11:13k, 7C less 5C)
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal5v7KleismaDown
+  description: 5:7 kleisma down
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal5CommaUp
+  description: 5 comma up, (5C), 1° up [22 27 29 34 41 46 53 96 EDOs], 1/12-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal5CommaDown
+  description: 5 comma down, 1° down [22 27 29 34 41 46 53 96 EDOs], 1/12-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal7CommaUp
+  description: 7 comma up, (7C), 1° up [43 EDO], 2° up [72 EDO], 1/6-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal7CommaDown
+  description: 7 comma down, 1° down [43 EDO], 2° down [72 EDO], 1/6-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal25SmallDiesisUp
+  description: 25 small diesis up, (25S, ~5:13S, ~37S, 5C plus 5C), 2° up [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal25SmallDiesisDown
+  description: 25 small diesis down, 2° down [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal35MediumDiesisUp
+  description: 35 medium diesis up, (35M, ~13M, ~125M, 5C plus 7C), 2/9-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal35MediumDiesisDown
+  description: 35 medium diesis down, 1°[50] 2°[27] down, 2/9-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal11MediumDiesisUp
+  description: 11 medium diesis up, (11M), 1°[17 31] 2°46 up, 1/4-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal11MediumDiesisDown
+  description: 11 medium diesis down, 1°[17 31] 2°46 down, 1/4-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal11LargeDiesisUp
+  description: 11 large diesis up, (11L), (sharp less 11M), 3° up [46 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal11LargeDiesisDown
+  description: 11 large diesis down, 3° down [46 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal35LargeDiesisUp
+  description: 35 large diesis up, (35L, ~13L, ~125L, sharp less 35M), 2°50 up
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accSagittal35LargeDiesisDown
+  description: 35 large diesis down, 2° down [50 EDO], 5/18-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions

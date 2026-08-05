@@ -1,0 +1,288 @@
+name: articulation
+description: Articulation
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E4A0
+codepointRangeEnd: U+E4BF
+hidden: false
+glyphs:
+- name: articAccentAbove
+  description: Accent above
+  alternateCodepoint: U+1D17B
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articAccentBelow
+  description: Accent below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articStaccatoAbove
+  description: Staccato above
+  alternateCodepoint: U+1D17C
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articStaccatoBelow
+  description: Staccato below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articTenutoAbove
+  description: Tenuto above
+  alternateCodepoint: U+1D17D
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articTenutoBelow
+  description: Tenuto below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articStaccatissimoAbove
+  description: Staccatissimo above
+  alternateCodepoint: U+1D17E
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articStaccatissimoBelow
+  description: Staccatissimo below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articStaccatissimoWedgeAbove
+  description: Staccatissimo wedge above
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articStaccatissimoWedgeBelow
+  description: Staccatissimo wedge below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articStaccatissimoStrokeAbove
+  description: Staccatissimo stroke above
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articStaccatissimoStrokeBelow
+  description: Staccatissimo stroke below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articMarcatoAbove
+  description: Marcato above
+  alternateCodepoint: U+1D17F
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articMarcatoBelow
+  description: Marcato below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articMarcatoStaccatoAbove
+  description: Marcato-staccato above
+  alternateCodepoint: U+1D180
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articMarcatoStaccatoBelow
+  description: Marcato-staccato below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articAccentStaccatoAbove
+  description: Accent-staccato above
+  alternateCodepoint: U+1D181
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articAccentStaccatoBelow
+  description: Accent-staccato below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articTenutoStaccatoAbove
+  description: Louré (tenuto-staccato) above
+  alternateCodepoint: U+1D182
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articTenutoStaccatoBelow
+  description: Louré (tenuto-staccato) below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articTenutoAccentAbove
+  description: Tenuto-accent above
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articTenutoAccentBelow
+  description: Tenuto-accent below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articStressAbove
+  description: Stress above
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articStressBelow
+  description: Stress below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articUnstressAbove
+  description: Unstress above
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articUnstressBelow
+  description: Unstress below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articLaissezVibrerAbove
+  description: Laissez vibrer (l.v.) above
+  classes:
+  - articulations
+  - articulationsAbove
+  - combiningStaffPositions
+- name: articLaissezVibrerBelow
+  description: Laissez vibrer (l.v.) below
+  classes:
+  - articulations
+  - articulationsBelow
+  - combiningStaffPositions
+- name: articMarcatoTenutoAbove
+  description: Marcato-tenuto above
+- name: articMarcatoTenutoBelow
+  description: Marcato-tenuto below
+stylisticAlternates:
+- for: articAccentAbove
+  name: articAccentAboveLarge
+  description: Large accent above
+- for: articAccentAbove
+  name: articAccentAboveSmall
+  description: Accent above (small staff)
+  set: small-staff
+- for: articAccentAbove
+  name: articAccentAboveRossini
+  description: Accent above (Rossini)
+- for: articAccentBelow
+  name: articAccentBelowLarge
+  description: Large accent below
+- for: articAccentBelow
+  name: articAccentBelowSmall
+  description: Accent below (small staff)
+  set: small-staff
+- for: articAccentBelow
+  name: articAccentBelowRossini
+  description: Accent below (Rossini)
+- for: articStaccatoAbove
+  name: articStaccatoAboveSmall
+  description: Staccato above (small staff)
+  set: small-staff
+- for: articStaccatoBelow
+  name: articStaccatoBelowSmall
+  description: Staccato below (small staff)
+  set: small-staff
+- for: articTenutoAbove
+  name: articTenutoAboveSmall
+  description: Tenuto above (small staff)
+  set: small-staff
+- for: articTenutoBelow
+  name: articTenutoBelowSmall
+  description: Tenuto below (small staff)
+  set: small-staff
+- for: articStaccatissimoAbove
+  name: articStaccatissimoAboveSmall
+  description: Staccatissimo above (small staff)
+  set: small-staff
+- for: articStaccatissimoBelow
+  name: articStaccatissimoBelowSmall
+  description: Staccatissimo below (small staff)
+  set: small-staff
+- for: articStaccatissimoWedgeAbove
+  name: articStaccatissimoWedgeAboveSmall
+  description: Staccatissimo wedge above (small staff)
+  set: small-staff
+- for: articStaccatissimoWedgeBelow
+  name: articStaccatissimoWedgeBelowSmall
+  description: Staccatissimo wedge below (small staff)
+  set: small-staff
+- for: articStaccatissimoStrokeAbove
+  name: articStaccatissimoStrokeAboveSmall
+  description: Staccatissimo stroke above (small staff)
+  set: small-staff
+- for: articStaccatissimoStrokeBelow
+  name: articStaccatissimoStrokeBelowSmall
+  description: Staccatissimo stroke below (small staff)
+  set: small-staff
+- for: articMarcatoAbove
+  name: articMarcatoAboveSmall
+  description: Marcato above (small staff)
+  set: small-staff
+- for: articMarcatoBelow
+  name: articMarcatoBelowSmall
+  description: Marcato below (small staff)
+  set: small-staff
+- for: articMarcatoStaccatoAbove
+  name: articMarcatoStaccatoAboveSmall
+  description: Marcato-staccato above (small staff)
+  set: small-staff
+- for: articMarcatoStaccatoBelow
+  name: articMarcatoStaccatoBelowSmall
+  description: Marcato-staccato below (small staff)
+  set: small-staff
+- for: articAccentStaccatoAbove
+  name: articAccentStaccatoAboveSmall
+  description: Accent-staccato above (small staff)
+  set: small-staff
+- for: articAccentStaccatoBelow
+  name: articAccentStaccatoBelowSmall
+  description: Accent-staccato below (small staff)
+  set: small-staff
+- for: articTenutoStaccatoAbove
+  name: articTenutoStaccatoAboveSmall
+  description: Louré (tenuto-staccato) above (small staff)
+  set: small-staff
+- for: articTenutoStaccatoBelow
+  name: articTenutoStaccatoBelowSmall
+  description: Louré (tenuto-staccato) below (small staff)
+  set: small-staff
+- for: articTenutoAccentAbove
+  name: articTenutoAccentAboveSmall
+  description: Tenuto-accent above (small staff)
+  set: small-staff
+- for: articTenutoAccentBelow
+  name: articTenutoAccentBelowSmall
+  description: Tenuto-accent below (small staff)
+  set: small-staff

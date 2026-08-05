@@ -1,0 +1,144 @@
+name: combiningStrokesForTrillsAndMordents
+description: Combining strokes for trills and mordents
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/combining_strokes_for_trills.md
+codepointRangeStart: U+E590
+codepointRangeEnd: U+E5AF
+hidden: false
+glyphs:
+- name: ornamentTopLeftConcaveStroke
+  description: Ornament top left concave stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentTopLeftConvexStroke
+  description: Ornament top left convex stroke
+  alternateCodepoint: U+1D1A5
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentHighLeftConcaveStroke
+  description: Ornament high left concave stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentHighLeftConvexStroke
+  description: Ornament high left convex stroke
+  alternateCodepoint: U+1D1A2
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLeftVerticalStroke
+  description: Ornament left vertical stroke
+  alternateCodepoint: U+1D19B
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLeftVerticalStrokeWithCross
+  description: Ornament left vertical stroke with cross (+)
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLeftShakeT
+  description: Ornament left shake t
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLeftPlus
+  description: Ornament left +
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLowLeftConcaveStroke
+  description: Ornament low left concave stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLowLeftConvexStroke
+  description: Ornament low left convex stroke
+  alternateCodepoint: U+1D1A4
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentBottomLeftConcaveStroke
+  description: Ornament bottom left concave stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentBottomLeftConcaveStrokeLarge
+  description: Ornament bottom left concave stroke, large
+  alternateCodepoint: U+1D1A1
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentBottomLeftConvexStroke
+  description: Ornament bottom left convex stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentZigZagLineNoRightEnd
+  description: Ornament zig-zag line without right-hand end
+  alternateCodepoint: U+1D19C
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentZigZagLineWithRightEnd
+  description: Ornament zig-zag line with right-hand end
+  alternateCodepoint: U+1D19D
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentMiddleVerticalStroke
+  description: Ornament middle vertical stroke
+  alternateCodepoint: U+1D1A0
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentTopRightConcaveStroke
+  description: Ornament top right concave stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentTopRightConvexStroke
+  description: Ornament top right convex stroke
+  alternateCodepoint: U+1D19E
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentHighRightConcaveStroke
+  description: Ornament high right concave stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentHighRightConvexStroke
+  description: Ornament high right convex stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentRightVerticalStroke
+  description: Ornament right vertical stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLowRightConcaveStroke
+  description: Ornament low right concave stroke
+  alternateCodepoint: U+1D1A3
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentLowRightConvexStroke
+  description: Ornament low right convex stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentBottomRightConcaveStroke
+  description: Ornament bottom right concave stroke
+  alternateCodepoint: U+1D19F
+  classes:
+  - multiGlyphForms
+  - tf_ornaments
+- name: ornamentBottomRightConvexStroke
+  description: Ornament bottom right convex stroke
+  classes:
+  - multiGlyphForms
+  - tf_ornaments

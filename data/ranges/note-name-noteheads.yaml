@@ -1,0 +1,581 @@
+name: noteNameNoteheads
+description: Note name noteheads
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/note_name_noteheads.md
+codepointRangeStart: U+E150
+codepointRangeEnd: U+E1AF
+hidden: false
+glyphs:
+- name: noteDoWhole
+  description: Do (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteReWhole
+  description: Re (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteMiWhole
+  description: Mi (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteFaWhole
+  description: Fa (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteSoWhole
+  description: So (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteLaWhole
+  description: La (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteTiWhole
+  description: Ti (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteSiWhole
+  description: Si (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteDoHalf
+  description: Do (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteReHalf
+  description: Re (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteMiHalf
+  description: Mi (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteFaHalf
+  description: Fa (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteSoHalf
+  description: So (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteLaHalf
+  description: La (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteTiHalf
+  description: Ti (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteSiHalf
+  description: Si (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteDoBlack
+  description: Do (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteReBlack
+  description: Re (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteMiBlack
+  description: Mi (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteFaBlack
+  description: Fa (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteSoBlack
+  description: So (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteLaBlack
+  description: La (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteTiBlack
+  description: Ti (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteSiBlack
+  description: Si (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesSolfege
+  - noteheads
+- name: noteAFlatWhole
+  description: A flat (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteAWhole
+  description: A (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteASharpWhole
+  description: A sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBFlatWhole
+  description: B flat (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBWhole
+  description: B (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBSharpWhole
+  description: B sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCFlatWhole
+  description: C flat (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCWhole
+  description: C (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCSharpWhole
+  description: C sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDFlatWhole
+  description: D flat (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDWhole
+  description: D (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDSharpWhole
+  description: D sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteEFlatWhole
+  description: E flat (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteEWhole
+  description: E (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteESharpWhole
+  description: E sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFFlatWhole
+  description: F flat (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFWhole
+  description: F (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFSharpWhole
+  description: F sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGFlatWhole
+  description: G flat (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGWhole
+  description: G (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGSharpWhole
+  description: G sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteHWhole
+  description: H (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteHSharpWhole
+  description: H sharp (whole note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteAFlatHalf
+  description: A flat (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteAHalf
+  description: A (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteASharpHalf
+  description: A sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBFlatHalf
+  description: B flat (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBHalf
+  description: B (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBSharpHalf
+  description: B sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCFlatHalf
+  description: C flat (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCHalf
+  description: C (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCSharpHalf
+  description: C sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDFlatHalf
+  description: D flat (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDHalf
+  description: D (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDSharpHalf
+  description: D sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteEFlatHalf
+  description: E flat (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteEHalf
+  description: E (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteESharpHalf
+  description: E sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFFlatHalf
+  description: F flat (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFHalf
+  description: F (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFSharpHalf
+  description: F sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGFlatHalf
+  description: G flat (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGHalf
+  description: G (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGSharpHalf
+  description: G sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteHHalf
+  description: H (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteHSharpHalf
+  description: H sharp (half note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteAFlatBlack
+  description: A flat (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteABlack
+  description: A (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteASharpBlack
+  description: A sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBFlatBlack
+  description: B flat (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBBlack
+  description: B (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteBSharpBlack
+  description: B sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCFlatBlack
+  description: C flat (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCBlack
+  description: C (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteCSharpBlack
+  description: C sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDFlatBlack
+  description: D flat (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDBlack
+  description: D (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteDSharpBlack
+  description: D sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteEFlatBlack
+  description: E flat (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteEBlack
+  description: E (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteESharpBlack
+  description: E sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFFlatBlack
+  description: F flat (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFBlack
+  description: F (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteFSharpBlack
+  description: F sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGFlatBlack
+  description: G flat (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGBlack
+  description: G (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteGSharpBlack
+  description: G sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteHBlack
+  description: H (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteHSharpBlack
+  description: H sharp (black note)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetNamesPitch
+  - noteheads
+- name: noteEmptyWhole
+  description: Empty whole note
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteEmptyHalf
+  description: Empty half note
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteEmptyBlack
+  description: Empty black note
+  classes:
+  - combiningStaffPositions
+  - noteheads

@@ -1,0 +1,79 @@
+name: daseianNotation
+description: Daseian notation
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EA30
+codepointRangeEnd: U+EA4F
+hidden: false
+glyphs:
+- name: daseianGraves1
+  description: Daseian graves 1
+  classes:
+  - tf_daseianNotation
+- name: daseianGraves2
+  description: Daseian graves 2
+  classes:
+  - tf_daseianNotation
+- name: daseianGraves3
+  description: Daseian graves 3
+  classes:
+  - tf_daseianNotation
+- name: daseianGraves4
+  description: Daseian graves 4
+  classes:
+  - tf_daseianNotation
+- name: daseianFinales1
+  description: Daseian finales 1
+  classes:
+  - tf_daseianNotation
+- name: daseianFinales2
+  description: Daseian finales 2
+  classes:
+  - tf_daseianNotation
+- name: daseianFinales3
+  description: Daseian finales 3
+  classes:
+  - tf_daseianNotation
+- name: daseianFinales4
+  description: Daseian finales 4
+  classes:
+  - tf_daseianNotation
+- name: daseianSuperiores1
+  description: Daseian superiores 1
+  classes:
+  - tf_daseianNotation
+- name: daseianSuperiores2
+  description: Daseian superiores 2
+  classes:
+  - tf_daseianNotation
+- name: daseianSuperiores3
+  description: Daseian superiores 3
+  classes:
+  - tf_daseianNotation
+- name: daseianSuperiores4
+  description: Daseian superiores 4
+  classes:
+  - tf_daseianNotation
+- name: daseianExcellentes1
+  description: Daseian excellentes 1
+  classes:
+  - tf_daseianNotation
+- name: daseianExcellentes2
+  description: Daseian excellentes 2
+  classes:
+  - tf_daseianNotation
+- name: daseianExcellentes3
+  description: Daseian excellentes 3
+  classes:
+  - tf_daseianNotation
+- name: daseianExcellentes4
+  description: Daseian excellentes 4
+  classes:
+  - tf_daseianNotation
+- name: daseianResidua1
+  description: Daseian residua 1
+  classes:
+  - tf_daseianNotation
+- name: daseianResidua2
+  description: Daseian residua 2
+  classes:
+  - tf_daseianNotation

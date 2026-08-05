@@ -1,0 +1,69 @@
+name: woodenStruckOrScrapedPercussionPictograms
+description: Wooden struck or scraped percussion pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E6F0
+codepointRangeEnd: U+E6FF
+hidden: false
+glyphs:
+- name: pictWoodBlock
+  description: Wood block
+  classes:
+  - tf_pictograms
+- name: pictTempleBlocks
+  description: Temple blocks
+  classes:
+  - tf_pictograms
+- name: pictClaves
+  description: Claves
+  classes:
+  - tf_pictograms
+- name: pictGuiro
+  description: Guiro
+  classes:
+  - tf_pictograms
+- name: pictRatchet
+  description: Ratchet
+  classes:
+  - tf_pictograms
+- name: pictFootballRatchet
+  description: Football rattle
+  classes:
+  - tf_pictograms
+- name: pictWhip
+  description: Whip
+  classes:
+  - tf_pictograms
+- name: pictBoardClapper
+  description: Board clapper
+  classes:
+  - tf_pictograms
+- name: pictCastanets
+  description: Castanets
+  classes:
+  - tf_pictograms
+- name: pictCastanetsWithHandle
+  description: Castanets with handle
+  classes:
+  - tf_pictograms
+- name: pictQuijada
+  description: Quijada (jawbone)
+  classes:
+  - tf_pictograms
+- name: pictBambooScraper
+  description: Bamboo scraper
+  classes:
+  - tf_pictograms
+- name: pictRecoReco
+  description: Reco-reco
+  classes:
+  - tf_pictograms
+stylisticAlternates:
+- for: pictGuiro
+  name: pictGuiroSevsay
+  description: Guiro (Sevsay)
+- for: pictGuiro
+  name: pictGuiroPeinkofer
+  description: Guiro (Peinkofer/Tannigel)
+- for: pictCastanets
+  name: pictCastanetsSmithBrindle
+  description: Castanets (Smith Brindle)

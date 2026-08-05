@@ -1,0 +1,144 @@
+name: standardAccidentals12Edo
+description: Standard accidentals (12-EDO)
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/standard-accidentals-12-edo.md
+codepointRangeStart: U+E260
+codepointRangeEnd: U+E26F
+hidden: false
+glyphs:
+- name: accidentalFlat
+  description: Flat
+  alternateCodepoint: U+266D
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalNatural
+  description: Natural
+  alternateCodepoint: U+266E
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - accidentalsSagittalPure
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalSharp
+  description: Sharp
+  alternateCodepoint: U+266F
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalDoubleSharp
+  description: Double sharp
+  alternateCodepoint: U+1D12A
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalDoubleFlat
+  description: Double flat
+  alternateCodepoint: U+1D12B
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalTripleSharp
+  description: Triple sharp
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalTripleFlat
+  description: Triple flat
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalNaturalFlat
+  description: Natural flat
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalNaturalSharp
+  description: Natural sharp
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalSharpSharp
+  description: Sharp sharp
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalParensLeft
+  description: Accidental parenthesis, left
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalParensRight
+  description: Accidental parenthesis, right
+  classes:
+  - accidentals
+  - accidentalsStandard
+  - combiningStaffPositions
+- name: accidentalBracketLeft
+  description: Accidental bracket, left
+- name: accidentalBracketRight
+  description: Accidental bracket, right
+stylisticAlternates:
+- for: accidentalFlat
+  name: accidentalFlatSmall
+  description: Flat (for small staves)
+  set: small-staff
+- for: accidentalNatural
+  name: accidentalNaturalSmall
+  description: Natural (for small staves)
+  set: small-staff
+- for: accidentalSharp
+  name: accidentalSharpSmall
+  description: Sharp (for small staves)
+  set: small-staff
+- for: accidentalDoubleFlat
+  name: accidentalDoubleFlatJoinedStems
+  description: Double flat (joined stems)
+- for: accidentalTripleFlat
+  name: accidentalTripleFlatJoinedStems
+  description: Triple flat (joined stems)
+ligatures:
+- name: accidentalFlatParens
+  description: Parenthesised flat
+  components:
+  - accidentalParensLeft
+  - accidentalFlat
+  - accidentalParensRight
+- name: accidentalNaturalParens
+  description: Parenthesised natural
+  components:
+  - accidentalParensLeft
+  - accidentalNatural
+  - accidentalParensRight
+- name: accidentalSharpParens
+  description: Parenthesised sharp
+  components:
+  - accidentalParensLeft
+  - accidentalSharp
+  - accidentalParensRight
+- name: accidentalDoubleSharpParens
+  description: Parenthesised double sharp
+  components:
+  - accidentalParensLeft
+  - accidentalDoubleSharp
+  - accidentalParensRight
+- name: accidentalDoubleFlatParens
+  description: Parenthesised double flat
+  components:
+  - accidentalParensLeft
+  - accidentalDoubleFlat
+  - accidentalParensRight

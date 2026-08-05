@@ -1,0 +1,58 @@
+name: tupletsSupplement
+description: Tuplets supplement
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/tuplets.md
+codepointRangeStart: U+EF10
+codepointRangeEnd: U+EF17
+hidden: false
+supplementaryTo: tuplets
+glyphs:
+- name: tupletParenthesisLeftItalic
+  description: Opening parenthesis italic
+- name: tupletParenthesisRightItalic
+  description: Closing parenthesis italic
+- name: tupletParenthesisLeftRoman
+  description: Opening parenthesis roman
+- name: tupletParenthesisRightRoman
+  description: Closing parenthesis roman
+- name: tupletBracketLeftItalic
+  description: Opening bracket italic
+- name: tupletBracketRightItalic
+  description: Closing bracket italic
+- name: tupletBracketLeftRoman
+  description: Opening bracket roman
+- name: tupletBracketRightRoman
+  description: Closing bracket roman
+stylisticAlternates:
+- for: tupletParenthesisLeftItalic
+  name: tupletParenthesisLeftItalicLight
+  description: Opening parenthesis italic (light)
+  set: light
+- for: tupletParenthesisRightItalic
+  name: tupletParenthesisRightItalicLight
+  description: Closing parenthesis italic (light)
+  set: light
+- for: tupletParenthesisLeftRoman
+  name: tupletParenthesisLeftRomanLight
+  description: Opening parenthesis roman (light)
+  set: light
+- for: tupletParenthesisRightRoman
+  name: tupletParenthesisRightRomanLight
+  description: Closing parenthesis roman (light)
+  set: light
+- for: tupletBracketLeftItalic
+  name: tupletBracketLeftItalicLight
+  description: Opening bracket italic (light)
+  set: light
+- for: tupletBracketRightItalic
+  name: tupletBracketRightItalicLight
+  description: Closing bracket italic (light)
+  set: light
+- for: tupletBracketLeftRoman
+  name: tupletBracketLeftRomanLight
+  description: Opening bracket roman (light)
+  set: light
+- for: tupletBracketRightRoman
+  name: tupletBracketRightRomanLight
+  description: Closing bracket roman (light)
+  set: light

@@ -1,0 +1,67 @@
+name: medievalAndRenaissanceMiscellany
+description: Medieval and Renaissance miscellany
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EA00
+codepointRangeEnd: U+EA1F
+hidden: false
+glyphs:
+- name: mensuralSignumUp
+  description: Signum congruentiae up
+  classes:
+  - combiningStaffPositions
+- name: mensuralSignumDown
+  description: Signum congruentiae down
+  classes:
+  - combiningStaffPositions
+- name: mensuralCustosUp
+  description: Mensural custos up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCustosDown
+  description: Mensural custos down
+  classes:
+  - combiningStaffPositions
+- name: chantCustosStemUpPosLowest
+  description: Plainchant custos, stem up, lowest position
+- name: chantCustosStemUpPosLow
+  description: Plainchant custos, stem up, low position
+- name: chantCustosStemUpPosMiddle
+  description: Plainchant custos, stem up, middle position
+  classes:
+  - combiningStaffPositions
+- name: chantCustosStemDownPosMiddle
+  description: Plainchant custos, stem down, middle position
+  classes:
+  - combiningStaffPositions
+- name: chantCustosStemDownPosHigh
+  description: Plainchant custos, stem down, high position
+- name: chantCustosStemDownPosHighest
+  description: Plainchant custos, stem down, highest position
+- name: mensuralCustosCheckmark
+  description: Checkmark custos
+  classes:
+  - combiningStaffPositions
+- name: mensuralCustosTurn
+  description: Turn-like custos
+  classes:
+  - combiningStaffPositions
+- name: mensuralColorationStartSquare
+  description: Coloration start, square
+  classes:
+  - combiningStaffPositions
+- name: mensuralColorationEndSquare
+  description: Coloration end, square
+  classes:
+  - combiningStaffPositions
+- name: mensuralColorationStartRound
+  description: Coloration start, round
+  classes:
+  - combiningStaffPositions
+- name: mensuralColorationEndRound
+  description: Coloration end, round
+  classes:
+  - combiningStaffPositions
+- name: mensuralAlterationSign
+  description: Alteration sign
+  classes:
+  - combiningStaffPositions

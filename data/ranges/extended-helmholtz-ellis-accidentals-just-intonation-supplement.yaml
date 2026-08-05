@@ -1,0 +1,48 @@
+name: extendedHelmholtzEllisAccidentalsJustIntonationSupplement
+description: Extended Helmholtz-Ellis accidentals (just intonation) supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EE50
+codepointRangeEnd: U+EE5F
+hidden: false
+supplementaryTo: extended-helmholtz-ellis-accidentals-just-intonation
+glyphs:
+- name: accidentalCombiningLower29LimitComma
+  description: Combining lower by one 29-limit comma
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningRaise29LimitComma
+  description: Combining raise by one 29-limit comma
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningLower37Quartertone
+  description: Combining lower by one 37-limit quartertone
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningRaise37Quartertone
+  description: Combining raise by one 37-limit quartertone
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningLower41Comma
+  description: Combining lower by one 41-limit comma
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningRaise41Comma
+  description: Combining raise by one 41-limit comma
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningLower43Comma
+  description: Combining lower by one 43-limit comma
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningRaise43Comma
+  description: Combining raise by one 43-limit comma
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningLower47Quartertone
+  description: Combining lower by one 47-limit quartertone
+  classes:
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningRaise47Quartertone
+  description: Combining raise by one 47-limit quartertone
+  classes:
+  - accidentalsHelmholtzEllis

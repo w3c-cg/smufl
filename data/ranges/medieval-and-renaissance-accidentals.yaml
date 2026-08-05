@@ -1,0 +1,40 @@
+name: medievalAndRenaissanceAccidentals
+description: Medieval and Renaissance accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E9E0
+codepointRangeEnd: U+E9EF
+hidden: false
+glyphs:
+- name: medRenFlatSoftB
+  description: Flat, soft b (fa)
+  alternateCodepoint: U+1D1D2
+  classes:
+  - combiningStaffPositions
+- name: medRenFlatHardB
+  description: Flat, hard b (mi)
+  classes:
+  - combiningStaffPositions
+- name: medRenNatural
+  description: Natural
+  classes:
+  - combiningStaffPositions
+- name: medRenSharpCroix
+  description: Croix
+  alternateCodepoint: U+1D1CF
+  classes:
+  - combiningStaffPositions
+- name: medRenFlatWithDot
+  description: Flat with dot
+  classes:
+  - combiningStaffPositions
+- name: medRenNaturalWithCross
+  description: Natural with interrupted cross
+  classes:
+  - combiningStaffPositions
+stylisticAlternates:
+- for: medRenFlatSoftB
+  name: medRenFlatSoftBOld
+  description: Flat (old)
+- for: medRenFlatSoftB
+  name: medRenFlatSoftBHufnagel
+  description: Flat (Hufnagel)

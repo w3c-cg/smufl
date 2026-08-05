@@ -1,0 +1,18 @@
+name: medievalAndRenaissanceProlationsSupplement
+description: Medieval and Renaissance prolations supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EE90
+codepointRangeEnd: U+EE9F
+hidden: false
+supplementaryTo: medieval-and-renaissance-prolations
+glyphs:
+- name: mensuralProportion5
+  description: Mensural proportion 5
+- name: mensuralProportion6
+  description: Mensural proportion 6
+- name: mensuralProportion7
+  description: Mensural proportion 7
+- name: mensuralProportion8
+  description: Mensural proportion 8
+- name: mensuralProportion9
+  description: Mensural proportion 9

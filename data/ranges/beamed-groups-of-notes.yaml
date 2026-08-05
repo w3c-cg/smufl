@@ -1,0 +1,136 @@
+name: beamedGroupsOfNotes
+description: Beamed groups of notes
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/beamed_groups_of_notes.md
+codepointRangeStart: U+E1F0
+codepointRangeEnd: U+E20F
+hidden: false
+glyphs:
+- name: textBlackNoteShortStem
+  description: Black note, short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textBlackNoteLongStem
+  description: Black note, long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textBlackNoteFrac8thShortStem
+  description: Black note, fractional 8th beam, short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textBlackNoteFrac8thLongStem
+  description: Black note, fractional 8th beam, long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textBlackNoteFrac16thShortStem
+  description: Black note, fractional 16th beam, short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textBlackNoteFrac16thLongStem
+  description: Black note, fractional 16th beam, long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textBlackNoteFrac32ndLongStem
+  description: Black note, fractional 32nd beam, long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textCont8thBeamShortStem
+  description: Continuing 8th beam for short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textCont8thBeamLongStem
+  description: Continuing 8th beam for long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textCont16thBeamShortStem
+  description: Continuing 16th beam for short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textCont16thBeamLongStem
+  description: Continuing 16th beam for long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textCont32ndBeamLongStem
+  description: Continuing 32nd beam for long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textAugmentationDot
+  description: Augmentation dot
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textTie
+  description: Tie
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textTupletBracketStartShortStem
+  description: Tuplet bracket start for short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textTuplet3ShortStem
+  description: Tuplet number 3 for short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textTupletBracketEndShortStem
+  description: Tuplet bracket end for short stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textTupletBracketStartLongStem
+  description: Tuplet bracket start for long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textTuplet3LongStem
+  description: Tuplet number 3 for long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textTupletBracketEndLongStem
+  description: Tuplet bracket end for long stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: textHeadlessBlackNoteShortStem
+  description: Headless black note, short stem
+  classes:
+  - combiningStaffPositions
+- name: textHeadlessBlackNoteLongStem
+  description: Headless black note, long stem
+  classes:
+  - combiningStaffPositions
+- name: textHeadlessBlackNoteFrac8thShortStem
+  description: Headless black note, fractional 8th beam, short stem
+  classes:
+  - combiningStaffPositions
+- name: textHeadlessBlackNoteFrac8thLongStem
+  description: Headless black note, fractional 8th beam, long stem
+  classes:
+  - combiningStaffPositions
+- name: textHeadlessBlackNoteFrac16thShortStem
+  description: Headless black note, fractional 16th beam, short stem
+  classes:
+  - combiningStaffPositions
+- name: textHeadlessBlackNoteFrac16thLongStem
+  description: Headless black note, fractional 16th beam, long stem
+  classes:
+  - combiningStaffPositions
+- name: textHeadlessBlackNoteFrac32ndLongStem
+  description: Headless black note, fractional 32nd beam, long stem
+  classes:
+  - combiningStaffPositions

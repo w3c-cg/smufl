@@ -1,0 +1,573 @@
+name: timeSignatures
+description: Time signatures
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/time_signatures.md
+codepointRangeStart: U+E080
+codepointRangeEnd: U+E09F
+hidden: false
+glyphs:
+- name: timeSig0
+  description: Time signature 0
+  classes:
+  - tf_zeroWidth
+- name: timeSig1
+  description: Time signature 1
+  classes:
+  - tf_zeroWidth
+- name: timeSig2
+  description: Time signature 2
+  classes:
+  - tf_zeroWidth
+- name: timeSig3
+  description: Time signature 3
+  classes:
+  - tf_zeroWidth
+- name: timeSig4
+  description: Time signature 4
+  classes:
+  - tf_zeroWidth
+- name: timeSig5
+  description: Time signature 5
+  classes:
+  - tf_zeroWidth
+- name: timeSig6
+  description: Time signature 6
+  classes:
+  - tf_zeroWidth
+- name: timeSig7
+  description: Time signature 7
+  classes:
+  - tf_zeroWidth
+- name: timeSig8
+  description: Time signature 8
+  classes:
+  - tf_zeroWidth
+- name: timeSig9
+  description: Time signature 9
+  classes:
+  - tf_zeroWidth
+- name: timeSigCommon
+  description: Common time
+  alternateCodepoint: U+1D134
+- name: timeSigCutCommon
+  description: Cut time
+  alternateCodepoint: U+1D135
+- name: timeSigPlus
+  description: Time signature +
+- name: timeSigPlusSmall
+  description: Time signature + (for numerators)
+- name: timeSigFractionalSlash
+  description: Time signature fraction slash
+- name: timeSigEquals
+  description: Time signature equals
+- name: timeSigMinus
+  description: Time signature minus
+- name: timeSigMultiply
+  description: Time signature multiply
+- name: timeSigParensLeftSmall
+  description: Left parenthesis for numerator only
+- name: timeSigParensRightSmall
+  description: Right parenthesis for numerator only
+- name: timeSigParensLeft
+  description: Left parenthesis for whole time signature
+- name: timeSigParensRight
+  description: Right parenthesis for whole time signature
+- name: timeSigComma
+  description: Time signature comma
+- name: timeSigFractionQuarter
+  description: Time signature fraction ¼
+- name: timeSigFractionHalf
+  description: Time signature fraction ½
+- name: timeSigFractionThreeQuarters
+  description: Time signature fraction ¾
+- name: timeSigFractionOneThird
+  description: Time signature fraction ⅓
+- name: timeSigFractionTwoThirds
+  description: Time signature fraction ⅔
+- name: timeSigX
+  description: Open time signature
+- name: timeSigOpenPenderecki
+  description: Open time signature (Penderecki)
+- name: timeSigCombNumerator
+  description: Control character for numerator digit
+  classes:
+  - forTextBasedApplications
+- name: timeSigCombDenominator
+  description: Control character for denominator digit
+  classes:
+  - forTextBasedApplications
+stylisticAlternates:
+- for: timeSig0
+  name: timeSig0Large
+  description: Time signature 0 (outside staff)
+  set: outside-staff
+- for: timeSig0
+  name: timeSig0Small
+  description: Time signature 0 (small staff)
+  set: small-staff
+- for: timeSig0
+  name: timeSig0Narrow
+  description: Time signature 0 (large, narrow)
+  set: large-narrow
+- for: timeSig1
+  name: timeSig1Large
+  description: Time signature 1 (outside staff)
+  set: outside-staff
+- for: timeSig1
+  name: timeSig1Small
+  description: Time signature 1 (small staff)
+  set: small-staff
+- for: timeSig1
+  name: timeSig1Narrow
+  description: Time signature 1 (large, narrow)
+  set: large-narrow
+- for: timeSig2
+  name: timeSig2Large
+  description: Time signature 2 (outside staff)
+  set: outside-staff
+- for: timeSig2
+  name: timeSig2Small
+  description: Time signature 2 (small staff)
+  set: small-staff
+- for: timeSig2
+  name: timeSig2Narrow
+  description: Time signature 2 (large, narrow)
+  set: large-narrow
+- for: timeSig3
+  name: timeSig3Large
+  description: Time signature 3 (outside staff)
+  set: outside-staff
+- for: timeSig3
+  name: timeSig3Small
+  description: Time signature 3 (small staff)
+  set: small-staff
+- for: timeSig3
+  name: timeSig3Narrow
+  description: Time signature 3 (large, narrow)
+  set: large-narrow
+- for: timeSig4
+  name: timeSig4Large
+  description: Time signature 4 (outside staff)
+  set: outside-staff
+- for: timeSig4
+  name: timeSig4Small
+  description: Time signature 4 (small staff)
+  set: small-staff
+- for: timeSig4
+  name: timeSig4Narrow
+  description: Time signature 4 (large, narrow)
+  set: large-narrow
+- for: timeSig5
+  name: timeSig5Large
+  description: Time signature 5 (outside staff)
+  set: outside-staff
+- for: timeSig5
+  name: timeSig5Small
+  description: Time signature 5 (small staff)
+  set: small-staff
+- for: timeSig5
+  name: timeSig5Narrow
+  description: Time signature 5 (large, narrow)
+  set: large-narrow
+- for: timeSig6
+  name: timeSig6Large
+  description: Time signature 6 (outside staff)
+  set: outside-staff
+- for: timeSig6
+  name: timeSig6Small
+  description: Time signature 6 (small staff)
+  set: small-staff
+- for: timeSig6
+  name: timeSig6Narrow
+  description: Time signature 6 (large, narrow)
+  set: large-narrow
+- for: timeSig7
+  name: timeSig7Large
+  description: Time signature 7 (outside staff)
+  set: outside-staff
+- for: timeSig7
+  name: timeSig7Small
+  description: Time signature 7 (small staff)
+  set: small-staff
+- for: timeSig7
+  name: timeSig7Narrow
+  description: Time signature 7 (large, narrow)
+  set: large-narrow
+- for: timeSig8
+  name: timeSig8Large
+  description: Time signature 8 (outside staff)
+  set: outside-staff
+- for: timeSig8
+  name: timeSig8Small
+  description: Time signature 8 (small staff)
+  set: small-staff
+- for: timeSig8
+  name: timeSig8Narrow
+  description: Time signature 8 (large, narrow)
+  set: large-narrow
+- for: timeSig9
+  name: timeSig9Large
+  description: Time signature 9 (outside staff)
+  set: outside-staff
+- for: timeSig9
+  name: timeSig9Small
+  description: Time signature 9 (small staff)
+  set: small-staff
+- for: timeSig9
+  name: timeSig9Narrow
+  description: Time signature 9 (large, narrow)
+  set: large-narrow
+- for: timeSigCommon
+  name: timeSigCommonLarge
+  description: Common time (outside staff)
+  set: outside-staff
+- for: timeSigCommon
+  name: timeSigCommonNarrow
+  description: Common time (large, narrow)
+  set: large-narrow
+- for: timeSigCutCommon
+  name: timeSigCutCommonLarge
+  description: Cut time (outside staff)
+  set: outside-staff
+- for: timeSigCutCommon
+  name: timeSigCutCommonNarrow
+  description: Cut time (large, narrow)
+  set: large-narrow
+- for: timeSigPlus
+  name: timeSigPlusLarge
+  description: Time signature + (outside staff)
+  set: outside-staff
+- for: timeSigPlus
+  name: timeSigPlusNarrow
+  description: Time signature + (large, narrow)
+  set: large-narrow
+- for: timeSigPlusSmall
+  name: timeSigPlusSmallLarge
+  description: Time signature + (for numerators) (outside staff)
+  set: outside-staff
+- for: timeSigPlusSmall
+  name: timeSigPlusSmallNarrow
+  description: Time signature + (for numerators) (large, narrow)
+  set: large-narrow
+- for: timeSigFractionalSlash
+  name: timeSigFractionalSlashLarge
+  description: Time signature fraction slash (outside staff)
+  set: outside-staff
+- for: timeSigFractionalSlash
+  name: timeSigFractionalSlashNarrow
+  description: Time signature fraction slash (large, narrow)
+  set: large-narrow
+- for: timeSigEquals
+  name: timeSigEqualsLarge
+  description: Time signature equals (outside staff)
+  set: outside-staff
+- for: timeSigEquals
+  name: timeSigEqualsNarrow
+  description: Time signature equals (large, narrow)
+  set: large-narrow
+- for: timeSigMinus
+  name: timeSigMinusLarge
+  description: Time signature minus (outside staff)
+  set: outside-staff
+- for: timeSigMinus
+  name: timeSigMinusNarrow
+  description: Time signature minus (large, narrow)
+  set: large-narrow
+- for: timeSigMultiply
+  name: timeSigMultiplyLarge
+  description: Time signature multiply (outside staff)
+  set: outside-staff
+- for: timeSigMultiply
+  name: timeSigMultiplyNarrow
+  description: Time signature multiply (large, narrow)
+  set: large-narrow
+- for: timeSigParensLeftSmall
+  name: timeSigParensLeftSmallLarge
+  description: Left parenthesis for numerator only (outside staff)
+  set: outside-staff
+- for: timeSigParensLeftSmall
+  name: timeSigParensLeftSmallNarrow
+  description: Left parenthesis for numerator only (large, narrow)
+  set: large-narrow
+- for: timeSigParensRightSmall
+  name: timeSigParensRightSmallLarge
+  description: Right parenthesis for numerator only (outside staff)
+  set: outside-staff
+- for: timeSigParensRightSmall
+  name: timeSigParensRightSmallNarrow
+  description: Right parenthesis for numerator only (large, narrow)
+  set: large-narrow
+- for: timeSigParensLeft
+  name: timeSigParensLeftLarge
+  description: Left parenthesis for whole time signature (outside staff)
+  set: outside-staff
+- for: timeSigParensLeft
+  name: timeSigParensLeftNarrow
+  description: Left parenthesis for whole time signature (large, narrow)
+  set: large-narrow
+- for: timeSigParensRight
+  name: timeSigParensRightLarge
+  description: Right parenthesis for whole time signature (outside staff)
+  set: outside-staff
+- for: timeSigParensRight
+  name: timeSigParensRightNarrow
+  description: Right parenthesis for whole time signature (large, narrow)
+  set: large-narrow
+- for: timeSigComma
+  name: timeSigCommaLarge
+  description: Time signature comma (outside staff)
+  set: outside-staff
+- for: timeSigComma
+  name: timeSigCommaNarrow
+  description: Time signature comma (large, narrow)
+  set: large-narrow
+- for: timeSigFractionQuarter
+  name: timeSigFractionQuarterLarge
+  description: Time signature fraction ¼ (outside staff)
+  set: outside-staff
+- for: timeSigFractionQuarter
+  name: timeSigFractionQuarterNarrow
+  description: Time signature fraction ¼ (large, narrow)
+  set: large-narrow
+- for: timeSigFractionHalf
+  name: timeSigFractionHalfLarge
+  description: Time signature fraction ½ (outside staff)
+  set: outside-staff
+- for: timeSigFractionHalf
+  name: timeSigFractionHalfNarrow
+  description: Time signature fraction ½ (large, narrow)
+  set: large-narrow
+- for: timeSigFractionThreeQuarters
+  name: timeSigFractionThreeQuartersLarge
+  description: Time signature fraction ¾ (outside staff)
+  set: outside-staff
+- for: timeSigFractionThreeQuarters
+  name: timeSigFractionThreeQuartersNarrow
+  description: Time signature fraction ¾ (large, narrow)
+  set: large-narrow
+- for: timeSigFractionOneThird
+  name: timeSigFractionOneThirdLarge
+  description: Time signature fraction ⅓ (outside staff)
+  set: outside-staff
+- for: timeSigFractionOneThird
+  name: timeSigFractionOneThirdNarrow
+  description: Time signature fraction ⅓ (large, narrow)
+  set: large-narrow
+- for: timeSigFractionTwoThirds
+  name: timeSigFractionTwoThirdsLarge
+  description: Time signature fraction ⅔ (outside staff)
+  set: outside-staff
+- for: timeSigFractionTwoThirds
+  name: timeSigFractionTwoThirdsNarrow
+  description: Time signature fraction ⅔ (large, narrow)
+  set: large-narrow
+- for: timeSigX
+  name: timeSigXLarge
+  description: Open time signature (outside staff)
+  set: outside-staff
+- for: timeSigX
+  name: timeSigXNarrow
+  description: Open time signature (large, narrow)
+  set: large-narrow
+- for: timeSigOpenPenderecki
+  name: timeSigOpenPendereckiLarge
+  description: Open time signature (Penderecki) (outside staff)
+  set: outside-staff
+- for: timeSigOpenPenderecki
+  name: timeSigOpenPendereckiNarrow
+  description: Open time signature (Penderecki) (narrow, large)
+  set: large-narrow
+ligatures:
+- name: timeSig0Denominator
+  description: Time signature 0 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig0
+- name: timeSig0Numerator
+  description: Time signature 0 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig0
+- name: timeSig1Denominator
+  description: Time signature 1 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig1
+- name: timeSig1Numerator
+  description: Time signature 1 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig1
+- name: timeSig2Denominator
+  description: Time signature 2 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig2
+- name: timeSig2Numerator
+  description: Time signature 2 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig2
+- name: timeSig3Denominator
+  description: Time signature 3 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig3
+- name: timeSig3Numerator
+  description: Time signature 3 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig3
+- name: timeSig4Denominator
+  description: Time signature 4 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig4
+- name: timeSig4Numerator
+  description: Time signature 4 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig4
+- name: timeSig5Denominator
+  description: Time signature 5 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig5
+- name: timeSig5Numerator
+  description: Time signature 5 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig5
+- name: timeSig6Denominator
+  description: Time signature 6 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig6
+- name: timeSig6Numerator
+  description: Time signature 6 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig6
+- name: timeSig7Denominator
+  description: Time signature 7 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig7
+- name: timeSig7Numerator
+  description: Time signature 7 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig7
+- name: timeSig8Denominator
+  description: Time signature 8 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig8
+- name: timeSig8Numerator
+  description: Time signature 8 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig8
+- name: timeSig9Denominator
+  description: Time signature 9 (denominator)
+  components:
+  - timeSigCombDenominator
+  - timeSig9
+- name: timeSig9Numerator
+  description: Time signature 9 (numerator)
+  components:
+  - timeSigCombNumerator
+  - timeSig9
+- name: timeSig2over4
+  description: 2/4 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig2
+  - timeSigCombDenominator
+  - timeSig4
+- name: timeSig2over2
+  description: 2/2 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig2
+  - timeSigCombDenominator
+  - timeSig2
+- name: timeSig3over2
+  description: 3/2 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig3
+  - timeSigCombDenominator
+  - timeSig2
+- name: timeSig3over4
+  description: 3/4 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig3
+  - timeSigCombDenominator
+  - timeSig4
+- name: timeSig3over8
+  description: 3/8 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig3
+  - timeSigCombDenominator
+  - timeSig8
+- name: timeSig4over4
+  description: 4/4 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig4
+  - timeSigCombDenominator
+  - timeSig4
+- name: timeSig5over4
+  description: 5/4 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig5
+  - timeSigCombDenominator
+  - timeSig4
+- name: timeSig5over8
+  description: 5/8 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig5
+  - timeSigCombDenominator
+  - timeSig8
+- name: timeSig6over4
+  description: 6/4 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig6
+  - timeSigCombDenominator
+  - timeSig4
+- name: timeSig6over8
+  description: 6/8 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig6
+  - timeSigCombDenominator
+  - timeSig8
+- name: timeSig7over8
+  description: 7/8 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig7
+  - timeSigCombDenominator
+  - timeSig8
+- name: timeSig9over8
+  description: 9/8 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig9
+  - timeSigCombDenominator
+  - timeSig8
+- name: timeSig12over8
+  description: 12/8 time signature
+  components:
+  - timeSigCombNumerator
+  - timeSig1
+  - timeSigCombNumerator
+  - timeSig2
+  - timeSigCombDenominator
+  - timeSig8

@@ -1,0 +1,86 @@
+name: extendedSteinZimmermannAccidentals
+description: Extended Stein-Zimmermann accidentals
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/extended_stein-zimmermann_accidentals.md
+codepointRangeStart: U+E290
+codepointRangeEnd: U+E29F
+hidden: false
+glyphs:
+- name: accidentalReversedFlatArrowUp
+  description: Reversed flat with arrow up
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalReversedFlatArrowDown
+  description: Reversed flat with arrow down
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalFilledReversedFlatArrowUp
+  description: Filled reversed flat with arrow up
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalFilledReversedFlatArrowDown
+  description: Filled reversed flat with arrow down
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalReversedFlatAndFlatArrowUp
+  description: Reversed flat and flat with arrow up
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalReversedFlatAndFlatArrowDown
+  description: Reversed flat and flat with arrow down
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalFilledReversedFlatAndFlat
+  description: Filled reversed flat and flat
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalFilledReversedFlatAndFlatArrowUp
+  description: Filled reversed flat and flat with arrow up
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalFilledReversedFlatAndFlatArrowDown
+  description: Filled reversed flat and flat with arrow down
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalHalfSharpArrowUp
+  description: Half sharp with arrow up
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalHalfSharpArrowDown
+  description: Half sharp with arrow down
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalOneAndAHalfSharpsArrowUp
+  description: One and a half sharps with arrow up
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions
+- name: accidentalOneAndAHalfSharpsArrowDown
+  description: One and a half sharps with arrow down
+  classes:
+  - accidentals
+  - accidentalsSteinZimmermann
+  - combiningStaffPositions

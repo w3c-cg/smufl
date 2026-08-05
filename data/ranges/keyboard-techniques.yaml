@@ -1,0 +1,119 @@
+name: keyboardTechniques
+description: Keyboard techniques
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E650
+codepointRangeEnd: U+E67F
+hidden: false
+glyphs:
+- name: keyboardPedalPed
+  description: Pedal mark
+  alternateCodepoint: U+1D1AE
+  classes:
+  - tf_pedals
+- name: keyboardPedalP
+  description: Pedal P
+  classes:
+  - tf_pedals
+- name: keyboardPedalE
+  description: Pedal e
+  classes:
+  - tf_pedals
+- name: keyboardPedalD
+  description: Pedal d
+  classes:
+  - tf_pedals
+- name: keyboardPedalDot
+  description: Pedal dot
+  classes:
+  - tf_pedals
+- name: keyboardPedalUp
+  description: Pedal up mark
+  alternateCodepoint: U+1D1AF
+  classes:
+  - tf_pedals
+- name: keyboardPedalHalf
+  description: Half-pedal mark
+  alternateCodepoint: U+1D1B0
+  classes:
+  - tf_pedals
+- name: keyboardPedalUpNotch
+  description: Pedal up notch
+  classes:
+  - tf_pedals
+- name: keyboardPedalHyphen
+  description: Pedal hyphen
+  classes:
+  - tf_pedals
+- name: keyboardPedalSost
+  description: Sostenuto pedal mark
+  classes:
+  - tf_pedals
+- name: keyboardPedalS
+  description: Pedal S
+  classes:
+  - tf_pedals
+- name: keyboardPedalHalf2
+  description: Half pedal mark 1
+- name: keyboardPedalHalf3
+  description: Half pedal mark 2
+- name: keyboardPedalUpSpecial
+  description: Pedal up special
+- name: keyboardLeftPedalPictogram
+  description: Left pedal pictogram
+- name: keyboardMiddlePedalPictogram
+  description: Middle pedal pictogram
+- name: keyboardRightPedalPictogram
+  description: Right pedal pictogram
+- name: keyboardPedalHeel1
+  description: Pedal heel 1
+- name: keyboardPedalHeel2
+  description: Pedal heel 2
+- name: keyboardPedalHeel3
+  description: Pedal heel 3 (Davis)
+- name: keyboardPedalToe1
+  description: Pedal toe 1
+- name: keyboardPedalToe2
+  description: Pedal toe 2
+- name: keyboardPedalHeelToe
+  description: Pedal heel or toe
+- name: keyboardPluckInside
+  description: Pluck strings inside piano (Maderna)
+- name: keyboardBebung2DotsAbove
+  description: Clavichord bebung, 2 finger movements (above)
+- name: keyboardBebung2DotsBelow
+  description: Clavichord bebung, 2 finger movements (below)
+- name: keyboardBebung3DotsAbove
+  description: Clavichord bebung, 3 finger movements (above)
+- name: keyboardBebung3DotsBelow
+  description: Clavichord bebung, 3 finger movements (below)
+- name: keyboardBebung4DotsAbove
+  description: Clavichord bebung, 4 finger movements (above)
+- name: keyboardBebung4DotsBelow
+  description: Clavichord bebung, 4 finger movements (below)
+- name: keyboardPlayWithRH
+  description: Play with right hand
+- name: keyboardPlayWithRHEnd
+  description: Play with right hand (end)
+- name: keyboardPlayWithLH
+  description: Play with left hand
+- name: keyboardPlayWithLHEnd
+  description: Play with left hand (end)
+- name: keyboardPedalHookStart
+  description: Pedal hook start
+- name: keyboardPedalHookEnd
+  description: Pedal hook end
+- name: keyboardPedalHeelToToe
+  description: Pedal heel to toe
+- name: keyboardPedalToeToHeel
+  description: Pedal toe to heel
+- name: keyboardPedalParensLeft
+  description: Left parenthesis for pedal marking
+- name: keyboardPedalParensRight
+  description: Right parenthesis for pedal marking
+stylisticAlternates:
+- for: keyboardPedalPed
+  name: keyboardPedalPedNoDot
+  description: Pedal mark (no dot)
+- for: keyboardPedalSost
+  name: keyboardPedalSostNoDot
+  description: Sostenuto pedal mark (no dot)

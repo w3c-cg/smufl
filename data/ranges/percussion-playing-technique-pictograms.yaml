@@ -1,0 +1,136 @@
+name: percussionPlayingTechniquePictograms
+description: Percussion playing technique pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E7F0
+codepointRangeEnd: U+E80F
+hidden: false
+glyphs:
+- name: pictStickShot
+  description: Stick shot
+  classes:
+  - tf_pictograms
+- name: pictScrapeCenterToEdge
+  description: Scrape from center to edge
+  classes:
+  - tf_pictograms
+- name: pictScrapeEdgeToCenter
+  description: Scrape from edge to center
+  classes:
+  - tf_pictograms
+- name: pictScrapeAroundRim
+  description: Scrape around rim (counter-clockwise)
+  classes:
+  - tf_pictograms
+- name: pictOnRim
+  description: On rim
+  classes:
+  - tf_pictograms
+- name: pictOpenRimShot
+  description: Closed / rim shot
+  classes:
+  - tf_pictograms
+- name: pictHalfOpen1
+  description: Half-open
+  classes:
+  - tf_pictograms
+- name: pictHalfOpen2
+  description: Half-open 2 (Weinberg)
+  classes:
+  - tf_pictograms
+- name: pictOpen
+  description: Open
+  classes:
+  - tf_pictograms
+- name: pictDamp1
+  description: Damp
+  classes:
+  - tf_pictograms
+- name: pictDamp2
+  description: Damp 2
+  classes:
+  - tf_pictograms
+- name: pictDamp3
+  description: Damp 3
+  classes:
+  - tf_pictograms
+- name: pictDamp4
+  description: Damp 4
+  classes:
+  - tf_pictograms
+- name: pictRimShotOnStem
+  description: Rim shot for stem
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: pictCenter1
+  description: Center (Weinberg)
+  classes:
+  - tf_pictograms
+- name: pictCenter2
+  description: Center (Ghent)
+  classes:
+  - tf_pictograms
+- name: pictCenter3
+  description: Center (Caltabiano)
+  classes:
+  - tf_pictograms
+- name: pictRim1
+  description: Rim or edge (Weinberg)
+  classes:
+  - tf_pictograms
+- name: pictRim2
+  description: Rim (Ghent)
+  classes:
+  - tf_pictograms
+- name: pictRim3
+  description: Rim (Caltabiano)
+  classes:
+  - tf_pictograms
+- name: pictNormalPosition
+  description: Normal position (Caltabiano)
+  classes:
+  - tf_pictograms
+- name: pictChokeCymbal
+  description: Choke (Weinberg)
+  classes:
+  - tf_pictograms
+- name: pictRightHandSquare
+  description: Left hand (Agostini)
+  classes:
+  - tf_pictograms
+- name: pictLeftHandCircle
+  description: Right hand (Agostini)
+  classes:
+  - tf_pictograms
+- name: pictSwishStem
+  description: Combining swish for stem
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: pictTurnRightStem
+  description: Combining turn right for stem
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: pictTurnLeftStem
+  description: Combining turn left for stem
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: pictTurnRightLeftStem
+  description: Combining turn left or right for stem
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: pictCrushStem
+  description: Combining crush for stem
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: pictDeadNoteStem
+  description: Combining X for stem (dead note)
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: pictScrapeAroundRimClockwise
+  description: Scrape around rim (clockwise)

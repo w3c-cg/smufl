@@ -1,0 +1,43 @@
+name: chimesPictograms
+description: Chimes pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E6C0
+codepointRangeEnd: U+E6CF
+hidden: false
+glyphs:
+- name: pictTubularBells
+  description: Tubular bells
+  classes:
+  - tf_pictograms
+- name: pictWindChimesGlass
+  description: Wind chimes (glass)
+  classes:
+  - tf_pictograms
+- name: pictChimes
+  description: Chimes
+  classes:
+  - tf_pictograms
+- name: pictBambooChimes
+  description: Bamboo tube chimes
+  classes:
+  - tf_pictograms
+- name: pictShellChimes
+  description: Shell chimes
+  classes:
+  - tf_pictograms
+- name: pictGlassTubeChimes
+  description: Glass tube chimes
+  classes:
+  - tf_pictograms
+- name: pictGlassPlateChimes
+  description: Glass plate chimes
+  classes:
+  - tf_pictograms
+- name: pictMetalTubeChimes
+  description: Metal tube chimes
+  classes:
+  - tf_pictograms
+- name: pictMetalPlateChimes
+  description: Metal plate chimes
+  classes:
+  - tf_pictograms

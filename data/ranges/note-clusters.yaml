@@ -1,0 +1,246 @@
+name: noteClusters
+description: Note clusters
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/note_clusters.md
+codepointRangeStart: U+E120
+codepointRangeEnd: U+E14F
+hidden: false
+glyphs:
+- name: noteheadClusterSquareWhite
+  description: Cluster notehead white (square)
+  alternateCodepoint: U+1D15A
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadClusterSquareBlack
+  description: Cluster notehead black (square)
+  alternateCodepoint: U+1D15B
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadClusterRoundWhite
+  description: Cluster notehead white (round)
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadClusterRoundBlack
+  description: Cluster notehead black (round)
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadClusterDoubleWhole2nd
+  description: Double whole note cluster, 2nd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterWhole2nd
+  description: Whole note cluster, 2nd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterHalf2nd
+  description: Half note cluster, 2nd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterQuarter2nd
+  description: Quarter note cluster, 2nd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterDoubleWhole3rd
+  description: Double whole note cluster, 3rd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterWhole3rd
+  description: Whole note cluster, 3rd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterHalf3rd
+  description: Half note cluster, 3rd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterQuarter3rd
+  description: Quarter note cluster, 3rd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterDoubleWholeTop
+  description: Combining double whole note cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterDoubleWholeMiddle
+  description: Combining double whole note cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterDoubleWholeBottom
+  description: Combining double whole note cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterWholeTop
+  description: Combining whole note cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterWholeMiddle
+  description: Combining whole note cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterWholeBottom
+  description: Combining whole note cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterHalfTop
+  description: Combining half note cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterHalfMiddle
+  description: Combining half note cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterHalfBottom
+  description: Combining half note cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterQuarterTop
+  description: Combining quarter note cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterQuarterMiddle
+  description: Combining quarter note cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadClusterQuarterBottom
+  description: Combining quarter note cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadDiamondClusterWhite2nd
+  description: White diamond cluster, 2nd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterBlack2nd
+  description: Black diamond cluster, 2nd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterWhite3rd
+  description: White diamond cluster, 3rd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterBlack3rd
+  description: Black diamond cluster, 3rd
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterWhiteTop
+  description: Combining white diamond cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterWhiteMiddle
+  description: Combining white diamond cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterWhiteBottom
+  description: Combining white diamond cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterBlackTop
+  description: Combining black diamond cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterBlackMiddle
+  description: Combining black diamond cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondClusterBlackBottom
+  description: Combining black diamond cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadRectangularClusterBlackTop
+  description: Combining black rectangular cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads
+- name: noteheadRectangularClusterBlackMiddle
+  description: Combining black rectangular cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads
+- name: noteheadRectangularClusterBlackBottom
+  description: Combining black rectangular cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads
+- name: noteheadRectangularClusterWhiteTop
+  description: Combining white rectangular cluster, top
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads
+- name: noteheadRectangularClusterWhiteMiddle
+  description: Combining white rectangular cluster, middle
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads
+- name: noteheadRectangularClusterWhiteBottom
+  description: Combining white rectangular cluster, bottom
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads

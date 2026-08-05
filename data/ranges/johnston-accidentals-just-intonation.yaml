@@ -1,0 +1,165 @@
+name: johnstonAccidentalsJustIntonation
+description: Johnston accidentals (just intonation)
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/johnston-accidentals-just-intonation.md
+codepointRangeStart: U+E2B0
+codepointRangeEnd: U+E2BF
+hidden: false
+glyphs:
+- name: accidentalJohnstonPlus
+  description: Plus (raise by 81:80)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+- name: accidentalJohnstonMinus
+  description: Minus (lower by 81:80)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+- name: accidentalJohnstonEl
+  description: Inverted seven (raise by 36:35)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+- name: accidentalJohnstonSeven
+  description: Seven (lower by 36:35)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+- name: accidentalJohnstonUp
+  description: Up arrow (raise by 33:32)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+- name: accidentalJohnstonDown
+  description: Down arrow (lower by 33:32)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+- name: accidentalJohnston13
+  description: Thirteen (raise by 65:64)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+- name: accidentalJohnston31
+  description: Inverted 13 (lower by 65:64)
+  classes:
+  - accidentals
+  - accidentalsJohnston
+  - combiningStaffPositions
+ligatures:
+- name: accidentalSharpJohnstonEl
+  description: Sharp-inverted seven
+  components:
+  - accidentalSharp
+  - accidentalJohnstonEl
+- name: accidentalSharpJohnstonUp
+  description: Sharp-up arrow
+  components:
+  - accidentalSharp
+  - accidentalJohnstonUp
+- name: accidentalSharpJohnstonDown
+  description: Sharp-down arrow
+  components:
+  - accidentalSharp
+  - accidentalJohnstonDown
+- name: accidentalFlatJohnstonEl
+  description: Flat-inverted seven
+  components:
+  - accidentalFlat
+  - accidentalJohnstonEl
+- name: accidentalFlatJohnstonUp
+  description: Flat-up arrow
+  components:
+  - accidentalFlat
+  - accidentalJohnstonUp
+- name: accidentalFlatJohnstonDown
+  description: Flat-down arrow
+  components:
+  - accidentalFlat
+  - accidentalJohnstonDown
+- name: accidentalJohnstonSevenSharp
+  description: Seven-sharp
+  components:
+  - accidentalJohnstonSeven
+  - accidentalSharp
+- name: accidentalJohnstonSevenFlat
+  description: Seven-flat
+  components:
+  - accidentalJohnstonSeven
+  - accidentalFlat
+- name: accidentalJohnstonSevenUp
+  description: Seven-up arrow
+  components:
+  - accidentalJohnstonSeven
+  - accidentalJohnstonUp
+- name: accidentalJohnstonSevenDown
+  description: Seven-down arrow
+  components:
+  - accidentalJohnstonSeven
+  - accidentalJohnstonDown
+- name: accidentalJohnstonUpEl
+  description: Up arrow-inverted seven
+  components:
+  - accidentalJohnstonUp
+  - accidentalJohnstonEl
+- name: accidentalJohnstonDownEl
+  description: Down arrow-inverted seven
+  components:
+  - accidentalJohnstonDown
+  - accidentalJohnstonEl
+- name: accidentalSharpJohnstonUpEl
+  description: Sharp-up arrow-inverted seven
+  components:
+  - accidentalSharp
+  - accidentalJohnstonUp
+  - accidentalJohnstonEl
+- name: accidentalSharpJohnstonDownEl
+  description: Sharp-down arrow-inverted seven
+  components:
+  - accidentalSharp
+  - accidentalJohnstonDown
+  - accidentalJohnstonEl
+- name: accidentalJohnstonSevenSharpUp
+  description: Seven-sharp-up arrow
+  components:
+  - accidentalJohnstonSeven
+  - accidentalSharp
+  - accidentalJohnstonUp
+- name: accidentalJohnstonSevenSharpDown
+  description: Seven-sharp-down arrow
+  components:
+  - accidentalJohnstonSeven
+  - accidentalSharp
+  - accidentalJohnstonDown
+- name: accidentalFlatJohnstonUpEl
+  description: Flat-up arrow-inverted seven
+  components:
+  - accidentalFlat
+  - accidentalJohnstonUp
+  - accidentalJohnstonEl
+- name: accidentalFlatJohnstonElDown
+  description: Flat-inverted seven-down arrow
+  components:
+  - accidentalFlat
+  - accidentalJohnstonEl
+  - accidentalJohnstonDown
+- name: accidentalJohnstonSevenFlatUp
+  description: Seven-flat-up arrow
+  components:
+  - accidentalJohnstonSeven
+  - accidentalFlat
+  - accidentalJohnstonUp
+- name: accidentalJohnstonSevenFlatDown
+  description: Seven-flat-down arrow
+  components:
+  - accidentalJohnstonSeven
+  - accidentalFlat
+  - accidentalJohnstonDown

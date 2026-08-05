@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Stylistic set registry",
+  "type": "object",
+  "properties": {
+    "sets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "opentype": { "type": "string", "pattern": "^ss(0[1-9]|1[0-9]|20)$" },
+          "description": { "type": "string", "minLength": 1 }
+        },
+        "required": ["id", "opentype", "description"],
+        "additionalProperties": false
+      },
+      "uniqueItems": true
+    }
+  },
+  "required": ["sets"],
+  "additionalProperties": false
+}

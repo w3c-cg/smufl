@@ -1,0 +1,29 @@
+name: medievalAndRenaissanceSymbolsInCmn
+description: Medieval and Renaissance symbols in CMN
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EA20
+codepointRangeEnd: U+EA2F
+hidden: false
+glyphs:
+- name: ornamentQuilisma
+  description: Quilisma
+- name: ornamentOriscus
+  description: Oriscus
+- name: medRenLiquescenceCMN
+  description: Liquescence
+- name: medRenPlicaCMN
+  description: Plica
+- name: medRenGClefCMN
+  description: G clef (Corpus Monodicum)
+- name: medRenPunctumCMN
+  description: Punctum (Corpus Monodicum)
+- name: medRenLiquescentAscCMN
+  description: Liquescent ascending (Corpus Monodicum)
+- name: medRenLiquescentDescCMN
+  description: Liquescent descending (Corpus Monodicum)
+- name: medRenQuilismaCMN
+  description: Quilisma (Corpus Monodicum)
+- name: medRenStrophicusCMN
+  description: Strophicus (Corpus Monodicum)
+- name: medRenOriscusCMN
+  description: Oriscus (Corpus Monodicum)

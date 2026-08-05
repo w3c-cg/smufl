@@ -1,0 +1,87 @@
+name: roundAndSquareNoteheads
+description: Round and square noteheads
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E110
+codepointRangeEnd: U+E11F
+hidden: false
+glyphs:
+- name: noteheadRoundBlackLarge
+  description: Large round black notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundLarge
+  - noteheads
+- name: noteheadRoundWhiteLarge
+  description: Large round white notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundLarge
+  - noteheads
+- name: noteheadRoundWhiteWithDotLarge
+  description: Large round white notehead with dot
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundLarge
+  - noteheads
+- name: noteheadRoundBlack
+  description: Round black notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundSmall
+  - noteheads
+- name: noteheadRoundWhite
+  description: Round white notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundSmall
+  - noteheads
+- name: noteheadRoundWhiteWithDot
+  description: Round white notehead with dot
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundSmall
+  - noteheads
+- name: noteheadRoundBlackSlashedLarge
+  description: Large round black notehead, slashed
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundLarge
+  - noteheads
+- name: noteheadRoundWhiteSlashedLarge
+  description: Large round white notehead, slashed
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundLarge
+  - noteheads
+- name: noteheadRoundBlackSlashed
+  description: Round black notehead, slashed
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundSmall
+  - noteheads
+- name: noteheadRoundWhiteSlashed
+  description: Round white notehead, slashed
+  classes:
+  - combiningStaffPositions
+  - noteheadSetRoundSmall
+  - noteheads
+- name: noteheadSquareBlackLarge
+  description: Large square black notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads
+- name: noteheadSquareBlackWhite
+  description: Large square white notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSquare
+  - noteheads
+- name: noteheadRoundBlackDoubleSlashed
+  description: Round black notehead, double slashed
+  classes:
+  - noteheads
+- name: noteheadRoundWhiteDoubleSlashed
+  description: Round white notehead, double slashed
+  classes:
+  - noteheads

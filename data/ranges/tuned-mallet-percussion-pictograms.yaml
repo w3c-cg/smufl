@@ -1,0 +1,111 @@
+name: tunedMalletPercussionPictograms
+description: Tuned mallet percussion pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E6A0
+codepointRangeEnd: U+E6BF
+hidden: false
+glyphs:
+- name: pictGlsp
+  description: Glockenspiel
+  classes:
+  - tf_pictograms
+- name: pictXyl
+  description: Xylophone
+  classes:
+  - tf_pictograms
+- name: pictXylTenor
+  description: Tenor xylophone
+  classes:
+  - tf_pictograms
+- name: pictXylBass
+  description: Bass xylophone
+  classes:
+  - tf_pictograms
+- name: pictXylTrough
+  description: Trough xylophone
+  classes:
+  - tf_pictograms
+- name: pictXylTenorTrough
+  description: Trough tenor xylophone
+  classes:
+  - tf_pictograms
+- name: pictMar
+  description: Marimba
+  classes:
+  - tf_pictograms
+- name: pictVib
+  description: Vibraphone
+  classes:
+  - tf_pictograms
+- name: pictVibMotorOff
+  description: Metallophone (vibraphone motor off)
+  classes:
+  - tf_pictograms
+- name: pictEmptyTrap
+  description: Empty trapezoid
+  classes:
+  - tf_pictograms
+- name: pictGlspSmithBrindle
+  description: Glockenspiel (Smith Brindle)
+  classes:
+  - tf_pictograms
+- name: pictXylSmithBrindle
+  description: Xylophone (Smith Brindle)
+  classes:
+  - tf_pictograms
+- name: pictMarSmithBrindle
+  description: Marimba (Smith Brindle)
+  classes:
+  - tf_pictograms
+- name: pictVibSmithBrindle
+  description: Vibraphone (Smith Brindle)
+  classes:
+  - tf_pictograms
+- name: pictCrotales
+  description: Crotales
+  classes:
+  - tf_pictograms
+- name: pictSteelDrums
+  description: Steel drums
+  classes:
+  - tf_pictograms
+- name: pictCelesta
+  description: Celesta
+  classes:
+  - tf_pictograms
+- name: pictLithophone
+  description: Lithophone
+  classes:
+  - tf_pictograms
+- name: pictTubaphone
+  description: Tubaphone
+  classes:
+  - tf_pictograms
+stylisticAlternates:
+- for: pictGlsp
+  name: pictGlspPeinkofer
+  description: Glockenspiel (Peinkofer/Tannigel)
+- for: pictXyl
+  name: pictXylPeinkofer
+  description: Xylophone (Peinkofer/Tannigel)
+- for: pictXylTenor
+  name: pictXylTenorPeinkofer
+  description: Tenor xylophone (Peinkofer/Tannigel)
+- for: pictXylBass
+  name: pictXylBassPeinkofer
+  description: Bass xylophone (Peinkofer/Tannigel)
+- for: pictMar
+  name: pictMarPeinkofer
+  description: Marimba (Peinkofer/Tannigel)
+- for: pictVib
+  name: pictVibPeinkofer
+  description: Vibraphone (Peinkofer/Tannigel)
+- for: pictVibMotorOff
+  name: pictVibMotorOffPeinkofer
+  description: Metallophone (vibraphone motor off) (Peinkofer/Tannigel)
+- for: pictLithophone
+  name: pictLithophonePeinkofer
+  description: Lithophone (Peinkofer/Tannigel)
+- for: pictTubaphone
+  name: pictTubaphonePeinkofer
+  description: Tubaphone (Peinkofer/Tannigel)

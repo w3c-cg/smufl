@@ -1,0 +1,142 @@
+name: individualNotes
+description: Individual notes
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/individual_notes.md
+codepointRangeStart: U+E1D0
+codepointRangeEnd: U+E1EF
+hidden: false
+glyphs:
+- name: noteDoubleWhole
+  description: Double whole note (breve)
+  alternateCodepoint: U+1D15C
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: noteDoubleWholeSquare
+  description: Double whole note (square)
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: noteWhole
+  description: Whole note (semibreve)
+  alternateCodepoint: U+1D15D
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: noteHalfUp
+  description: Half note (minim) stem up
+  alternateCodepoint: U+1D15E
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: noteHalfDown
+  description: Half note (minim) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: noteQuarterUp
+  description: Quarter note (crotchet) stem up
+  alternateCodepoint: U+1D15F
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: noteQuarterDown
+  description: Quarter note (crotchet) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note8thUp
+  description: Eighth note (quaver) stem up
+  alternateCodepoint: U+1D160
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note8thDown
+  description: Eighth note (quaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note16thUp
+  description: 16th note (semiquaver) stem up
+  alternateCodepoint: U+1D161
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note16thDown
+  description: 16th note (semiquaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note32ndUp
+  description: 32nd note (demisemiquaver) stem up
+  alternateCodepoint: U+1D162
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note32ndDown
+  description: 32nd note (demisemiquaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note64thUp
+  description: 64th note (hemidemisemiquaver) stem up
+  alternateCodepoint: U+1D163
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note64thDown
+  description: 64th note (hemidemisemiquaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note128thUp
+  description: 128th note (semihemidemisemiquaver) stem up
+  alternateCodepoint: U+1D164
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note128thDown
+  description: 128th note (semihemidemisemiquaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note256thUp
+  description: 256th note (demisemihemidemisemiquaver) stem up
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note256thDown
+  description: 256th note (demisemihemidemisemiquaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note512thUp
+  description: 512th note (hemidemisemihemidemisemiquaver) stem up
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note512thDown
+  description: 512th note (hemidemisemihemidemisemiquaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note1024thUp
+  description: 1024th note (semihemidemisemihemidemisemiquaver) stem up
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: note1024thDown
+  description: 1024th note (semihemidemisemihemidemisemiquaver) stem down
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: augmentationDot
+  description: Augmentation dot
+  alternateCodepoint: U+1D16D
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+stylisticAlternates:
+- for: noteDoubleWhole
+  name: noteDoubleWholeAlt
+  description: Double whole note (breve), single vertical strokes

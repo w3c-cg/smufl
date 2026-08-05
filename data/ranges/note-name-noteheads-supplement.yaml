@@ -1,0 +1,90 @@
+name: noteNameNoteheadsSupplement
+description: Note name noteheads supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EEE0
+codepointRangeEnd: U+EEFF
+hidden: false
+supplementaryTo: note-name-noteheads
+glyphs:
+- name: noteDiWhole
+  description: Di (whole note)
+- name: noteRiWhole
+  description: Ri (whole note)
+- name: noteRaWhole
+  description: Ra (whole note)
+- name: noteMeWhole
+  description: Me (whole note)
+- name: noteFiWhole
+  description: Fi (whole note)
+- name: noteSeWhole
+  description: Se (whole note)
+- name: noteLiWhole
+  description: Li (whole note)
+- name: noteLeWhole
+  description: Le (whole note)
+- name: noteTeWhole
+  description: Te (whole note)
+- name: noteDiHalf
+  description: Di (half note)
+- name: noteRiHalf
+  description: Ri (half note)
+- name: noteRaHalf
+  description: Ra (half note)
+- name: noteMeHalf
+  description: Me (half note)
+- name: noteFiHalf
+  description: Fi (half note)
+- name: noteSeHalf
+  description: Se (half note)
+- name: noteLiHalf
+  description: Li (half note)
+- name: noteLeHalf
+  description: Le (half note)
+- name: noteTeHalf
+  description: Te (half note)
+- name: noteDiBlack
+  description: Di (black note)
+- name: noteRiBlack
+  description: Ri (black note)
+- name: noteRaBlack
+  description: Ra (black note)
+- name: noteMeBlack
+  description: Me (black note)
+- name: noteFiBlack
+  description: Fi (black note)
+- name: noteSeBlack
+  description: Se (black note)
+- name: noteLiBlack
+  description: Li (black note)
+- name: noteLeBlack
+  description: Le (black note)
+- name: noteTeBlack
+  description: Te (black note)
+stylisticAlternates:
+- for: noteMeWhole
+  name: noteMaWhole
+  description: Ma (whole note)
+- for: noteLeWhole
+  name: noteLoWhole
+  description: Lo (whole note)
+- for: noteTeWhole
+  name: noteTaWhole
+  description: Ta (whole note)
+- for: noteMeHalf
+  name: noteMaHalf
+  description: Ma (half note)
+- for: noteLeHalf
+  name: noteLoHalf
+  description: Lo (half note)
+- for: noteTeHalf
+  name: noteTaHalf
+  description: Ta (half note)
+- for: noteMeBlack
+  name: noteMaBlack
+  description: Ma (black note)
+- for: noteLeBlack
+  name: noteLoBlack
+  description: Lo (black note)
+- for: noteTeBlack
+  name: noteTaBlack
+  description: Ta (black note)

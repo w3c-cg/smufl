@@ -1,0 +1,391 @@
+name: prometheanSagittalExtensionHighPrecisionMultiShaftAccidentals
+description: Promethean Sagittal extension (high precision) multi-shaft accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E3B0
+codepointRangeEnd: U+E3EF
+hidden: false
+glyphs:
+- name: accSagittalSharp23SDown
+  description: Sharp 23S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat23SUp
+  description: Flat 23S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp49SDown
+  description: Sharp 49S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat49SUp
+  description: Flat 49S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp7v19CDown
+  description: Sharp 7:19C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat7v19CUp
+  description: Flat 7:19C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp19CDown
+  description: Sharp 19C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat19CUp
+  description: Flat 19C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp11v49CDown
+  description: Sharp 11:49C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat11v49CUp
+  description: Flat 11:49C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp143CDown
+  description: Sharp 143C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat143CUp
+  description: Flat 143C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp17kDown
+  description: Sharp 17k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat17kUp
+  description: Flat 17k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp19sDown
+  description: Sharp 19s-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat19sUp
+  description: Flat 19s-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp19sUp
+  description: Sharp 19s-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat19sDown
+  description: Flat 19s-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp17kUp
+  description: Sharp 17k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat17kDown
+  description: Flat 17k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp143CUp
+  description: Sharp 143C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat143CDown
+  description: Flat 143C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp11v49CUp
+  description: Sharp 11:49C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat11v49CDown
+  description: Flat 11:49C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp19CUp
+  description: Sharp 19C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat19CDown
+  description: Flat 19C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp7v19CUp
+  description: Sharp 7:19C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat7v19CDown
+  description: Flat 7:19C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp49SUp
+  description: Sharp 49S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat49SDown
+  description: Flat 49S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp23SUp
+  description: Sharp 23S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat23SDown
+  description: Flat 23S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp5v13MUp
+  description: Sharp 5:13M-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat5v13MDown
+  description: Flat 5:13M-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp11v19MUp
+  description: Sharp 11:19M-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat11v19MDown
+  description: Flat 11:19M-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp49MUp
+  description: Sharp 49M-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat49MDown
+  description: Flat 49M-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp5v49MUp
+  description: Sharp 5:49M-up, (one and a half apotomes)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat5v49MDown
+  description: Flat 5:49M-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp49LUp
+  description: Sharp 49L-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat49LDown
+  description: Flat 49L-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp11v19LUp
+  description: Sharp 11:19L-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat11v19LDown
+  description: Flat 11:19L-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalSharp5v13LUp
+  description: Sharp 5:13L-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalFlat5v13LDown
+  description: Flat 5:13L-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalUnused3
+  description: Unused
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalUnused4
+  description: Unused
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp23SDown
+  description: Double sharp 23S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat23SUp
+  description: Double flat 23S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp49SDown
+  description: Double sharp 49S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat49SUp
+  description: Double flat 49S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp7v19CDown
+  description: Double sharp 7:19C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat7v19CUp
+  description: Double flat 7:19C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp19CDown
+  description: Double sharp 19C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat19CUp
+  description: Double flat 19C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp11v49CDown
+  description: Double sharp 11:49C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat11v49CUp
+  description: Double flat 11:49C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp143CDown
+  description: Double sharp 143C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat143CUp
+  description: Double flat 143C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp17kDown
+  description: Double sharp 17k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat17kUp
+  description: Double flat 17k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp19sDown
+  description: Double sharp 19s-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat19sUp
+  description: Double flat 19s-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions

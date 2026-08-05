@@ -1,0 +1,53 @@
+name: noteheadsSupplement
+description: Noteheads supplement
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/noteheads-supplement.md
+codepointRangeStart: U+EEA0
+codepointRangeEnd: U+EEDF
+hidden: false
+supplementaryTo: noteheads
+glyphs:
+- name: noteheadNancarrowSine
+  description: Sine notehead (Nancarrow)
+- name: noteheadCowellThirdNoteSeriesWhole
+  description: 2/3 note (third note series, Cowell)
+- name: noteheadCowellThirdNoteSeriesHalf
+  description: 1/3 note (third note series, Cowell)
+- name: noteheadCowellThirdNoteSeriesBlack
+  description: 1/6 note (third note series, Cowell)
+- name: noteheadCowellFifthNoteSeriesWhole
+  description: 4/5 note (fifth note series, Cowell)
+- name: noteheadCowellFifthNoteSeriesHalf
+  description: 2/5 note (fifth note series, Cowell)
+- name: noteheadCowellFifthNoteSeriesBlack
+  description: 1/5 note (fifth note series, Cowell)
+- name: noteheadCowellSeventhNoteSeriesWhole
+  description: 4/7 note (seventh note series, Cowell)
+- name: noteheadCowellSeventhNoteSeriesHalf
+  description: 2/7 note (seventh note series, Cowell)
+- name: noteheadCowellSeventhNoteSeriesBlack
+  description: 1/7 note (seventh note series, Cowell)
+- name: noteheadCowellNinthNoteSeriesWhole
+  description: 8/9 note (ninth note series, Cowell)
+- name: noteheadCowellNinthNoteSeriesHalf
+  description: 4/9 note (ninth note series, Cowell)
+- name: noteheadCowellNinthNoteSeriesBlack
+  description: 2/9 note (ninth note series, Cowell)
+- name: noteheadCowellEleventhNoteSeriesWhole
+  description: 8/11 note (eleventh note series, Cowell)
+- name: noteheadCowellEleventhNoteSeriesHalf
+  description: 4/11 note (eleventh note series, Cowell)
+- name: noteheadCowellEleventhSeriesBlack
+  description: 2/11 note (eleventh note series, Cowell)
+- name: noteheadCowellThirteenthNoteSeriesWhole
+  description: 8/13 note (thirteenth note series, Cowell)
+- name: noteheadCowellThirteenthNoteSeriesHalf
+  description: 4/13 note (thirteenth note series, Cowell)
+- name: noteheadCowellThirteenthNoteSeriesBlack
+  description: 2/13 note (thirteenth note series, Cowell)
+- name: noteheadCowellFifteenthNoteSeriesWhole
+  description: 8/15 note (fifteenth note series, Cowell)
+- name: noteheadCowellFifteenthNoteSeriesHalf
+  description: 4/15 note (fifteenth note series, Cowell)
+- name: noteheadCowellFifteenthNoteSeriesBlack
+  description: 2/15 note (fifteenth note series, Cowell)

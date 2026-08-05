@@ -1,0 +1,44 @@
+name: octavesSupplement
+description: Octaves supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EC90
+codepointRangeEnd: U+EC9F
+hidden: false
+supplementaryTo: octaves
+glyphs:
+- name: octaveLoco
+  description: Loco
+  classes:
+  - octaves
+- name: octaveBaselineA
+  description: a (baseline)
+  classes:
+  - octaves
+- name: octaveSuperscriptA
+  description: a (superscript)
+  classes:
+  - octaves
+- name: octaveBaselineB
+  description: b (baseline)
+  classes:
+  - octaves
+- name: octaveSuperscriptB
+  description: b (superscript)
+  classes:
+  - octaves
+- name: octaveBaselineM
+  description: m (baseline)
+  classes:
+  - octaves
+- name: octaveSuperscriptM
+  description: m (superscript)
+  classes:
+  - octaves
+- name: octaveBaselineV
+  description: v (baseline)
+  classes:
+  - octaves
+- name: octaveSuperscriptV
+  description: v (superscript)
+  classes:
+  - octaves

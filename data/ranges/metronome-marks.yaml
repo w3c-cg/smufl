@@ -1,0 +1,104 @@
+name: metronomeMarks
+description: Metronome marks
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/metronome_marks.md
+codepointRangeStart: U+ECA0
+codepointRangeEnd: U+ECBF
+hidden: false
+glyphs:
+- name: metNoteDoubleWhole
+  description: Double whole note (breve)
+  classes:
+  - tf_metronomeMarks
+- name: metNoteDoubleWholeSquare
+  description: Double whole note (square)
+  classes:
+  - tf_metronomeMarks
+- name: metNoteWhole
+  description: Whole note (semibreve)
+  classes:
+  - tf_metronomeMarks
+- name: metNoteHalfUp
+  description: Half note (minim) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNoteHalfDown
+  description: Half note (minim) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNoteQuarterUp
+  description: Quarter note (crotchet) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNoteQuarterDown
+  description: Quarter note (crotchet) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote8thUp
+  description: Eighth note (quaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote8thDown
+  description: Eighth note (quaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote16thUp
+  description: 16th note (semiquaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote16thDown
+  description: 16th note (semiquaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote32ndUp
+  description: 32nd note (demisemiquaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote32ndDown
+  description: 32nd note (demisemiquaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote64thUp
+  description: 64th note (hemidemisemiquaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote64thDown
+  description: 64th note (hemidemisemiquaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote128thUp
+  description: 128th note (semihemidemisemiquaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote128thDown
+  description: 128th note (semihemidemisemiquaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote256thUp
+  description: 256th note (demisemihemidemisemiquaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote256thDown
+  description: 256th note (demisemihemidemisemiquaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote512thUp
+  description: 512th note (hemidemisemihemidemisemiquaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote512thDown
+  description: 512th note (hemidemisemihemidemisemiquaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metNote1024thUp
+  description: 1024th note (semihemidemisemihemidemisemiquaver) stem up
+  classes:
+  - tf_metronomeMarks
+- name: metNote1024thDown
+  description: 1024th note (semihemidemisemihemidemisemiquaver) stem down
+  classes:
+  - tf_metronomeMarks
+- name: metAugmentationDot
+  description: Augmentation dot
+  classes:
+  - tf_metronomeMarks

@@ -1,0 +1,187 @@
+name: figuredBass
+description: Figured bass
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EA50
+codepointRangeEnd: U+EA6F
+hidden: false
+glyphs:
+- name: figbass0
+  description: Figured bass 0
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass1
+  description: Figured bass 1
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass2
+  description: Figured bass 2
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass2Raised
+  description: Figured bass 2 raised by half-step
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass3
+  description: Figured bass 3
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass4
+  description: Figured bass 4
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass4Raised
+  description: Figured bass 4 raised by half-step
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass5
+  description: Figured bass 5
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass5Raised1
+  description: Figured bass 5 raised by half-step
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass5Raised2
+  description: Figured bass 5 raised by half-step 2
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass5Raised3
+  description: Figured bass diminished 5
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass6
+  description: Figured bass 6
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass6Raised
+  description: Figured bass 6 raised by half-step
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass7
+  description: Figured bass 7
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass7Raised1
+  description: Figured bass 7 raised by half-step
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass7Raised2
+  description: Figured bass 7 lowered by a half-step
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass8
+  description: Figured bass 8
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass9
+  description: Figured bass 9
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass9Raised
+  description: Figured bass 9 raised by half-step
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassDoubleFlat
+  description: Figured bass double flat
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassFlat
+  description: Figured bass flat
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassNatural
+  description: Figured bass natural
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassSharp
+  description: Figured bass sharp
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassDoubleSharp
+  description: Figured bass double sharp
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassBracketLeft
+  description: Figured bass [
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassBracketRight
+  description: Figured bass ]
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassParensLeft
+  description: Figured bass (
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassParensRight
+  description: Figured bass )
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassPlus
+  description: Figured bass +
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassCombiningRaising
+  description: Combining raise
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassCombiningLowering
+  description: Combining lower
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbass6Raised2
+  description: Figured bass 6 raised by half-step 2
+  classes:
+  - figuredBass
+stylisticAlternates:
+- for: figbassDoubleFlat
+  name: figbassDoubleFlatLongerStem
+  description: Figured bass double flat (longer stem)
+  set: longer-stem
+- for: figbassFlat
+  name: figbassFlatLongerStem
+  description: Figured bass flat (longer stem)
+  set: longer-stem
+- for: figbassNatural
+  name: figbassNaturalLongerStem
+  description: Figured bass natural (longer stem)
+  set: longer-stem
+- for: figbassSharp
+  name: figbassSharpLongerStem
+  description: Figured bass sharp (longer stem)
+  set: longer-stem
+- for: figbassDoubleSharp
+  name: figbassDoubleSharpLongerStem
+  description: Figured bass double sharp (longer stem)
+  set: longer-stem

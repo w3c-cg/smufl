@@ -1,0 +1,85 @@
+name: gouldArrowQuartertoneAccidentals24Edo
+description: Gould arrow quartertone accidentals (24-EDO)
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E270
+codepointRangeEnd: U+E27F
+hidden: false
+glyphs:
+- name: accidentalQuarterToneFlatArrowUp
+  description: Quarter-tone flat
+  alternateCodepoint: U+1D12C
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesFlatArrowDown
+  description: Three-quarter-tones flat
+  alternateCodepoint: U+1D12D
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalQuarterToneSharpNaturalArrowUp
+  description: Quarter-tone sharp
+  alternateCodepoint: U+1D12E
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalQuarterToneFlatNaturalArrowDown
+  description: Quarter-tone flat
+  alternateCodepoint: U+1D12F
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesSharpArrowUp
+  description: Three-quarter-tones sharp
+  alternateCodepoint: U+1D130
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalQuarterToneSharpArrowDown
+  description: Quarter-tone sharp
+  alternateCodepoint: U+1D131
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalFiveQuarterTonesSharpArrowUp
+  description: Five-quarter-tones sharp
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesSharpArrowDown
+  description: Three-quarter-tones sharp
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesFlatArrowUp
+  description: Three-quarter-tones flat
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalFiveQuarterTonesFlatArrowDown
+  description: Five-quarter-tones flat
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalArrowUp
+  description: Arrow up (raise by one quarter-tone)
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions
+- name: accidentalArrowDown
+  description: Arrow down (lower by one quarter-tone)
+  classes:
+  - accidentals
+  - accidentals24EDOArrows
+  - combiningStaffPositions

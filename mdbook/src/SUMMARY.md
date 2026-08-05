@@ -112,6 +112,7 @@
   * [Analytics](./tables/analytics.md)
   * [Chord symbols](./tables/chord-symbols.md)
   * [Tuplets](./tables/tuplets.md)
+  * [Tuplets supplement](./tables/tuplets-supplement.md)
   * [Conductor symbols](./tables/conductor-symbols.md)
   * [Accordion](./tables/accordion.md)
   * [Beams and slurs](./tables/beams-and-slurs.md)

@@ -21,6 +21,10 @@ Recommended stylistic alternates
 |<span class="bravura_large">&#xf4d4;</span> | **uniE888.ss06**<br/>*tuplet8Light*<br/>Tuplet 8 (light) | <span class="bravura_large">&#xf4d5;</span> | **uniE889.ss06**<br/>*tuplet9Light*<br/>Tuplet 9 (light)
 |<span class="bravura_large">&#xf4d6;</span> | **uniE88A.ss06**<br/>*tupletColonLight*<br/>Tuplet colon (light) | &nbsp; | &nbsp;
 
+Supplementary Groups
+---------------------
+[Tuplets supplement](tuplets-supplement.md)
+
 Implementation notes
 ---------------------
 

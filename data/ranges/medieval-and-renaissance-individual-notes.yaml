@@ -1,0 +1,92 @@
+name: medievalAndRenaissanceIndividualNotes
+description: Medieval and Renaissance individual notes
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E950
+codepointRangeEnd: U+E96F
+hidden: false
+glyphs:
+- name: mensuralBlackMaxima
+  description: Black mensural maxima
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackLonga
+  description: Black mensural longa
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackBrevis
+  description: Black mensural brevis
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackSemibrevis
+  description: Black mensural semibrevis
+  alternateCodepoint: U+1D1BA
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackMinima
+  description: Black mensural minima
+  alternateCodepoint: U+1D1BC
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackSemiminima
+  description: Black mensural semiminima
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackBrevisVoid
+  description: Black mensural void brevis
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackSemibrevisVoid
+  description: Black mensural void semibrevis
+  alternateCodepoint: U+1D1B9
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackMinimaVoid
+  description: Black mensural void minima
+  alternateCodepoint: U+1D1BB
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackSemibrevisCaudata
+  description: Black mensural semibrevis caudata
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackDragma
+  description: Black mensural dragma
+  classes:
+  - combiningStaffPositions
+- name: mensuralBlackSemibrevisOblique
+  description: Black mensural oblique semibrevis
+  classes:
+  - combiningStaffPositions
+- name: mensuralWhiteMaxima
+  description: White mensural maxima
+  alternateCodepoint: U+1D1B6
+  classes:
+  - combiningStaffPositions
+- name: mensuralWhiteLonga
+  description: White mensural longa
+  alternateCodepoint: U+1D1B7
+  classes:
+  - combiningStaffPositions
+- name: mensuralWhiteBrevis
+  description: White mensural brevis
+  alternateCodepoint: U+1D1B8
+  classes:
+  - combiningStaffPositions
+- name: mensuralWhiteMinima
+  description: White mensural minima
+  classes:
+  - combiningStaffPositions
+- name: mensuralWhiteSemiminima
+  description: White mensural semiminima
+  classes:
+  - combiningStaffPositions
+- name: mensuralWhiteFusa
+  description: White mensural fusa
+  alternateCodepoint: U+1D1BE
+  classes:
+  - combiningStaffPositions
+- name: mensuralWhiteSemibrevis
+  description: White mensural semibrevis
+  alternateCodepoint: U+1D1B9
+  classes:
+  - combiningStaffPositions

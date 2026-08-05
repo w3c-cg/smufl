@@ -1,0 +1,489 @@
+name: beatersPictograms
+description: Beaters pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E770
+codepointRangeEnd: U+E7EF
+hidden: false
+glyphs:
+- name: pictBeaterSoftXylophoneUp
+  description: Soft xylophone stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftXylophoneDown
+  description: Soft xylophone stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftXylophoneRight
+  description: Soft xylophone stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftXylophoneLeft
+  description: Soft xylophone stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterMediumXylophoneUp
+  description: Medium xylophone stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumXylophoneDown
+  description: Medium xylophone stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumXylophoneRight
+  description: Medium xylophone stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumXylophoneLeft
+  description: Medium xylophone stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterHardXylophoneUp
+  description: Hard xylophone stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardXylophoneDown
+  description: Hard xylophone stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardXylophoneRight
+  description: Hard xylophone stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardXylophoneLeft
+  description: Hard xylophone stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterWoodXylophoneUp
+  description: Wood xylophone stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterWoodXylophoneDown
+  description: Wood xylophone stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterWoodXylophoneRight
+  description: Wood xylophone stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterWoodXylophoneLeft
+  description: Wood xylophone stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterSoftGlockenspielUp
+  description: Soft glockenspiel stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftGlockenspielDown
+  description: Soft glockenspiel stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftGlockenspielRight
+  description: Soft glockenspiel stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftGlockenspielLeft
+  description: Soft glockenspiel stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterHardGlockenspielUp
+  description: Hard glockenspiel stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardGlockenspielDown
+  description: Hard glockenspiel stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardGlockenspielRight
+  description: Hard glockenspiel stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardGlockenspielLeft
+  description: Hard glockenspiel stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterSoftTimpaniUp
+  description: Soft timpani stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftTimpaniDown
+  description: Soft timpani stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftTimpaniRight
+  description: Soft timpani stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftTimpaniLeft
+  description: Soft timpani stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterMediumTimpaniUp
+  description: Medium timpani stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumTimpaniDown
+  description: Medium timpani stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumTimpaniRight
+  description: Medium timpani stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumTimpaniLeft
+  description: Medium timpani stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterHardTimpaniUp
+  description: Hard timpani stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardTimpaniDown
+  description: Hard timpani stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardTimpaniRight
+  description: Hard timpani stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardTimpaniLeft
+  description: Hard timpani stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterWoodTimpaniUp
+  description: Wood timpani stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterWoodTimpaniDown
+  description: Wood timpani stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterWoodTimpaniRight
+  description: Wood timpani stick right
+  classes:
+  - tf_pictograms
+- name: pictBeaterWoodTimpaniLeft
+  description: Wood timpani stick left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterSoftBassDrumUp
+  description: Soft bass drum stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftBassDrumDown
+  description: Soft bass drum stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumBassDrumUp
+  description: Medium bass drum stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumBassDrumDown
+  description: Medium bass drum stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardBassDrumUp
+  description: Hard bass drum stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardBassDrumDown
+  description: Hard bass drum stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterMetalBassDrumUp
+  description: Metal bass drum stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterMetalBassDrumDown
+  description: Metal bass drum stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterDoubleBassDrumUp
+  description: Double bass drum stick up
+  classes:
+  - tf_pictograms
+- name: pictBeaterDoubleBassDrumDown
+  description: Double bass drum stick down
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftYarnUp
+  description: Soft yarn beater up
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftYarnDown
+  description: Soft yarn beater down
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftYarnRight
+  description: Soft yarn beater right
+  classes:
+  - tf_pictograms
+- name: pictBeaterSoftYarnLeft
+  description: Soft yarn beater left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterMediumYarnUp
+  description: Medium yarn beater up
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumYarnDown
+  description: Medium yarn beater down
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumYarnRight
+  description: Medium yarn beater right
+  classes:
+  - tf_pictograms
+- name: pictBeaterMediumYarnLeft
+  description: Medium yarn beater left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterHardYarnUp
+  description: Hard yarn beater up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardYarnDown
+  description: Hard yarn beater down
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardYarnRight
+  description: Hard yarn beater right
+  classes:
+  - tf_pictograms
+- name: pictBeaterHardYarnLeft
+  description: Hard yarn beater left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterSuperballUp
+  description: Superball beater up
+  classes:
+  - tf_pictograms
+- name: pictBeaterSuperballDown
+  description: Superball beater down
+  classes:
+  - tf_pictograms
+- name: pictBeaterSuperballRight
+  description: Superball beater right
+  classes:
+  - tf_pictograms
+- name: pictBeaterSuperballLeft
+  description: Superball beater left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictSuperball
+  description: Superball
+  classes:
+  - tf_pictograms
+- name: pictWoundHardUp
+  description: Wound beater, hard core up
+  classes:
+  - tf_pictograms
+- name: pictWoundHardDown
+  description: Wound beater, hard core down
+  classes:
+  - tf_pictograms
+- name: pictWoundHardRight
+  description: Wound beater, hard core right
+  classes:
+  - tf_pictograms
+- name: pictWoundHardLeft
+  description: Wound beater, hard core left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictWoundSoftUp
+  description: Wound beater, soft core up
+  classes:
+  - tf_pictograms
+- name: pictWoundSoftDown
+  description: Wound beater, soft core down
+  classes:
+  - tf_pictograms
+- name: pictWoundSoftRight
+  description: Wound beater, soft core right
+  classes:
+  - tf_pictograms
+- name: pictWoundSoftLeft
+  description: Wound beater, soft core left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictGumSoftUp
+  description: Soft gum beater, up
+  classes:
+  - tf_pictograms
+- name: pictGumSoftDown
+  description: Soft gum beater, down
+  classes:
+  - tf_pictograms
+- name: pictGumSoftRight
+  description: Soft gum beater, right
+  classes:
+  - tf_pictograms
+- name: pictGumSoftLeft
+  description: Soft gum beater, left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictGumMediumUp
+  description: Medium gum beater, up
+  classes:
+  - tf_pictograms
+- name: pictGumMediumDown
+  description: Medium gum beater, down
+  classes:
+  - tf_pictograms
+- name: pictGumMediumRight
+  description: Medium gum beater, right
+  classes:
+  - tf_pictograms
+- name: pictGumMediumLeft
+  description: Medium gum beater, left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictGumHardUp
+  description: Hard gum beater, up
+  classes:
+  - tf_pictograms
+- name: pictGumHardDown
+  description: Hard gum beater, down
+  classes:
+  - tf_pictograms
+- name: pictGumHardRight
+  description: Hard gum beater, right
+  classes:
+  - tf_pictograms
+- name: pictGumHardLeft
+  description: Hard gum beater, left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterMetalUp
+  description: Metal beater, up
+  classes:
+  - tf_pictograms
+- name: pictBeaterMetalDown
+  description: Metal beater down
+  classes:
+  - tf_pictograms
+- name: pictBeaterMetalRight
+  description: Metal beater, right
+  classes:
+  - tf_pictograms
+- name: pictBeaterMetalLeft
+  description: Metal beater, left
+  classes:
+  - tf_pictograms
+  - tf_zeroWidth
+- name: pictBeaterHammerWoodUp
+  description: Wooden hammer, up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHammerWoodDown
+  description: Wooden hammer, down
+  classes:
+  - tf_pictograms
+- name: pictBeaterHammerPlasticUp
+  description: Plastic hammer, up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHammerPlasticDown
+  description: Plastic hammer, down
+  classes:
+  - tf_pictograms
+- name: pictBeaterHammerMetalUp
+  description: Metal hammer, up
+  classes:
+  - tf_pictograms
+- name: pictBeaterHammerMetalDown
+  description: Metal hammer, down
+  classes:
+  - tf_pictograms
+- name: pictBeaterSnareSticksUp
+  description: Snare sticks up
+  classes:
+  - tf_pictograms
+- name: pictBeaterSnareSticksDown
+  description: Snare sticks down
+  classes:
+  - tf_pictograms
+- name: pictBeaterJazzSticksUp
+  description: Jazz sticks up
+  classes:
+  - tf_pictograms
+- name: pictBeaterJazzSticksDown
+  description: Jazz sticks down
+- name: pictBeaterTriangleUp
+  description: Triangle beater up
+- name: pictBeaterTriangleDown
+  description: Triangle beater down
+- name: pictBeaterWireBrushesUp
+  description: Wire brushes up
+- name: pictBeaterWireBrushesDown
+  description: Wire brushes down
+- name: pictBeaterBrassMalletsUp
+  description: Brass mallets up
+- name: pictBeaterBrassMalletsDown
+  description: Brass mallets down
+- name: pictBeaterSoftXylophone
+  description: Soft xylophone beaters
+- name: pictBeaterSpoonWoodenMallet
+  description: Spoon-shaped wooden mallet
+- name: pictBeaterGuiroScraper
+  description: Guiro scraper
+- name: pictBeaterBow
+  description: Bow
+- name: pictBeaterMallet
+  description: Chime hammer up
+- name: pictBeaterMetalHammer
+  description: Metal hammer
+- name: pictBeaterHammer
+  description: Hammer
+- name: pictBeaterKnittingNeedle
+  description: Knitting needle
+- name: pictBeaterHand
+  description: Hand
+- name: pictBeaterFinger
+  description: Finger
+- name: pictBeaterFist
+  description: Fist
+- name: pictBeaterFingernails
+  description: Fingernails
+- name: pictCoins
+  description: Coins
+- name: pictDrumStick
+  description: Drum stick
+- name: pictBeaterCombiningParentheses
+  description: Combining parentheses for round beaters (padded)
+  classes:
+  - tf_zeroWidth
+- name: pictBeaterCombiningDashedCircle
+  description: Combining dashed circle for round beaters (plated)
+  classes:
+  - tf_zeroWidth
+- name: pictBeaterBox
+  description: Box for percussion beater
+  classes:
+  - tf_zeroWidth
+- name: pictBeaterMalletDown
+  description: Chime hammer down
+- name: pictBeaterBrassMalletsRight
+  description: Brass mallets right
+- name: pictBeaterBrassMalletsLeft
+  description: Brass mallets left
+- name: pictBeaterTrianglePlain
+  description: Triangle beater plain

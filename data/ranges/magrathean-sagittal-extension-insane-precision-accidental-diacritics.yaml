@@ -1,0 +1,85 @@
+name: magratheanSagittalExtensionInsanePrecisionAccidentalDiacritics
+description: Magrathean Sagittal extension (insane precision) accidental diacritics
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E3F8
+codepointRangeEnd: U+E41F
+hidden: false
+glyphs:
+- name: accSagittal1TinaUp
+  description: 1 tina up, 7²⋅11⋅19/5-schismina up, 0.17 cents up
+  classes:
+  - accidentals
+- name: accSagittal1TinaDown
+  description: 1 tina down, 7²⋅11⋅19/5-schismina down, 0.17 cents down
+  classes:
+  - accidentals
+- name: accSagittal2TinasUp
+  description: 2 tinas up, 1/(7³⋅17)-schismina up, 0.30 cents up
+  classes:
+  - accidentals
+- name: accSagittal2TinasDown
+  description: 2 tinas down, 1/(7³⋅17)-schismina down, 0.30 cents down
+  classes:
+  - accidentals
+- name: accSagittal3TinasUp
+  description: 3 tinas up, 1 mina up, 1/(5⋅7⋅13)-schismina up, 0.42 cents up
+  classes:
+  - accidentals
+- name: accSagittal3TinasDown
+  description: 3 tinas down, 1 mina down, 1/(5⋅7⋅13)-schismina down, 0.42 cents down
+  classes:
+  - accidentals
+- name: accSagittal4TinasUp
+  description: 4 tinas up, 5²⋅11²/7-schismina up, 0.57 cents up
+  classes:
+  - accidentals
+- name: accSagittal4TinasDown
+  description: 4 tinas down, 5²⋅11²/7-schismina down, 0.57 cents down
+  classes:
+  - accidentals
+- name: accSagittal5TinasUp
+  description: 5 tinas up, 7⁴/25-schismina up, 0.72 cents up
+  classes:
+  - accidentals
+- name: accSagittal5TinasDown
+  description: 5 tinas down, 7⁴/25-schismina down, 0.72 cents down
+  classes:
+  - accidentals
+- name: accSagittal6TinasUp
+  description: 6 tinas up, 2 minas up, 65/77-schismina up, 0.83 cents up
+  classes:
+  - accidentals
+- name: accSagittal6TinasDown
+  description: 6 tinas down, 2 minas down, 65/77-schismina down, 0.83 cents down
+  classes:
+  - accidentals
+- name: accSagittal7TinasUp
+  description: 7 tinas up, 7/(5²⋅17)-schismina up, 1.02 cents up
+- name: accSagittal7TinasDown
+  description: 7 tinas down, 7/(5²⋅17)-schismina down, 1.02 cents down
+  classes:
+  - accidentals
+- name: accSagittal8TinasUp
+  description: 8 tinas up, 11⋅17/(5²⋅7)-schismina up, 1.14 cents up
+  classes:
+  - accidentals
+- name: accSagittal8TinasDown
+  description: 8 tinas down, 11⋅17/(5²⋅7)-schismina down, 1.14 cents down
+  classes:
+  - accidentals
+- name: accSagittal9TinasUp
+  description: 9 tinas up, 1/(7²⋅11)-schismina up, 1.26 cents up
+  classes:
+  - accidentals
+- name: accSagittal9TinasDown
+  description: 9 tinas down, 1/(7²⋅11)-schismina down, 1.26 cents down
+  classes:
+  - accidentals
+- name: accSagittalFractionalTinaUp
+  description: Fractional tina up, 77/(5⋅37)-schismina up, 0.08 cents up
+  classes:
+  - accidentals
+- name: accSagittalFractionalTinaDown
+  description: Fractional tina down, 77/(5⋅37)-schismina down, 0.08 cents down
+  classes:
+  - accidentals

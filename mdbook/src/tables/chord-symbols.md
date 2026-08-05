@@ -19,6 +19,10 @@ Recommended stylistic alternates
 |<span class="bravura_large">&#xf4d9;</span> | **uniE872.ss07**<br/>*csymAugmentedSmall*<br/>Augmented (subscript or superscript) | <span class="bravura_large">&#xf4da;</span> | **uniE873.ss07**<br/>*csymMajorSeventhSmall*<br/>Major seventh (subscript or superscript)
 |<span class="bravura_large">&#xf4db;</span> | **uniE874.ss07**<br/>*csymMinorSmall*<br/>Minor (subscript or superscript) | &nbsp; | &nbsp;
 
+Supplementary Groups
+---------------------
+[Standard accidentals for chord symbols](standard-accidentals-for-chord-symbols.md)
+
 Implementation notes
 ---------------------
 

@@ -1,0 +1,138 @@
+name: otherBaroqueOrnaments
+description: Other baroque ornaments
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/other-baroque-ornaments.md
+codepointRangeStart: U+E570
+codepointRangeEnd: U+E58F
+hidden: false
+glyphs:
+- name: ornamentPortDeVoixV
+  description: Port de voix
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentRightFacingHalfCircle
+  description: Right-facing half circle
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentLeftFacingHalfCircle
+  description: Left-facing half circle
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentRightFacingHook
+  description: Right-facing hook
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentLeftFacingHook
+  description: Left-facing hook
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentHookBeforeNote
+  description: Hook before note
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentHookAfterNote
+  description: Hook after note
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentUpCurve
+  description: Curve above
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentDownCurve
+  description: Curve below
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentShortObliqueLineBeforeNote
+  description: Short oblique straight line SW-NE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentShortObliqueLineAfterNote
+  description: Short oblique straight line NW-SE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentObliqueLineBeforeNote
+  description: Oblique straight line SW-NE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentObliqueLineAfterNote
+  description: Oblique straight line NW-SE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentDoubleObliqueLinesBeforeNote
+  description: Double oblique straight lines SW-NE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentDoubleObliqueLinesAfterNote
+  description: Double oblique straight lines NW-SE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentObliqueLineHorizBeforeNote
+  description: Oblique straight line tilted SW-NE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentObliqueLineHorizAfterNote
+  description: Oblique straight line tilted NW-SE
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentComma
+  description: Comma
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentShake3
+  description: Shake
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentVerticalLine
+  description: Vertical line
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentShakeMuffat1
+  description: Shake (Muffat)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: glissandoUp
+  description: Glissando up
+  alternateCodepoint: U+1D1B1
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: glissandoDown
+  description: Glissando down
+  alternateCodepoint: U+1D1B2
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentSchleifer
+  description: Schleifer (long mordent)
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentPinceCouperin
+  description: Pincé (Couperin)
+  classes:
+  - ornaments
+- name: ornamentTremblementCouperin
+  description: Tremblement appuyé (Couperin)
+  classes:
+  - ornaments

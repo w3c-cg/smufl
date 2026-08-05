@@ -5,3 +5,6 @@ _site/
 Gemfile
 Gemfile.lock
 
+__pycache__/
+*.pyc
+

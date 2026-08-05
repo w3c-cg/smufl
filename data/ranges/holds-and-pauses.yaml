@@ -1,0 +1,139 @@
+name: holdsAndPauses
+description: Holds and pauses
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E4C0
+codepointRangeEnd: U+E4DF
+hidden: false
+glyphs:
+- name: fermataAbove
+  description: Fermata above
+  alternateCodepoint: U+1D110
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesAbove
+- name: fermataBelow
+  description: Fermata below
+  alternateCodepoint: U+1D111
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesBelow
+- name: fermataVeryShortAbove
+  description: Very short fermata above
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesAbove
+- name: fermataVeryShortBelow
+  description: Very short fermata below
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesBelow
+- name: fermataShortAbove
+  description: Short fermata above
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesAbove
+- name: fermataShortBelow
+  description: Short fermata below
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesBelow
+- name: fermataLongAbove
+  description: Long fermata above
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesAbove
+- name: fermataLongBelow
+  description: Long fermata below
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesBelow
+- name: fermataVeryLongAbove
+  description: Very long fermata above
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesAbove
+- name: fermataVeryLongBelow
+  description: Very long fermata below
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesBelow
+- name: fermataLongHenzeAbove
+  description: Long fermata (Henze) above
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesAbove
+- name: fermataLongHenzeBelow
+  description: Long fermata (Henze) below
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesBelow
+- name: fermataShortHenzeAbove
+  description: Short fermata (Henze) above
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesAbove
+- name: fermataShortHenzeBelow
+  description: Short fermata (Henze) below
+  classes:
+  - combiningStaffPositions
+  - pauses
+  - pausesBelow
+- name: breathMarkComma
+  description: Breath mark (comma)
+  alternateCodepoint: U+1D112
+  classes:
+  - combiningStaffPositions
+  - pauses
+- name: breathMarkTick
+  description: Breath mark (tick-like)
+- name: breathMarkUpbow
+  description: Breath mark (upbow-like)
+- name: caesura
+  description: Caesura
+  alternateCodepoint: U+1D113
+  classes:
+  - combiningStaffPositions
+  - pauses
+- name: caesuraThick
+  description: Thick caesura
+  classes:
+  - combiningStaffPositions
+  - pauses
+- name: caesuraShort
+  description: Short caesura
+  classes:
+  - combiningStaffPositions
+  - pauses
+- name: caesuraCurved
+  description: Curved caesura
+- name: breathMarkSalzedo
+  description: Breath mark (Salzedo)
+  classes:
+  - combiningStaffPositions
+  - pauses
+- name: curlewSign
+  description: Curlew (Britten)
+  classes:
+  - combiningStaffPositions
+  - pauses
+- name: caesuraSingleStroke
+  description: Single stroke caesura
+  classes:
+  - pauses
+stylisticAlternates:
+- for: caesura
+  name: caesuraSingleStroke
+  description: Caesura (single stroke)

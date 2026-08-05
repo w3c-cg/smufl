@@ -1,0 +1,103 @@
+name: functionTheorySymbols
+description: Function theory symbols
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EA70
+codepointRangeEnd: U+EA9F
+hidden: false
+glyphs:
+- name: functionZero
+  description: Function theory 0
+- name: functionOne
+  description: Function theory 1
+- name: functionTwo
+  description: Function theory 2
+- name: functionThree
+  description: Function theory 3
+- name: functionFour
+  description: Function theory 4
+- name: functionFive
+  description: Function theory 5
+- name: functionSix
+  description: Function theory 6
+- name: functionSeven
+  description: Function theory 7
+- name: functionEight
+  description: Function theory 8
+- name: functionNine
+  description: Function theory 9
+- name: functionLessThan
+  description: Function theory less than
+- name: functionMinus
+  description: Function theory minus
+- name: functionGreaterThan
+  description: Function theory greater than
+- name: functionSSUpper
+  description: Function theory major subdominant of subdominant
+- name: functionSSLower
+  description: Function theory minor subdominant of subdominant
+- name: functionDUpper
+  description: Function theory major dominant
+- name: functionDLower
+  description: Function theory minor dominant
+- name: functionDD
+  description: Function theory dominant of dominant
+- name: functionSlashedDD
+  description: Function theory double dominant seventh
+- name: functionGUpper
+  description: Function theory G
+- name: functionGLower
+  description: Function theory g
+- name: functionNUpper
+  description: Function theory N
+- name: functionNLower
+  description: Function theory n
+- name: functionPUpper
+  description: Function theory P
+- name: functionPLower
+  description: Function theory p
+- name: functionSUpper
+  description: Function theory major subdominant
+- name: functionSLower
+  description: Function theory minor subdominant
+- name: functionTUpper
+  description: Function theory tonic
+- name: functionTLower
+  description: Function theory minor tonic
+- name: functionVUpper
+  description: Function theory V
+- name: functionVLower
+  description: Function theory v
+- name: functionBracketLeft
+  description: Function theory bracket left
+- name: functionBracketRight
+  description: Function theory bracket right
+- name: functionParensLeft
+  description: Function theory parenthesis left
+- name: functionParensRight
+  description: Function theory parenthesis right
+- name: functionAngleLeft
+  description: Function theory angle bracket left
+- name: functionAngleRight
+  description: Function theory angle bracket right
+- name: functionRepetition1
+  description: Function theory repetition 1
+- name: functionRepetition2
+  description: Function theory repetition 2
+- name: functionRing
+  description: Function theory prefix ring
+- name: functionPlus
+  description: Function theory prefix plus
+- name: functionFUpper
+  description: Function theory F
+- name: functionIUpper
+  description: Function theory I
+- name: functionILower
+  description: Function theory i
+- name: functionKUpper
+  description: Function theory K
+- name: functionKLower
+  description: Function theory k
+- name: functionLUpper
+  description: Function theory L
+- name: functionLLower
+  description: Function theory l

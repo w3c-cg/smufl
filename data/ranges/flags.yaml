@@ -1,0 +1,230 @@
+name: flags
+description: Flags
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/flags.md
+codepointRangeStart: U+E240
+codepointRangeEnd: U+E25F
+hidden: false
+glyphs:
+- name: flag8thUp
+  description: Combining flag 1 (8th) above
+  alternateCodepoint: U+1D16E
+  classes:
+  - combiningStaffPositions
+- name: flag8thDown
+  description: Combining flag 1 (8th) below
+  classes:
+  - combiningStaffPositions
+- name: flag16thUp
+  description: Combining flag 2 (16th) above
+  alternateCodepoint: U+1D16F
+  classes:
+  - combiningStaffPositions
+- name: flag16thDown
+  description: Combining flag 2 (16th) below
+  classes:
+  - combiningStaffPositions
+- name: flag32ndUp
+  description: Combining flag 3 (32nd) above
+  alternateCodepoint: U+1D170
+  classes:
+  - combiningStaffPositions
+- name: flag32ndDown
+  description: Combining flag 3 (32nd) below
+  classes:
+  - combiningStaffPositions
+- name: flag64thUp
+  description: Combining flag 4 (64th) above
+  alternateCodepoint: U+1D171
+  classes:
+  - combiningStaffPositions
+- name: flag64thDown
+  description: Combining flag 4 (64th) below
+  classes:
+  - combiningStaffPositions
+- name: flag128thUp
+  description: Combining flag 5 (128th) above
+  alternateCodepoint: U+1D172
+  classes:
+  - combiningStaffPositions
+- name: flag128thDown
+  description: Combining flag 5 (128th) below
+  classes:
+  - combiningStaffPositions
+- name: flag256thUp
+  description: Combining flag 6 (256th) above
+  classes:
+  - combiningStaffPositions
+- name: flag256thDown
+  description: Combining flag 6 (256th) below
+  classes:
+  - combiningStaffPositions
+- name: flag512thUp
+  description: Combining flag 7 (512th) above
+  classes:
+  - combiningStaffPositions
+- name: flag512thDown
+  description: Combining flag 7 (512th) below
+  classes:
+  - combiningStaffPositions
+- name: flag1024thUp
+  description: Combining flag 8 (1024th) above
+  classes:
+  - combiningStaffPositions
+- name: flag1024thDown
+  description: Combining flag 8 (1024th) below
+  classes:
+  - combiningStaffPositions
+- name: flagInternalUp
+  description: Internal combining flag above
+  classes:
+  - combiningStaffPositions
+- name: flagInternalDown
+  description: Internal combining flag below
+  classes:
+  - combiningStaffPositions
+stylisticAlternates:
+- for: flag8thUp
+  name: flag8thUpStraight
+  description: Combining flag 1 (8th) above (straight)
+  set: straight
+- for: flag8thUp
+  name: flag8thUpShort
+  description: Combining flag 1 (8th) above (short)
+  set: short
+- for: flag8thUp
+  name: flag8thUpSmall
+  description: Combining flag 1 (8th) above (small staff)
+- for: flag8thDown
+  name: flag8thDownStraight
+  description: Combining flag 1 (8th) below (straight)
+  set: straight
+- for: flag8thDown
+  name: flag8thDownSmall
+  description: Combining flag 1 (8th) below (small staff)
+- for: flag16thUp
+  name: flag16thUpStraight
+  description: Combining flag 2 (16th) above (straight)
+  set: straight
+- for: flag16thUp
+  name: flag16thUpShort
+  description: Combining flag 2 (16th) above (short)
+  set: short
+- for: flag16thUp
+  name: flag16thUpSmall
+  description: Combining flag 2 (16th) above (small staff)
+- for: flag16thDown
+  name: flag16thDownStraight
+  description: Combining flag 2 (16th) below (straight)
+  set: straight
+- for: flag16thDown
+  name: flag16thDownSmall
+  description: Combining flag 2 (16th) below (small staff)
+- for: flag32ndUp
+  name: flag32ndUpStraight
+  description: Combining flag 3 (32nd) above (straight)
+  set: straight
+- for: flag32ndUp
+  name: flag32ndUpShort
+  description: Combining flag 3 (32nd) above (short)
+  set: short
+- for: flag32ndUp
+  name: flag32ndUpSmall
+  description: Combining flag 3 (32nd) above (small staff)
+- for: flag32ndDown
+  name: flag32ndDownStraight
+  description: Combining flag 3 (32nd) below (straight)
+  set: straight
+- for: flag32ndDown
+  name: flag32ndDownSmall
+  description: Combining flag 3 (32nd) below (small staff)
+- for: flag64thUp
+  name: flag64thUpStraight
+  description: Combining flag 4 (64th) above (straight)
+  set: straight
+- for: flag64thUp
+  name: flag64thUpShort
+  description: Combining flag 4 (64th) above (short)
+  set: short
+- for: flag64thUp
+  name: flag64thUpSmall
+  description: Combining flag 4 (64th) above (small staff)
+- for: flag64thDown
+  name: flag64thDownStraight
+  description: Combining flag 4 (64th) below (straight)
+  set: straight
+- for: flag64thDown
+  name: flag64thDownSmall
+  description: Combining flag 4 (64th) below (small staff)
+- for: flag128thUp
+  name: flag128thUpStraight
+  description: Combining flag 5 (128th) above (straight)
+  set: straight
+- for: flag128thUp
+  name: flag128thUpShort
+  description: Combining flag 5 (128th) above (short)
+  set: short
+- for: flag128thUp
+  name: flag128thUpSmall
+  description: Combining flag 5 (128th) above (small staff)
+- for: flag128thDown
+  name: flag128thDownStraight
+  description: Combining flag 5 (128th) below (straight)
+  set: straight
+- for: flag128thDown
+  name: flag128thDownSmall
+  description: Combining flag 5 (128th) below (small staff)
+- for: flag256thUp
+  name: flag256thUpStraight
+  description: Combining flag 6 (256th) above (straight)
+  set: straight
+- for: flag256thUp
+  name: flag256thUpShort
+  description: Combining flag 6 (256th) above (short)
+  set: short
+- for: flag256thUp
+  name: flag256thUpSmall
+  description: Combining flag 6 (256th) above (small staff)
+- for: flag256thDown
+  name: flag256thDownStraight
+  description: Combining flag 6 (256th) below (straight)
+  set: straight
+- for: flag256thDown
+  name: flag256thDownSmall
+  description: Combining flag 6 (256th) below (small staff)
+- for: flag512thUp
+  name: flag512thUpStraight
+  description: Combining flag 7 (512th) above (straight)
+  set: straight
+- for: flag512thUp
+  name: flag512thUpShort
+  description: Combining flag 7 (512th) above (short)
+  set: short
+- for: flag512thUp
+  name: flag512thUpSmall
+  description: Combining flag 7 (512th) above (small staff)
+- for: flag512thDown
+  name: flag512thDownStraight
+  description: Combining flag 7 (512th) below (straight)
+  set: straight
+- for: flag512thDown
+  name: flag512thDownSmall
+  description: Combining flag 7 (512th) below (small staff)
+- for: flag1024thUp
+  name: flag1024thUpStraight
+  description: Combining flag 8 (1024th) above (straight)
+  set: straight
+- for: flag1024thUp
+  name: flag1024thUpShort
+  description: Combining flag 8 (1024th) above (short)
+  set: short
+- for: flag1024thUp
+  name: flag1024thUpSmall
+  description: Combining flag 8 (1024th) above (small staff)
+- for: flag1024thDown
+  name: flag1024thDownStraight
+  description: Combining flag 8 (1024th) below (straight)
+  set: straight
+- for: flag1024thDown
+  name: flag1024thDownSmall
+  description: Combining flag 8 (1024th) below (small staff)

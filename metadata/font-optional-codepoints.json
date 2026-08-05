@@ -1,0 +1,3275 @@
+{
+  "ligatures": [
+    {
+      "codepoint": "U+F5F4",
+      "components": [
+        "accidentalFlat",
+        "accidentalJohnstonDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5F2",
+      "components": [
+        "accidentalFlat",
+        "accidentalJohnstonEl"
+      ]
+    },
+    {
+      "codepoint": "U+F600",
+      "components": [
+        "accidentalFlat",
+        "accidentalJohnstonEl",
+        "accidentalJohnstonDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5F3",
+      "components": [
+        "accidentalFlat",
+        "accidentalJohnstonUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5FF",
+      "components": [
+        "accidentalFlat",
+        "accidentalJohnstonUp",
+        "accidentalJohnstonEl"
+      ]
+    },
+    {
+      "codepoint": "U+F5C7",
+      "components": [
+        "accidentalFlat",
+        "ornamentTrill"
+      ]
+    },
+    {
+      "codepoint": "U+F5CA",
+      "components": [
+        "accidentalFlat",
+        "ornamentTurn"
+      ]
+    },
+    {
+      "codepoint": "U+F5CB",
+      "components": [
+        "accidentalFlat",
+        "ornamentTurn",
+        "accidentalSharp"
+      ]
+    },
+    {
+      "codepoint": "U+F5FA",
+      "components": [
+        "accidentalJohnstonDown",
+        "accidentalJohnstonEl"
+      ]
+    },
+    {
+      "codepoint": "U+F5F6",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F602",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalFlat",
+        "accidentalJohnstonDown"
+      ]
+    },
+    {
+      "codepoint": "U+F601",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalFlat",
+        "accidentalJohnstonUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5F8",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalJohnstonDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5F7",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalJohnstonUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5F5",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalSharp"
+      ]
+    },
+    {
+      "codepoint": "U+F5FE",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalSharp",
+        "accidentalJohnstonDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5FD",
+      "components": [
+        "accidentalJohnstonSeven",
+        "accidentalSharp",
+        "accidentalJohnstonUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5F9",
+      "components": [
+        "accidentalJohnstonUp",
+        "accidentalJohnstonEl"
+      ]
+    },
+    {
+      "codepoint": "U+F5C8",
+      "components": [
+        "accidentalNatural",
+        "ornamentTrill"
+      ]
+    },
+    {
+      "codepoint": "U+F5CD",
+      "components": [
+        "accidentalNatural",
+        "ornamentTurn"
+      ]
+    },
+    {
+      "codepoint": "U+F5EE",
+      "components": [
+        "accidentalParensLeft",
+        "accidentalDoubleFlat",
+        "accidentalParensRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5ED",
+      "components": [
+        "accidentalParensLeft",
+        "accidentalDoubleSharp",
+        "accidentalParensRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5EA",
+      "components": [
+        "accidentalParensLeft",
+        "accidentalFlat",
+        "accidentalParensRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5EB",
+      "components": [
+        "accidentalParensLeft",
+        "accidentalNatural",
+        "accidentalParensRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5EC",
+      "components": [
+        "accidentalParensLeft",
+        "accidentalSharp",
+        "accidentalParensRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5F1",
+      "components": [
+        "accidentalSharp",
+        "accidentalJohnstonDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5FC",
+      "components": [
+        "accidentalSharp",
+        "accidentalJohnstonDown",
+        "accidentalJohnstonEl"
+      ]
+    },
+    {
+      "codepoint": "U+F5EF",
+      "components": [
+        "accidentalSharp",
+        "accidentalJohnstonEl"
+      ]
+    },
+    {
+      "codepoint": "U+F5F0",
+      "components": [
+        "accidentalSharp",
+        "accidentalJohnstonUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5FB",
+      "components": [
+        "accidentalSharp",
+        "accidentalJohnstonUp",
+        "accidentalJohnstonEl"
+      ]
+    },
+    {
+      "codepoint": "U+F5C9",
+      "components": [
+        "accidentalSharp",
+        "ornamentTrill"
+      ]
+    },
+    {
+      "codepoint": "U+F5CF",
+      "components": [
+        "accidentalSharp",
+        "ornamentTurn"
+      ]
+    },
+    {
+      "codepoint": "U+F5D0",
+      "components": [
+        "accidentalSharp",
+        "ornamentTurn",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F547",
+      "components": [
+        "fClef",
+        "tuplet5"
+      ]
+    },
+    {
+      "codepoint": "U+F582",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet1",
+        "accidentalSharp"
+      ]
+    },
+    {
+      "codepoint": "U+F551",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet2"
+      ]
+    },
+    {
+      "codepoint": "U+F568",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet2",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F579",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet2",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F553",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet3"
+      ]
+    },
+    {
+      "codepoint": "U+F56A",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet3",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F57A",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet3",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F555",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet4"
+      ]
+    },
+    {
+      "codepoint": "U+F583",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet4",
+        "accidentalSharp"
+      ]
+    },
+    {
+      "codepoint": "U+F557",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet5"
+      ]
+    },
+    {
+      "codepoint": "U+F56D",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet5",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F559",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet6"
+      ]
+    },
+    {
+      "codepoint": "U+F56E",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet6",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F57C",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet6",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F55B",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet7"
+      ]
+    },
+    {
+      "codepoint": "U+F570",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet7",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F57E",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet7",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F55D",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet8"
+      ]
+    },
+    {
+      "codepoint": "U+F572",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet8",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F55F",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet9"
+      ]
+    },
+    {
+      "codepoint": "U+F573",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet9",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F57F",
+      "components": [
+        "gClefLigatedNumberAbove",
+        "tuplet9",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F567",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalFlat",
+        "tuplet1"
+      ]
+    },
+    {
+      "codepoint": "U+F569",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalFlat",
+        "tuplet2"
+      ]
+    },
+    {
+      "codepoint": "U+F56B",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalFlat",
+        "tuplet3"
+      ]
+    },
+    {
+      "codepoint": "U+F56C",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalFlat",
+        "tuplet4"
+      ]
+    },
+    {
+      "codepoint": "U+F56F",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalFlat",
+        "tuplet6"
+      ]
+    },
+    {
+      "codepoint": "U+F571",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalFlat",
+        "tuplet7"
+      ]
+    },
+    {
+      "codepoint": "U+F574",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalFlat",
+        "tuplet9"
+      ]
+    },
+    {
+      "codepoint": "U+F575",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalNatural",
+        "tuplet2"
+      ]
+    },
+    {
+      "codepoint": "U+F57B",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalNatural",
+        "tuplet3"
+      ]
+    },
+    {
+      "codepoint": "U+F57D",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalNatural",
+        "tuplet6"
+      ]
+    },
+    {
+      "codepoint": "U+F580",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalNatural",
+        "tuplet9"
+      ]
+    },
+    {
+      "codepoint": "U+F584",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "accidentalSharp",
+        "tuplet5"
+      ]
+    },
+    {
+      "codepoint": "U+F548",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet0"
+      ]
+    },
+    {
+      "codepoint": "U+F549",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet0"
+      ]
+    },
+    {
+      "codepoint": "U+F561",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet0",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F576",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet0",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F54A",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet1"
+      ]
+    },
+    {
+      "codepoint": "U+F562",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet1",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F54B",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet2"
+      ]
+    },
+    {
+      "codepoint": "U+F581",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet2",
+        "accidentalSharp"
+      ]
+    },
+    {
+      "codepoint": "U+F54C",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet3"
+      ]
+    },
+    {
+      "codepoint": "U+F563",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet3",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F577",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet3",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F54D",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet4"
+      ]
+    },
+    {
+      "codepoint": "U+F564",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet4",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F54E",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet5"
+      ]
+    },
+    {
+      "codepoint": "U+F565",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet5",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F54F",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet6"
+      ]
+    },
+    {
+      "codepoint": "U+F566",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet6",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F550",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet7"
+      ]
+    },
+    {
+      "codepoint": "U+F578",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet1",
+        "tuplet7",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F552",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet2"
+      ]
+    },
+    {
+      "codepoint": "U+F554",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet3"
+      ]
+    },
+    {
+      "codepoint": "U+F556",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet4"
+      ]
+    },
+    {
+      "codepoint": "U+F558",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet5"
+      ]
+    },
+    {
+      "codepoint": "U+F55A",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet6"
+      ]
+    },
+    {
+      "codepoint": "U+F55C",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet7"
+      ]
+    },
+    {
+      "codepoint": "U+F55E",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet8"
+      ]
+    },
+    {
+      "codepoint": "U+F560",
+      "components": [
+        "gClefLigatedNumberBelow",
+        "tuplet9"
+      ]
+    },
+    {
+      "codepoint": "U+F58B",
+      "components": [
+        "mensuralCombStemDown",
+        "mensuralNoteheadLongaBlack"
+      ]
+    },
+    {
+      "codepoint": "U+F58F",
+      "components": [
+        "mensuralCombStemDown",
+        "mensuralNoteheadLongaBlackVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F593",
+      "components": [
+        "mensuralCombStemDown",
+        "mensuralNoteheadLongaVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F597",
+      "components": [
+        "mensuralCombStemDown",
+        "mensuralNoteheadMaximaBlack"
+      ]
+    },
+    {
+      "codepoint": "U+F59B",
+      "components": [
+        "mensuralCombStemDown",
+        "mensuralNoteheadMaximaBlackVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F59F",
+      "components": [
+        "mensuralCombStemDown",
+        "mensuralNoteheadMaximaVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F58D",
+      "components": [
+        "mensuralCombStemUp",
+        "mensuralNoteheadLongaBlack"
+      ]
+    },
+    {
+      "codepoint": "U+F591",
+      "components": [
+        "mensuralCombStemUp",
+        "mensuralNoteheadLongaBlackVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F595",
+      "components": [
+        "mensuralCombStemUp",
+        "mensuralNoteheadLongaVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F599",
+      "components": [
+        "mensuralCombStemUp",
+        "mensuralNoteheadMaximaBlack"
+      ]
+    },
+    {
+      "codepoint": "U+F59D",
+      "components": [
+        "mensuralCombStemUp",
+        "mensuralNoteheadMaximaBlackVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F5A1",
+      "components": [
+        "mensuralCombStemUp",
+        "mensuralNoteheadMaximaVoid"
+      ]
+    },
+    {
+      "codepoint": "U+F58C",
+      "components": [
+        "mensuralNoteheadLongaBlack",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F58E",
+      "components": [
+        "mensuralNoteheadLongaBlack",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F590",
+      "components": [
+        "mensuralNoteheadLongaBlackVoid",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F592",
+      "components": [
+        "mensuralNoteheadLongaBlackVoid",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F594",
+      "components": [
+        "mensuralNoteheadLongaVoid",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F596",
+      "components": [
+        "mensuralNoteheadLongaVoid",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F598",
+      "components": [
+        "mensuralNoteheadMaximaBlack",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F59A",
+      "components": [
+        "mensuralNoteheadMaximaBlack",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F59C",
+      "components": [
+        "mensuralNoteheadMaximaBlackVoid",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F59E",
+      "components": [
+        "mensuralNoteheadMaximaBlackVoid",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5A0",
+      "components": [
+        "mensuralNoteheadMaximaVoid",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5A2",
+      "components": [
+        "mensuralNoteheadMaximaVoid",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5A3",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5A4",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemDownFlagExtended"
+      ]
+    },
+    {
+      "codepoint": "U+F5A7",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemDownFlagFlared"
+      ]
+    },
+    {
+      "codepoint": "U+F585",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemDownFlagFusa"
+      ]
+    },
+    {
+      "codepoint": "U+F5A5",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemDownFlagLeft"
+      ]
+    },
+    {
+      "codepoint": "U+F5A6",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemDownFlagRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5C1",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemDownFlagSemiminima"
+      ]
+    },
+    {
+      "codepoint": "U+F5A8",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5A9",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemUpFlagExtended"
+      ]
+    },
+    {
+      "codepoint": "U+F5AC",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemUpFlagFlared"
+      ]
+    },
+    {
+      "codepoint": "U+F586",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemUpFlagFusa"
+      ]
+    },
+    {
+      "codepoint": "U+F5AA",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemUpFlagLeft"
+      ]
+    },
+    {
+      "codepoint": "U+F5AB",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemUpFlagRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5C2",
+      "components": [
+        "mensuralNoteheadSemibrevisBlack",
+        "mensuralCombStemUpFlagSemiminima"
+      ]
+    },
+    {
+      "codepoint": "U+F5AD",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5AE",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemDownFlagExtended"
+      ]
+    },
+    {
+      "codepoint": "U+F5B1",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemDownFlagFlared"
+      ]
+    },
+    {
+      "codepoint": "U+F587",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemDownFlagFusa"
+      ]
+    },
+    {
+      "codepoint": "U+F5AF",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemDownFlagLeft"
+      ]
+    },
+    {
+      "codepoint": "U+F5B0",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemDownFlagRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5C3",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemDownFlagSemiminima"
+      ]
+    },
+    {
+      "codepoint": "U+F5B2",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5B3",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemUpFlagExtended"
+      ]
+    },
+    {
+      "codepoint": "U+F5B6",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemUpFlagFlared"
+      ]
+    },
+    {
+      "codepoint": "U+F588",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemUpFlagFusa"
+      ]
+    },
+    {
+      "codepoint": "U+F5B4",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemUpFlagLeft"
+      ]
+    },
+    {
+      "codepoint": "U+F5B5",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemUpFlagRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5C4",
+      "components": [
+        "mensuralNoteheadSemibrevisBlackVoid",
+        "mensuralCombStemUpFlagSemiminima"
+      ]
+    },
+    {
+      "codepoint": "U+F5B7",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemDown"
+      ]
+    },
+    {
+      "codepoint": "U+F5B8",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemDownFlagExtended"
+      ]
+    },
+    {
+      "codepoint": "U+F5BB",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemDownFlagFlared"
+      ]
+    },
+    {
+      "codepoint": "U+F589",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemDownFlagFusa"
+      ]
+    },
+    {
+      "codepoint": "U+F5B9",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemDownFlagLeft"
+      ]
+    },
+    {
+      "codepoint": "U+F5BA",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemDownFlagRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5C5",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemDownFlagSemiminima"
+      ]
+    },
+    {
+      "codepoint": "U+F5BD",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemUp"
+      ]
+    },
+    {
+      "codepoint": "U+F5BC",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemUpFlagExtended"
+      ]
+    },
+    {
+      "codepoint": "U+F5C0",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemUpFlagFlared"
+      ]
+    },
+    {
+      "codepoint": "U+F58A",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemUpFlagFusa"
+      ]
+    },
+    {
+      "codepoint": "U+F5BE",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemUpFlagLeft"
+      ]
+    },
+    {
+      "codepoint": "U+F5BF",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemUpFlagRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5C6",
+      "components": [
+        "mensuralNoteheadSemibrevisVoid",
+        "mensuralCombStemUpFlagSemiminima"
+      ]
+    },
+    {
+      "codepoint": "U+F5E6",
+      "components": [
+        "noteheadParenthesisLeft",
+        "noteheadBlack",
+        "noteheadParenthesisRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5E9",
+      "components": [
+        "noteheadParenthesisLeft",
+        "noteheadDoubleWhole",
+        "noteheadParenthesisRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5E7",
+      "components": [
+        "noteheadParenthesisLeft",
+        "noteheadHalf",
+        "noteheadParenthesisRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5E8",
+      "components": [
+        "noteheadParenthesisLeft",
+        "noteheadWhole",
+        "noteheadParenthesisRight"
+      ]
+    },
+    {
+      "codepoint": "U+F5CC",
+      "components": [
+        "ornamentTurn",
+        "accidentalFlat"
+      ]
+    },
+    {
+      "codepoint": "U+F5CE",
+      "components": [
+        "ornamentTurn",
+        "accidentalNatural"
+      ]
+    },
+    {
+      "codepoint": "U+F5D1",
+      "components": [
+        "ornamentTurn",
+        "accidentalSharp"
+      ]
+    },
+    {
+      "codepoint": "U+F5D2",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig0"
+      ]
+    },
+    {
+      "codepoint": "U+F5D4",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig1"
+      ]
+    },
+    {
+      "codepoint": "U+F5D6",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig2"
+      ]
+    },
+    {
+      "codepoint": "U+F5D8",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig3"
+      ]
+    },
+    {
+      "codepoint": "U+F5DA",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig4"
+      ]
+    },
+    {
+      "codepoint": "U+F5DC",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig5"
+      ]
+    },
+    {
+      "codepoint": "U+F5DE",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig6"
+      ]
+    },
+    {
+      "codepoint": "U+F5E0",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig7"
+      ]
+    },
+    {
+      "codepoint": "U+F5E2",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig8"
+      ]
+    },
+    {
+      "codepoint": "U+F5E4",
+      "components": [
+        "timeSigCombDenominator",
+        "timeSig9"
+      ]
+    },
+    {
+      "codepoint": "U+F5D3",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig0"
+      ]
+    },
+    {
+      "codepoint": "U+F5D5",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig1"
+      ]
+    },
+    {
+      "codepoint": "U+F60F",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig1",
+        "timeSigCombNumerator",
+        "timeSig2",
+        "timeSigCombDenominator",
+        "timeSig8"
+      ]
+    },
+    {
+      "codepoint": "U+F5D7",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig2"
+      ]
+    },
+    {
+      "codepoint": "U+F604",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig2",
+        "timeSigCombDenominator",
+        "timeSig2"
+      ]
+    },
+    {
+      "codepoint": "U+F603",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig2",
+        "timeSigCombDenominator",
+        "timeSig4"
+      ]
+    },
+    {
+      "codepoint": "U+F5D9",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig3"
+      ]
+    },
+    {
+      "codepoint": "U+F605",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig3",
+        "timeSigCombDenominator",
+        "timeSig2"
+      ]
+    },
+    {
+      "codepoint": "U+F606",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig3",
+        "timeSigCombDenominator",
+        "timeSig4"
+      ]
+    },
+    {
+      "codepoint": "U+F607",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig3",
+        "timeSigCombDenominator",
+        "timeSig8"
+      ]
+    },
+    {
+      "codepoint": "U+F5DB",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig4"
+      ]
+    },
+    {
+      "codepoint": "U+F608",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig4",
+        "timeSigCombDenominator",
+        "timeSig4"
+      ]
+    },
+    {
+      "codepoint": "U+F5DD",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig5"
+      ]
+    },
+    {
+      "codepoint": "U+F609",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig5",
+        "timeSigCombDenominator",
+        "timeSig4"
+      ]
+    },
+    {
+      "codepoint": "U+F60A",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig5",
+        "timeSigCombDenominator",
+        "timeSig8"
+      ]
+    },
+    {
+      "codepoint": "U+F5DF",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig6"
+      ]
+    },
+    {
+      "codepoint": "U+F60B",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig6",
+        "timeSigCombDenominator",
+        "timeSig4"
+      ]
+    },
+    {
+      "codepoint": "U+F60C",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig6",
+        "timeSigCombDenominator",
+        "timeSig8"
+      ]
+    },
+    {
+      "codepoint": "U+F5E1",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig7"
+      ]
+    },
+    {
+      "codepoint": "U+F60D",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig7",
+        "timeSigCombDenominator",
+        "timeSig8"
+      ]
+    },
+    {
+      "codepoint": "U+F5E3",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig8"
+      ]
+    },
+    {
+      "codepoint": "U+F5E5",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig9"
+      ]
+    },
+    {
+      "codepoint": "U+F60E",
+      "components": [
+        "timeSigCombNumerator",
+        "timeSig9",
+        "timeSigCombDenominator",
+        "timeSig8"
+      ]
+    }
+  ],
+  "stylisticAlternates": [
+    {
+      "codepoint": "U+F40C",
+      "feature": "salt",
+      "for": "4stringTabClef",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F40D",
+      "feature": "salt",
+      "for": "4stringTabClef",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F40A",
+      "feature": "salt",
+      "for": "6stringTabClef",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F40B",
+      "feature": "salt",
+      "for": "6stringTabClef",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F45B",
+      "feature": "salt",
+      "for": "accdnPush",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A1",
+      "feature": "salt",
+      "for": "accidentalDoubleFlat",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F427",
+      "feature": "ss01",
+      "for": "accidentalFlat"
+    },
+    {
+      "codepoint": "U+F428",
+      "feature": "ss01",
+      "for": "accidentalNatural"
+    },
+    {
+      "codepoint": "U+F429",
+      "feature": "ss01",
+      "for": "accidentalSharp"
+    },
+    {
+      "codepoint": "U+F4A2",
+      "feature": "salt",
+      "for": "accidentalTripleFlat",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B9",
+      "feature": "salt",
+      "for": "analyticsHauptrhythmus",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F42A",
+      "feature": "salt",
+      "for": "articAccentAbove",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F532",
+      "feature": "salt",
+      "for": "articAccentAbove",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F475",
+      "feature": "ss01",
+      "for": "articAccentAbove"
+    },
+    {
+      "codepoint": "U+F42B",
+      "feature": "salt",
+      "for": "articAccentBelow",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F533",
+      "feature": "salt",
+      "for": "articAccentBelow",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F476",
+      "feature": "ss01",
+      "for": "articAccentBelow"
+    },
+    {
+      "codepoint": "U+F485",
+      "feature": "ss01",
+      "for": "articAccentStaccatoAbove"
+    },
+    {
+      "codepoint": "U+F486",
+      "feature": "ss01",
+      "for": "articAccentStaccatoBelow"
+    },
+    {
+      "codepoint": "U+F481",
+      "feature": "ss01",
+      "for": "articMarcatoAbove"
+    },
+    {
+      "codepoint": "U+F482",
+      "feature": "ss01",
+      "for": "articMarcatoBelow"
+    },
+    {
+      "codepoint": "U+F483",
+      "feature": "ss01",
+      "for": "articMarcatoStaccatoAbove"
+    },
+    {
+      "codepoint": "U+F484",
+      "feature": "ss01",
+      "for": "articMarcatoStaccatoBelow"
+    },
+    {
+      "codepoint": "U+F47B",
+      "feature": "ss01",
+      "for": "articStaccatissimoAbove"
+    },
+    {
+      "codepoint": "U+F47C",
+      "feature": "ss01",
+      "for": "articStaccatissimoBelow"
+    },
+    {
+      "codepoint": "U+F47F",
+      "feature": "ss01",
+      "for": "articStaccatissimoStrokeAbove"
+    },
+    {
+      "codepoint": "U+F480",
+      "feature": "ss01",
+      "for": "articStaccatissimoStrokeBelow"
+    },
+    {
+      "codepoint": "U+F47D",
+      "feature": "ss01",
+      "for": "articStaccatissimoWedgeAbove"
+    },
+    {
+      "codepoint": "U+F47E",
+      "feature": "ss01",
+      "for": "articStaccatissimoWedgeBelow"
+    },
+    {
+      "codepoint": "U+F477",
+      "feature": "ss01",
+      "for": "articStaccatoAbove"
+    },
+    {
+      "codepoint": "U+F478",
+      "feature": "ss01",
+      "for": "articStaccatoBelow"
+    },
+    {
+      "codepoint": "U+F479",
+      "feature": "ss01",
+      "for": "articTenutoAbove"
+    },
+    {
+      "codepoint": "U+F489",
+      "feature": "ss01",
+      "for": "articTenutoAccentAbove"
+    },
+    {
+      "codepoint": "U+F48A",
+      "feature": "ss01",
+      "for": "articTenutoAccentBelow"
+    },
+    {
+      "codepoint": "U+F47A",
+      "feature": "ss01",
+      "for": "articTenutoBelow"
+    },
+    {
+      "codepoint": "U+F487",
+      "feature": "ss01",
+      "for": "articTenutoStaccatoAbove"
+    },
+    {
+      "codepoint": "U+F488",
+      "feature": "ss01",
+      "for": "articTenutoStaccatoBelow"
+    },
+    {
+      "codepoint": "U+F400",
+      "feature": "salt",
+      "for": "brace",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F401",
+      "feature": "salt",
+      "for": "brace",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F402",
+      "feature": "salt",
+      "for": "brace",
+      "index": 3
+    },
+    {
+      "codepoint": "U+F403",
+      "feature": "salt",
+      "for": "brace",
+      "index": 4
+    },
+    {
+      "codepoint": "U+F408",
+      "feature": "salt",
+      "for": "cClef",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4BF",
+      "feature": "salt",
+      "for": "cClef",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F473",
+      "feature": "ss01",
+      "for": "cClef"
+    },
+    {
+      "codepoint": "U+F4C0",
+      "feature": "salt",
+      "for": "cClefChange",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F42C",
+      "feature": "salt",
+      "for": "caesura",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F49E",
+      "feature": "salt",
+      "for": "chantCclef",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F49D",
+      "feature": "salt",
+      "for": "chantFclef",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F405",
+      "feature": "salt",
+      "for": "coda",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4E0",
+      "feature": "ss07",
+      "for": "csymAccidentalDoubleFlat"
+    },
+    {
+      "codepoint": "U+F4DF",
+      "feature": "ss07",
+      "for": "csymAccidentalDoubleSharp"
+    },
+    {
+      "codepoint": "U+F4DC",
+      "feature": "ss07",
+      "for": "csymAccidentalFlat"
+    },
+    {
+      "codepoint": "U+F4DD",
+      "feature": "ss07",
+      "for": "csymAccidentalNatural"
+    },
+    {
+      "codepoint": "U+F4DE",
+      "feature": "ss07",
+      "for": "csymAccidentalSharp"
+    },
+    {
+      "codepoint": "U+F4E2",
+      "feature": "ss07",
+      "for": "csymAccidentalTripleFlat"
+    },
+    {
+      "codepoint": "U+F4E1",
+      "feature": "ss07",
+      "for": "csymAccidentalTripleSharp"
+    },
+    {
+      "codepoint": "U+F4D9",
+      "feature": "ss07",
+      "for": "csymAugmented"
+    },
+    {
+      "codepoint": "U+F4D8",
+      "feature": "ss07",
+      "for": "csymDiminished"
+    },
+    {
+      "codepoint": "U+F4D7",
+      "feature": "ss07",
+      "for": "csymHalfDiminished"
+    },
+    {
+      "codepoint": "U+F4DA",
+      "feature": "ss07",
+      "for": "csymMajorSeventh"
+    },
+    {
+      "codepoint": "U+F4DB",
+      "feature": "ss07",
+      "for": "csymMinor"
+    },
+    {
+      "codepoint": "U+F42D",
+      "feature": "salt",
+      "for": "doubleTongueAbove",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F42E",
+      "feature": "salt",
+      "for": "doubleTongueBelow",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F46D",
+      "feature": "ss01",
+      "for": "dynamicForte"
+    },
+    {
+      "codepoint": "U+F46C",
+      "feature": "ss01",
+      "for": "dynamicMezzo"
+    },
+    {
+      "codepoint": "U+F471",
+      "feature": "ss01",
+      "for": "dynamicNiente"
+    },
+    {
+      "codepoint": "U+F46B",
+      "feature": "ss01",
+      "for": "dynamicPiano"
+    },
+    {
+      "codepoint": "U+F46E",
+      "feature": "ss01",
+      "for": "dynamicRinforzando"
+    },
+    {
+      "codepoint": "U+F46F",
+      "feature": "ss01",
+      "for": "dynamicSforzando"
+    },
+    {
+      "codepoint": "U+F470",
+      "feature": "ss01",
+      "for": "dynamicZ"
+    },
+    {
+      "codepoint": "U+F406",
+      "feature": "salt",
+      "for": "fClef",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F407",
+      "feature": "salt",
+      "for": "fClef",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F474",
+      "feature": "ss01",
+      "for": "fClef"
+    },
+    {
+      "codepoint": "U+F52B",
+      "feature": "ss10",
+      "for": "figbassDoubleFlat"
+    },
+    {
+      "codepoint": "U+F52F",
+      "feature": "ss10",
+      "for": "figbassDoubleSharp"
+    },
+    {
+      "codepoint": "U+F52C",
+      "feature": "ss10",
+      "for": "figbassFlat"
+    },
+    {
+      "codepoint": "U+F52D",
+      "feature": "ss10",
+      "for": "figbassNatural"
+    },
+    {
+      "codepoint": "U+F52E",
+      "feature": "ss10",
+      "for": "figbassSharp"
+    },
+    {
+      "codepoint": "U+F530",
+      "feature": "ss10",
+      "for": "figbassTripleFlat"
+    },
+    {
+      "codepoint": "U+F531",
+      "feature": "ss10",
+      "for": "figbassTripleSharp"
+    },
+    {
+      "codepoint": "U+F49A",
+      "feature": "salt",
+      "for": "flag1024thDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F426",
+      "feature": "ss03",
+      "for": "flag1024thDown"
+    },
+    {
+      "codepoint": "U+F499",
+      "feature": "salt",
+      "for": "flag1024thUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F425",
+      "feature": "ss02",
+      "for": "flag1024thUp"
+    },
+    {
+      "codepoint": "U+F424",
+      "feature": "ss03",
+      "for": "flag1024thUp"
+    },
+    {
+      "codepoint": "U+F494",
+      "feature": "salt",
+      "for": "flag128thDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F41D",
+      "feature": "ss03",
+      "for": "flag128thDown"
+    },
+    {
+      "codepoint": "U+F493",
+      "feature": "salt",
+      "for": "flag128thUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F41C",
+      "feature": "ss02",
+      "for": "flag128thUp"
+    },
+    {
+      "codepoint": "U+F41B",
+      "feature": "ss03",
+      "for": "flag128thUp"
+    },
+    {
+      "codepoint": "U+F48E",
+      "feature": "salt",
+      "for": "flag16thDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F414",
+      "feature": "ss03",
+      "for": "flag16thDown"
+    },
+    {
+      "codepoint": "U+F48D",
+      "feature": "salt",
+      "for": "flag16thUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F413",
+      "feature": "ss02",
+      "for": "flag16thUp"
+    },
+    {
+      "codepoint": "U+F412",
+      "feature": "ss03",
+      "for": "flag16thUp"
+    },
+    {
+      "codepoint": "U+F496",
+      "feature": "salt",
+      "for": "flag256thDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F420",
+      "feature": "ss03",
+      "for": "flag256thDown"
+    },
+    {
+      "codepoint": "U+F495",
+      "feature": "salt",
+      "for": "flag256thUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F41F",
+      "feature": "ss02",
+      "for": "flag256thUp"
+    },
+    {
+      "codepoint": "U+F41E",
+      "feature": "ss03",
+      "for": "flag256thUp"
+    },
+    {
+      "codepoint": "U+F490",
+      "feature": "salt",
+      "for": "flag32ndDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F417",
+      "feature": "ss03",
+      "for": "flag32ndDown"
+    },
+    {
+      "codepoint": "U+F48F",
+      "feature": "salt",
+      "for": "flag32ndUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F416",
+      "feature": "ss02",
+      "for": "flag32ndUp"
+    },
+    {
+      "codepoint": "U+F415",
+      "feature": "ss03",
+      "for": "flag32ndUp"
+    },
+    {
+      "codepoint": "U+F498",
+      "feature": "salt",
+      "for": "flag512thDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F423",
+      "feature": "ss03",
+      "for": "flag512thDown"
+    },
+    {
+      "codepoint": "U+F497",
+      "feature": "salt",
+      "for": "flag512thUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F422",
+      "feature": "ss02",
+      "for": "flag512thUp"
+    },
+    {
+      "codepoint": "U+F421",
+      "feature": "ss03",
+      "for": "flag512thUp"
+    },
+    {
+      "codepoint": "U+F492",
+      "feature": "salt",
+      "for": "flag64thDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F41A",
+      "feature": "ss03",
+      "for": "flag64thDown"
+    },
+    {
+      "codepoint": "U+F491",
+      "feature": "salt",
+      "for": "flag64thUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F419",
+      "feature": "ss02",
+      "for": "flag64thUp"
+    },
+    {
+      "codepoint": "U+F418",
+      "feature": "ss03",
+      "for": "flag64thUp"
+    },
+    {
+      "codepoint": "U+F48C",
+      "feature": "salt",
+      "for": "flag8thDown",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F411",
+      "feature": "ss03",
+      "for": "flag8thDown"
+    },
+    {
+      "codepoint": "U+F48B",
+      "feature": "salt",
+      "for": "flag8thUp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F410",
+      "feature": "ss02",
+      "for": "flag8thUp"
+    },
+    {
+      "codepoint": "U+F40F",
+      "feature": "ss03",
+      "for": "flag8thUp"
+    },
+    {
+      "codepoint": "U+F472",
+      "feature": "ss01",
+      "for": "gClef"
+    },
+    {
+      "codepoint": "U+F53D",
+      "feature": "salt",
+      "for": "gClef8vb",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C1",
+      "feature": "salt",
+      "for": "guitarBarreHalf",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B8",
+      "feature": "salt",
+      "for": "guitarGolpe",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F546",
+      "feature": "salt",
+      "for": "guitarVibratoBarScoop",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F436",
+      "feature": "salt",
+      "for": "harpMetalRod",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F437",
+      "feature": "salt",
+      "for": "harpTuningKey",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F434",
+      "feature": "salt",
+      "for": "keyboardPedalPed",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F435",
+      "feature": "salt",
+      "for": "keyboardPedalSost",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F44D",
+      "feature": "salt",
+      "for": "luteFingeringRHThird",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F457",
+      "feature": "salt",
+      "for": "luteFrench10thCourse",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F458",
+      "feature": "salt",
+      "for": "luteFrench10thCourse",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F459",
+      "feature": "salt",
+      "for": "luteFrench10thCourse",
+      "index": 3
+    },
+    {
+      "codepoint": "U+F44E",
+      "feature": "salt",
+      "for": "luteFrench7thCourse",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F44F",
+      "feature": "salt",
+      "for": "luteFrench7thCourse",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F450",
+      "feature": "salt",
+      "for": "luteFrench7thCourse",
+      "index": 3
+    },
+    {
+      "codepoint": "U+F451",
+      "feature": "salt",
+      "for": "luteFrench8thCourse",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F452",
+      "feature": "salt",
+      "for": "luteFrench8thCourse",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F453",
+      "feature": "salt",
+      "for": "luteFrench8thCourse",
+      "index": 3
+    },
+    {
+      "codepoint": "U+F454",
+      "feature": "salt",
+      "for": "luteFrench9thCourse",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F455",
+      "feature": "salt",
+      "for": "luteFrench9thCourse",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F456",
+      "feature": "salt",
+      "for": "luteFrench9thCourse",
+      "index": 3
+    },
+    {
+      "codepoint": "U+F45A",
+      "feature": "salt",
+      "for": "luteFrenchFretC",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F49F",
+      "feature": "salt",
+      "for": "medRenFlatSoftB",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A0",
+      "feature": "salt",
+      "for": "medRenFlatSoftB",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F49B",
+      "feature": "salt",
+      "for": "mensuralCclef",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F49C",
+      "feature": "salt",
+      "for": "mensuralCclef",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F43D",
+      "feature": "salt",
+      "for": "mensuralProportion4",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F40E",
+      "feature": "salt",
+      "for": "noteDoubleWhole",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F539",
+      "feature": "salt",
+      "for": "noteLeBlack",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F538",
+      "feature": "salt",
+      "for": "noteLeHalf",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F537",
+      "feature": "salt",
+      "for": "noteLeWhole",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F536",
+      "feature": "salt",
+      "for": "noteMeBlack",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F535",
+      "feature": "salt",
+      "for": "noteMeHalf",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F534",
+      "feature": "salt",
+      "for": "noteMeWhole",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F53C",
+      "feature": "salt",
+      "for": "noteTeBlack",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F53B",
+      "feature": "salt",
+      "for": "noteTeHalf",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F53A",
+      "feature": "salt",
+      "for": "noteTeWhole",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F46A",
+      "feature": "ss01",
+      "for": "noteheadBlack"
+    },
+    {
+      "codepoint": "U+F4BE",
+      "feature": "ss08",
+      "for": "noteheadBlack"
+    },
+    {
+      "codepoint": "U+F43F",
+      "feature": "salt",
+      "for": "noteheadDoubleWhole",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F467",
+      "feature": "ss01",
+      "for": "noteheadDoubleWhole"
+    },
+    {
+      "codepoint": "U+F4BA",
+      "feature": "ss08",
+      "for": "noteheadDoubleWhole"
+    },
+    {
+      "codepoint": "U+F4BB",
+      "feature": "ss08",
+      "for": "noteheadDoubleWholeSquare"
+    },
+    {
+      "codepoint": "U+F469",
+      "feature": "ss01",
+      "for": "noteheadHalf"
+    },
+    {
+      "codepoint": "U+F4BD",
+      "feature": "ss08",
+      "for": "noteheadHalf"
+    },
+    {
+      "codepoint": "U+F4E7",
+      "feature": "ss08",
+      "for": "noteheadSlashDiamondWhite"
+    },
+    {
+      "codepoint": "U+F4E4",
+      "feature": "ss08",
+      "for": "noteheadSlashHorizontalEnds"
+    },
+    {
+      "codepoint": "U+F4EB",
+      "feature": "ss08",
+      "for": "noteheadSlashHorizontalEndsMuted"
+    },
+    {
+      "codepoint": "U+F4E3",
+      "feature": "ss08",
+      "for": "noteheadSlashVerticalEnds"
+    },
+    {
+      "codepoint": "U+F4EA",
+      "feature": "ss08",
+      "for": "noteheadSlashVerticalEndsMuted"
+    },
+    {
+      "codepoint": "U+F4E8",
+      "feature": "ss08",
+      "for": "noteheadSlashVerticalEndsSmall"
+    },
+    {
+      "codepoint": "U+F4ED",
+      "feature": "ss08",
+      "for": "noteheadSlashWhiteDoubleWhole"
+    },
+    {
+      "codepoint": "U+F4E6",
+      "feature": "ss08",
+      "for": "noteheadSlashWhiteHalf"
+    },
+    {
+      "codepoint": "U+F4EC",
+      "feature": "ss08",
+      "for": "noteheadSlashWhiteMuted"
+    },
+    {
+      "codepoint": "U+F4E5",
+      "feature": "ss08",
+      "for": "noteheadSlashWhiteWhole"
+    },
+    {
+      "codepoint": "U+F4E9",
+      "feature": "ss08",
+      "for": "noteheadSlashX"
+    },
+    {
+      "codepoint": "U+F468",
+      "feature": "ss01",
+      "for": "noteheadWhole"
+    },
+    {
+      "codepoint": "U+F4BC",
+      "feature": "ss08",
+      "for": "noteheadWhole"
+    },
+    {
+      "codepoint": "U+F4AF",
+      "feature": "salt",
+      "for": "pictBassDrum",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B0",
+      "feature": "salt",
+      "for": "pictBongos",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F439",
+      "feature": "salt",
+      "for": "pictCastanets",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B1",
+      "feature": "salt",
+      "for": "pictConga",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F43B",
+      "feature": "salt",
+      "for": "pictCowBell",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B6",
+      "feature": "salt",
+      "for": "pictFlexatone",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4AA",
+      "feature": "salt",
+      "for": "pictGlsp",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B4",
+      "feature": "salt",
+      "for": "pictGuiro",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B5",
+      "feature": "salt",
+      "for": "pictGuiro",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F4A7",
+      "feature": "salt",
+      "for": "pictLithophone",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4AC",
+      "feature": "salt",
+      "for": "pictLotusFlute",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4AB",
+      "feature": "salt",
+      "for": "pictMar",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F43C",
+      "feature": "salt",
+      "for": "pictMaraca",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B7",
+      "feature": "salt",
+      "for": "pictMusicalSaw",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F43A",
+      "feature": "salt",
+      "for": "pictSleighBell",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F438",
+      "feature": "salt",
+      "for": "pictTambourine",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B3",
+      "feature": "salt",
+      "for": "pictTimbales",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4AE",
+      "feature": "salt",
+      "for": "pictTimpani",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4B2",
+      "feature": "salt",
+      "for": "pictTomTom",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4AD",
+      "feature": "salt",
+      "for": "pictTomTomChinese",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A8",
+      "feature": "salt",
+      "for": "pictTubaphone",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A5",
+      "feature": "salt",
+      "for": "pictVib",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A6",
+      "feature": "salt",
+      "for": "pictVibMotorOff",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A9",
+      "feature": "salt",
+      "for": "pictXyl",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A3",
+      "feature": "salt",
+      "for": "pictXylBass",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4A4",
+      "feature": "salt",
+      "for": "pictXylTenor",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F433",
+      "feature": "salt",
+      "for": "pluckedSnapPizzicatoAbove",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F432",
+      "feature": "salt",
+      "for": "pluckedSnapPizzicatoBelow",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C2",
+      "feature": "salt",
+      "for": "quindicesima",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C3",
+      "feature": "salt",
+      "for": "quindicesimaAlta",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C4",
+      "feature": "salt",
+      "for": "quindicesimaBassa",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C8",
+      "feature": "salt",
+      "for": "quindicesimaBassaMb",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F45C",
+      "feature": "salt",
+      "for": "repeatRightLeft",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F404",
+      "feature": "salt",
+      "for": "segno",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F431",
+      "feature": "salt",
+      "for": "stringsChangeBowDirection",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F43E",
+      "feature": "salt",
+      "for": "stringsChangeBowDirection",
+      "index": 2
+    },
+    {
+      "codepoint": "U+F45D",
+      "feature": "ss01",
+      "for": "timeSig0"
+    },
+    {
+      "codepoint": "U+F440",
+      "feature": "ss04",
+      "for": "timeSig0"
+    },
+    {
+      "codepoint": "U+F506",
+      "feature": "ss09",
+      "for": "timeSig0"
+    },
+    {
+      "codepoint": "U+F45E",
+      "feature": "ss01",
+      "for": "timeSig1"
+    },
+    {
+      "codepoint": "U+F441",
+      "feature": "ss04",
+      "for": "timeSig1"
+    },
+    {
+      "codepoint": "U+F507",
+      "feature": "ss09",
+      "for": "timeSig1"
+    },
+    {
+      "codepoint": "U+F45F",
+      "feature": "ss01",
+      "for": "timeSig2"
+    },
+    {
+      "codepoint": "U+F442",
+      "feature": "ss04",
+      "for": "timeSig2"
+    },
+    {
+      "codepoint": "U+F508",
+      "feature": "ss09",
+      "for": "timeSig2"
+    },
+    {
+      "codepoint": "U+F460",
+      "feature": "ss01",
+      "for": "timeSig3"
+    },
+    {
+      "codepoint": "U+F443",
+      "feature": "ss04",
+      "for": "timeSig3"
+    },
+    {
+      "codepoint": "U+F509",
+      "feature": "ss09",
+      "for": "timeSig3"
+    },
+    {
+      "codepoint": "U+F461",
+      "feature": "ss01",
+      "for": "timeSig4"
+    },
+    {
+      "codepoint": "U+F444",
+      "feature": "ss04",
+      "for": "timeSig4"
+    },
+    {
+      "codepoint": "U+F50A",
+      "feature": "ss09",
+      "for": "timeSig4"
+    },
+    {
+      "codepoint": "U+F462",
+      "feature": "ss01",
+      "for": "timeSig5"
+    },
+    {
+      "codepoint": "U+F445",
+      "feature": "ss04",
+      "for": "timeSig5"
+    },
+    {
+      "codepoint": "U+F50B",
+      "feature": "ss09",
+      "for": "timeSig5"
+    },
+    {
+      "codepoint": "U+F463",
+      "feature": "ss01",
+      "for": "timeSig6"
+    },
+    {
+      "codepoint": "U+F446",
+      "feature": "ss04",
+      "for": "timeSig6"
+    },
+    {
+      "codepoint": "U+F50C",
+      "feature": "ss09",
+      "for": "timeSig6"
+    },
+    {
+      "codepoint": "U+F464",
+      "feature": "ss01",
+      "for": "timeSig7"
+    },
+    {
+      "codepoint": "U+F447",
+      "feature": "ss04",
+      "for": "timeSig7"
+    },
+    {
+      "codepoint": "U+F50D",
+      "feature": "ss09",
+      "for": "timeSig7"
+    },
+    {
+      "codepoint": "U+F465",
+      "feature": "ss01",
+      "for": "timeSig8"
+    },
+    {
+      "codepoint": "U+F448",
+      "feature": "ss04",
+      "for": "timeSig8"
+    },
+    {
+      "codepoint": "U+F50E",
+      "feature": "ss09",
+      "for": "timeSig8"
+    },
+    {
+      "codepoint": "U+F466",
+      "feature": "ss01",
+      "for": "timeSig9"
+    },
+    {
+      "codepoint": "U+F449",
+      "feature": "ss04",
+      "for": "timeSig9"
+    },
+    {
+      "codepoint": "U+F50F",
+      "feature": "ss09",
+      "for": "timeSig9"
+    },
+    {
+      "codepoint": "U+F4FF",
+      "feature": "ss04",
+      "for": "timeSigBracketLeft"
+    },
+    {
+      "codepoint": "U+F524",
+      "feature": "ss09",
+      "for": "timeSigBracketLeft"
+    },
+    {
+      "codepoint": "U+F501",
+      "feature": "ss04",
+      "for": "timeSigBracketLeftSmall"
+    },
+    {
+      "codepoint": "U+F526",
+      "feature": "ss09",
+      "for": "timeSigBracketLeftSmall"
+    },
+    {
+      "codepoint": "U+F500",
+      "feature": "ss04",
+      "for": "timeSigBracketRight"
+    },
+    {
+      "codepoint": "U+F525",
+      "feature": "ss09",
+      "for": "timeSigBracketRight"
+    },
+    {
+      "codepoint": "U+F502",
+      "feature": "ss04",
+      "for": "timeSigBracketRightSmall"
+    },
+    {
+      "codepoint": "U+F527",
+      "feature": "ss09",
+      "for": "timeSigBracketRightSmall"
+    },
+    {
+      "codepoint": "U+F4F7",
+      "feature": "ss04",
+      "for": "timeSigComma"
+    },
+    {
+      "codepoint": "U+F51C",
+      "feature": "ss09",
+      "for": "timeSigComma"
+    },
+    {
+      "codepoint": "U+F44A",
+      "feature": "ss04",
+      "for": "timeSigCommon"
+    },
+    {
+      "codepoint": "U+F510",
+      "feature": "ss09",
+      "for": "timeSigCommon"
+    },
+    {
+      "codepoint": "U+F504",
+      "feature": "ss04",
+      "for": "timeSigCut2"
+    },
+    {
+      "codepoint": "U+F529",
+      "feature": "ss09",
+      "for": "timeSigCut2"
+    },
+    {
+      "codepoint": "U+F505",
+      "feature": "ss04",
+      "for": "timeSigCut3"
+    },
+    {
+      "codepoint": "U+F52A",
+      "feature": "ss09",
+      "for": "timeSigCut3"
+    },
+    {
+      "codepoint": "U+F44B",
+      "feature": "ss04",
+      "for": "timeSigCutCommon"
+    },
+    {
+      "codepoint": "U+F511",
+      "feature": "ss09",
+      "for": "timeSigCutCommon"
+    },
+    {
+      "codepoint": "U+F4F0",
+      "feature": "ss04",
+      "for": "timeSigEquals"
+    },
+    {
+      "codepoint": "U+F515",
+      "feature": "ss09",
+      "for": "timeSigEquals"
+    },
+    {
+      "codepoint": "U+F4F9",
+      "feature": "ss04",
+      "for": "timeSigFractionHalf"
+    },
+    {
+      "codepoint": "U+F51E",
+      "feature": "ss09",
+      "for": "timeSigFractionHalf"
+    },
+    {
+      "codepoint": "U+F4FB",
+      "feature": "ss04",
+      "for": "timeSigFractionOneThird"
+    },
+    {
+      "codepoint": "U+F520",
+      "feature": "ss09",
+      "for": "timeSigFractionOneThird"
+    },
+    {
+      "codepoint": "U+F4F8",
+      "feature": "ss04",
+      "for": "timeSigFractionQuarter"
+    },
+    {
+      "codepoint": "U+F51D",
+      "feature": "ss09",
+      "for": "timeSigFractionQuarter"
+    },
+    {
+      "codepoint": "U+F4FA",
+      "feature": "ss04",
+      "for": "timeSigFractionThreeQuarters"
+    },
+    {
+      "codepoint": "U+F51F",
+      "feature": "ss09",
+      "for": "timeSigFractionThreeQuarters"
+    },
+    {
+      "codepoint": "U+F4FC",
+      "feature": "ss04",
+      "for": "timeSigFractionTwoThirds"
+    },
+    {
+      "codepoint": "U+F521",
+      "feature": "ss09",
+      "for": "timeSigFractionTwoThirds"
+    },
+    {
+      "codepoint": "U+F4EF",
+      "feature": "ss04",
+      "for": "timeSigFractionalSlash"
+    },
+    {
+      "codepoint": "U+F514",
+      "feature": "ss09",
+      "for": "timeSigFractionalSlash"
+    },
+    {
+      "codepoint": "U+F4F1",
+      "feature": "ss04",
+      "for": "timeSigMinus"
+    },
+    {
+      "codepoint": "U+F516",
+      "feature": "ss09",
+      "for": "timeSigMinus"
+    },
+    {
+      "codepoint": "U+F4F2",
+      "feature": "ss04",
+      "for": "timeSigMultiply"
+    },
+    {
+      "codepoint": "U+F517",
+      "feature": "ss09",
+      "for": "timeSigMultiply"
+    },
+    {
+      "codepoint": "U+F4FE",
+      "feature": "ss04",
+      "for": "timeSigOpenPenderecki"
+    },
+    {
+      "codepoint": "U+F523",
+      "feature": "ss09",
+      "for": "timeSigOpenPenderecki"
+    },
+    {
+      "codepoint": "U+F4F5",
+      "feature": "ss04",
+      "for": "timeSigParensLeft"
+    },
+    {
+      "codepoint": "U+F51A",
+      "feature": "ss09",
+      "for": "timeSigParensLeft"
+    },
+    {
+      "codepoint": "U+F4F3",
+      "feature": "ss04",
+      "for": "timeSigParensLeftSmall"
+    },
+    {
+      "codepoint": "U+F518",
+      "feature": "ss09",
+      "for": "timeSigParensLeftSmall"
+    },
+    {
+      "codepoint": "U+F4F6",
+      "feature": "ss04",
+      "for": "timeSigParensRight"
+    },
+    {
+      "codepoint": "U+F51B",
+      "feature": "ss09",
+      "for": "timeSigParensRight"
+    },
+    {
+      "codepoint": "U+F4F4",
+      "feature": "ss04",
+      "for": "timeSigParensRightSmall"
+    },
+    {
+      "codepoint": "U+F519",
+      "feature": "ss09",
+      "for": "timeSigParensRightSmall"
+    },
+    {
+      "codepoint": "U+F44C",
+      "feature": "ss04",
+      "for": "timeSigPlus"
+    },
+    {
+      "codepoint": "U+F512",
+      "feature": "ss09",
+      "for": "timeSigPlus"
+    },
+    {
+      "codepoint": "U+F4EE",
+      "feature": "ss04",
+      "for": "timeSigPlusSmall"
+    },
+    {
+      "codepoint": "U+F513",
+      "feature": "ss09",
+      "for": "timeSigPlusSmall"
+    },
+    {
+      "codepoint": "U+F503",
+      "feature": "ss04",
+      "for": "timeSigSlash"
+    },
+    {
+      "codepoint": "U+F528",
+      "feature": "ss09",
+      "for": "timeSigSlash"
+    },
+    {
+      "codepoint": "U+F4FD",
+      "feature": "ss04",
+      "for": "timeSigX"
+    },
+    {
+      "codepoint": "U+F522",
+      "feature": "ss09",
+      "for": "timeSigX"
+    },
+    {
+      "codepoint": "U+F42F",
+      "feature": "salt",
+      "for": "tripleTongueAbove",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F430",
+      "feature": "salt",
+      "for": "tripleTongueBelow",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4CC",
+      "feature": "ss06",
+      "for": "tuplet0"
+    },
+    {
+      "codepoint": "U+F4CD",
+      "feature": "ss06",
+      "for": "tuplet1"
+    },
+    {
+      "codepoint": "U+F4CE",
+      "feature": "ss06",
+      "for": "tuplet2"
+    },
+    {
+      "codepoint": "U+F4CF",
+      "feature": "ss06",
+      "for": "tuplet3"
+    },
+    {
+      "codepoint": "U+F4D0",
+      "feature": "ss06",
+      "for": "tuplet4"
+    },
+    {
+      "codepoint": "U+F4D1",
+      "feature": "ss06",
+      "for": "tuplet5"
+    },
+    {
+      "codepoint": "U+F4D2",
+      "feature": "ss06",
+      "for": "tuplet6"
+    },
+    {
+      "codepoint": "U+F4D3",
+      "feature": "ss06",
+      "for": "tuplet7"
+    },
+    {
+      "codepoint": "U+F4D4",
+      "feature": "ss06",
+      "for": "tuplet8"
+    },
+    {
+      "codepoint": "U+F4D5",
+      "feature": "ss06",
+      "for": "tuplet9"
+    },
+    {
+      "codepoint": "U+F542",
+      "feature": "ss06",
+      "for": "tupletBracketLeftItalic"
+    },
+    {
+      "codepoint": "U+F544",
+      "feature": "ss06",
+      "for": "tupletBracketLeftRoman"
+    },
+    {
+      "codepoint": "U+F543",
+      "feature": "ss06",
+      "for": "tupletBracketRightItalic"
+    },
+    {
+      "codepoint": "U+F545",
+      "feature": "ss06",
+      "for": "tupletBracketRightRoman"
+    },
+    {
+      "codepoint": "U+F4D6",
+      "feature": "ss06",
+      "for": "tupletColon"
+    },
+    {
+      "codepoint": "U+F53E",
+      "feature": "ss06",
+      "for": "tupletParenthesisLeftItalic"
+    },
+    {
+      "codepoint": "U+F540",
+      "feature": "ss06",
+      "for": "tupletParenthesisLeftRoman"
+    },
+    {
+      "codepoint": "U+F53F",
+      "feature": "ss06",
+      "for": "tupletParenthesisRightItalic"
+    },
+    {
+      "codepoint": "U+F541",
+      "feature": "ss06",
+      "for": "tupletParenthesisRightRoman"
+    },
+    {
+      "codepoint": "U+F409",
+      "feature": "salt",
+      "for": "unpitchedPercussionClef1",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C5",
+      "feature": "salt",
+      "for": "ventiduesima",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C6",
+      "feature": "salt",
+      "for": "ventiduesimaAlta",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C7",
+      "feature": "salt",
+      "for": "ventiduesimaBassa",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4C9",
+      "feature": "salt",
+      "for": "ventiduesimaBassaMb",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4CB",
+      "feature": "salt",
+      "for": "wiggleArpeggiatoDownSwash",
+      "index": 1
+    },
+    {
+      "codepoint": "U+F4CA",
+      "feature": "salt",
+      "for": "wiggleArpeggiatoUpSwash",
+      "index": 1
+    }
+  ]
+}

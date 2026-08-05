@@ -1,0 +1,29 @@
+name: conductorSymbols
+description: Conductor symbols
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E890
+codepointRangeEnd: U+E89F
+hidden: false
+glyphs:
+- name: conductorStrongBeat
+  description: Strong beat or cue
+- name: conductorLeftBeat
+  description: Left-hand beat or cue
+- name: conductorRightBeat
+  description: Right-hand beat or cue
+- name: conductorWeakBeat
+  description: Weak beat or cue
+- name: conductorBeat2Simple
+  description: Beat 2, simple time
+- name: conductorBeat3Simple
+  description: Beat 3, simple time
+- name: conductorBeat4Simple
+  description: Beat 4, simple time
+- name: conductorBeat2Compound
+  description: Beat 2, compound time
+- name: conductorBeat3Compound
+  description: Beat 3, compound time
+- name: conductorBeat4Compound
+  description: Beat 4, compound time
+- name: conductorUnconducted
+  description: Unconducted/free passages

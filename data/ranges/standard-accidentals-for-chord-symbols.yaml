@@ -1,0 +1,66 @@
+name: standardAccidentalsChordSymbols
+description: Standard accidentals for chord symbols
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/standard_accidentals_for_chord_symbols.md
+codepointRangeStart: U+ED60
+codepointRangeEnd: U+ED6F
+hidden: false
+supplementaryTo: chord-symbols
+glyphs:
+- name: csymAccidentalFlat
+  description: Flat
+  classes:
+  - tf_chordSymbolAccidentals
+- name: csymAccidentalNatural
+  description: Natural
+  classes:
+  - tf_chordSymbolAccidentals
+- name: csymAccidentalSharp
+  description: Sharp
+  classes:
+  - tf_chordSymbolAccidentals
+- name: csymAccidentalDoubleSharp
+  description: Double sharp
+  classes:
+  - tf_chordSymbolAccidentals
+- name: csymAccidentalDoubleFlat
+  description: Double flat
+  classes:
+  - tf_chordSymbolAccidentals
+- name: csymAccidentalTripleSharp
+  description: Triple sharp
+  classes:
+  - tf_chordSymbolAccidentals
+- name: csymAccidentalTripleFlat
+  description: Triple flat
+  classes:
+  - tf_chordSymbolAccidentals
+stylisticAlternates:
+- for: csymAccidentalFlat
+  name: csymAccidentalFlatSmall
+  description: Flat (superscript or subscript)
+  set: superscript-or-subscript
+- for: csymAccidentalNatural
+  name: csymAccidentalNaturalSmall
+  description: Natural (superscript or subscript)
+  set: superscript-or-subscript
+- for: csymAccidentalSharp
+  name: csymAccidentalSharpSmall
+  description: Sharp (superscript or subscript)
+  set: superscript-or-subscript
+- for: csymAccidentalDoubleSharp
+  name: csymAccidentalDoubleSharpSmall
+  description: Double sharp (superscript or subscript)
+  set: superscript-or-subscript
+- for: csymAccidentalDoubleFlat
+  name: csymAccidentalDoubleFlatSmall
+  description: Double flat (superscript or subscript)
+  set: superscript-or-subscript
+- for: csymAccidentalTripleSharp
+  name: csymAccidentalTripleSharpSmall
+  description: Triple sharp (superscript or subscript)
+  set: superscript-or-subscript
+- for: csymAccidentalTripleFlat
+  name: csymAccidentalTripleFlatSmall
+  description: Triple flat (superscript or subscript)
+  set: superscript-or-subscript

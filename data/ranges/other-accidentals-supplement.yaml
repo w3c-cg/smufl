@@ -1,0 +1,46 @@
+name: otherAccidentalsSupplement
+description: Other accidentals supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EE60
+codepointRangeEnd: U+EE6F
+hidden: false
+supplementaryTo: other-accidentals
+glyphs:
+- name: accidentalUpsAndDownsUp
+  description: Accidental up
+  classes:
+  - accidentals
+- name: accidentalUpsAndDownsDown
+  description: Accidental down
+  classes:
+  - accidentals
+- name: accidentalUpsAndDownsMore
+  description: Accidental more
+  classes:
+  - accidentals
+- name: accidentalUpsAndDownsLess
+  description: Accidental less
+  classes:
+  - accidentals
+- name: accidentalHabaQuarterToneHigher
+  description: Quarter-tone higher (Alois Hába)
+  classes:
+  - accidentals
+- name: accidentalHabaFlatQuarterToneHigher
+  description: Quarter-tone higher (Alois Hába)
+  classes:
+  - accidentals
+- name: accidentalHabaSharpThreeQuarterTonesHigher
+  description: Three quarter-tones higher (Alois Hába)
+  classes:
+  - accidentals
+- name: accidentalHabaQuarterToneLower
+  description: Quarter-tone lower (Alois Hába)
+  classes:
+  - accidentals
+- name: accidentalHabaSharpQuarterToneLower
+  description: Quarter-tone lower (Alois Hába)
+  classes:
+  - accidentals
+- name: accidentalHabaFlatThreeQuarterTonesLower
+  description: Three quarter-tones lower (Alois Hába)

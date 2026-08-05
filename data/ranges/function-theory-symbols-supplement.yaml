@@ -1,0 +1,16 @@
+name: functionTheorySymbolsSupplement
+description: Function theory symbols supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ED00
+codepointRangeEnd: U+ED0F
+hidden: false
+supplementaryTo: function-theory-symbols
+glyphs:
+- name: functionMUpper
+  description: Function theory M
+- name: functionMLower
+  description: Function theory m
+- name: functionNUpperSuperscript
+  description: Function theory superscript N
+- name: functionRLower
+  description: Function theory r

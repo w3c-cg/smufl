@@ -1,0 +1,112 @@
+name: shapeNoteNoteheads
+description: Shape note noteheads
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/shape_note_noteheads.md
+codepointRangeStart: U+E1B0
+codepointRangeEnd: U+E1CF
+hidden: false
+glyphs:
+- name: noteShapeRoundWhite
+  description: Round white (4-shape sol; 7-shape so)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeRoundBlack
+  description: Round black (4-shape sol; 7-shape so)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeSquareWhite
+  description: Square white (4-shape la; Aikin 7-shape la)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeSquareBlack
+  description: Square black (4-shape la; Aikin 7-shape la)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleRightWhite
+  description: Triangle right white (stem down; 4-shape fa; 7-shape fa)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleRightBlack
+  description: Triangle right black (stem down; 4-shape fa; 7-shape fa)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleLeftWhite
+  description: Triangle left white (stem up; 4-shape fa; 7-shape fa)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleLeftBlack
+  description: Triangle left black (stem up; 4-shape fa; 7-shape fa)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeDiamondWhite
+  description: Diamond white (4-shape mi; 7-shape mi)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeDiamondBlack
+  description: Diamond black (4-shape mi; 7-shape mi)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleUpWhite
+  description: Triangle up white (Aikin 7-shape do)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleUpBlack
+  description: Triangle up black (Aikin 7-shape do)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeMoonWhite
+  description: Moon white (Aikin 7-shape re)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeMoonBlack
+  description: Moon black (Aikin 7-shape re)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleRoundWhite
+  description: Triangle-round white (Aikin 7-shape ti)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeTriangleRoundBlack
+  description: Triangle-round black (Aikin 7-shape ti)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSacredHarp
+- name: noteShapeKeystoneWhite
+  description: Inverted keystone white (Walker 7-shape do)
+- name: noteShapeKeystoneBlack
+  description: Inverted keystone black (Walker 7-shape do)
+- name: noteShapeQuarterMoonWhite
+  description: Quarter moon white (Walker 7-shape re)
+- name: noteShapeQuarterMoonBlack
+  description: Quarter moon black (Walker 7-shape re)
+- name: noteShapeIsoscelesTriangleWhite
+  description: Isosceles triangle white (Walker 7-shape ti)
+- name: noteShapeIsoscelesTriangleBlack
+  description: Isosceles triangle black (Walker 7-shape ti)
+- name: noteShapeMoonLeftWhite
+  description: Moon left white (Funk 7-shape do)
+- name: noteShapeMoonLeftBlack
+  description: Moon left black (Funk 7-shape do)
+- name: noteShapeArrowheadLeftWhite
+  description: Arrowhead left white (Funk 7-shape re)
+- name: noteShapeArrowheadLeftBlack
+  description: Arrowhead left black (Funk 7-shape re)
+- name: noteShapeTriangleRoundLeftWhite
+  description: Triangle-round left white (Funk 7-shape ti)
+- name: noteShapeTriangleRoundLeftBlack
+  description: Triangle-round left black (Funk 7-shape ti)

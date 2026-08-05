@@ -1,0 +1,90 @@
+name: stems
+description: Stems
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/stems.md
+codepointRangeStart: U+E210
+codepointRangeEnd: U+E21F
+hidden: false
+glyphs:
+- name: stem
+  description: Combining stem
+  alternateCodepoint: U+1D165
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemSprechgesang
+  description: Combining sprechgesang stem
+  alternateCodepoint: U+1D166
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemSwished
+  description: Combining swished stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemPendereckiTremolo
+  description: Combining Penderecki unmeasured tremolo stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemSulPonticello
+  description: Combining sul ponticello (bow behind bridge) stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemBowOnBridge
+  description: Combining bow on bridge stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemBowOnTailpiece
+  description: Combining bow on tailpiece stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemBuzzRoll
+  description: Combining buzz roll stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemDamp
+  description: Combining damp stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemVibratoPulse
+  description: Combining vibrato pulse accent (Saunders) stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemMultiphonicsBlack
+  description: Combining multiphonics (black) stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemMultiphonicsWhite
+  description: Combining multiphonics (white) stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemMultiphonicsBlackWhite
+  description: Combining multiphonics (black and white) stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemSussurando
+  description: Combining sussurando stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemRimShot
+  description: Combining rim shot stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications
+- name: stemHarpStringNoise
+  description: Combining harp string noise stem
+  classes:
+  - combiningStaffPositions
+  - forTextBasedApplications

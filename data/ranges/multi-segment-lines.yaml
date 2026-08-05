@@ -1,0 +1,444 @@
+name: multiSegmentLines
+description: Multi-segment lines
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/multi-segment_lines.md
+codepointRangeStart: U+EAA0
+codepointRangeEnd: U+EB0F
+hidden: false
+glyphs:
+- name: wiggleTrillFastest
+  description: Trill wiggle segment, fastest
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrillFasterStill
+  description: Trill wiggle segment, faster still
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrillFaster
+  description: Trill wiggle segment, faster
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrillFast
+  description: Trill wiggle segment, fast
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrill
+  description: Trill wiggle segment
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrillSlow
+  description: Trill wiggle segment, slow
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrillSlower
+  description: Trill wiggle segment, slower
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrillSlowerStill
+  description: Trill wiggle segment, slower still
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleTrillSlowest
+  description: Trill wiggle segment, slowest
+  classes:
+  - multiGlyphForms
+  - wigglesTrill
+- name: wiggleArpeggiatoUp
+  description: Arpeggiato wiggle segment, upwards
+  classes:
+  - multiGlyphForms
+  - wigglesArpeggiato
+  - wigglesArpeggiatoUp
+- name: wiggleArpeggiatoDown
+  description: Arpeggiato wiggle segment, downwards
+  classes:
+  - multiGlyphForms
+  - wigglesArpeggiato
+  - wigglesArpeggiatoDown
+- name: wiggleArpeggiatoUpSwash
+  description: Arpeggiato upward swash
+  classes:
+  - multiGlyphForms
+  - wigglesArpeggiato
+  - wigglesArpeggiatoUp
+- name: wiggleArpeggiatoDownSwash
+  description: Arpeggiato downward swash
+  classes:
+  - multiGlyphForms
+  - wigglesArpeggiato
+  - wigglesArpeggiatoDown
+- name: wiggleArpeggiatoUpArrow
+  description: Arpeggiato arrowhead up
+  classes:
+  - multiGlyphForms
+  - wigglesArpeggiato
+  - wigglesArpeggiatoUp
+- name: wiggleArpeggiatoDownArrow
+  description: Arpeggiato arrowhead down
+  classes:
+  - multiGlyphForms
+  - wigglesArpeggiato
+  - wigglesArpeggiatoDown
+- name: wiggleGlissando
+  description: Glissando wiggle segment
+  classes:
+  - multiGlyphForms
+- name: wiggleVibrato
+  description: Vibrato / shake wiggle segment
+  classes:
+  - multiGlyphForms
+  - wigglesVibrato
+- name: wiggleVibratoWide
+  description: Wide vibrato / shake wiggle segment
+  classes:
+  - multiGlyphForms
+  - wigglesVibrato
+- name: guitarVibratoStroke
+  description: Vibrato wiggle segment
+  classes:
+  - multiGlyphForms
+  - wigglesVibrato
+- name: guitarWideVibratoStroke
+  description: Wide vibrato wiggle segment
+  classes:
+  - multiGlyphForms
+  - wigglesVibrato
+- name: wiggleWavyNarrow
+  description: Narrow wavy line segment
+- name: wiggleWavy
+  description: Wavy line segment
+  classes:
+  - multiGlyphForms
+- name: wiggleWavyWide
+  description: Wide wavy line segment
+- name: wiggleSquareWaveNarrow
+  description: Narrow square wave line segment
+- name: wiggleSquareWave
+  description: Square wave line segment
+  classes:
+  - multiGlyphForms
+- name: wiggleSquareWaveWide
+  description: Wide square wave line segment
+- name: wiggleSawtoothNarrow
+  description: Narrow sawtooth line segment
+- name: wiggleSawtooth
+  description: Sawtooth line segment
+  classes:
+  - multiGlyphForms
+- name: wiggleSawtoothWide
+  description: Wide sawtooth line segment
+- name: wiggleGlissandoGroup1
+  description: Group glissando 1
+  classes:
+  - multiGlyphForms
+- name: wiggleGlissandoGroup2
+  description: Group glissando 2
+  classes:
+  - multiGlyphForms
+- name: wiggleGlissandoGroup3
+  description: Group glissando 3
+  classes:
+  - multiGlyphForms
+- name: wiggleCircularConstant
+  description: Constant circular motion segment
+  classes:
+  - multiGlyphForms
+- name: wiggleCircularConstantFlipped
+  description: Constant circular motion segment (flipped)
+  classes:
+  - multiGlyphForms
+- name: wiggleCircularConstantLarge
+  description: Constant circular motion segment (large)
+  classes:
+  - multiGlyphForms
+- name: wiggleCircularConstantFlippedLarge
+  description: Constant circular motion segment (flipped, large)
+  classes:
+  - multiGlyphForms
+- name: wiggleCircularStart
+  description: Circular motion start
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleCircularLargest
+  description: Circular motion segment, largest
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleCircularLargerStill
+  description: Circular motion segment, larger still
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleCircularLarger
+  description: Circular motion segment, larger
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleCircularLarge
+  description: Circular motion segment, large
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleCircular
+  description: Circular motion segment
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleCircularSmall
+  description: Circular motion segment, small
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleCircularEnd
+  description: Circular motion end
+  classes:
+  - multiGlyphForms
+  - wigglesCircularMotion
+- name: wiggleVibratoStart
+  description: Vibrato start
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallestFastest
+  description: Vibrato smallest, fastest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallestFasterStill
+  description: Vibrato smallest, faster still
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallestFaster
+  description: Vibrato smallest, faster
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallestFast
+  description: Vibrato smallest, fast
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallestSlow
+  description: Vibrato smallest, slow
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallestSlower
+  description: Vibrato smallest, slower
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallestSlowest
+  description: Vibrato smallest, slowest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallFastest
+  description: Vibrato small, fastest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallFasterStill
+  description: Vibrato small, faster still
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallFaster
+  description: Vibrato small, faster
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallFast
+  description: Vibrato small, fast
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallSlow
+  description: Vibrato small, slow
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallSlower
+  description: Vibrato small, slower
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoSmallSlowest
+  description: Vibrato small, slowest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoMediumFastest
+  description: Vibrato medium, fastest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoMediumFasterStill
+  description: Vibrato medium, faster still
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoMediumFaster
+  description: Vibrato medium, faster
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoMediumFast
+  description: Vibrato medium, fast
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoMediumSlow
+  description: Vibrato medium, slow
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVIbratoMediumSlower
+  description: Vibrato medium, slower
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoMediumSlowest
+  description: Vibrato medium, slowest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargeFastest
+  description: Vibrato large, fastest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargeFasterStill
+  description: Vibrato large, faster still
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargeFaster
+  description: Vibrato large, faster
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargeFast
+  description: Vibrato large, fast
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargeSlow
+  description: Vibrato large, slow
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargeSlower
+  description: Vibrato large, slower
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargeSlowest
+  description: Vibrato large, slowest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargestFastest
+  description: Vibrato largest, fastest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargestFasterStill
+  description: Vibrato largest, faster still
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargestFaster
+  description: Vibrato largest, faster
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargestFast
+  description: Vibrato largest, fast
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargestSlow
+  description: Vibrato largest, slow
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVIbratoLargestSlower
+  description: Vibrato largest, slower
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleVibratoLargestSlowest
+  description: Vibrato largest, slowest
+  classes:
+  - multiGlyphForms
+  - wigglesVibratoVariable
+- name: wiggleRandom1
+  description: Quasi-random squiggle 1
+  classes:
+  - multiGlyphForms
+  - wigglesQuasiRandom
+- name: wiggleRandom2
+  description: Quasi-random squiggle 2
+  classes:
+  - multiGlyphForms
+  - wigglesQuasiRandom
+- name: wiggleRandom3
+  description: Quasi-random squiggle 3
+  classes:
+  - multiGlyphForms
+  - wigglesQuasiRandom
+- name: wiggleRandom4
+  description: Quasi-random squiggle 4
+  classes:
+  - multiGlyphForms
+  - wigglesQuasiRandom
+- name: beamAccelRit1
+  description: Accel./rit. beam 1 (widest)
+- name: beamAccelRit2
+  description: Accel./rit. beam 2
+- name: beamAccelRit3
+  description: Accel./rit. beam 3
+- name: beamAccelRit4
+  description: Accel./rit. beam 4
+- name: beamAccelRit5
+  description: Accel./rit. beam 5
+- name: beamAccelRit6
+  description: Accel./rit. beam 6
+- name: beamAccelRit7
+  description: Accel./rit. beam 7
+- name: beamAccelRit8
+  description: Accel./rit. beam 8
+- name: beamAccelRit9
+  description: Accel./rit. beam 9
+- name: beamAccelRit10
+  description: Accel./rit. beam 10
+- name: beamAccelRit11
+  description: Accel./rit. beam 11
+- name: beamAccelRit12
+  description: Accel./rit. beam 12
+- name: beamAccelRit13
+  description: Accel./rit. beam 13
+- name: beamAccelRit14
+  description: Accel./rit. beam 14
+- name: beamAccelRit15
+  description: Accel./rit. beam 15 (narrowest)
+- name: beamAccelRitFinal
+  description: Accel./rit. beam terminating line
+stylisticAlternates:
+- for: wiggleArpeggiatoUpSwash
+  name: wiggleArpeggiatoUpSwashCouperin
+  description: Arpeggiato upward swash (Couperin)
+- for: wiggleArpeggiatoDownSwash
+  name: wiggleArpeggiatoDownSwashCouperin
+  description: Arpeggiato downward swash (Couperin)

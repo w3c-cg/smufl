@@ -1,0 +1,135 @@
+name: organGerman
+description: German organ tablature
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EE00
+codepointRangeEnd: U+EE4F
+hidden: false
+glyphs:
+- name: organGermanCUpper
+  description: German organ tablature great C
+- name: organGermanCisUpper
+  description: German organ tablature great Cis
+- name: organGermanDUpper
+  description: German organ tablature great D
+- name: organGermanDisUpper
+  description: German organ tablature great Dis
+- name: organGermanEUpper
+  description: German organ tablature great E
+- name: organGermanFUpper
+  description: German organ tablature great F
+- name: organGermanFisUpper
+  description: German organ tablature great Fis
+- name: organGermanGUpper
+  description: German organ tablature great G
+- name: organGermanGisUpper
+  description: German organ tablature great Gis
+- name: organGermanAUpper
+  description: German organ tablature great A
+- name: organGermanBUpper
+  description: German organ tablature great B
+- name: organGermanHUpper
+  description: German organ tablature great H
+- name: organGermanCLower
+  description: German organ tablature small C
+- name: organGermanCisLower
+  description: German organ tablature small Cis
+- name: organGermanDLower
+  description: German organ tablature small D
+- name: organGermanDisLower
+  description: German organ tablature small Dis
+- name: organGermanELower
+  description: German organ tablature small E
+- name: organGermanFLower
+  description: German organ tablature small F
+- name: organGermanFisLower
+  description: German organ tablature small Fis
+- name: organGermanGLower
+  description: German organ tablature small G
+- name: organGermanGisLower
+  description: German organ tablature small Gis
+- name: organGermanALower
+  description: German organ tablature small A
+- name: organGermanBLower
+  description: German organ tablature small B
+- name: organGermanHLower
+  description: German organ tablature small H
+- name: organGermanOctaveUp
+  description: Combining single octave line above
+- name: organGerman2OctaveUp
+  description: Combining double octave line above
+- name: organGermanOctaveDown
+  description: Combining single octave line below
+- name: organGermanTie
+  description: Tie
+- name: organGermanAugmentationDot
+  description: Rhythm Dot
+- name: organGermanBuxheimerSemibrevisRest
+  description: Semibrevis Rest Buxheimer Orgelbuch
+- name: organGermanBuxheimerMinimaRest
+  description: Minima Rest Buxheimer Orgelbuch
+- name: organGermanSemibrevisRest
+  description: Semibrevis Rest
+- name: organGermanMinimaRest
+  description: Minima Rest
+- name: organGermanSemiminimaRest
+  description: Semiminima Rest
+- name: organGermanFusaRest
+  description: Fusa Rest
+- name: organGermanSemifusaRest
+  description: Semifusa Rest
+- name: organGermanBuxheimerBrevis3
+  description: Brevis (Ternary) Buxheimer Orgelbuch
+- name: organGermanBuxheimerBrevis2
+  description: Brevis (Binary) Buxheimer Orgelbuch
+- name: organGermanBuxheimerSemibrevis
+  description: Semibrevis Buxheimer Orgelbuch
+- name: organGermanSemibrevis
+  description: Semibrevis
+- name: organGermanMinima
+  description: Minima
+- name: organGermanSemiminima
+  description: Semiminima
+- name: organGermanFusa
+  description: Fusa
+- name: organGermanSemifusa
+  description: Semifusa
+- name: organGerman2Minimae
+  description: Two Minimae
+- name: organGerman2Semiminimae
+  description: Two Semiminimae
+- name: organGerman2Fusae
+  description: Two Fusae
+- name: organGerman2Semifusae
+  description: Two Semifusae
+- name: organGerman3Minimae
+  description: Three Minimae
+- name: organGerman3Semiminimae
+  description: Three Semiminimae
+- name: organGerman3Fusae
+  description: Three Fusae
+- name: organGerman3Semifusae
+  description: Three Semifusae
+- name: organGerman4Minimae
+  description: Four Minimae
+- name: organGerman4Semiminimae
+  description: Four Semiminimae
+- name: organGerman4Fusae
+  description: Four Fusae
+- name: organGerman4Semifusae
+  description: Four Semifusae
+- name: organGerman5Minimae
+  description: Five Minimae
+- name: organGerman5Semiminimae
+  description: Five Semiminimae
+- name: organGerman5Fusae
+  description: Five Fusae
+- name: organGerman5Semifusae
+  description: Five Semifusae
+- name: organGerman6Minimae
+  description: Six Minimae
+- name: organGerman6Semiminimae
+  description: Six Semiminimae
+- name: organGerman6Fusae
+  description: Six Fusae
+- name: organGerman6Semifusae
+  description: Six Semifusae

@@ -1,0 +1,21 @@
+name: kodályHandSigns
+description: Kodály hand signs
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EC40
+codepointRangeEnd: U+EC4F
+hidden: false
+glyphs:
+- name: kodalyHandDo
+  description: Do hand sign
+- name: kodalyHandRe
+  description: Re hand sign
+- name: kodalyHandMi
+  description: Mi hand sign
+- name: kodalyHandFa
+  description: Fa hand sign
+- name: kodalyHandSo
+  description: So hand sign
+- name: kodalyHandLa
+  description: La hand sign
+- name: kodalyHandTi
+  description: Ti hand sign

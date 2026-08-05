@@ -1,0 +1,58 @@
+name: bellsPictograms
+description: Bells pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E710
+codepointRangeEnd: U+E71F
+hidden: false
+glyphs:
+- name: pictSleighBell
+  description: Sleigh bell
+  classes:
+  - tf_pictograms
+- name: pictCowBell
+  description: Cow bell
+  classes:
+  - tf_pictograms
+- name: pictAlmglocken
+  description: Almglocken
+  classes:
+  - tf_pictograms
+- name: pictBellPlate
+  description: Bell plate
+  classes:
+  - tf_pictograms
+- name: pictBell
+  description: Bell
+  classes:
+  - tf_pictograms
+- name: pictHandbell
+  description: Handbell
+  classes:
+  - tf_pictograms
+- name: pictCencerro
+  description: Cencerro
+  classes:
+  - tf_pictograms
+- name: pictAgogo
+  description: Agogo
+  classes:
+  - tf_pictograms
+- name: pictShellBells
+  description: Shell bells
+  classes:
+  - tf_pictograms
+- name: pictJingleBells
+  description: Jingle bells
+  classes:
+  - tf_pictograms
+- name: pictBellTree
+  description: Bell tree
+  classes:
+  - tf_pictograms
+stylisticAlternates:
+- for: pictSleighBell
+  name: pictSleighBellSmithBrindle
+  description: Sleigh bell (Smith Brindle)
+- for: pictCowBell
+  name: pictCowBellBerio
+  description: Cow bell (Berio)

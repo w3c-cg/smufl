@@ -1,0 +1,47 @@
+name: medievalAndRenaissancePlainchantArticulations
+description: Medieval and Renaissance plainchant articulations
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E9D0
+codepointRangeEnd: U+E9DF
+hidden: false
+glyphs:
+- name: chantIctusAbove
+  description: Ictus above
+  classes:
+  - combiningStaffPositions
+- name: chantIctusBelow
+  description: Ictus below
+  classes:
+  - combiningStaffPositions
+- name: chantCirculusAbove
+  description: Circulus above
+  classes:
+  - combiningStaffPositions
+- name: chantCirculusBelow
+  description: Circulus below
+  classes:
+  - combiningStaffPositions
+- name: chantSemicirculusAbove
+  description: Semicirculus above
+  classes:
+  - combiningStaffPositions
+- name: chantSemicirculusBelow
+  description: Semicirculus below
+  classes:
+  - combiningStaffPositions
+- name: chantAccentusAbove
+  description: Accentus above
+  classes:
+  - combiningStaffPositions
+- name: chantAccentusBelow
+  description: Accentus below
+  classes:
+  - combiningStaffPositions
+- name: chantEpisema
+  description: Episema
+  classes:
+  - combiningStaffPositions
+- name: chantAugmentum
+  description: Augmentum (mora)
+  classes:
+  - combiningStaffPositions

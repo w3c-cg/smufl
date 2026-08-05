@@ -1,0 +1,239 @@
+name: accordion
+description: Accordion
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E8A0
+codepointRangeEnd: U+E8DF
+hidden: false
+glyphs:
+- name: accdnRH3RanksPiccolo
+  description: Right hand, 3 ranks, 4' stop (piccolo)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksClarinet
+  description: Right hand, 3 ranks, 8' stop (clarinet)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksUpperTremolo8
+  description: Right hand, 3 ranks, upper tremolo 8' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksLowerTremolo8
+  description: Right hand, 3 ranks, lower tremolo 8' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksBassoon
+  description: Right hand, 3 ranks, 16' stop (bassoon)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksOboe
+  description: Right hand, 3 ranks, 4' stop + 8' stop (oboe)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksViolin
+  description: Right hand, 3 ranks, 8' stop + upper tremolo 8' stop (violin)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksImitationMusette
+  description: Right hand, 3 ranks, 4' stop + 8' stop + upper tremolo 8' stop (imitation musette)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksAuthenticMusette
+  description: Right hand, 3 ranks, lower tremolo 8' stop + 8' stop + upper tremolo 8' stop (authentic
+    musette)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksOrgan
+  description: Right hand, 3 ranks, 4' stop + 16' stop (organ)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksHarmonium
+  description: Right hand, 3 ranks, 4' stop + 8' stop + 16' stop (harmonium)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksBandoneon
+  description: Right hand, 3 ranks, 8' stop + 16' stop (bandoneón)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksAccordion
+  description: Right hand, 3 ranks, 8' stop + upper tremolo 8' stop + 16' stop (accordion)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksMaster
+  description: Right hand, 3 ranks, 4' stop + lower tremolo 8' stop + upper tremolo 8' stop + 16' stop
+    (master)
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksTwoChoirs
+  description: Right hand, 3 ranks, lower tremolo 8' stop + upper tremolo 8' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksTremoloLower8ve
+  description: Right hand, 3 ranks, lower tremolo 8' stop + upper tremolo 8' stop + 16' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksTremoloUpper8ve
+  description: Right hand, 3 ranks, 4' stop + lower tremolo 8' stop + upper tremolo 8' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksDoubleTremoloLower8ve
+  description: Right hand, 3 ranks, lower tremolo 8' stop + 8' stop + upper tremolo 8' stop + 16' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksDoubleTremoloUpper8ve
+  description: Right hand, 3 ranks, 4' stop + lower tremolo 8' stop + 8' stop + upper tremolo 8' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH3RanksFullFactory
+  description: Right hand, 3 ranks, 4' stop + lower tremolo 8' stop + 8' stop + upper tremolo 8' stop
+    + 16' stop
+  classes:
+  - tf_pictograms
+- name: accdnRH4RanksSoprano
+  description: Right hand, 4 ranks, soprano
+  classes:
+  - tf_pictograms
+- name: accdnRH4RanksAlto
+  description: Right hand, 4 ranks, alto
+  classes:
+  - tf_pictograms
+- name: accdnRH4RanksTenor
+  description: Right hand, 4 ranks, tenor
+  classes:
+  - tf_pictograms
+- name: accdnRH4RanksMaster
+  description: Right hand, 4 ranks, master
+  classes:
+  - tf_pictograms
+- name: accdnRH4RanksSoftBass
+  description: Right hand, 4 ranks, soft bass
+  classes:
+  - tf_pictograms
+- name: accdnRH4RanksSoftTenor
+  description: Right hand, 4 ranks, soft tenor
+  classes:
+  - tf_pictograms
+- name: accdnRH4RanksBassAlto
+  description: Right hand, 4 ranks, bass/alto
+  classes:
+  - tf_pictograms
+- name: accdnLH2Ranks8Round
+  description: Left hand, 2 ranks, 8' stop (round)
+  classes:
+  - tf_pictograms
+- name: accdnLH2Ranks16Round
+  description: Left hand, 2 ranks, 16' stop (round)
+  classes:
+  - tf_pictograms
+- name: accdnLH2Ranks8Plus16Round
+  description: Left hand, 2 ranks, 8' stop + 16' stop (round)
+  classes:
+  - tf_pictograms
+- name: accdnLH2RanksMasterRound
+  description: Left hand, 2 ranks, master (round)
+  classes:
+  - tf_pictograms
+- name: accdnLH2RanksMasterPlus16Round
+  description: Left hand, 2 ranks, master + 16' stop (round)
+  classes:
+  - tf_pictograms
+- name: accdnLH2RanksFullMasterRound
+  description: Left hand, 2 ranks, full master (round)
+  classes:
+  - tf_pictograms
+- name: accdnLH3Ranks8Square
+  description: Left hand, 3 ranks, 8' stop (square)
+  classes:
+  - tf_pictograms
+- name: accdnLH3Ranks2Square
+  description: Left hand, 3 ranks, 2' stop (square)
+  classes:
+  - tf_pictograms
+- name: accdnLH3RanksDouble8Square
+  description: Left hand, 3 ranks, double 8' stop (square)
+  classes:
+  - tf_pictograms
+- name: accdnLH3Ranks2Plus8Square
+  description: Left hand, 3 ranks, 2' stop + 8' stop (square)
+  classes:
+  - tf_pictograms
+- name: accdnLH3RanksTuttiSquare
+  description: Left hand, 3 ranks, 2' stop + double 8' stop (tutti) (square)
+  classes:
+  - tf_pictograms
+- name: accdnCombRH3RanksEmpty
+  description: Combining right hand, 3 ranks, empty
+  classes:
+  - tf_pictograms
+- name: accdnCombRH4RanksEmpty
+  description: Combining right hand, 4 ranks, empty
+  classes:
+  - tf_pictograms
+- name: accdnCombLH2RanksEmpty
+  description: Combining left hand, 2 ranks, empty
+  classes:
+  - tf_pictograms
+- name: accdnCombLH3RanksEmptySquare
+  description: Combining left hand, 3 ranks, empty (square)
+  classes:
+  - tf_pictograms
+- name: accdnCombDot
+  description: Combining accordion coupler dot
+  classes:
+  - tf_pictograms
+- name: accdnPush
+  description: Push
+  classes:
+  - tf_pictograms
+- name: accdnPull
+  description: Pull
+  classes:
+  - tf_pictograms
+- name: accdnRicochet2
+  description: Ricochet (2 tones)
+  classes:
+  - tf_pictograms
+- name: accdnRicochet3
+  description: Ricochet (3 tones)
+  classes:
+  - tf_pictograms
+- name: accdnRicochet4
+  description: Ricochet (4 tones)
+  classes:
+  - tf_pictograms
+- name: accdnRicochet5
+  description: Ricochet (5 tones)
+  classes:
+  - tf_pictograms
+- name: accdnRicochet6
+  description: Ricochet (6 tones)
+  classes:
+  - tf_pictograms
+- name: accdnRicochetStem2
+  description: Combining ricochet for stem (2 tones)
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: accdnRicochetStem3
+  description: Combining ricochet for stem (3 tones)
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: accdnRicochetStem4
+  description: Combining ricochet for stem (4 tones)
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: accdnRicochetStem5
+  description: Combining ricochet for stem (5 tones)
+  classes:
+  - stemDecorations
+  - tf_pictograms
+- name: accdnRicochetStem6
+  description: Combining ricochet for stem (6 tones)
+  classes:
+  - stemDecorations
+  - tf_pictograms
+stylisticAlternates:
+- for: accdnPush
+  name: accdnPushAlt
+  description: Push (Draugsvoll & Højsgaard)

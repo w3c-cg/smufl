@@ -1,0 +1,76 @@
+name: medievalAndRenaissancePlainchantSingleNoteForms
+description: Medieval and Renaissance plainchant single-note forms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E990
+codepointRangeEnd: U+E9AF
+hidden: false
+glyphs:
+- name: chantPunctum
+  description: Punctum
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumInclinatum
+  description: Punctum inclinatum
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumInclinatumAuctum
+  description: Punctum inclinatum auctum
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumInclinatumDeminutum
+  description: Punctum inclinatum deminutum
+  classes:
+  - combiningStaffPositions
+- name: chantAuctumAsc
+  description: Punctum auctum, ascending
+  classes:
+  - combiningStaffPositions
+- name: chantAuctumDesc
+  description: Punctum auctum, descending
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumVirga
+  description: Punctum virga
+  alternateCodepoint: U+1D1D3
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumVirgaReversed
+  description: Punctum virga, reversed
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumCavum
+  description: Punctum cavum
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumLinea
+  description: Punctum linea
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumLineaCavum
+  description: Punctum linea cavum
+  classes:
+  - combiningStaffPositions
+- name: chantQuilisma
+  description: Quilisma
+  classes:
+  - combiningStaffPositions
+- name: chantOriscusAscending
+  description: Oriscus ascending
+  classes:
+  - combiningStaffPositions
+- name: chantOriscusDescending
+  description: Oriscus descending
+  classes:
+  - combiningStaffPositions
+- name: chantOriscusLiquescens
+  description: Oriscus liquescens
+- name: chantStrophicus
+  description: Strophicus
+  classes:
+  - combiningStaffPositions
+- name: chantStrophicusAuctus
+  description: Strophicus auctus
+  classes:
+  - combiningStaffPositions
+- name: chantPunctumDeminutum
+  description: Punctum deminutum

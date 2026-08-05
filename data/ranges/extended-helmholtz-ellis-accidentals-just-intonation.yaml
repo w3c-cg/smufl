@@ -1,0 +1,360 @@
+name: extendedHelmholtzEllisAccidentalsJustIntonation
+description: Extended Helmholtz-Ellis accidentals (just intonation)
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E2C0
+codepointRangeEnd: U+E2FF
+hidden: false
+glyphs:
+- name: accidentalDoubleFlatOneArrowDown
+  description: Double flat lowered by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalFlatOneArrowDown
+  description: Flat lowered by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalNaturalOneArrowDown
+  description: Natural lowered by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalSharpOneArrowDown
+  description: Sharp lowered by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleSharpOneArrowDown
+  description: Double sharp lowered by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleFlatOneArrowUp
+  description: Double flat raised by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalFlatOneArrowUp
+  description: Flat raised by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalNaturalOneArrowUp
+  description: Natural raised by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalSharpOneArrowUp
+  description: Sharp raised by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleSharpOneArrowUp
+  description: Double sharp raised by one syntonic comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleFlatTwoArrowsDown
+  description: Double flat lowered by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalFlatTwoArrowsDown
+  description: Flat lowered by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalNaturalTwoArrowsDown
+  description: Natural lowered by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalSharpTwoArrowsDown
+  description: Sharp lowered by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleSharpTwoArrowsDown
+  description: Double sharp lowered by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleFlatTwoArrowsUp
+  description: Double flat raised by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalFlatTwoArrowsUp
+  description: Flat raised by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalNaturalTwoArrowsUp
+  description: Natural raised by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalSharpTwoArrowsUp
+  description: Sharp raised by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleSharpTwoArrowsUp
+  description: Double sharp raised by two syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleFlatThreeArrowsDown
+  description: Double flat lowered by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalFlatThreeArrowsDown
+  description: Flat lowered by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalNaturalThreeArrowsDown
+  description: Natural lowered by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalSharpThreeArrowsDown
+  description: Sharp lowered by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleSharpThreeArrowsDown
+  description: Double sharp lowered by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleFlatThreeArrowsUp
+  description: Double flat raised by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalFlatThreeArrowsUp
+  description: Flat raised by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalNaturalThreeArrowsUp
+  description: Natural raised by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalSharpThreeArrowsUp
+  description: Sharp raised by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleSharpThreeArrowsUp
+  description: Double sharp raised by three syntonic commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalLowerOneSeptimalComma
+  description: Lower by one septimal comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalRaiseOneSeptimalComma
+  description: Raise by one septimal comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalLowerTwoSeptimalCommas
+  description: Lower by two septimal commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalRaiseTwoSeptimalCommas
+  description: Raise by two septimal commas
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalLowerOneUndecimalQuartertone
+  description: Lower by one undecimal quartertone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalRaiseOneUndecimalQuartertone
+  description: Raise by one undecimal quartertone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalLowerOneTridecimalQuartertone
+  description: Lower by one tridecimal quartertone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalRaiseOneTridecimalQuartertone
+  description: Raise by one tridecimal quartertone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningLower17Schisma
+  description: Combining lower by one 17-limit schisma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningRaise17Schisma
+  description: Combining raise by one 17-limit schisma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningLower19Schisma
+  description: Combining lower by one 19-limit schisma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningRaise19Schisma
+  description: Combining raise by one 19-limit schisma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningLower23Limit29LimitComma
+  description: Combining lower by one 23-limit comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningRaise23Limit29LimitComma
+  description: Combining raise by one 23-limit comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningLower31Schisma
+  description: Combining lower by one 31-limit schisma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningRaise31Schisma
+  description: Combining raise by one 31-limit schisma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningOpenCurlyBrace
+  description: Combining open curly brace
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalCombiningCloseCurlyBrace
+  description: Combining close curly brace
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleFlatEqualTempered
+  description: Double flat equal tempered semitone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalFlatEqualTempered
+  description: Flat equal tempered semitone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalNaturalEqualTempered
+  description: Natural equal tempered semitone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalSharpEqualTempered
+  description: Sharp equal tempered semitone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalDoubleSharpEqualTempered
+  description: Double sharp equal tempered semitone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+  - combiningStaffPositions
+- name: accidentalQuarterFlatEqualTempered
+  description: Lower by one equal tempered quarter-tone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+- name: accidentalQuarterSharpEqualTempered
+  description: Raise by one equal tempered quarter tone
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningLower53LimitComma
+  description: Combining lower by one 53-limit comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+- name: accidentalCombiningRaise53LimitComma
+  description: Combining raise by one 53-limit comma
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+- name: accidentalEnharmonicTilde
+  description: Enharmonically reinterpret accidental tilde
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+- name: accidentalEnharmonicAlmostEqualTo
+  description: Enharmonically reinterpret accidental almost equal to
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis
+- name: accidentalEnharmonicEquals
+  description: Enharmonically reinterpret accidental equals
+  classes:
+  - accidentals
+  - accidentalsHelmholtzEllis

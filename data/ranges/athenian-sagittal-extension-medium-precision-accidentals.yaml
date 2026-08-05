@@ -1,0 +1,247 @@
+name: athenianSagittalExtensionMediumPrecisionAccidentals
+description: Athenian Sagittal extension (medium precision) accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E340
+codepointRangeEnd: U+E36F
+hidden: false
+glyphs:
+- name: accSagittal7v11KleismaUp
+  description: 7:11 kleisma up, (7:11k, ~29k)
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal7v11KleismaDown
+  description: 7:11 kleisma down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal17CommaUp
+  description: 17 comma up, (17C)
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal17CommaDown
+  description: 17 comma down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal55CommaUp
+  description: 55 comma up, (55C, 11M less 5C), 3°up [96 EDO], 3/16-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal55CommaDown
+  description: 55 comma down, 3° down [96 EDO], 3/16-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal7v11CommaUp
+  description: 7:11 comma up, (7:11C, ~13:17S, ~29S, 11L less 7C), 1° up [60 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal7v11CommaDown
+  description: 7:11 comma down, 1° down [60 EDO], 1/10-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal5v11SmallDiesisUp
+  description: 5:11 small diesis up, (5:11S, ~7:13S, ~11:17S, 5:7k plus 7:11C)
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittal5v11SmallDiesisDown
+  description: 5:11 small diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp5v11SDown
+  description: Sharp 5:11S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat5v11SUp
+  description: Flat 5:11S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp7v11CDown
+  description: Sharp 7:11C-down, 4° up [60 EDO], 2/5-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat7v11CUp
+  description: Flat 7:11C-up, 4° down [60 EDO], 2/5-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp55CDown
+  description: Sharp 55C-down, 5° up [96 EDO], 5/16-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat55CUp
+  description: Flat 55C-up, 5° down [96 EDO], 5/16-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp17CDown
+  description: Sharp 17C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat17CUp
+  description: Flat 17C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp7v11kDown
+  description: Sharp 7:11k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat7v11kUp
+  description: Flat 7:11k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp7v11kUp
+  description: Sharp 7:11k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat7v11kDown
+  description: Flat 7:11k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp17CUp
+  description: Sharp 17C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat17CDown
+  description: Flat 17C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp55CUp
+  description: Sharp 55C-up, 11° up [96 EDO], 11/16-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat55CDown
+  description: Flat 55C-down, 11° down [96 EDO], 11/16-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp7v11CUp
+  description: Sharp 7:11C-up, 6° up [60 EDO], 3/5- tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat7v11CDown
+  description: Flat 7:11C-down, 6° down [60 EDO], 3/5- tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalSharp5v11SUp
+  description: Sharp 5:11S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalFlat5v11SDown
+  description: Flat 5:11S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp5v11SDown
+  description: Double sharp 5:11S-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat5v11SUp
+  description: Double flat 5:11S-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp7v11CDown
+  description: Double sharp 7:11C-down, 9° up [60 EDO], 9/10-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat7v11CUp
+  description: Double flat 7:11C-up, 9° down [60 EDO], 9/10-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp55CDown
+  description: Double sharp 55C-down, 13° up [96 EDO], 13/16-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat55CUp
+  description: Double flat 55C-up, 13° down [96 EDO], 13/16-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp17CDown
+  description: Double sharp 17C-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat17CUp
+  description: Double flat 17C-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp7v11kDown
+  description: Double sharp 7:11k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat7v11kUp
+  description: Double flat 7:11k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalAthenian
+  - combiningStaffPositions

@@ -1,0 +1,32 @@
+name: herculeanSagittalExtensionVeryHighPrecisionAccidentalDiacritics
+description: Herculean Sagittal extension (very high precision) accidental diacritics
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/herculean_sagittal_extension.md
+codepointRangeStart: U+E3F0
+codepointRangeEnd: U+E3F3
+hidden: false
+glyphs:
+- name: accSagittalShaftUp
+  description: Shaft up, (natural for use with only diacritics up)
+  classes:
+  - accidentals
+  - accidentalsSagittalDiacritics
+  - combiningStaffPositions
+- name: accSagittalShaftDown
+  description: Shaft down, (natural for use with only diacritics down)
+  classes:
+  - accidentals
+  - accidentalsSagittalDiacritics
+  - combiningStaffPositions
+- name: accSagittalAcute
+  description: Acute, 5 schisma up (5s), 2 cents up
+  classes:
+  - accidentals
+  - accidentalsSagittalDiacritics
+  - combiningStaffPositions
+- name: accSagittalGrave
+  description: Grave, 5 schisma down, 2 cents down
+  classes:
+  - accidentals
+  - accidentalsSagittalDiacritics
+  - combiningStaffPositions

@@ -1,0 +1,71 @@
+name: medievalAndRenaissanceObliqueForms
+description: Medieval and Renaissance oblique forms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E970
+codepointRangeEnd: U+E98F
+hidden: false
+glyphs:
+- name: mensuralObliqueAsc2ndBlack
+  description: Oblique form, ascending 2nd, black
+- name: mensuralObliqueAsc2ndVoid
+  description: Oblique form, ascending 2nd, void
+- name: mensuralObliqueAsc2ndBlackVoid
+  description: Oblique form, ascending 2nd, black and void
+- name: mensuralObliqueAsc2ndWhite
+  description: Oblique form, ascending 2nd, white
+- name: mensuralObliqueAsc3rdBlack
+  description: Oblique form, ascending 3rd, black
+- name: mensuralObliqueAsc3rdVoid
+  description: Oblique form, ascending 3rd, void
+- name: mensuralObliqueAsc3rdBlackVoid
+  description: Oblique form, ascending 3rd, black and void
+- name: mensuralObliqueAsc3rdWhite
+  description: Oblique form, ascending 3rd, white
+- name: mensuralObliqueAsc4thBlack
+  description: Oblique form, ascending 4th, black
+- name: mensuralObliqueAsc4thVoid
+  description: Oblique form, ascending 4th, void
+- name: mensuralObliqueAsc4thBlackVoid
+  description: Oblique form, ascending 4th, black and void
+- name: mensuralObliqueAsc4thWhite
+  description: Oblique form, ascending 4th, white
+- name: mensuralObliqueAsc5thBlack
+  description: Oblique form, ascending 5th, black
+- name: mensuralObliqueAsc5thVoid
+  description: Oblique form, ascending 5th, void
+- name: mensuralObliqueAsc5thBlackVoid
+  description: Oblique form, ascending 5th, black and void
+- name: mensuralObliqueAsc5thWhite
+  description: Oblique form, ascending 5th, white
+- name: mensuralObliqueDesc2ndBlack
+  description: Oblique form, descending 2nd, black
+- name: mensuralObliqueDesc2ndVoid
+  description: Oblique form, descending 2nd, void
+- name: mensuralObliqueDesc2ndBlackVoid
+  description: Oblique form, descending 2nd, black and void
+- name: mensuralObliqueDesc2ndWhite
+  description: Oblique form, descending 2nd, white
+- name: mensuralObliqueDesc3rdBlack
+  description: Oblique form, descending 3rd, black
+- name: mensuralObliqueDesc3rdVoid
+  description: Oblique form, descending 3rd, void
+- name: mensuralObliqueDesc3rdBlackVoid
+  description: Oblique form, descending 3rd, black and void
+- name: mensuralObliqueDesc3rdWhite
+  description: Oblique form, descending 3rd, white
+- name: mensuralObliqueDesc4thBlack
+  description: Oblique form, descending 4th, black
+- name: mensuralObliqueDesc4thVoid
+  description: Oblique form, descending 4th, void
+- name: mensuralObliqueDesc4thBlackVoid
+  description: Oblique form, descending 4th, black and void
+- name: mensuralObliqueDesc4thWhite
+  description: Oblique form, descending 4th, white
+- name: mensuralObliqueDesc5thBlack
+  description: Oblique form, descending 5th, black
+- name: mensuralObliqueDesc5thVoid
+  description: Oblique form, descending 5th, void
+- name: mensuralObliqueDesc5thBlackVoid
+  description: Oblique form, descending 5th, black and void
+- name: mensuralObliqueDesc5thWhite
+  description: Oblique form, descending 5th, white

@@ -1,0 +1,32 @@
+name: chopNotation
+description: Chop (percussive bowing) notation
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/chop-percussive-bowing-notation.md
+codepointRangeStart: U+EE80
+codepointRangeEnd: U+EE8F
+hidden: false
+glyphs:
+- name: stringsDownBowTowardsBody
+  description: Down bow, towards body
+- name: stringsUpBowTowardsBody
+  description: Up bow, towards body
+- name: stringsDownBowAwayFromBody
+  description: Down bow, away from body
+- name: stringsUpBowAwayFromBody
+  description: Up bow, away from body
+- name: stringsDownBowBeyondBridge
+  description: Down bow, beyond bridge
+- name: stringsUpBowBeyondBridge
+  description: Up bow, beyond bridge
+- name: stringsScrapeParallelInward
+  description: Scrape, parallel inward
+- name: stringsScrapeParallelOutward
+  description: Scrape, parallel outward
+- name: stringsScrapeCircularClockwise
+  description: Scrape, circular clockwise
+- name: stringsScrapeCircularCounterclockwise
+  description: Scrape, circular counter-clockwise
+- name: stringsTripleChopInward
+  description: Triple chop, inward
+- name: stringsTripleChopOutward
+  description: Triple chop, outward

@@ -1,0 +1,52 @@
+name: arabicAccidentals
+description: Arabic accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ED30
+codepointRangeEnd: U+ED3F
+hidden: false
+glyphs:
+- name: accidentalDoubleFlatArabic
+  description: Arabic double flat
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalThreeQuarterTonesFlatArabic
+  description: Arabic three-quarter-tones flat
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalFlatArabic
+  description: Arabic half-tone flat
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalQuarterToneFlatArabic
+  description: Arabic quarter-tone flat
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalNaturalArabic
+  description: Arabic natural
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalQuarterToneSharpArabic
+  description: Arabic quarter-tone sharp
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalSharpArabic
+  description: Arabic half-tone sharp
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalThreeQuarterTonesSharpArabic
+  description: Arabic three-quarter-tones sharp
+  classes:
+  - accidentals
+  - accidentalsArabic
+- name: accidentalDoubleSharpArabic
+  description: Arabic double sharp
+  classes:
+  - accidentals
+  - accidentalsArabic

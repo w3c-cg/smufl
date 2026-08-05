@@ -1,0 +1,79 @@
+name: timeSignaturesSupplement
+description: Time signatures supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EC80
+codepointRangeEnd: U+EC8F
+hidden: false
+supplementaryTo: time-signatures
+glyphs:
+- name: timeSigBracketLeft
+  description: Left bracket for whole time signature
+- name: timeSigBracketRight
+  description: Right bracket for whole time signature
+- name: timeSigBracketLeftSmall
+  description: Left bracket for numerator only
+- name: timeSigBracketRightSmall
+  description: Right bracket for numerator only
+- name: timeSigSlash
+  description: Time signature slash separator
+- name: timeSigCut2
+  description: Cut time (Bach)
+- name: timeSigCut3
+  description: Cut triple time (9/8)
+stylisticAlternates:
+- for: timeSigBracketLeft
+  name: timeSigBracketLeftLarge
+  description: Left bracket for whole time signature (outside staff)
+  set: outside-staff
+- for: timeSigBracketLeft
+  name: timeSigBracketLeftNarrow
+  description: Left bracket for whole time signature (narrow, large)
+  set: large-narrow
+- for: timeSigBracketRight
+  name: timeSigBracketRightLarge
+  description: Right bracket for whole time signature (outside staff)
+  set: outside-staff
+- for: timeSigBracketRight
+  name: timeSigBracketRightNarrow
+  description: Right bracket for whole time signature (large, narrow)
+  set: large-narrow
+- for: timeSigBracketLeftSmall
+  name: timeSigBracketLeftSmallLarge
+  description: Left bracket for numerator only (outside staff)
+  set: outside-staff
+- for: timeSigBracketLeftSmall
+  name: timeSigBracketLeftSmallNarrow
+  description: Left bracket for numerator only (large, narrow)
+  set: large-narrow
+- for: timeSigBracketRightSmall
+  name: timeSigBracketRightSmallLarge
+  description: Right bracket for numerator only (outside staff)
+  set: outside-staff
+- for: timeSigBracketRightSmall
+  name: timeSigBracketRightSmallNarrow
+  description: Right bracket for numerator only (large, narrow)
+  set: large-narrow
+- for: timeSigSlash
+  name: timeSigSlashLarge
+  description: Time signature slash separator (outside staff)
+  set: outside-staff
+- for: timeSigSlash
+  name: timeSigSlashNarrow
+  description: Time signature slash separator (large, narrow)
+  set: large-narrow
+- for: timeSigCut2
+  name: timeSigCut2Large
+  description: Cut time (Bach) (outside staff)
+  set: outside-staff
+- for: timeSigCut2
+  name: timeSigCut2Narrow
+  description: Cut time (Bach) (large, narrow)
+  set: large-narrow
+- for: timeSigCut3
+  name: timeSigCut3Large
+  description: Cut triple time (9/8) (outside staff)
+  set: outside-staff
+- for: timeSigCut3
+  name: timeSigCut3Narrow
+  description: Cut triple time (9/8) (large, narrow)
+  set: large-narrow

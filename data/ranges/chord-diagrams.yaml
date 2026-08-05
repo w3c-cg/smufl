@@ -1,0 +1,32 @@
+name: chordDiagrams
+description: Chord diagrams
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/chord-diagrams.md
+codepointRangeStart: U+E850
+codepointRangeEnd: U+E85F
+hidden: false
+glyphs:
+- name: fretboard3String
+  description: 3-string fretboard
+- name: fretboard3StringNut
+  description: 3-string fretboard at nut
+- name: fretboard4String
+  description: 4-string fretboard
+  alternateCodepoint: U+1D11D
+- name: fretboard4StringNut
+  description: 4-string fretboard at nut
+- name: fretboard5String
+  description: 5-string fretboard
+- name: fretboard5StringNut
+  description: 5-string fretboard at nut
+- name: fretboard6String
+  description: 6-string fretboard
+  alternateCodepoint: U+1D11C
+- name: fretboard6StringNut
+  description: 6-string fretboard at nut
+- name: fretboardFilledCircle
+  description: Fingered fret (filled circle)
+- name: fretboardX
+  description: String not played (X)
+- name: fretboardO
+  description: Open string (O)

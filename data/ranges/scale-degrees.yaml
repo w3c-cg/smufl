@@ -1,0 +1,25 @@
+name: scaleDegrees
+description: Scale degrees
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EF00
+codepointRangeEnd: U+EF0F
+hidden: false
+glyphs:
+- name: scaleDegree1
+  description: Scale degree 1
+- name: scaleDegree2
+  description: Scale degree 2
+- name: scaleDegree3
+  description: Scale degree 3
+- name: scaleDegree4
+  description: Scale degree 4
+- name: scaleDegree5
+  description: Scale degree 5
+- name: scaleDegree6
+  description: Scale degree 6
+- name: scaleDegree7
+  description: Scale degree 7
+- name: scaleDegree8
+  description: Scale degree 8
+- name: scaleDegree9
+  description: Scale degree 9

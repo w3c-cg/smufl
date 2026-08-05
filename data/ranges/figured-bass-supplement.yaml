@@ -1,0 +1,30 @@
+name: figuredBassSupplement
+description: Figured bass supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ECC0
+codepointRangeEnd: U+ECCF
+hidden: false
+supplementaryTo: figured-bass
+glyphs:
+- name: figbass7Diminished
+  description: Figured bass 7 diminished
+  classes:
+  - figuredBass
+  - tf_figuredBass
+- name: figbassTripleFlat
+  description: Figured bass triple flat
+  classes:
+  - figuredBass
+- name: figbassTripleSharp
+  description: Figured bass triple sharp
+  classes:
+  - figuredBass
+stylisticAlternates:
+- for: figbassTripleFlat
+  name: figbassTripleFlatLongerStem
+  description: Figured bass triple flat (longer stem)
+  set: longer-stem
+- for: figbassTripleSharp
+  name: figbassTripleSharpLongerStem
+  description: Figured bass triple sharp (longer stem)
+  set: longer-stem

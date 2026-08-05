@@ -1,0 +1,12 @@
+name: clefsSupplement
+description: Clefs supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ED70
+codepointRangeEnd: U+ED7F
+hidden: false
+supplementaryTo: clefs
+glyphs:
+- name: indianDrumClef
+  description: Indian drum clef
+  classes:
+  - clefs

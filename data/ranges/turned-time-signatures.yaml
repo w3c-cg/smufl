@@ -1,0 +1,31 @@
+name: timeSignaturesTurned
+description: Turned time signatures
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ECE0
+codepointRangeEnd: U+ECEF
+hidden: false
+glyphs:
+- name: timeSig0Turned
+  description: Turned time signature 0
+- name: timeSig1Turned
+  description: Turned time signature 1
+- name: timeSig2Turned
+  description: Turned time signature 2
+- name: timeSig3Turned
+  description: Turned time signature 3
+- name: timeSig4Turned
+  description: Turned time signature 4
+- name: timeSig5Turned
+  description: Turned time signature 5
+- name: timeSig6Turned
+  description: Turned time signature 6
+- name: timeSig7Turned
+  description: Turned time signature 7
+- name: timeSig8Turned
+  description: Turned time signature 8
+- name: timeSig9Turned
+  description: Turned time signature 9
+- name: timeSigCommonTurned
+  description: Turned common time
+- name: timeSigCutCommonTurned
+  description: Turned cut time

@@ -1,0 +1,91 @@
+name: frenchAndEnglishRenaissanceLuteTablature
+description: French and English Renaissance lute tablature
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EBC0
+codepointRangeEnd: U+EBDF
+hidden: false
+glyphs:
+- name: luteFrenchFretA
+  description: Open string (a)
+- name: luteFrenchFretB
+  description: First fret (b)
+- name: luteFrenchFretC
+  description: Second fret (c)
+- name: luteFrenchFretD
+  description: Third fret (d)
+- name: luteFrenchFretE
+  description: Fourth fret (e)
+- name: luteFrenchFretF
+  description: Fifth fret (f)
+- name: luteFrenchFretG
+  description: Sixth fret (g)
+- name: luteFrenchFretH
+  description: Seventh fret (h)
+- name: luteFrenchFretI
+  description: Eighth fret (i)
+- name: luteFrenchFretK
+  description: Ninth fret (k)
+- name: luteFrenchFretL
+  description: 10th fret (l)
+- name: luteFrenchFretM
+  description: 11th fret (m)
+- name: luteFrenchFretN
+  description: 12th fret (n)
+- name: luteFrench7thCourse
+  description: Seventh course (diapason)
+- name: luteFrench8thCourse
+  description: Eighth course (diapason)
+- name: luteFrench9thCourse
+  description: Ninth course (diapason)
+- name: luteFrench10thCourse
+  description: 10th course (diapason)
+- name: luteFrenchMordentUpper
+  description: Mordent with upper auxiliary
+- name: luteFrenchMordentLower
+  description: Mordent with lower auxiliary
+- name: luteFrenchMordentInverted
+  description: Inverted mordent
+- name: luteFrenchAppoggiaturaBelow
+  description: Appoggiatura from below
+- name: luteFrenchAppoggiaturaAbove
+  description: Appoggiatura from above
+stylisticAlternates:
+- for: luteFrenchFretC
+  name: luteFrenchFretCAlt
+  description: Second fret (c), alternate appearance
+- for: luteFrench7thCourse
+  name: luteFrench7thCourseStrikethru
+  description: Seventh course (diapason), strikethrough
+- for: luteFrench7thCourse
+  name: luteFrench7thCourseUnderline
+  description: Seventh course (diapason), underline
+- for: luteFrench7thCourse
+  name: luteFrench7thCourseRight
+  description: Seventh course (diapason), right
+- for: luteFrench8thCourse
+  name: luteFrench8thCourseStrikethru
+  description: Eighth course (diapason), strikethrough
+- for: luteFrench8thCourse
+  name: luteFrench8thCourseUnderline
+  description: Eighth course (diapason), underlined
+- for: luteFrench8thCourse
+  name: luteFrench8thCourseRight
+  description: Eighth course (diapason), right
+- for: luteFrench9thCourse
+  name: luteFrench9thCourseStrikethru
+  description: Ninth course (diapason), strikethrough
+- for: luteFrench9thCourse
+  name: luteFrench9thCourseUnderline
+  description: Ninth course (diapason), underlined
+- for: luteFrench9thCourse
+  name: luteFrench9thCourseRight
+  description: Ninth course (diapason), right
+- for: luteFrench10thCourse
+  name: luteFrench10thCourseStrikethru
+  description: 10th course (diapason), strikethrough
+- for: luteFrench10thCourse
+  name: luteFrench10thCourseUnderline
+  description: 10th course (diapason), underlined
+- for: luteFrench10thCourse
+  name: luteFrench10thCourseRight
+  description: 10th course (diapason), right

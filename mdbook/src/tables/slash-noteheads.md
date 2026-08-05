@@ -24,4 +24,4 @@ Recommended stylistic alternates
 Implementation notes
 ---------------------
 
-See the implementation notes for noteheads.
+{{#include ../implementation_notes/slash-noteheads.md}}

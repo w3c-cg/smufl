@@ -1,0 +1,121 @@
+name: slashNoteheads
+description: Slash noteheads
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/slash-noteheads.md
+codepointRangeStart: U+E100
+codepointRangeEnd: U+E10F
+hidden: false
+glyphs:
+- name: noteheadSlashVerticalEnds
+  description: Slash with vertical ends
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashVerticalEnds
+  - noteheads
+- name: noteheadSlashHorizontalEnds
+  description: Slash with horizontal ends
+  alternateCodepoint: U+1D10D
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashHorizontalEnds
+  - noteheads
+- name: noteheadSlashWhiteWhole
+  description: White slash whole
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadSlashWhiteHalf
+  description: White slash half
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashHorizontalEnds
+  - noteheadSetSlashVerticalEnds
+  - noteheads
+- name: noteheadSlashDiamondWhite
+  description: Large white diamond
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashHorizontalEnds
+  - noteheadSetSlashVerticalEnds
+  - noteheads
+- name: noteheadSlashVerticalEndsSmall
+  description: Small slash with vertical ends
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashVerticalEnds
+  - noteheads
+- name: noteheadSlashX
+  description: Large X notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashHorizontalEnds
+  - noteheads
+- name: noteheadSlashVerticalEndsMuted
+  description: Muted slash with vertical ends
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashVerticalEnds
+  - noteheads
+- name: noteheadSlashHorizontalEndsMuted
+  description: Muted slash with horizontal ends
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashHorizontalEnds
+  - noteheads
+- name: noteheadSlashWhiteMuted
+  description: Muted white slash
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashHorizontalEnds
+  - noteheadSetSlashVerticalEnds
+  - noteheads
+- name: noteheadSlashWhiteDoubleWhole
+  description: White slash double whole
+  classes:
+  - noteheadSetSlashHorizontalEnds
+  - noteheads
+stylisticAlternates:
+- for: noteheadSlashVerticalEnds
+  name: noteheadSlashVerticalEndsOversized
+  description: Oversized slash with vertical ends
+  set: oversized
+- for: noteheadSlashHorizontalEnds
+  name: noteheadSlashHorizontalEndsOversized
+  description: Oversized slash with horizontal ends
+  set: oversized
+- for: noteheadSlashWhiteWhole
+  name: noteheadSlashWhiteWholeOversized
+  description: Oversized white slash whole
+  set: oversized
+- for: noteheadSlashWhiteHalf
+  name: noteheadSlashWhiteHalfOversized
+  description: Oversized white slash half
+  set: oversized
+- for: noteheadSlashDiamondWhite
+  name: noteheadSlashDiamondWhiteOversized
+  description: Oversized large white diamond
+  set: oversized
+- for: noteheadSlashVerticalEndsSmall
+  name: noteheadSlashVerticalEndsSmallOversized
+  description: Oversized small slash with vertical ends
+  set: oversized
+- for: noteheadSlashX
+  name: noteheadSlashXOversized
+  description: Oversized large X notehead
+  set: oversized
+- for: noteheadSlashVerticalEndsMuted
+  name: noteheadSlashVerticalEndsMutedOversized
+  description: Oversized muted slash with vertical ends
+  set: oversized
+- for: noteheadSlashHorizontalEndsMuted
+  name: noteheadSlashHorizontalEndsMutedOversized
+  description: Oversized muted slash with horizontal ends
+  set: oversized
+- for: noteheadSlashWhiteMuted
+  name: noteheadSlashWhiteMutedOversized
+  description: Oversized muted white slash
+  set: oversized
+- for: noteheadSlashWhiteDoubleWhole
+  name: noteheadSlashWhiteDoubleWholeOversized
+  description: Oversized white slash double whole
+  set: oversized

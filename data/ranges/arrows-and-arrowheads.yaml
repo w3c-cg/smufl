@@ -1,0 +1,103 @@
+name: arrowsAndArrowheads
+description: Arrows and arrowheads
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EB60
+codepointRangeEnd: U+EB8F
+hidden: false
+glyphs:
+- name: arrowBlackUp
+  description: Black arrow up (N)
+- name: arrowBlackUpRight
+  description: Black arrow up-right (NE)
+- name: arrowBlackRight
+  description: Black arrow right (E)
+- name: arrowBlackDownRight
+  description: Black arrow down-right (SE)
+- name: arrowBlackDown
+  description: Black arrow down (S)
+- name: arrowBlackDownLeft
+  description: Black arrow down-left (SW)
+- name: arrowBlackLeft
+  description: Black arrow left (W)
+- name: arrowBlackUpLeft
+  description: Black arrow up-left (NW)
+- name: arrowWhiteUp
+  description: White arrow up (N)
+- name: arrowWhiteUpRight
+  description: White arrow up-right (NE)
+- name: arrowWhiteRight
+  description: White arrow right (E)
+- name: arrowWhiteDownRight
+  description: White arrow down-right (SE)
+- name: arrowWhiteDown
+  description: White arrow down (S)
+- name: arrowWhiteDownLeft
+  description: White arrow down-left (SW)
+- name: arrowWhiteLeft
+  description: White arrow left (W)
+- name: arrowWhiteUpLeft
+  description: White arrow up-left (NW)
+- name: arrowOpenUp
+  description: Open arrow up (N)
+- name: arrowOpenUpRight
+  description: Open arrow up-right (NE)
+- name: arrowOpenRight
+  description: Open arrow right (E)
+- name: arrowOpenDownRight
+  description: Open arrow down-right (SE)
+- name: arrowOpenDown
+  description: Open arrow down (S)
+- name: arrowOpenDownLeft
+  description: Open arrow down-left (SW)
+- name: arrowOpenLeft
+  description: Open arrow left (W)
+- name: arrowOpenUpLeft
+  description: Open arrow up-left (NW)
+- name: arrowheadBlackUp
+  description: Black arrowhead up (N)
+- name: arrowheadBlackUpRight
+  description: Black arrowhead up-right (NE)
+- name: arrowheadBlackRight
+  description: Black arrowhead right (E)
+- name: arrowheadBlackDownRight
+  description: Black arrowhead down-right (SE)
+- name: arrowheadBlackDown
+  description: Black arrowhead down (S)
+- name: arrowheadBlackDownLeft
+  description: Black arrowhead down-left (SW)
+- name: arrowheadBlackLeft
+  description: Black arrowhead left (W)
+- name: arrowheadBlackUpLeft
+  description: Black arrowhead up-left (NW)
+- name: arrowheadWhiteUp
+  description: White arrowhead up (N)
+- name: arrowheadWhiteUpRight
+  description: White arrowhead up-right (NE)
+- name: arrowheadWhiteRight
+  description: White arrowhead right (E)
+- name: arrowheadWhiteDownRight
+  description: White arrowhead down-right (SE)
+- name: arrowheadWhiteDown
+  description: White arrowhead down (S)
+- name: arrowheadWhiteDownLeft
+  description: White arrowhead down-left (SW)
+- name: arrowheadWhiteLeft
+  description: White arrowhead left (W)
+- name: arrowheadWhiteUpLeft
+  description: White arrowhead up-left (NW)
+- name: arrowheadOpenUp
+  description: Open arrowhead up (N)
+- name: arrowheadOpenUpRight
+  description: Open arrowhead up-right (NE)
+- name: arrowheadOpenRight
+  description: Open arrowhead right (E)
+- name: arrowheadOpenDownRight
+  description: Open arrowhead down-right (SE)
+- name: arrowheadOpenDown
+  description: Open arrowhead down (S)
+- name: arrowheadOpenDownLeft
+  description: Open arrowhead down-left (SW)
+- name: arrowheadOpenLeft
+  description: Open arrowhead left (W)
+- name: arrowheadOpenUpLeft
+  description: Open arrowhead up-left (NW)

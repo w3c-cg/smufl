@@ -13,4 +13,4 @@ Chop (percussive bowing) notation (U+EE80–U+EE8F)
 Implementation notes
 ---------------------
 
-The symbols in this range were developed by Casey Driessen with Oriol Saña and more information about chop notation can be found at [The Chop Notation Project](https://www.caseydriessen.com/chop-notation-project).
+{{#include ../implementation_notes/chop-percussive-bowing-notation.md}}

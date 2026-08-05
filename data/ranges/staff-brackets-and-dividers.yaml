@@ -1,0 +1,53 @@
+name: staffBracketsAndDividers
+description: Staff brackets and dividers
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/staff_brackets.md
+codepointRangeStart: U+E000
+codepointRangeEnd: U+E00F
+hidden: false
+glyphs:
+- name: brace
+  description: Brace
+  alternateCodepoint: U+1D114
+- name: reversedBrace
+  description: Reversed brace
+- name: bracket
+  description: Bracket
+  alternateCodepoint: U+1D115
+  classes:
+  - forTextBasedApplications
+- name: bracketTop
+  description: Bracket top
+- name: bracketBottom
+  description: Bracket bottom
+- name: reversedBracketTop
+  description: Reversed bracket top
+- name: reversedBracketBottom
+  description: Reversed bracket bottom
+- name: systemDivider
+  description: System divider
+- name: systemDividerLong
+  description: Long system divider
+- name: systemDividerExtraLong
+  description: Extra long system divider
+- name: splitBarDivider
+  description: Split bar divider (bar spans a system break)
+- name: staffDivideArrowDown
+  description: Staff divide arrow down
+- name: staffDivideArrowUp
+  description: Staff divide arrow up
+- name: staffDivideArrowUpDown
+  description: Staff divide arrows
+stylisticAlternates:
+- for: brace
+  name: braceSmall
+  description: Brace (small)
+- for: brace
+  name: braceLarge
+  description: Brace (large)
+- for: brace
+  name: braceLarger
+  description: Brace (larger)
+- for: brace
+  name: braceFlat
+  description: Brace (flat)

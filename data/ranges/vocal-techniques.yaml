@@ -1,0 +1,35 @@
+name: vocalTechniques
+description: Vocal techniques
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E640
+codepointRangeEnd: U+E64F
+hidden: false
+glyphs:
+- name: vocalMouthClosed
+  description: Mouth closed
+- name: vocalMouthSlightlyOpen
+  description: Mouth slightly open
+- name: vocalMouthOpen
+  description: Mouth open
+- name: vocalMouthWideOpen
+  description: Mouth wide open
+- name: vocalMouthPursed
+  description: Mouth pursed
+- name: vocalSprechgesang
+  description: Sprechgesang
+  classes:
+  - stemDecorations
+- name: vocalsSussurando
+  description: Combining sussurando for stem
+  classes:
+  - stemDecorations
+- name: vocalNasalVoice
+  description: Nasal voice
+- name: vocalTongueClickStockhausen
+  description: Tongue click (Stockhausen)
+- name: vocalFingerClickStockhausen
+  description: Finger click (Stockhausen)
+- name: vocalTongueFingerClickStockhausen
+  description: Tongue and finger click (Stockhausen)
+- name: vocalHalbGesungen
+  description: Halb gesungen (semi-sprechgesang)

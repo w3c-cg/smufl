@@ -1,0 +1,54 @@
+name: barlines
+description: Barlines
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/barlines.md
+codepointRangeStart: U+E030
+codepointRangeEnd: U+E03F
+hidden: false
+glyphs:
+- name: barlineSingle
+  description: Single barline
+  alternateCodepoint: U+1D100
+  classes:
+  - forTextBasedApplications
+- name: barlineDouble
+  description: Double barline
+  alternateCodepoint: U+1D101
+  classes:
+  - forTextBasedApplications
+- name: barlineFinal
+  description: Final barline
+  alternateCodepoint: U+1D102
+  classes:
+  - forTextBasedApplications
+- name: barlineReverseFinal
+  description: Reverse final barline
+  alternateCodepoint: U+1D103
+  classes:
+  - forTextBasedApplications
+- name: barlineHeavy
+  description: Heavy barline
+  classes:
+  - forTextBasedApplications
+- name: barlineHeavyHeavy
+  description: Heavy double barline
+  classes:
+  - forTextBasedApplications
+- name: barlineDashed
+  description: Dashed barline
+  alternateCodepoint: U+1D104
+  classes:
+  - forTextBasedApplications
+- name: barlineDotted
+  description: Dotted barline
+  classes:
+  - forTextBasedApplications
+- name: barlineShort
+  description: Short barline
+  alternateCodepoint: U+1D105
+  classes:
+  - forTextBasedApplications
+- name: barlineTick
+  description: Tick barline
+  classes:
+  - forTextBasedApplications

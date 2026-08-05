@@ -1,0 +1,32 @@
+name: beamsAndSlurs
+description: Beams and slurs
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/beams_and_slurs.md
+codepointRangeStart: U+E8E0
+codepointRangeEnd: U+E8EF
+hidden: false
+glyphs:
+- name: controlBeginBeam
+  description: Begin beam
+  alternateCodepoint: U+1D173
+- name: controlEndBeam
+  description: End beam
+  alternateCodepoint: U+1D174
+- name: controlBeginTie
+  description: Begin tie
+  alternateCodepoint: U+1D175
+- name: controlEndTie
+  description: End tie
+  alternateCodepoint: U+1D176
+- name: controlBeginSlur
+  description: Begin slur
+  alternateCodepoint: U+1D177
+- name: controlEndSlur
+  description: End slur
+  alternateCodepoint: U+1D178
+- name: controlBeginPhrase
+  description: Begin phrase
+  alternateCodepoint: U+1D179
+- name: controlEndPhrase
+  description: End phrase
+  alternateCodepoint: U+1D17A

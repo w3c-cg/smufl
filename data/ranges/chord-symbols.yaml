@@ -1,0 +1,64 @@
+name: chordSymbols
+description: Chord symbols
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/chord_symbols.md
+codepointRangeStart: U+E870
+codepointRangeEnd: U+E87F
+hidden: false
+glyphs:
+- name: csymDiminished
+  description: Diminished
+  alternateCodepoint: U+1D1A9
+  classes:
+  - tf_chordSymbols
+- name: csymHalfDiminished
+  description: Half-diminished
+  classes:
+  - tf_chordSymbols
+- name: csymAugmented
+  description: Augmented
+  classes:
+  - tf_chordSymbols
+- name: csymMajorSeventh
+  description: Major seventh
+  classes:
+  - tf_chordSymbols
+- name: csymMinor
+  description: Minor
+- name: csymParensLeftTall
+  description: Double-height left parenthesis
+- name: csymParensRightTall
+  description: Double-height right parenthesis
+- name: csymBracketLeftTall
+  description: Double-height left bracket
+- name: csymBracketRightTall
+  description: Double-height right bracket
+- name: csymParensLeftVeryTall
+  description: Triple-height left parenthesis
+- name: csymParensRightVeryTall
+  description: Triple-height right parenthesis
+- name: csymAlteredBassSlash
+  description: Slash for altered bass note
+- name: csymDiagonalArrangementSlash
+  description: Slash for chord symbols arranged diagonally
+stylisticAlternates:
+- for: csymDiminished
+  name: csymDiminishedSmall
+  description: Diminished (subscript or superscript)
+  set: superscript-or-subscript
+- for: csymHalfDiminished
+  name: csymHalfDiminishedSmall
+  description: Half-diminished (subscript or superscript)
+  set: superscript-or-subscript
+- for: csymAugmented
+  name: csymAugmentedSmall
+  description: Augmented (subscript or superscript)
+  set: superscript-or-subscript
+- for: csymMajorSeventh
+  name: csymMajorSeventhSmall
+  description: Major seventh (subscript or superscript)
+  set: superscript-or-subscript
+- for: csymMinor
+  name: csymMinorSmall
+  description: Minor (subscript or superscript)
+  set: superscript-or-subscript

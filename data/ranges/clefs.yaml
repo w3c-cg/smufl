@@ -1,0 +1,650 @@
+name: clefs
+description: Clefs
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/clefs.md
+codepointRangeStart: U+E050
+codepointRangeEnd: U+E07F
+hidden: false
+glyphs:
+- name: gClef
+  description: G clef
+  alternateCodepoint: U+1D11E
+  classes:
+  - clefs
+  - clefsG
+- name: gClef15mb
+  description: G clef quindicesima bassa
+  classes:
+  - clefs
+  - clefsG
+- name: gClef8vb
+  description: G clef ottava bassa
+  alternateCodepoint: U+1D120
+  classes:
+  - clefs
+  - clefsG
+- name: gClef8va
+  description: G clef ottava alta
+  alternateCodepoint: U+1D11F
+  classes:
+  - clefs
+  - clefsG
+- name: gClef15ma
+  description: G clef quindicesima alta
+  classes:
+  - clefs
+  - clefsG
+- name: gClef8vbOld
+  description: G clef ottava bassa (old style)
+  classes:
+  - clefs
+  - clefsG
+- name: gClef8vbCClef
+  description: G clef ottava bassa with C clef
+  classes:
+  - clefs
+  - clefsG
+- name: gClef8vbParens
+  description: G clef, optionally ottava bassa
+  classes:
+  - clefs
+  - clefsG
+- name: gClefLigatedNumberBelow
+  description: Combining G clef, number below
+  classes:
+  - clefs
+  - clefsG
+- name: gClefLigatedNumberAbove
+  description: Combining G clef, number above
+  classes:
+  - clefs
+  - clefsG
+- name: gClefArrowUp
+  description: G clef, arrow up
+  classes:
+  - clefs
+  - clefsG
+- name: gClefArrowDown
+  description: G clef, arrow down
+  classes:
+  - clefs
+  - clefsG
+- name: cClef
+  description: C clef
+  alternateCodepoint: U+1D121
+  classes:
+  - clefs
+  - clefsC
+- name: cClef8vb
+  description: C clef ottava bassa
+  classes:
+  - clefs
+  - clefsC
+- name: cClefArrowUp
+  description: C clef, arrow up
+  classes:
+  - clefs
+  - clefsC
+- name: cClefArrowDown
+  description: C clef, arrow down
+  classes:
+  - clefs
+  - clefsC
+- name: cClefSquare
+  description: C clef (19th century)
+  classes:
+  - clefs
+  - clefsC
+- name: cClefCombining
+  description: Combining C clef
+  classes:
+  - clefs
+  - clefsC
+- name: fClef
+  description: F clef
+  alternateCodepoint: U+1D122
+  classes:
+  - clefs
+  - clefsF
+- name: fClef15mb
+  description: F clef quindicesima bassa
+  classes:
+  - clefs
+  - clefsF
+- name: fClef8vb
+  description: F clef ottava bassa
+  alternateCodepoint: U+1D124
+  classes:
+  - clefs
+  - clefsF
+- name: fClef8va
+  description: F clef ottava alta
+  alternateCodepoint: U+1D123
+  classes:
+  - clefs
+  - clefsF
+- name: fClef15ma
+  description: F clef quindicesima alta
+  classes:
+  - clefs
+  - clefsF
+- name: fClefArrowUp
+  description: F clef, arrow up
+  classes:
+  - clefs
+  - clefsF
+- name: fClefArrowDown
+  description: F clef, arrow down
+  classes:
+  - clefs
+  - clefsF
+- name: unpitchedPercussionClef1
+  description: Unpitched percussion clef 1
+  alternateCodepoint: U+1D125
+  classes:
+  - clefs
+- name: unpitchedPercussionClef2
+  description: Unpitched percussion clef 2
+  alternateCodepoint: U+1D126
+  classes:
+  - clefs
+- name: semipitchedPercussionClef1
+  description: Semi-pitched percussion clef 1
+  classes:
+  - clefs
+- name: semipitchedPercussionClef2
+  description: Semi-pitched percussion clef 2
+  classes:
+  - clefs
+- name: 6stringTabClef
+  description: 6-string tab clef
+  classes:
+  - clefs
+- name: 4stringTabClef
+  description: 4-string tab clef
+  classes:
+  - clefs
+- name: schaefferClef
+  description: Schäffer clef
+  classes:
+  - clefs
+- name: schaefferPreviousClef
+  description: Schäffer previous clef
+  classes:
+  - clefs
+- name: schaefferGClefToFClef
+  description: Schäffer G clef to F clef change
+  classes:
+  - clefs
+- name: schaefferFClefToGClef
+  description: Schäffer F clef to G clef change
+  classes:
+  - clefs
+- name: gClefReversed
+  description: Reversed G clef
+  classes:
+  - clefs
+  - clefsG
+- name: gClefTurned
+  description: Turned G clef
+  classes:
+  - clefs
+  - combiningStaffPositions
+- name: cClefReversed
+  description: Reversed C clef
+  classes:
+  - clefs
+  - clefsC
+- name: fClefReversed
+  description: Reversed F clef
+  classes:
+  - clefs
+  - clefsF
+- name: fClefTurned
+  description: Turned F clef
+  classes:
+  - clefs
+  - combiningStaffPositions
+- name: bridgeClef
+  description: Bridge clef
+  classes:
+  - clefs
+- name: accdnDiatonicClef
+  description: Diatonic accordion clef
+  classes:
+  - clefs
+- name: gClefChange
+  description: G clef change
+  classes:
+  - clefs
+- name: cClefChange
+  description: C clef change
+  classes:
+  - clefs
+- name: fClefChange
+  description: F clef change
+  classes:
+  - clefs
+- name: clef8
+  description: 8 for clefs
+  classes:
+  - clefs
+- name: clef15
+  description: 15 for clefs
+  classes:
+  - clefs
+- name: clefChangeCombining
+  description: Combining clef change
+  classes:
+  - clefs
+stylisticAlternates:
+- for: gClef
+  name: gClefSmall
+  description: G clef (small staff)
+  set: small-staff
+- for: gClef8vb
+  name: gClef8vbFrench
+  description: G clef ottava bassa (French, 18th century)
+- for: cClef
+  name: cClefFrench
+  description: C clef (French, 18th century)
+- for: cClef
+  name: cClefSmall
+  description: C clef (small staff)
+  set: small-staff
+- for: cClef
+  name: cClefFrench20C
+  description: C clef (French, 20th century)
+- for: fClef
+  name: fClefFrench
+  description: F clef (French, 18th century)
+- for: fClef
+  name: fClef19thCentury
+  description: F clef (19th century)
+- for: fClef
+  name: fClefSmall
+  description: F clef (small staff)
+  set: small-staff
+- for: unpitchedPercussionClef1
+  name: unpitchedPercussionClef1Alt
+  description: Unpitched percussion clef 1 (thick-thin)
+- for: 6stringTabClef
+  name: 6stringTabClefTall
+  description: 6-string tab clef (tall)
+- for: 6stringTabClef
+  name: 6stringTabClefSerif
+  description: 6-string tab clef (serif)
+- for: 4stringTabClef
+  name: 4stringTabClefTall
+  description: 4-string tab clef (tall)
+- for: 4stringTabClef
+  name: 4stringTabClefSerif
+  description: 4-string tab clef (serif)
+- for: cClefChange
+  name: cClefFrench20CChange
+  description: C clef change (French, 20th century)
+ligatures:
+- name: fClef5Below
+  description: F clef, 5 below
+  components:
+  - fClef
+  - tuplet5
+- name: gClef0Below
+  description: G clef, 0 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet0
+- name: gClef10Below
+  description: G clef, 10 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet0
+- name: gClef11Below
+  description: G clef, 11 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet1
+- name: gClef12Below
+  description: G clef, 12 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet2
+- name: gClef13Below
+  description: G clef, 13 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet3
+- name: gClef14Below
+  description: G clef, 14 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet4
+- name: gClef15Below
+  description: G clef, 15 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet5
+- name: gClef16Below
+  description: G clef, 16 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet6
+- name: gClef17Below
+  description: G clef, 17 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet7
+- name: gClef2Above
+  description: G clef, 2 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet2
+- name: gClef2Below
+  description: G clef, 2 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet2
+- name: gClef3Above
+  description: G clef, 3 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet3
+- name: gClef3Below
+  description: G clef, 3 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet3
+- name: gClef4Above
+  description: G clef, 4 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet4
+- name: gClef4Below
+  description: G clef, 4 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet4
+- name: gClef5Above
+  description: G clef, 5 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet5
+- name: gClef5Below
+  description: G clef, 5 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet5
+- name: gClef6Above
+  description: G clef, 6 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet6
+- name: gClef6Below
+  description: G clef, 6 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet6
+- name: gClef7Above
+  description: G clef, 7 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet7
+- name: gClef7Below
+  description: G clef, 7 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet7
+- name: gClef8Above
+  description: G clef, 8 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet8
+- name: gClef8Below
+  description: G clef, 8 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet8
+- name: gClef9Above
+  description: G clef, 9 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet9
+- name: gClef9Below
+  description: G clef, 9 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet9
+- name: gClefFlat10Below
+  description: G clef, flat 10 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet0
+  - accidentalFlat
+- name: gClefFlat11Below
+  description: G clef, flat 11 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet1
+  - accidentalFlat
+- name: gClefFlat13Below
+  description: G clef, flat 13 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet3
+  - accidentalFlat
+- name: gClefFlat14Below
+  description: G clef, flat 14 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet4
+  - accidentalFlat
+- name: gClefFlat15Below
+  description: G clef, flat 15 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet5
+  - accidentalFlat
+- name: gClefFlat16Below
+  description: G clef, flat 16 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet6
+  - accidentalFlat
+- name: gClefFlat1Below
+  description: G clef, flat 1 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalFlat
+  - tuplet1
+- name: gClefFlat2Above
+  description: G clef, flat 2 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet2
+  - accidentalFlat
+- name: gClefFlat2Below
+  description: G clef, flat 2 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalFlat
+  - tuplet2
+- name: gClefFlat3Above
+  description: G clef, flat 3 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet3
+  - accidentalFlat
+- name: gClefFlat3Below
+  description: G clef, flat 3 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalFlat
+  - tuplet3
+- name: gClefFlat4Below
+  description: G clef, flat 4 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalFlat
+  - tuplet4
+- name: gClefFlat5Above
+  description: G clef, flat 5 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet5
+  - accidentalFlat
+- name: gClefFlat6Above
+  description: G clef, flat 6 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet6
+  - accidentalFlat
+- name: gClefFlat6Below
+  description: G clef, flat 6 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalFlat
+  - tuplet6
+- name: gClefFlat7Above
+  description: G clef, flat 7 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet7
+  - accidentalFlat
+- name: gClefFlat7Below
+  description: G clef, flat 7 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalFlat
+  - tuplet7
+- name: gClefFlat8Above
+  description: G clef, flat 8 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet8
+  - accidentalFlat
+- name: gClefFlat9Above
+  description: G clef, flat 9 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet9
+  - accidentalFlat
+- name: gClefFlat9Below
+  description: G clef, flat 9 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalFlat
+  - tuplet9
+- name: gClefNat2Below
+  description: G clef, natural 2 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalNatural
+  - tuplet2
+- name: gClefNatural10Below
+  description: G clef, natural 10 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet0
+  - accidentalNatural
+- name: gClefNatural13Below
+  description: G clef, natural 13 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet3
+  - accidentalNatural
+- name: gClefNatural17Below
+  description: G clef, natural 17 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet7
+  - accidentalNatural
+- name: gClefNatural2Above
+  description: G clef, natural 2 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet2
+  - accidentalNatural
+- name: gClefNatural3Above
+  description: G clef, natural 3 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet3
+  - accidentalNatural
+- name: gClefNatural3Below
+  description: G clef, natural 3 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalNatural
+  - tuplet3
+- name: gClefNatural6Above
+  description: G clef, natural 6 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet6
+  - accidentalNatural
+- name: gClefNatural6Below
+  description: G clef, natural 6 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalNatural
+  - tuplet6
+- name: gClefNatural7Above
+  description: G clef, natural 7 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet7
+  - accidentalNatural
+- name: gClefNatural9Above
+  description: G clef, natural 9 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet9
+  - accidentalNatural
+- name: gClefNatural9Below
+  description: G clef, natural 9 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalNatural
+  - tuplet9
+- name: gClefSharp12Below
+  description: G clef, sharp 12 below
+  components:
+  - gClefLigatedNumberBelow
+  - tuplet1
+  - tuplet2
+  - accidentalSharp
+- name: gClefSharp1Above
+  description: G clef, sharp 1 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet1
+  - accidentalSharp
+- name: gClefSharp4Above
+  description: G clef, sharp 4 above
+  components:
+  - gClefLigatedNumberAbove
+  - tuplet4
+  - accidentalSharp
+- name: gClefSharp5Below
+  description: G clef, sharp 5 below
+  components:
+  - gClefLigatedNumberBelow
+  - accidentalSharp
+  - tuplet5

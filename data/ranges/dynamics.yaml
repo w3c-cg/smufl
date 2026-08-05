@@ -1,0 +1,216 @@
+name: dynamics
+description: Dynamics
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/dynamics.md
+codepointRangeStart: U+E520
+codepointRangeEnd: U+E54F
+hidden: false
+glyphs:
+- name: dynamicPiano
+  description: Piano
+  alternateCodepoint: U+1D18F
+  classes:
+  - dynamics
+- name: dynamicMezzo
+  description: Mezzo
+  alternateCodepoint: U+1D190
+  classes:
+  - dynamics
+- name: dynamicForte
+  description: Forte
+  alternateCodepoint: U+1D191
+  classes:
+  - dynamics
+- name: dynamicRinforzando
+  description: Rinforzando
+  alternateCodepoint: U+1D18C
+  classes:
+  - dynamics
+- name: dynamicSforzando
+  description: Sforzando
+  alternateCodepoint: U+1D18D
+  classes:
+  - dynamics
+- name: dynamicZ
+  description: Z
+  alternateCodepoint: U+1D18E
+  classes:
+  - dynamics
+- name: dynamicNiente
+  description: Niente
+  classes:
+  - dynamics
+- name: dynamicPPPPPP
+  description: pppppp
+  classes:
+  - dynamics
+- name: dynamicPPPPP
+  description: ppppp
+  classes:
+  - dynamics
+- name: dynamicPPPP
+  description: pppp
+  classes:
+  - dynamics
+- name: dynamicPPP
+  description: ppp
+  classes:
+  - dynamics
+- name: dynamicPP
+  description: pp
+  classes:
+  - dynamics
+- name: dynamicMP
+  description: mp
+  classes:
+  - dynamics
+- name: dynamicMF
+  description: mf
+  classes:
+  - dynamics
+- name: dynamicPF
+  description: pf
+  classes:
+  - dynamics
+- name: dynamicFF
+  description: ff
+  classes:
+  - dynamics
+- name: dynamicFFF
+  description: fff
+  classes:
+  - dynamics
+- name: dynamicFFFF
+  description: ffff
+  classes:
+  - dynamics
+- name: dynamicFFFFF
+  description: fffff
+  classes:
+  - dynamics
+- name: dynamicFFFFFF
+  description: ffffff
+  classes:
+  - dynamics
+- name: dynamicFortePiano
+  description: Forte-piano
+  classes:
+  - dynamics
+- name: dynamicForzando
+  description: Forzando
+  classes:
+  - dynamics
+- name: dynamicSforzando1
+  description: Sforzando 1
+  classes:
+  - dynamics
+- name: dynamicSforzandoPiano
+  description: Sforzando-piano
+  classes:
+  - dynamics
+- name: dynamicSforzandoPianissimo
+  description: Sforzando-pianissimo
+  classes:
+  - dynamics
+- name: dynamicSforzato
+  description: Sforzato
+  classes:
+  - dynamics
+- name: dynamicSforzatoPiano
+  description: Sforzato-piano
+  classes:
+  - dynamics
+- name: dynamicSforzatoFF
+  description: Sforzatissimo
+  classes:
+  - dynamics
+- name: dynamicRinforzando1
+  description: Rinforzando 1
+  classes:
+  - dynamics
+- name: dynamicRinforzando2
+  description: Rinforzando 2
+  classes:
+  - dynamics
+- name: dynamicCrescendoHairpin
+  description: Crescendo
+  alternateCodepoint: U+1D192
+  classes:
+  - dynamics
+  - tf_hairpins
+- name: dynamicDiminuendoHairpin
+  description: Diminuendo
+  alternateCodepoint: U+1D193
+  classes:
+  - dynamics
+  - tf_hairpins
+- name: dynamicMessaDiVoce
+  description: Messa di voce
+  classes:
+  - dynamics
+  - tf_hairpins
+- name: dynamicNienteForHairpin
+  description: Niente (for hairpins)
+  classes:
+  - dynamics
+- name: dynamicHairpinParenthesisLeft
+  description: Left parenthesis (for hairpins)
+  classes:
+  - dynamics
+- name: dynamicHairpinParenthesisRight
+  description: Right parenthesis (for hairpins)
+  classes:
+  - dynamics
+- name: dynamicHairpinBracketLeft
+  description: Left bracket (for hairpins)
+  classes:
+  - dynamics
+- name: dynamicHairpinBracketRight
+  description: Right bracket (for hairpins)
+  classes:
+  - dynamics
+- name: dynamicCombinedSeparatorColon
+  description: Colon separator for combined dynamics
+  classes:
+  - dynamics
+- name: dynamicCombinedSeparatorHyphen
+  description: Hyphen separator for combined dynamics
+  classes:
+  - dynamics
+- name: dynamicCombinedSeparatorSpace
+  description: Space separator for combined dynamics
+  classes:
+  - dynamics
+- name: dynamicCombinedSeparatorSlash
+  description: Slash separator for combined dynamics
+  classes:
+  - dynamics
+stylisticAlternates:
+- for: dynamicPiano
+  name: dynamicPianoSmall
+  description: Piano (small staff)
+  set: small-staff
+- for: dynamicMezzo
+  name: dynamicMezzoSmall
+  description: Mezzo (small staff)
+  set: small-staff
+- for: dynamicForte
+  name: dynamicForteSmall
+  description: Forte (small staff)
+  set: small-staff
+- for: dynamicRinforzando
+  name: dynamicRinforzandoSmall
+  description: Rinforzando (small staff)
+  set: small-staff
+- for: dynamicSforzando
+  name: dynamicSforzandoSmall
+  description: Sforzando (small staff)
+  set: small-staff
+- for: dynamicZ
+  name: dynamicZSmall
+  description: Z (small staff)
+  set: small-staff
+- for: dynamicNiente
+  name: dynamicNienteSmall
+  description: Niente (small staff)
+  set: small-staff

@@ -1,0 +1,60 @@
+name: medievalAndRenaissanceClefs
+description: Medieval and Renaissance clefs
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E900
+codepointRangeEnd: U+E90F
+hidden: false
+glyphs:
+- name: mensuralGclef
+  description: Mensural G clef
+  classes:
+  - combiningStaffPositions
+- name: mensuralGclefPetrucci
+  description: Petrucci G clef
+  classes:
+  - combiningStaffPositions
+- name: chantFclef
+  description: Plainchant F clef
+  alternateCodepoint: U+1D1D1
+  classes:
+  - combiningStaffPositions
+- name: mensuralFclef
+  description: Mensural F clef
+  classes:
+  - combiningStaffPositions
+- name: mensuralFclefPetrucci
+  description: Petrucci F clef
+  classes:
+  - combiningStaffPositions
+- name: mensuralCclef
+  description: Mensural C clef
+- name: chantCclef
+  description: Plainchant C clef
+  alternateCodepoint: U+1D1D0
+  classes:
+  - combiningStaffPositions
+- name: mensuralCclefPetrucciPosLowest
+  description: Petrucci C clef, lowest position
+- name: mensuralCclefPetrucciPosLow
+  description: Petrucci C clef, low position
+- name: mensuralCclefPetrucciPosMiddle
+  description: Petrucci C clef, middle position
+  classes:
+  - combiningStaffPositions
+- name: mensuralCclefPetrucciPosHigh
+  description: Petrucci C clef, high position
+- name: mensuralCclefPetrucciPosHighest
+  description: Petrucci C clef, highest position
+stylisticAlternates:
+- for: chantFclef
+  name: chantFclefHufnagel
+  description: Plainchant F clef (Hufnagel)
+- for: mensuralCclef
+  name: mensuralCclefVoid
+  description: Void mensural C clef
+- for: mensuralCclef
+  name: mensuralCclefBlack
+  description: Black mensural C clef
+- for: chantCclef
+  name: chantCclefHufnagel
+  description: Plainchant C clef (Hufnagel)

@@ -1,0 +1,82 @@
+name: stockhausenAccidentals
+description: Stockhausen accidentals (24-EDO)
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ED50
+codepointRangeEnd: U+ED5F
+hidden: false
+glyphs:
+- name: accidentalRaisedStockhausen
+  description: Raised (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalLoweredStockhausen
+  description: Lowered (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalFlatRaisedStockhausen
+  description: Raised flat (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalFlatLoweredStockhausen
+  description: Lowered flat (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalNaturalRaisedStockhausen
+  description: Raised natural (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalNaturalLoweredStockhausen
+  description: Lowered natural (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalSharpRaisedStockhausen
+  description: Raised sharp (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalSharpLoweredStockhausen
+  description: Lowered sharp (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalOneQuarterToneSharpStockhausen
+  description: One-quarter-tone sharp (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalOneQuarterToneFlatStockhausen
+  description: One-quarter-tone flat (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalThreeQuarterTonesSharpStockhausen
+  description: Three-quarter-tones sharp (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalFlatRepeatedSpaceStockhausen
+  description: Repeated flat, note in space (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalFlatRepeatedLineStockhausen
+  description: Repeated flat, note on line (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalSharpRepeatedSpaceStockhausen
+  description: Repeated sharp, note in space (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen
+- name: accidentalSharpRepeatedLineStockhausen
+  description: Repeated sharp, note on line (Stockhausen)
+  classes:
+  - accidentals
+  - accidentalsStockhausen

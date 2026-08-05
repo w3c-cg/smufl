@@ -1,0 +1,67 @@
+name: repeats
+description: Repeats
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/repeats.md
+codepointRangeStart: U+E040
+codepointRangeEnd: U+E04F
+hidden: false
+glyphs:
+- name: repeatLeft
+  description: Left (start) repeat sign
+  alternateCodepoint: U+1D106
+  classes:
+  - forTextBasedApplications
+- name: repeatRight
+  description: Right (end) repeat sign
+  alternateCodepoint: U+1D107
+  classes:
+  - forTextBasedApplications
+- name: repeatRightLeft
+  description: Right and left repeat sign
+  classes:
+  - forTextBasedApplications
+- name: repeatDots
+  description: Repeat dots
+  alternateCodepoint: U+1D108
+- name: repeatDot
+  description: Single repeat dot
+- name: dalSegno
+  description: Dal segno
+  alternateCodepoint: U+1D109
+  classes:
+  - forTextBasedApplications
+- name: daCapo
+  description: Da capo
+  alternateCodepoint: U+1D10A
+  classes:
+  - forTextBasedApplications
+- name: segno
+  description: Segno
+  alternateCodepoint: U+1D10B
+- name: coda
+  description: Coda
+  alternateCodepoint: U+1D10C
+- name: codaSquare
+  description: Square coda
+- name: segnoSerpent1
+  description: Segno (serpent)
+- name: segnoSerpent2
+  description: Segno (serpent with vertical lines)
+- name: leftRepeatSmall
+  description: Left repeat sign within bar
+  classes:
+  - forTextBasedApplications
+- name: rightRepeatSmall
+  description: Right repeat sign within bar
+  classes:
+  - forTextBasedApplications
+stylisticAlternates:
+- for: repeatRightLeft
+  name: repeatRightLeftThick
+  description: RIght and left repeat sign (thick-thick)
+- for: segno
+  name: segnoJapanese
+  description: Segno (Japanese style, rotated)
+- for: coda
+  name: codaJapanese
+  description: Coda (Japanese style, serif)

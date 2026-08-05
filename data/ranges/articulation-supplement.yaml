@@ -1,0 +1,48 @@
+name: articulationSupplement
+description: Articulation supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ED40
+codepointRangeEnd: U+ED4F
+hidden: false
+supplementaryTo: articulation
+glyphs:
+- name: articSoftAccentAbove
+  description: Soft accent above
+  classes:
+  - articulations
+  - articulationsAbove
+- name: articSoftAccentBelow
+  description: Soft accent below
+  classes:
+  - articulations
+  - articulationsBelow
+- name: articSoftAccentStaccatoAbove
+  description: Soft accent-staccato above
+  classes:
+  - articulations
+  - articulationsAbove
+- name: articSoftAccentStaccatoBelow
+  description: Soft accent-staccato below
+  classes:
+  - articulations
+  - articulationsBelow
+- name: articSoftAccentTenutoAbove
+  description: Soft accent-tenuto above
+  classes:
+  - articulations
+  - articulationsAbove
+- name: articSoftAccentTenutoBelow
+  description: Soft accent-tenuto below
+  classes:
+  - articulations
+  - articulationsBelow
+- name: articSoftAccentTenutoStaccatoAbove
+  description: Soft accent-tenuto-staccato above
+  classes:
+  - articulations
+  - articulationsAbove
+- name: articSoftAccentTenutoStaccatoBelow
+  description: Soft accent-tenuto-staccato below
+  classes:
+  - articulations
+  - articulationsBelow

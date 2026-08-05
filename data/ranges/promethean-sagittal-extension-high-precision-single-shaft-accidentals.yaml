@@ -1,0 +1,187 @@
+name: prometheanSagittalExtensionHighPrecisionSingleShaftAccidentals
+description: Promethean Sagittal extension (high precision) single-shaft accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E390
+codepointRangeEnd: U+E3AF
+hidden: false
+glyphs:
+- name: accSagittal19SchismaUp
+  description: 19 schisma up, (19s)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal19SchismaDown
+  description: 19 schisma down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal17KleismaUp
+  description: 17 kleisma up, (17k)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal17KleismaDown
+  description: 17 kleisma down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal143CommaUp
+  description: 143 comma up, (143C, 13L less 11M)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal143CommaDown
+  description: 143 comma down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal11v49CommaUp
+  description: 11:49 comma up, (11:49C, 11M less 49C)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal11v49CommaDown
+  description: 11:49 comma down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal19CommaUp
+  description: 19 comma up, (19C)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal19CommaDown
+  description: 19 comma down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal7v19CommaUp
+  description: 7:19 comma up, (7:19C, 7C less 19s)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal7v19CommaDown
+  description: 7:19 comma down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal49SmallDiesisUp
+  description: 49 small diesis up, (49S, ~31S)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal49SmallDiesisDown
+  description: 49 small diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal23SmallDiesisUp
+  description: 23 small diesis up, (23S)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal23SmallDiesisDown
+  description: 23 small diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal5v13MediumDiesisUp
+  description: 5:13 medium diesis up, (5:13M, ~37M, 5C plus 13C)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal5v13MediumDiesisDown
+  description: 5:13 medium diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal11v19MediumDiesisUp
+  description: 11:19 medium diesis up, (11:19M, 11M plus 19s)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal11v19MediumDiesisDown
+  description: 11:19 medium diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal49MediumDiesisUp
+  description: 49 medium diesis up, (49M, ~31M, 7C plus 7C)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal49MediumDiesisDown
+  description: 49 medium diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal5v49MediumDiesisUp
+  description: 5:49 medium diesis up, (5:49M, half apotome)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal5v49MediumDiesisDown
+  description: 5:49 medium diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal49LargeDiesisUp
+  description: 49 large diesis up, (49L, ~31L, apotome less 49M)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal49LargeDiesisDown
+  description: 49 large diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal11v19LargeDiesisUp
+  description: 11:19 large diesis up, (11:19L, apotome less 11:19M)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal11v19LargeDiesisDown
+  description: 11:19 large diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal5v13LargeDiesisUp
+  description: 5:13 large diesis up, (5:13L, ~37L, apotome less 5:13M)
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions
+- name: accSagittal5v13LargeDiesisDown
+  description: 5:13 large diesis down
+  classes:
+  - accidentals
+  - accidentalsSagittalPromethean
+  - combiningStaffPositions

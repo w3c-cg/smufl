@@ -1,0 +1,109 @@
+name: fingering
+description: Fingering
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ED10
+codepointRangeEnd: U+ED2F
+hidden: false
+glyphs:
+- name: fingering0
+  description: Fingering 0 (open string)
+  classes:
+  - tf_figuredBass
+- name: fingering1
+  description: Fingering 1 (thumb)
+  classes:
+  - tf_figuredBass
+- name: fingering2
+  description: Fingering 2 (index finger)
+  classes:
+  - tf_figuredBass
+- name: fingering3
+  description: Fingering 3 (middle finger)
+  classes:
+  - tf_figuredBass
+- name: fingering4
+  description: Fingering 4 (ring finger)
+  classes:
+  - tf_figuredBass
+- name: fingering5
+  description: Fingering 5 (little finger)
+  classes:
+  - tf_figuredBass
+- name: fingeringTUpper
+  description: Fingering T (left-hand thumb for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringPLower
+  description: Fingering p (pulgar; right-hand thumb for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringTLower
+  description: Fingering t (right-hand thumb for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringILower
+  description: Fingering i (indicio; right-hand index finger for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringMLower
+  description: Fingering m (medio; right-hand middle finger for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringALower
+  description: Fingering a (anular; right-hand ring finger for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringCLower
+  description: Fingering c (right-hand little finger for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringXLower
+  description: Fingering x (right-hand little finger for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringELower
+  description: Fingering e (right-hand little finger for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringOLower
+  description: Fingering o (right-hand little finger for guitar)
+  classes:
+  - tf_figuredBass
+- name: fingeringSubstitutionAbove
+  description: Finger substitution above
+  classes:
+  - tf_figuredBass
+- name: fingeringSubstitutionBelow
+  description: Finger substitution below
+  classes:
+  - tf_figuredBass
+- name: fingeringSubstitutionDash
+  description: Finger substitution dash
+  classes:
+  - tf_figuredBass
+- name: fingeringMultipleNotes
+  description: Multiple notes played by thumb or single finger
+  classes:
+  - tf_figuredBass
+- name: fingering6
+  description: Fingering 6
+- name: fingering7
+  description: Fingering 7
+- name: fingering8
+  description: Fingering 8
+- name: fingering9
+  description: Fingering 9
+- name: fingeringLeftParenthesis
+  description: Fingering left parenthesis
+- name: fingeringRightParenthesis
+  description: Fingering right parenthesis
+- name: fingeringLeftBracket
+  description: Fingering left bracket
+- name: fingeringRightBracket
+  description: Fingering right bracket
+- name: fingeringSeparatorMiddleDot
+  description: Fingering middle dot separator
+- name: fingeringSeparatorMiddleDotWhite
+  description: Fingering white middle dot separator
+- name: fingeringSeparatorSlash
+  description: Fingering forward slash separator

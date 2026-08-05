@@ -3712,6 +3712,21 @@
 		"range_end": "U+E88F",
 		"range_start": "U+E880"
 	},
+	"tupletsSupplement": {
+		"description": "Tuplets supplement",
+		"glyphs": [
+			"tupletParenthesisLeftItalic",
+			"tupletParenthesisRightItalic",
+			"tupletParenthesisLeftRoman",
+			"tupletParenthesisRightRoman",
+			"tupletBracketLeftItalic",
+			"tupletBracketRightItalic",
+			"tupletBracketLeftRoman",
+			"tupletBracketRightRoman"
+		],
+		"range_end": "U+EF17",
+		"range_start": "U+EF10"
+	},
 	"turkishFolkMusicAccidentals": {
 		"description": "Turkish folk music accidentals",
 		"glyphs": [

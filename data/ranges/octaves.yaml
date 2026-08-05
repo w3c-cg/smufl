@@ -1,0 +1,100 @@
+name: octaves
+description: Octaves
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/octaves.md
+codepointRangeStart: U+E510
+codepointRangeEnd: U+E51F
+hidden: false
+glyphs:
+- name: ottava
+  description: Ottava
+  classes:
+  - octaves
+- name: ottavaAlta
+  description: Ottava alta
+  alternateCodepoint: U+1D136
+  classes:
+  - octaves
+- name: ottavaBassa
+  description: Ottava bassa
+  alternateCodepoint: U+1D137
+  classes:
+  - octaves
+- name: ottavaBassaBa
+  description: Ottava bassa (ba)
+  classes:
+  - octaves
+- name: quindicesima
+  description: Quindicesima
+  classes:
+  - octaves
+- name: quindicesimaAlta
+  description: Quindicesima alta
+  classes:
+  - octaves
+- name: quindicesimaBassa
+  description: Quindicesima bassa
+  alternateCodepoint: U+1D139
+  classes:
+  - octaves
+- name: ventiduesima
+  description: Ventiduesima
+  classes:
+  - octaves
+- name: ventiduesimaAlta
+  description: Ventiduesima alta
+  classes:
+  - octaves
+- name: ventiduesimaBassa
+  description: Ventiduesima bassa
+  classes:
+  - octaves
+- name: octaveParensLeft
+  description: Left parenthesis for octave signs
+  classes:
+  - octaves
+- name: octaveParensRight
+  description: Right parenthesis for octave signs
+  classes:
+  - octaves
+- name: ottavaBassaVb
+  description: Ottava bassa (8vb)
+  classes:
+  - octaves
+- name: quindicesimaBassaMb
+  description: Quindicesima bassa (mb)
+  classes:
+  - octaves
+- name: ventiduesimaBassaMb
+  description: Ventiduesima bassa (mb)
+  classes:
+  - octaves
+- name: octaveBassa
+  description: Bassa
+  classes:
+  - octaves
+stylisticAlternates:
+- for: quindicesima
+  name: sedicesima
+  description: Sedicesima (16)
+- for: quindicesimaAlta
+  name: sedicesimaAlta
+  description: Sedicesima (16) alta
+- for: quindicesimaBassa
+  name: sedicesimaBassa
+  description: Sedicesima (16) bassa
+- for: ventiduesima
+  name: ventiquattresima
+  description: Ventiquattresima (24)
+- for: ventiduesimaAlta
+  name: ventiquattresimaAlta
+  description: Ventiquattresima (24) alta
+- for: ventiduesimaBassa
+  name: ventiquattresimaBassa
+  description: Ventiquattresima (24) bassa
+- for: quindicesimaBassaMb
+  name: sedicesimaBassaMb
+  description: Sedicesima (16) bassa (mb)
+- for: ventiduesimaBassaMb
+  name: ventiquattresimaBassaMb
+  description: Ventiquattresima (24) bassa (mb)

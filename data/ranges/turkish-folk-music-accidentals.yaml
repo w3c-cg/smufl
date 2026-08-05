@@ -1,0 +1,55 @@
+name: turkishFolkMusicAccidentals
+description: Turkish folk music accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E450
+codepointRangeEnd: U+E45F
+hidden: false
+glyphs:
+- name: accidental1CommaSharp
+  description: 1-comma sharp
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions
+- name: accidental2CommaSharp
+  description: 2-comma sharp
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions
+- name: accidental3CommaSharp
+  description: 3-comma sharp
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions
+- name: accidental5CommaSharp
+  description: 5-comma sharp
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions
+- name: accidental1CommaFlat
+  description: 1-comma flat
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions
+- name: accidental2CommaFlat
+  description: 2-comma flat
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions
+- name: accidental3CommaFlat
+  description: 3-comma flat
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions
+- name: accidental4CommaFlat
+  description: 4-comma flat
+  classes:
+  - accidentals
+  - accidentals53EDOTurkish
+  - combiningStaffPositions

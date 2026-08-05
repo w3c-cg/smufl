@@ -1,0 +1,153 @@
+name: commonOrnaments
+description: Common ornaments
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/common_ornaments.md
+codepointRangeStart: U+E560
+codepointRangeEnd: U+E56F
+hidden: false
+glyphs:
+- name: graceNoteAcciaccaturaStemUp
+  description: Slashed grace note stem up
+  alternateCodepoint: U+1D194
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: graceNoteAcciaccaturaStemDown
+  description: Slashed grace note stem down
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: graceNoteAppoggiaturaStemUp
+  description: Grace note stem up
+  alternateCodepoint: U+1D195
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: graceNoteAppoggiaturaStemDown
+  description: Grace note stem down
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: graceNoteSlashStemUp
+  description: Slash for stem up grace note
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: graceNoteSlashStemDown
+  description: Slash for stem down grace note
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentTrill
+  description: Trill
+  alternateCodepoint: U+1D196
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentTurn
+  description: Turn
+  alternateCodepoint: U+1D197
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentTurnInverted
+  description: Inverted turn
+  alternateCodepoint: U+1D198
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentTurnSlash
+  description: Turn with slash
+  alternateCodepoint: U+1D199
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentTurnUp
+  description: Turn up
+  alternateCodepoint: U+1D19A
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentTurnUpS
+  description: Inverted turn up
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentShortTrill
+  description: Short trill
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentMordent
+  description: Mordent
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentTremblement
+  description: Tremblement
+  classes:
+  - ornaments
+  - tf_ornaments
+- name: ornamentHaydn
+  description: Haydn ornament
+  classes:
+  - ornaments
+  - tf_ornaments
+ligatures:
+- name: ornamentTrillFlatAbove
+  description: Trill, flat above
+  components:
+  - accidentalFlat
+  - ornamentTrill
+- name: ornamentTrillNaturalAbove
+  description: Trill, natural above
+  components:
+  - accidentalNatural
+  - ornamentTrill
+- name: ornamentTrillSharpAbove
+  description: Trill, sharp above
+  components:
+  - accidentalSharp
+  - ornamentTrill
+- name: ornamentTurnFlatAbove
+  description: Turn, flat above
+  components:
+  - accidentalFlat
+  - ornamentTurn
+- name: ornamentTurnFlatAboveSharpBelow
+  description: Turn, flat above, sharp below
+  components:
+  - accidentalFlat
+  - ornamentTurn
+  - accidentalSharp
+- name: ornamentTurnFlatBelow
+  description: Turn, flat below
+  components:
+  - ornamentTurn
+  - accidentalFlat
+- name: ornamentTurnNaturalAbove
+  description: Turn, natural above
+  components:
+  - accidentalNatural
+  - ornamentTurn
+- name: ornamentTurnNaturalBelow
+  description: Turn, natural below
+  components:
+  - ornamentTurn
+  - accidentalNatural
+- name: ornamentTurnSharpAbove
+  description: Turn, sharp above
+  components:
+  - accidentalSharp
+  - ornamentTurn
+- name: ornamentTurnSharpAboveFlatBelow
+  description: Turn, sharp above, flat below
+  components:
+  - accidentalSharp
+  - ornamentTurn
+  - accidentalFlat
+- name: ornamentTurnSharpBelow
+  description: Turn, sharp below
+  components:
+  - ornamentTurn
+  - accidentalSharp

@@ -1,0 +1,78 @@
+name: shapeNoteNoteheadsSupplement
+description: Shape note noteheads supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ECD0
+codepointRangeEnd: U+ECDF
+hidden: false
+supplementaryTo: shape-note-noteheads
+glyphs:
+- name: noteShapeRoundDoubleWhole
+  description: Round double whole (4-shape sol; 7-shape so)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeSquareDoubleWhole
+  description: Square double whole (4-shape la; Aikin 7-shape la)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeTriangleRightDoubleWhole
+  description: Triangle right double whole (stem down; 4-shape fa; 7-shape fa)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeTriangleLeftDoubleWhole
+  description: Triangle left double whole (stem up; 4-shape fa; 7-shape fa)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeDiamondDoubleWhole
+  description: Diamond double whole (4-shape mi; 7-shape mi)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeTriangleUpDoubleWhole
+  description: Triangle up double whole (Aikin 7-shape do)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeMoonDoubleWhole
+  description: Moon double whole (Aikin 7-shape re)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeTriangleRoundDoubleWhole
+  description: Triangle-round white (Aikin 7-shape ti)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeKeystoneDoubleWhole
+  description: Inverted keystone double whole (Walker 7-shape do)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeQuarterMoonDoubleWhole
+  description: Quarter moon double whole (Walker 7-shape re)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeIsoscelesTriangleDoubleWhole
+  description: Isosceles triangle double whole (Walker 7-shape ti)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeMoonLeftDoubleWhole
+  description: Moon left double whole (Funk 7-shape do)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeArrowheadLeftDoubleWhole
+  description: Arrowhead left double whole (Funk 7-shape re)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads
+- name: noteShapeTriangleRoundLeftDoubleWhole
+  description: Triangle-round left double whole (Funk 7-shape ti)
+  classes:
+  - noteheadSetSacredHarp
+  - noteheads

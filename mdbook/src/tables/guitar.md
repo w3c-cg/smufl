@@ -24,3 +24,4 @@ Recommended stylistic alternates
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
 |<span class="bravura_large">&#xf4b8;</span> | **uniE842.salt01**<br/>*guitarGolpeFlamenco*<br/>Golpe (tapping the pick guard) (Vounelakos) | <span class="bravura_large">&#xf4c1;</span> | **uniE849.salt01**<br/>*guitarBarreHalfHorizontalFractionSlash*<br/>Half barré (horizontal fraction separator)
+|<span class="bravura_large">&#xf546;</span> | **uniE830.salt01**<br/>*guitarVibratoBarScoopCurved*<br/>Guitar vibrato bar scoop (curved) | &nbsp; | &nbsp;

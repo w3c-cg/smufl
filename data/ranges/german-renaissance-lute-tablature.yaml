@@ -1,0 +1,79 @@
+name: germanRenaissanceLuteTablature
+description: German Renaissance lute tablature
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EC00
+codepointRangeEnd: U+EC2F
+hidden: false
+glyphs:
+- name: luteGermanALower
+  description: 5th course, 1st fret (a)
+- name: luteGermanBLower
+  description: 4th course, 1st fret (b)
+- name: luteGermanCLower
+  description: 3rd course, 1st fret (c)
+- name: luteGermanDLower
+  description: 2nd course, 1st fret (d)
+- name: luteGermanELower
+  description: 1st course, 1st fret (e)
+- name: luteGermanFLower
+  description: 5th course, 2nd fret (f)
+- name: luteGermanGLower
+  description: 4th course, 2nd fret (g)
+- name: luteGermanHLower
+  description: 3rd course, 2nd fret (h)
+- name: luteGermanILower
+  description: 2nd course, 2nd fret (i)
+- name: luteGermanKLower
+  description: 1st course, 2nd fret (k)
+- name: luteGermanLLower
+  description: 5th course, 3rd fret (l)
+- name: luteGermanMLower
+  description: 4th course, 3rd fret (m)
+- name: luteGermanNLower
+  description: 3rd course, 3rd fret (n)
+- name: luteGermanOLower
+  description: 2nd course, 3rd fret (o)
+- name: luteGermanPLower
+  description: 1st course, 3rd fret (p)
+- name: luteGermanQLower
+  description: 5th course, 4th fret (q)
+- name: luteGermanRLower
+  description: 4th course, 4th fret (r)
+- name: luteGermanSLower
+  description: 3rd course, 4th fret (s)
+- name: luteGermanTLower
+  description: 2nd course, 4th fret (t)
+- name: luteGermanVLower
+  description: 1st course, 4th fret (v)
+- name: luteGermanXLower
+  description: 5th course, 5th fret (x)
+- name: luteGermanYLower
+  description: 4th course, 5th fret (y)
+- name: luteGermanZLower
+  description: 3rd course, 5th fret (z)
+- name: luteGermanAUpper
+  description: 6th course, 1st fret (A)
+- name: luteGermanBUpper
+  description: 6th course, 2nd fret (B)
+- name: luteGermanCUpper
+  description: 6th course, 3rd fret (C)
+- name: luteGermanDUpper
+  description: 6th course, 4th fret (D)
+- name: luteGermanEUpper
+  description: 6th course, 5th fret (E)
+- name: luteGermanFUpper
+  description: 6th course, 6th fret (F)
+- name: luteGermanGUpper
+  description: 6th course, 7th fret (G)
+- name: luteGermanHUpper
+  description: 6th course, 8th fret (H)
+- name: luteGermanIUpper
+  description: 6th course, 9th fret (I)
+- name: luteGermanKUpper
+  description: 6th course, 10th fret (K)
+- name: luteGermanLUpper
+  description: 6th course, 11th fret (L)
+- name: luteGermanMUpper
+  description: 6th course, 12th fret (M)
+- name: luteGermanNUpper
+  description: 6th course, 13th fret (N)

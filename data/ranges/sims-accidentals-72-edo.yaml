@@ -1,0 +1,44 @@
+name: simsAccidentals72Edo
+description: Sims accidentals (72-EDO)
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/sims-accidentals-72-edo.md
+codepointRangeStart: U+E2A0
+codepointRangeEnd: U+E2AF
+hidden: false
+glyphs:
+- name: accidentalSims12Down
+  description: 1/12 tone low
+  classes:
+  - accidentals
+  - accidentalsSims
+  - combiningStaffPositions
+- name: accidentalSims6Down
+  description: 1/6 tone low
+  classes:
+  - accidentals
+  - accidentalsSims
+  - combiningStaffPositions
+- name: accidentalSims4Down
+  description: 1/4 tone low
+  classes:
+  - accidentals
+  - accidentalsSims
+  - combiningStaffPositions
+- name: accidentalSims12Up
+  description: 1/12 tone high
+  classes:
+  - accidentals
+  - accidentalsSims
+  - combiningStaffPositions
+- name: accidentalSims6Up
+  description: 1/6 tone high
+  classes:
+  - accidentals
+  - accidentalsSims
+  - combiningStaffPositions
+- name: accidentalSims4Up
+  description: 1/4 tone high
+  classes:
+  - accidentals
+  - accidentalsSims
+  - combiningStaffPositions

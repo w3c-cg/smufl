@@ -1,0 +1,235 @@
+name: spartanSagittalMultiShaftAccidentals
+description: Spartan Sagittal multi-shaft accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E310
+codepointRangeEnd: U+E33F
+hidden: false
+glyphs:
+- name: accSagittalSharp25SDown
+  description: Sharp 25S-down, 3° up [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat25SUp
+  description: Flat 25S-up, 3° down [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp7CDown
+  description: Sharp 7C-down, 2° up [43 EDO], 4° up [72 EDO], 1/3-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat7CUp
+  description: Flat 7C-up, 2° down [43 EDO], 4° down [72 EDO], 1/3-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp5CDown
+  description: Sharp 5C-down, 2°[22 29] 3°[27 34 41] 4°[39 46 53] 5°[72] 7°[96] up, 5/12-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat5CUp
+  description: Flat 5C-up, 2°[22 29] 3°[27 34 41] 4°[39 46 53] 5°72 7°[96] down, 5/12-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp5v7kDown
+  description: Sharp 5:7k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat5v7kUp
+  description: Flat 5:7k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp
+  description: Sharp, (apotome up)[almost all EDOs], 1/2-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat
+  description: Flat, (apotome down)[almost all EDOs], 1/2-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalUnused1
+  description: Unused
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalUnused2
+  description: Unused
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp5v7kUp
+  description: Sharp 5:7k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat5v7kDown
+  description: Flat 5:7k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp5CUp
+  description: Sharp 5C-up, 4°[22 29] 5°[27 34 41] 6°[39 46 53] up, 7/12-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat5CDown
+  description: Flat 5C-down, 4°[22 29] 5°[27 34 41] 6°[39 46 53] down, 7/12-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp7CUp
+  description: Sharp 7C-up, 4° up [43 EDO], 8° up [72 EDO], 2/3-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat7CDown
+  description: Flat 7C-down, 4° down [43 EDO], 8° down [72 EDO], 2/3-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp25SUp
+  description: Sharp 25S-up, 7° up [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat25SDown
+  description: Flat 25S-down, 7° down [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp35MUp
+  description: Sharp 35M-up, 4° up [50 EDO], 6° up [27 EDO], 13/18-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat35MDown
+  description: Flat 35M-down, 4° down [50 EDO], 6° down [27 EDO], 13/18-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp11MUp
+  description: Sharp 11M-up, 3° up [17 31 EDOs], 7° up [46 EDO], 3/4-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat11MDown
+  description: Flat 11M-down, 3° down [17 31 EDOs], 7° down [46 EDO], 3/4-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp11LUp
+  description: Sharp 11L-up, 8° up [46 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat11LDown
+  description: Flat 11L-down, 8° up [46 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalSharp35LUp
+  description: Sharp 35L-up, 5° up [50 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalFlat35LDown
+  description: Flat 35L-down, 5° down [50 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp25SDown
+  description: Double sharp 25S-down, 8°up [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat25SUp
+  description: Double flat 25S-up, 8°down [53 EDO]
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp7CDown
+  description: Double sharp 7C-down, 5°[43] 10°[72] up, 5/6-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat7CUp
+  description: Double flat 7C-up, 5° down [43 EDO], 10° down [72 EDO], 5/6-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp5CDown
+  description: Double sharp 5C-down, 5°[22 29] 7°[34 41] 9°53 up, 11/12 tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat5CUp
+  description: Double flat 5C-up, 5°[22 29] 7°[34 41] 9°53 down, 11/12 tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp5v7kDown
+  description: Double sharp 5:7k-down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat5v7kUp
+  description: Double flat 5:7k-up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp
+  description: Double sharp, (2 apotomes up)[almost all EDOs], whole-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat
+  description: Double flat, (2 apotomes down)[almost all EDOs], whole-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalPure
+  - combiningStaffPositions

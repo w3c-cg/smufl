@@ -1,0 +1,27 @@
+name: barRepeats
+description: Bar repeats
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E500
+codepointRangeEnd: U+E50F
+hidden: false
+glyphs:
+- name: repeat1Bar
+  description: Repeat last bar
+  alternateCodepoint: U+1D10E
+  classes:
+  - combiningStaffPositions
+- name: repeat2Bars
+  description: Repeat last two bars
+  alternateCodepoint: U+1D10F
+  classes:
+  - combiningStaffPositions
+- name: repeat4Bars
+  description: Repeat last four bars
+  classes:
+  - combiningStaffPositions
+- name: repeatBarUpperDot
+  description: Repeat bar upper dot
+- name: repeatBarSlash
+  description: Repeat bar slash
+- name: repeatBarLowerDot
+  description: Repeat bar lower dot

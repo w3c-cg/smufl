@@ -1,0 +1,19 @@
+name: lyrics
+description: Lyrics
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E550
+codepointRangeEnd: U+E55F
+hidden: false
+glyphs:
+- name: lyricsElisionNarrow
+  description: Narrow elision
+- name: lyricsElision
+  description: Elision
+- name: lyricsElisionWide
+  description: Wide elision
+- name: lyricsHyphenBaseline
+  description: Baseline hyphen
+- name: lyricsHyphenBaselineNonBreaking
+  description: Non-breaking baseline hyphen
+- name: lyricsTextRepeat
+  description: Text repeats

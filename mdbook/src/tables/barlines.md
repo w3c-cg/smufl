@@ -12,4 +12,4 @@ Barlines (U+E030–U+E03F)
 Implementation notes
 ---------------------
 
-Scoring programs should draw their own barlines using primitives, not use the glyphs in this range.
+{{#include ../implementation_notes/barlines.md}}

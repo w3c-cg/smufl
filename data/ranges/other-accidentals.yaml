@@ -1,0 +1,168 @@
+name: otherAccidentals
+description: Other accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E470
+codepointRangeEnd: U+E49F
+hidden: false
+glyphs:
+- name: accidentalXenakisOneThirdToneSharp
+  description: One-third-tone sharp (Xenakis)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalXenakisTwoThirdTonesSharp
+  description: Two-third-tones sharp (Xenakis)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalQuarterToneSharpBusotti
+  description: Quarter tone sharp (Bussotti)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalSharpOneHorizontalStroke
+  description: One or three quarter tones sharp
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesSharpBusotti
+  description: Three quarter tones sharp (Bussotti)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalQuarterToneSharpWiggle
+  description: Quarter tone sharp with wiggly tail
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalTavenerSharp
+  description: Byzantine-style Büyük mücenneb sharp (Tavener)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalTavenerFlat
+  description: Byzantine-style Bakiye flat (Tavener)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalQuarterToneFlatPenderecki
+  description: Quarter tone flat (Penderecki)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalCommaSlashUp
+  description: Syntonic/Didymus comma (80:81) up (Bosanquet)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalCommaSlashDown
+  description: Syntonic/Didymus comma (80:81) down (Bosanquet)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalWilsonPlus
+  description: Wilson plus (5 comma up)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalWilsonMinus
+  description: Wilson minus (5 comma down)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalLargeDoubleSharp
+  description: Large double sharp
+  classes:
+  - accidentals
+  - accidentalsSagittalMixed
+  - combiningStaffPositions
+- name: accidentalQuarterToneSharp4
+  description: Quarter-tone sharp
+  alternateCodepoint: U+1D132
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalQuarterToneFlat4
+  description: Quarter-tone flat
+  alternateCodepoint: U+1D133
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalQuarterToneFlatFilledReversed
+  description: Filled reversed flat (quarter-tone flat)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalSharpReversed
+  description: Reversed sharp
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalNaturalReversed
+  description: Reversed natural
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalDoubleFlatReversed
+  description: Reversed double flat
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalFlatTurned
+  description: Turned flat
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalDoubleFlatTurned
+  description: Turned double flat
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesFlatGrisey
+  description: Three-quarter-tones flat (Grisey)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesFlatTartini
+  description: Three-quarter-tones flat (Tartini)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalQuarterToneFlatVanBlankenburg
+  description: Quarter-tone flat (van Blankenburg)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalThreeQuarterTonesFlatCouper
+  description: Three-quarter-tones flat (Couper)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalOneThirdToneSharpFerneyhough
+  description: One-third-tone sharp (Ferneyhough)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalOneThirdToneFlatFerneyhough
+  description: One-third-tone flat (Ferneyhough)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalTwoThirdTonesSharpFerneyhough
+  description: Two-third-tones sharp (Ferneyhough)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalTwoThirdTonesFlatFerneyhough
+  description: Two-third-tones flat (Ferneyhough)
+  classes:
+  - accidentals
+  - combiningStaffPositions
+- name: accidentalOneQuarterToneSharpFerneyhough
+  description: One-quarter-tone sharp (Ferneyhough)
+  classes:
+  - accidentals
+- name: accidentalOneQuarterToneFlatFerneyhough
+  description: One-quarter-tone flat (Ferneyhough)
+  classes:
+  - accidentals

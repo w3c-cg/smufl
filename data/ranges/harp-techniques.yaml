@@ -1,0 +1,85 @@
+name: harpTechniques
+description: Harp techniques
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/harp_techniques.md
+codepointRangeStart: U+E680
+codepointRangeEnd: U+E69F
+hidden: false
+glyphs:
+- name: harpPedalRaised
+  description: Harp pedal raised (flat)
+  classes:
+  - tf_harpPedals
+- name: harpPedalCentered
+  description: Harp pedal centered (natural)
+  classes:
+  - tf_harpPedals
+- name: harpPedalLowered
+  description: Harp pedal lowered (sharp)
+  classes:
+  - tf_harpPedals
+- name: harpPedalDivider
+  description: Harp pedal divider
+  classes:
+  - tf_harpPedals
+- name: harpSalzedoSlideWithSuppleness
+  description: Slide with suppleness (Salzedo)
+- name: harpSalzedoOboicFlux
+  description: Oboic flux (Salzedo)
+- name: harpSalzedoThunderEffect
+  description: Thunder effect (Salzedo)
+- name: harpSalzedoWhistlingSounds
+  description: Whistling sounds (Salzedo)
+- name: harpSalzedoMetallicSounds
+  description: Metallic sounds (Salzedo)
+- name: harpSalzedoTamTamSounds
+  description: Tam-tam sounds (Salzedo)
+- name: harpSalzedoPlayUpperEnd
+  description: Play at upper end of strings (Salzedo)
+- name: harpSalzedoTimpanicSounds
+  description: Timpanic sounds (Salzedo)
+- name: harpSalzedoMuffleTotally
+  description: Muffle totally (Salzedo)
+- name: harpSalzedoFluidicSoundsLeft
+  description: Fluidic sounds, left hand (Salzedo)
+- name: harpSalzedoFluidicSoundsRight
+  description: Fluidic sounds, right hand (Salzedo)
+- name: harpMetalRod
+  description: Metal rod pictogram
+- name: harpTuningKey
+  description: Tuning key pictogram
+- name: harpTuningKeyHandle
+  description: Use handle of tuning key pictogram
+- name: harpTuningKeyShank
+  description: Use shank of tuning key pictogram
+- name: harpTuningKeyGlissando
+  description: Retune strings for glissando
+- name: harpStringNoiseStem
+  description: Combining string noise for stem
+  classes:
+  - stemDecorations
+- name: harpSalzedoAeolianAscending
+  description: Ascending aeolian chords (Salzedo)
+- name: harpSalzedoAeolianDescending
+  description: Descending aeolian chords (Salzedo)
+- name: harpSalzedoDampLowStrings
+  description: Damp only low strings (Salzedo)
+- name: harpSalzedoDampBothHands
+  description: Damp with both hands (Salzedo)
+- name: harpSalzedoDampBelow
+  description: Damp below (Salzedo)
+- name: harpSalzedoDampAbove
+  description: Damp above (Salzedo)
+- name: harpSalzedoMetallicSoundsOneString
+  description: Metallic sounds, one string (Salzedo)
+- name: harpSalzedoIsolatedSounds
+  description: Isolated sounds (Salzedo)
+- name: harpSalzedoSnareDrum
+  description: Snare drum effect (Salzedo)
+stylisticAlternates:
+- for: harpMetalRod
+  name: harpMetalRodAlt
+  description: Metal rod pictogram (alternative)
+- for: harpTuningKey
+  name: harpTuningKeyAlt
+  description: Tuning key pictogram (alternative)

@@ -1,0 +1,84 @@
+name: windTechniques
+description: Wind techniques
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E5F0
+codepointRangeEnd: U+E60F
+hidden: false
+glyphs:
+- name: doubleTongueAbove
+  description: Double-tongue above
+  alternateCodepoint: U+1D18A
+- name: doubleTongueBelow
+  description: Double-tongue below
+- name: tripleTongueAbove
+  description: Triple-tongue above
+  alternateCodepoint: U+1D18B
+- name: tripleTongueBelow
+  description: Triple-tongue below
+- name: windClosedHole
+  description: Closed hole
+- name: windThreeQuartersClosedHole
+  description: Three-quarters closed hole
+- name: windHalfClosedHole1
+  description: Half-closed hole
+- name: windHalfClosedHole2
+  description: Half-closed hole 2
+- name: windHalfClosedHole3
+  description: Half-open hole
+- name: windOpenHole
+  description: Open hole
+- name: windTrillKey
+  description: Trill key
+- name: windFlatEmbouchure
+  description: Flatter embouchure
+- name: windSharpEmbouchure
+  description: Sharper embouchure
+- name: windRelaxedEmbouchure
+  description: Relaxed embouchure
+- name: windLessRelaxedEmbouchure
+  description: Somewhat relaxed embouchure
+- name: windTightEmbouchure
+  description: Tight embouchure
+- name: windLessTightEmbouchure
+  description: Somewhat tight embouchure
+- name: windVeryTightEmbouchure
+  description: Very tight embouchure
+- name: windWeakAirPressure
+  description: Very relaxed embouchure / weak air-pressure
+- name: windStrongAirPressure
+  description: Very tight embouchure / strong air pressure
+- name: windReedPositionNormal
+  description: Normal reed position
+- name: windReedPositionOut
+  description: Very little reed (pull outwards)
+- name: windReedPositionIn
+  description: Much more reed (push inwards)
+- name: windMultiphonicsBlackStem
+  description: Combining multiphonics (black) for stem
+  classes:
+  - stemDecorations
+- name: windMultiphonicsWhiteStem
+  description: Combining multiphonics (white) for stem
+  classes:
+  - stemDecorations
+- name: windMultiphonicsBlackWhiteStem
+  description: Combining multiphonics (black and white) for stem
+  classes:
+  - stemDecorations
+- name: windMouthpiecePop
+  description: Mouthpiece or hand pop
+- name: windRimOnly
+  description: Rim only
+stylisticAlternates:
+- for: doubleTongueAbove
+  name: doubleTongueAboveNoSlur
+  description: Double-tongue above (no slur)
+- for: doubleTongueBelow
+  name: doubleTongueBelowNoSlur
+  description: Double-tongue below (no slur)
+- for: tripleTongueAbove
+  name: tripleTongueAboveNoSlur
+  description: Triple-tongue above (no slur)
+- for: tripleTongueBelow
+  name: tripleTongueBelowNoSlur
+  description: Triple-tongue below (no slur)

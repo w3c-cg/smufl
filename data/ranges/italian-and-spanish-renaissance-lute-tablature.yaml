@@ -1,0 +1,53 @@
+name: italianAndSpanishRenaissanceLuteTablature
+description: Italian and Spanish Renaissance lute tablature
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EBE0
+codepointRangeEnd: U+EBFF
+hidden: false
+glyphs:
+- name: luteItalianFret0
+  description: Open string (0)
+- name: luteItalianFret1
+  description: First fret (1)
+- name: luteItalianFret2
+  description: Second fret (2)
+- name: luteItalianFret3
+  description: Third fret (3)
+- name: luteItalianFret4
+  description: Fourth fret (4)
+- name: luteItalianFret5
+  description: Fifth fret (5)
+- name: luteItalianFret6
+  description: Sixth fret (6)
+- name: luteItalianFret7
+  description: Seventh fret (7)
+- name: luteItalianFret8
+  description: Eighth fret (8)
+- name: luteItalianFret9
+  description: Ninth fret (9)
+- name: luteItalianTempoFast
+  description: Fast tempo indication (de Mudarra)
+- name: luteItalianTempoSomewhatFast
+  description: Somewhat fast tempo indication (de Narvaez)
+- name: luteItalianTempoNeitherFastNorSlow
+  description: Neither fast nor slow tempo indication (de Mudarra)
+- name: luteItalianTempoSlow
+  description: Slow tempo indication (de Mudarra)
+- name: luteItalianTempoVerySlow
+  description: Very slow indication (de Narvaez)
+- name: luteItalianTimeTriple
+  description: Triple time indication
+- name: luteItalianClefFFaUt
+  description: F fa ut clef
+- name: luteItalianClefCSolFaUt
+  description: C sol fa ut clef
+- name: luteItalianTremolo
+  description: Single-finger tremolo or mordent
+- name: luteItalianHoldNote
+  description: Hold note
+- name: luteItalianHoldFinger
+  description: Hold finger in place
+- name: luteItalianReleaseFinger
+  description: Release finger
+- name: luteItalianVibrato
+  description: Vibrato (verre cassé)

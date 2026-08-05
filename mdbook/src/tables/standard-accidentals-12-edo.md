@@ -3,8 +3,8 @@ Standard accidentals (12-EDO) (U+E260–U+E26F)
 
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xe260;</span> | **U+E260** (and 266D)<br/>*accidentalFlat*<br/>Flat | <span class="bravura_large">&#xe261;</span> | **U+E261** (and 266E)<br/>*accidentalNatural*<br/>Natural
-|<span class="bravura_large">&#xe262;</span> | **U+E262** (and 266F)<br/>*accidentalSharp*<br/>Sharp | <span class="bravura_large">&#xe263;</span> | **U+E263** (and U+1D12A)<br/>*accidentalDoubleSharp*<br/>Double sharp
+|<span class="bravura_large">&#xe260;</span> | **U+E260** (and U+266D)<br/>*accidentalFlat*<br/>Flat | <span class="bravura_large">&#xe261;</span> | **U+E261** (and U+266E)<br/>*accidentalNatural*<br/>Natural
+|<span class="bravura_large">&#xe262;</span> | **U+E262** (and U+266F)<br/>*accidentalSharp*<br/>Sharp | <span class="bravura_large">&#xe263;</span> | **U+E263** (and U+1D12A)<br/>*accidentalDoubleSharp*<br/>Double sharp
 |<span class="bravura_large">&#xe264;</span> | **U+E264** (and U+1D12B)<br/>*accidentalDoubleFlat*<br/>Double flat | <span class="bravura_large">&#xe265;</span> | **U+E265**<br/>*accidentalTripleSharp*<br/>Triple sharp
 |<span class="bravura_large">&#xe266;</span> | **U+E266**<br/>*accidentalTripleFlat*<br/>Triple flat | <span class="bravura_large">&#xe267;</span> | **U+E267**<br/>*accidentalNaturalFlat*<br/>Natural flat
 |<span class="bravura_large">&#xe268;</span> | **U+E268**<br/>*accidentalNaturalSharp*<br/>Natural sharp | <span class="bravura_large">&#xe269;</span> | **U+E269**<br/>*accidentalSharpSharp*<br/>Sharp sharp
@@ -23,11 +23,11 @@ Recommended ligatures
 ---------------------
 | **Glyph** | **Description** | **Glyph** | **Description**
 | :-------: | --------------- | :-------: | ---------------
-|<span class="bravura_large">&#xf5e0;</span> | **uniE26A_uniE260_uniE26B**<br/>*accidentalFlatParens*<br/>Parenthesised flat | <span class="bravura_large">&#xf5e1;</span> | **uniE26A_uniE261_uniE26B**<br/>*accidentalNaturalParens*<br/>Parenthesised natural
-|<span class="bravura_large">&#xf5e2;</span> | **uniE26A_uniE262_uniE26B**<br/>*accidentalSharpParens*<br/>Parenthesised sharp | <span class="bravura_large">&#xf5e3;</span> | **uniE26A_uniE263_uniE26B**<br/>*accidentalDoubleSharpParens*<br/>Parenthesised double sharp
-|<span class="bravura_large">&#xf5e4;</span> | **uniE26A_uniE264_uniE26B**<br/>*accidentalDoubleFlatParens*<br/>Parenthesised double flat | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xf5ea;</span> | **uniE26A_uniE260_uniE26B**<br/>*accidentalFlatParens*<br/>Parenthesised flat | <span class="bravura_large">&#xf5eb;</span> | **uniE26A_uniE261_uniE26B**<br/>*accidentalNaturalParens*<br/>Parenthesised natural
+|<span class="bravura_large">&#xf5ec;</span> | **uniE26A_uniE262_uniE26B**<br/>*accidentalSharpParens*<br/>Parenthesised sharp | <span class="bravura_large">&#xf5ed;</span> | **uniE26A_uniE263_uniE26B**<br/>*accidentalDoubleSharpParens*<br/>Parenthesised double sharp
+|<span class="bravura_large">&#xf5ee;</span> | **uniE26A_uniE264_uniE26B**<br/>*accidentalDoubleFlatParens*<br/>Parenthesised double flat | &nbsp; | &nbsp;
 
 Implementation notes
 ---------------------
 
-Scoring applications may choose to substitute stylistic alternate versions of the common accidentals glyphs for a better appearance on smaller staves.
+{{#include ../implementation_notes/standard-accidentals-12-edo.md}}

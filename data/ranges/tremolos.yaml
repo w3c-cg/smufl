@@ -1,0 +1,74 @@
+name: tremolos
+description: Tremolos
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/tremolos.md
+codepointRangeStart: U+E220
+codepointRangeEnd: U+E23F
+hidden: false
+glyphs:
+- name: tremolo1
+  description: Combining tremolo 1
+  alternateCodepoint: U+1D167
+  classes:
+  - stemDecorations
+- name: tremolo2
+  description: Combining tremolo 2
+  alternateCodepoint: U+1D168
+  classes:
+  - stemDecorations
+- name: tremolo3
+  description: Combining tremolo 3
+  alternateCodepoint: U+1D169
+  classes:
+  - stemDecorations
+- name: tremolo4
+  description: Combining tremolo 4
+  classes:
+  - stemDecorations
+- name: tremolo5
+  description: Combining tremolo 5
+  classes:
+  - stemDecorations
+- name: tremoloFingered1
+  description: Fingered tremolo 1
+  alternateCodepoint: U+1D16A
+- name: tremoloFingered2
+  description: Fingered tremolo 2
+  alternateCodepoint: U+1D16B
+- name: tremoloFingered3
+  description: Fingered tremolo 3
+  alternateCodepoint: U+1D16C
+- name: tremoloFingered4
+  description: Fingered tremolo 4
+- name: tremoloFingered5
+  description: Fingered tremolo 5
+- name: buzzRoll
+  description: Buzz roll
+  classes:
+  - stemDecorations
+- name: pendereckiTremolo
+  description: Penderecki unmeasured tremolo
+  classes:
+  - stemDecorations
+- name: unmeasuredTremolo
+  description: Wieniawski unmeasured tremolo
+  classes:
+  - stemDecorations
+- name: unmeasuredTremoloSimple
+  description: Wieniawski unmeasured tremolo (simpler)
+  classes:
+  - stemDecorations
+- name: tremoloDivisiDots2
+  description: Divide measured tremolo by 2
+- name: tremoloDivisiDots3
+  description: Divide measured tremolo by 3
+- name: tremoloDivisiDots4
+  description: Divide measured tremolo by 4
+- name: tremoloDivisiDots6
+  description: Divide measured tremolo by 6
+- name: stockhausenTremolo
+  description: Stockhausen irregular tremolo ("Morsen", like Morse code)
+- name: oneHandedRollStevens
+  description: One-handed roll (Stevens)
+- name: doubleLateralRollStevens
+  description: Double lateral roll (Stevens)

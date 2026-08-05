@@ -1,0 +1,40 @@
+name: fingeringSupplement
+description: Fingering supplement
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ED80
+codepointRangeEnd: U+ED9F
+hidden: false
+supplementaryTo: fingering
+glyphs:
+- name: fingering0Italic
+  description: Fingering 0 italic (open string)
+- name: fingering1Italic
+  description: Fingering 1 italic (thumb)
+- name: fingering2Italic
+  description: Fingering 2 italic (index finger)
+- name: fingering3Italic
+  description: Fingering 3 italic (middle finger)
+- name: fingering4Italic
+  description: Fingering 4 italic (ring finger)
+- name: fingering5Italic
+  description: Fingering 5 italic (little finger)
+- name: fingering6Italic
+  description: Fingering 6 italic
+- name: fingering7Italic
+  description: Fingering 7 italic
+- name: fingering8Italic
+  description: Fingering 8 italic
+- name: fingering9Italic
+  description: Fingering 9 italic
+- name: fingeringLeftParenthesisItalic
+  description: Fingering left parenthesis italic
+- name: fingeringRightParenthesisItalic
+  description: Fingering right parenthesis italic
+- name: fingeringLeftBracketItalic
+  description: Fingering left bracket italic
+- name: fingeringRightBracketItalic
+  description: Fingering right bracket italic
+- name: fingeringQLower
+  description: Fingering q (right-hand little finger for guitar)
+- name: fingeringSLower
+  description: Fingering s (right-hand little finger for guitar)

@@ -1,0 +1,31 @@
+name: timeSignaturesReversed
+description: Reversed time signatures
+firstPublishedIn: '1.4'
+codepointRangeStart: U+ECF0
+codepointRangeEnd: U+ECFF
+hidden: false
+glyphs:
+- name: timeSig0Reversed
+  description: Reversed time signature 0
+- name: timeSig1Reversed
+  description: Reversed time signature 1
+- name: timeSig2Reversed
+  description: Reversed time signature 2
+- name: timeSig3Reversed
+  description: Reversed time signature 3
+- name: timeSig4Reversed
+  description: Reversed time signature 4
+- name: timeSig5Reversed
+  description: Reversed time signature 5
+- name: timeSig6Reversed
+  description: Reversed time signature 6
+- name: timeSig7Reversed
+  description: Reversed time signature 7
+- name: timeSig8Reversed
+  description: Reversed time signature 8
+- name: timeSig9Reversed
+  description: Reversed time signature 9
+- name: timeSigCommonReversed
+  description: Reversed common time
+- name: timeSigCutCommonReversed
+  description: Reversed cut time

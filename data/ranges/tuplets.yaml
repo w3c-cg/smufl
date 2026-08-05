@@ -1,0 +1,75 @@
+name: tuplets
+description: Tuplets
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/tuplets.md
+codepointRangeStart: U+E880
+codepointRangeEnd: U+E88F
+hidden: false
+glyphs:
+- name: tuplet0
+  description: Tuplet 0
+- name: tuplet1
+  description: Tuplet 1
+- name: tuplet2
+  description: Tuplet 2
+- name: tuplet3
+  description: Tuplet 3
+- name: tuplet4
+  description: Tuplet 4
+- name: tuplet5
+  description: Tuplet 5
+- name: tuplet6
+  description: Tuplet 6
+- name: tuplet7
+  description: Tuplet 7
+- name: tuplet8
+  description: Tuplet 8
+- name: tuplet9
+  description: Tuplet 9
+- name: tupletColon
+  description: Tuplet colon
+stylisticAlternates:
+- for: tuplet0
+  name: tuplet0Light
+  description: Tuplet 0 (light)
+  set: light
+- for: tuplet1
+  name: tuplet1Light
+  description: Tuplet 1 (light)
+  set: light
+- for: tuplet2
+  name: tuplet2Light
+  description: Tuplet 2 (light)
+  set: light
+- for: tuplet3
+  name: tuplet3Light
+  description: Tuplet 3 (light)
+  set: light
+- for: tuplet4
+  name: tuplet4Light
+  description: Tuplet 4 (light)
+  set: light
+- for: tuplet5
+  name: tuplet5Light
+  description: Tuplet 5 (light)
+  set: light
+- for: tuplet6
+  name: tuplet6Light
+  description: Tuplet 6 (light)
+  set: light
+- for: tuplet7
+  name: tuplet7Light
+  description: Tuplet 7 (light)
+  set: light
+- for: tuplet8
+  name: tuplet8Light
+  description: Tuplet 8 (light)
+  set: light
+- for: tuplet9
+  name: tuplet9Light
+  description: Tuplet 9 (light)
+  set: light
+- for: tupletColon
+  name: tupletColonLight
+  description: Tuplet colon (light)
+  set: light

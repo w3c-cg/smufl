@@ -1,0 +1,139 @@
+name: wyschnegradskyAccidentals72Edo
+description: Wyschnegradsky accidentals (72-EDO)
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E420
+codepointRangeEnd: U+E43F
+hidden: false
+glyphs:
+- name: accidentalWyschnegradsky1TwelfthsSharp
+  description: 1/12 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky2TwelfthsSharp
+  description: 1/6 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky3TwelfthsSharp
+  description: 1/4 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky4TwelfthsSharp
+  description: 1/3 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky5TwelfthsSharp
+  description: 5/12 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky6TwelfthsSharp
+  description: 1/2 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky7TwelfthsSharp
+  description: 7/12 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky8TwelfthsSharp
+  description: 2/3 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky9TwelfthsSharp
+  description: 3/4 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky10TwelfthsSharp
+  description: 5/6 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky11TwelfthsSharp
+  description: 11/12 tone sharp
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky1TwelfthsFlat
+  description: 1/12 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky2TwelfthsFlat
+  description: 1/6 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky3TwelfthsFlat
+  description: 1/4 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky4TwelfthsFlat
+  description: 1/3 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky5TwelfthsFlat
+  description: 5/12 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky6TwelfthsFlat
+  description: 1/2 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky7TwelfthsFlat
+  description: 7/12 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky8TwelfthsFlat
+  description: 2/3 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky9TwelfthsFlat
+  description: 3/4 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky10TwelfthsFlat
+  description: 5/6 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions
+- name: accidentalWyschnegradsky11TwelfthsFlat
+  description: 11/12 tone flat
+  classes:
+  - accidentals
+  - accidentals72EDOWyschnegradsky
+  - combiningStaffPositions

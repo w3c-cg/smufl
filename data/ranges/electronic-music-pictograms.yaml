@@ -1,0 +1,137 @@
+name: electronicMusicPictograms
+description: Electronic music pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EB10
+codepointRangeEnd: U+EB5F
+hidden: false
+glyphs:
+- name: elecMicrophone
+  description: Microphone
+- name: elecHeadphones
+  description: Headphones
+- name: elecHeadset
+  description: Headset
+- name: elecDisc
+  description: Disc
+- name: elecTape
+  description: Tape
+- name: elecMixingConsole
+  description: Mixing console
+- name: elecUSB
+  description: USB connection
+- name: elecVideoCamera
+  description: Video camera
+- name: elecMonitor
+  description: Monitor
+- name: elecProjector
+  description: Projector
+- name: elecLoudspeaker
+  description: Loudspeaker
+- name: elecCamera
+  description: Camera
+- name: elecPlay
+  description: Play
+- name: elecStop
+  description: Stop
+- name: elecPause
+  description: Pause
+- name: elecFastForward
+  description: Fast-forward
+- name: elecRewind
+  description: Rewind
+- name: elecSkipForwards
+  description: Skip forwards
+- name: elecSkipBackwards
+  description: Skip backwards
+- name: elecLoop
+  description: Loop
+- name: elecReplay
+  description: Replay
+- name: elecShuffle
+  description: Shuffle
+- name: elecMute
+  description: Mute
+- name: elecUnmute
+  description: Unmute
+- name: elecMicrophoneMute
+  description: Mute microphone
+- name: elecMicrophoneUnmute
+  description: Unmute microphone
+- name: elecPowerOnOff
+  description: Power on/off
+- name: elecEject
+  description: Eject
+- name: elecVolumeFader
+  description: Combining volume fader
+- name: elecVolumeFaderThumb
+  description: Combining volume fader thumb
+- name: elecVolumeLevel0
+  description: Volume level 0%
+- name: elecVolumeLevel20
+  description: Volume level 20%
+- name: elecVolumeLevel40
+  description: Volume level 40%
+- name: elecVolumeLevel60
+  description: Volume level 60%
+- name: elecVolumeLevel80
+  description: Volume level 80%
+- name: elecVolumeLevel100
+  description: Volume level 100%
+- name: elecMIDIIn
+  description: MIDI in
+- name: elecMIDIOut
+  description: MIDI out
+- name: elecMIDIController0
+  description: MIDI controller 0%
+- name: elecMIDIController20
+  description: MIDI controller 20%
+- name: elecMIDIController40
+  description: MIDI controller 40%
+- name: elecMIDIController60
+  description: MIDI controller 60%
+- name: elecMIDIController80
+  description: MIDI controller 80%
+- name: elecMIDIController100
+  description: MIDI controller 100%
+- name: elecAudioMono
+  description: Mono audio setup
+- name: elecAudioStereo
+  description: Stereo audio setup
+- name: elecAudioChannelsOne
+  description: One channel (mono)
+- name: elecAudioChannelsTwo
+  description: Two channels (stereo)
+- name: elecAudioChannelsThreeFrontal
+  description: Three channels (frontal)
+- name: elecAudioChannelsThreeSurround
+  description: Three channels (surround)
+- name: elecAudioChannelsFour
+  description: Four channels
+- name: elecAudioChannelsFive
+  description: Five channels
+- name: elecAudioChannelsSix
+  description: Six channels (5.1 surround)
+- name: elecAudioChannelsSeven
+  description: Seven channels
+- name: elecAudioChannelsEight
+  description: Eight channels (7.1 surround)
+- name: elecLineIn
+  description: Line in
+- name: elecLineOut
+  description: Line out
+- name: elecAudioIn
+  description: Audio in
+- name: elecAudioOut
+  description: Audio out
+- name: elecVideoIn
+  description: Video in
+- name: elecVideoOut
+  description: Video out
+- name: elecDataIn
+  description: Data in
+- name: elecDataOut
+  description: Data out
+- name: elecDownload
+  description: Download
+- name: elecUpload
+  description: Upload

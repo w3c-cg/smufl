@@ -1,0 +1,50 @@
+name: shakersOrRattlesPictograms
+description: Shakers or rattles pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E740
+codepointRangeEnd: U+E74F
+hidden: false
+glyphs:
+- name: pictFlexatone
+  description: Flexatone
+  classes:
+  - tf_pictograms
+- name: pictMaraca
+  description: Maraca
+  classes:
+  - tf_pictograms
+- name: pictMaracas
+  description: Maracas
+  classes:
+  - tf_pictograms
+- name: pictCabasa
+  description: Cabasa
+  classes:
+  - tf_pictograms
+- name: pictThundersheet
+  description: Thundersheet
+  classes:
+  - tf_pictograms
+- name: pictVibraslap
+  description: Vibraslap
+  classes:
+  - tf_pictograms
+- name: pictSistrum
+  description: Sistrum
+  classes:
+  - tf_pictograms
+- name: pictRainstick
+  description: Rainstick
+  classes:
+  - tf_pictograms
+- name: pictChainRattle
+  description: Chain rattle
+  classes:
+  - tf_pictograms
+stylisticAlternates:
+- for: pictFlexatone
+  name: pictFlexatonePeinkofer
+  description: Flexatone (Peinkofer/Tannigel)
+- for: pictMaraca
+  name: pictMaracaSmithBrindle
+  description: Maraca (Smith Brindle)

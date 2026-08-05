@@ -1,0 +1,454 @@
+name: medievalAndRenaissanceNoteheadsAndStems
+description: Medieval and Renaissance noteheads and stems
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E930
+codepointRangeEnd: U+E94F
+hidden: false
+glyphs:
+- name: mensuralNoteheadMaximaBlack
+  description: Maxima notehead, black
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadMaximaVoid
+  description: Maxima notehead, void
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadMaximaBlackVoid
+  description: Maxima notehead, black and void
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadMaximaWhite
+  description: Maxima notehead, white
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadLongaBlack
+  description: Longa/brevis notehead, black
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadLongaVoid
+  description: Longa/brevis notehead, void
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadLongaBlackVoid
+  description: Longa/brevis notehead, black and void
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadLongaWhite
+  description: Longa/brevis notehead, white
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadSemibrevisBlack
+  description: Semibrevis notehead, black
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadSemibrevisVoid
+  description: Semibrevis notehead, void
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadSemibrevisBlackVoid
+  description: Semibrevis notehead, black and void
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadSemibrevisBlackVoidTurned
+  description: Semibrevis notehead, black and void (turned)
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadMinimaWhite
+  description: Minima notehead, white
+  classes:
+  - combiningStaffPositions
+- name: mensuralNoteheadSemiminimaWhite
+  description: Semiminima/fusa notehead, white
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemUp
+  description: Combining stem up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDown
+  description: Combining stem down
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDiagonal
+  description: Combining stem diagonal
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemUpFlagRight
+  description: Combining stem with flag right up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDownFlagRight
+  description: Combining stem with flag right down
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemUpFlagLeft
+  description: Combining stem with flag left up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDownFlagLeft
+  description: Combining stem with flag left down
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemUpFlagFlared
+  description: Combining stem with flared flag up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDownFlagFlared
+  description: Combining stem with flared flag down
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemUpFlagExtended
+  description: Combining stem with extended flag up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDownFlagExtended
+  description: Combining stem with extended flag down
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemUpFlagSemiminima
+  description: Combining stem with semiminima flag up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDownFlagSemiminima
+  description: Combining stem with semiminima flag down
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemUpFlagFusa
+  description: Combining stem with fusa flag up
+  classes:
+  - combiningStaffPositions
+- name: mensuralCombStemDownFlagFusa
+  description: Combining stem with fusa flag down
+  classes:
+  - combiningStaffPositions
+ligatures:
+- name: mensuralFusaBlackStemDown
+  description: Fusa black, stem down
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemDownFlagFusa
+- name: mensuralFusaBlackStemUp
+  description: Fusa black, stem up
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemUpFlagFusa
+- name: mensuralFusaBlackVoidStemDown
+  description: Fusa black and void, stem down
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemDownFlagFusa
+- name: mensuralFusaBlackVoidStemUp
+  description: Fusa black and void, stem up
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemUpFlagFusa
+- name: mensuralFusaVoidStemDown
+  description: Fusa void, stem down
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemDownFlagFusa
+- name: mensuralFusaVoidStemUp
+  description: Fusa void, stem up
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemUpFlagFusa
+- name: mensuralLongaBlackStemDownLeft
+  description: Longa black, stem down left
+  components:
+  - mensuralCombStemDown
+  - mensuralNoteheadLongaBlack
+- name: mensuralLongaBlackStemDownRight
+  description: Longa black, stem down right
+  components:
+  - mensuralNoteheadLongaBlack
+  - mensuralCombStemDown
+- name: mensuralLongaBlackStemUpLeft
+  description: Longa black, stem up left
+  components:
+  - mensuralCombStemUp
+  - mensuralNoteheadLongaBlack
+- name: mensuralLongaBlackStemUpRight
+  description: Longa black, stem up right
+  components:
+  - mensuralNoteheadLongaBlack
+  - mensuralCombStemUp
+- name: mensuralLongaBlackVoidStemDownLeft
+  description: Longa black and void, stem down left
+  components:
+  - mensuralCombStemDown
+  - mensuralNoteheadLongaBlackVoid
+- name: mensuralLongaBlackVoidStemDownRight
+  description: Longa black and void, stem down right
+  components:
+  - mensuralNoteheadLongaBlackVoid
+  - mensuralCombStemDown
+- name: mensuralLongaBlackVoidStemUpLeft
+  description: Longa black and void, stem up left
+  components:
+  - mensuralCombStemUp
+  - mensuralNoteheadLongaBlackVoid
+- name: mensuralLongaBlackVoidStemUpRight
+  description: Longa black and void, stem up right
+  components:
+  - mensuralNoteheadLongaBlackVoid
+  - mensuralCombStemUp
+- name: mensuralLongaVoidStemDownLeft
+  description: Longa void, stem down left
+  components:
+  - mensuralCombStemDown
+  - mensuralNoteheadLongaVoid
+- name: mensuralLongaVoidStemDownRight
+  description: Longa void, stem down right
+  components:
+  - mensuralNoteheadLongaVoid
+  - mensuralCombStemDown
+- name: mensuralLongaVoidStemUpLeft
+  description: Longa void, stem up left
+  components:
+  - mensuralCombStemUp
+  - mensuralNoteheadLongaVoid
+- name: mensuralLongaVoidStemUpRight
+  description: Longa void, stem up right
+  components:
+  - mensuralNoteheadLongaVoid
+  - mensuralCombStemUp
+- name: mensuralMaximaBlackStemDownLeft
+  description: Maxima black, stem down left
+  components:
+  - mensuralCombStemDown
+  - mensuralNoteheadMaximaBlack
+- name: mensuralMaximaBlackStemDownRight
+  description: Maxima black, stem down right
+  components:
+  - mensuralNoteheadMaximaBlack
+  - mensuralCombStemDown
+- name: mensuralMaximaBlackStemUpLeft
+  description: Maxima black, stem up left
+  components:
+  - mensuralCombStemUp
+  - mensuralNoteheadMaximaBlack
+- name: mensuralMaximaBlackStemUpRight
+  description: Maxima black, stem up right
+  components:
+  - mensuralNoteheadMaximaBlack
+  - mensuralCombStemUp
+- name: mensuralMaximaBlackVoidStemDownLeft
+  description: Maxima black and void, stem down left
+  components:
+  - mensuralCombStemDown
+  - mensuralNoteheadMaximaBlackVoid
+- name: mensuralMaximaBlackVoidStemDownRight
+  description: Maxima black and void, stem down right
+  components:
+  - mensuralNoteheadMaximaBlackVoid
+  - mensuralCombStemDown
+- name: mensuralMaximaBlackVoidStemUpLeft
+  description: Maxima black and void, stem up left
+  components:
+  - mensuralCombStemUp
+  - mensuralNoteheadMaximaBlackVoid
+- name: mensuralMaximaBlackVoidStemUpRight
+  description: Maxima black and void, stem up right
+  components:
+  - mensuralNoteheadMaximaBlackVoid
+  - mensuralCombStemUp
+- name: mensuralMaximaVoidStemDownLeft
+  description: Maxima void, stem down left
+  components:
+  - mensuralCombStemDown
+  - mensuralNoteheadMaximaVoid
+- name: mensuralMaximaVoidStemDownRight
+  description: Maxima void, stem down right
+  components:
+  - mensuralNoteheadMaximaVoid
+  - mensuralCombStemDown
+- name: mensuralMaximaVoidStemUpLeft
+  description: Maxima void, stem up left
+  components:
+  - mensuralCombStemUp
+  - mensuralNoteheadMaximaVoid
+- name: mensuralMaximaVoidStemUpRight
+  description: Maxima void, stem up right
+  components:
+  - mensuralNoteheadMaximaVoid
+  - mensuralCombStemUp
+- name: mensuralMinimaBlackStemDown
+  description: Minima black, stem down
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemDown
+- name: mensuralMinimaBlackStemDownExtendedFlag
+  description: Minima black, stem down with extended flag
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemDownFlagExtended
+- name: mensuralMinimaBlackStemDownFlagLeft
+  description: Minima black, stem down with flag left
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemDownFlagLeft
+- name: mensuralMinimaBlackStemDownFlagRight
+  description: Minima black, stem down with flag right
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemDownFlagRight
+- name: mensuralMinimaBlackStemDownFlaredFlag
+  description: Minima black, stem down with flared flag
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemDownFlagFlared
+- name: mensuralMinimaBlackStemUp
+  description: Minima black, stem up
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemUp
+- name: mensuralMinimaBlackStemUpExtendedFlag
+  description: Minima black, stem up with extended flag
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemUpFlagExtended
+- name: mensuralMinimaBlackStemUpFlagLeft
+  description: Minima black, stem up with flag left
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemUpFlagLeft
+- name: mensuralMinimaBlackStemUpFlagRight
+  description: Minima black, stem up with flag right
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemUpFlagRight
+- name: mensuralMinimaBlackStemUpFlaredFlag
+  description: Minima black, stem up with flared flag
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemUpFlagFlared
+- name: mensuralMinimaBlackVoidStemDown
+  description: Minima black and void, stem down
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemDown
+- name: mensuralMinimaBlackVoidStemDownExtendedFlag
+  description: Minima black and void, stem down with extended flag
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemDownFlagExtended
+- name: mensuralMinimaBlackVoidStemDownFlagLeft
+  description: Minima black and void, stem down with flag left
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemDownFlagLeft
+- name: mensuralMinimaBlackVoidStemDownFlagRight
+  description: Minima black and void, stem down with flag right
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemDownFlagRight
+- name: mensuralMinimaBlackVoidStemDownFlaredFlag
+  description: Minima black and void, stem down with flared flag
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemDownFlagFlared
+- name: mensuralMinimaBlackVoidStemUp
+  description: Minima black and void, stem up
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemUp
+- name: mensuralMinimaBlackVoidStemUpExtendedFlag
+  description: Minima black and void, stem up with extended flag
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemUpFlagExtended
+- name: mensuralMinimaBlackVoidStemUpFlagLeft
+  description: Minima black and void, stem up with flag left
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemUpFlagLeft
+- name: mensuralMinimaBlackVoidStemUpFlagRight
+  description: Minima black and void, stem up with flag right
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemUpFlagRight
+- name: mensuralMinimaBlackVoidStemUpFlaredFlag
+  description: Minima black and void, stem up with flared flag
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemUpFlagFlared
+- name: mensuralMinimaVoidStemDown
+  description: Minima void, stem down
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemDown
+- name: mensuralMinimaVoidStemDownExtendedFlag
+  description: Minima void, stem down with extended flag
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemDownFlagExtended
+- name: mensuralMinimaVoidStemDownFlagLeft
+  description: Minima void, stem down with flag left
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemDownFlagLeft
+- name: mensuralMinimaVoidStemDownFlagRight
+  description: Minima void, stem down with flag right
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemDownFlagRight
+- name: mensuralMinimaVoidStemDownFlaredFlag
+  description: Minima void, stem down with flared flag
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemDownFlagFlared
+- name: mensuralMinimaVoidStemUpExtendedFlag
+  description: Minima void, stem up with extended flag
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemUpFlagExtended
+- name: mensuralMinimaVoidStemUp
+  description: Minima void, stem up
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemUp
+- name: mensuralMinimaVoidStemUpFlagLeft
+  description: Minima void, stem up with flag left
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemUpFlagLeft
+- name: mensuralMinimaVoidStemUpFlagRight
+  description: Minima void, stem up with flag right
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemUpFlagRight
+- name: mensuralMinimaVoidStemUpFlaredFlag
+  description: Minima void, stem up with flared flag
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemUpFlagFlared
+- name: mensuralSemiminimaBlackStemDown
+  description: Semiminima black, stem down
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemDownFlagSemiminima
+- name: mensuralSemiminimaBlackStemUp
+  description: Semiminima black, stem up
+  components:
+  - mensuralNoteheadSemibrevisBlack
+  - mensuralCombStemUpFlagSemiminima
+- name: mensuralSemiminimaBlackVoidStemDown
+  description: Semiminima black and void, stem down
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemDownFlagSemiminima
+- name: mensuralSemiminimaBlackVoidStemUp
+  description: Semiminima black and void, stem up
+  components:
+  - mensuralNoteheadSemibrevisBlackVoid
+  - mensuralCombStemUpFlagSemiminima
+- name: mensuralSemiminimaVoidStemDown
+  description: Semiminima void, stem down
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemDownFlagSemiminima
+- name: mensuralSemiminimaVoidStemUp
+  description: Semiminima void, stem up
+  components:
+  - mensuralNoteheadSemibrevisVoid
+  - mensuralCombStemUpFlagSemiminima

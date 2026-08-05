@@ -1,0 +1,38 @@
+name: analytics
+description: Analytics
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E860
+codepointRangeEnd: U+E86F
+hidden: false
+glyphs:
+- name: analyticsHauptstimme
+  description: Hauptstimme
+  alternateCodepoint: U+1D1A6
+- name: analyticsNebenstimme
+  description: Nebenstimme
+  alternateCodepoint: U+1D1A7
+- name: analyticsStartStimme
+  description: Start of stimme
+- name: analyticsEndStimme
+  description: End of stimme
+  alternateCodepoint: U+1D1A8
+- name: analyticsTheme
+  description: Theme
+- name: analyticsThemeRetrograde
+  description: Retrograde of theme
+- name: analyticsThemeRetrogradeInversion
+  description: Retrograde inversion of theme
+- name: analyticsThemeInversion
+  description: Inversion of theme
+- name: analyticsTheme1
+  description: Theme 1
+- name: analyticsInversion1
+  description: Inversion 1
+- name: analyticsChoralmelodie
+  description: Choralmelodie (Berg)
+- name: analyticsHauptrhythmus
+  description: Hauptrhythmus (Berg)
+stylisticAlternates:
+- for: analyticsHauptrhythmus
+  name: analyticsHauptrhythmusR
+  description: Hauptrhythmus R (Berg)

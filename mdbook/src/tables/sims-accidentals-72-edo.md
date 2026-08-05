@@ -10,4 +10,4 @@ Sims accidentals (72-EDO) (U+E2A0–U+E2AF)
 Implementation notes
 ---------------------
 
-These glyphs may be used alone and to the left of the standard 12-EDO accidentals.
+{{#include ../implementation_notes/sims-accidentals-72-edo.md}}

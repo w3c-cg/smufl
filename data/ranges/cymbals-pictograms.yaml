@@ -1,0 +1,51 @@
+name: cymbalsPictograms
+description: Cymbals pictograms
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E720
+codepointRangeEnd: U+E72F
+hidden: false
+glyphs:
+- name: pictCrashCymbals
+  description: Crash cymbals
+  classes:
+  - tf_pictograms
+- name: pictSuspendedCymbal
+  description: Suspended cymbal
+  classes:
+  - tf_pictograms
+- name: pictHiHat
+  description: Hi-hat
+  classes:
+  - tf_pictograms
+- name: pictHiHatOnStand
+  description: Hi-hat cymbals on stand
+  classes:
+  - tf_pictograms
+- name: pictSizzleCymbal
+  description: Sizzle cymbal
+  classes:
+  - tf_pictograms
+- name: pictVietnameseHat
+  description: Vietnamese hat cymbal
+  classes:
+  - tf_pictograms
+- name: pictChineseCymbal
+  description: Chinese cymbal
+  classes:
+  - tf_pictograms
+- name: pictFingerCymbals
+  description: Finger cymbals
+  classes:
+  - tf_pictograms
+- name: pictCymbalTongs
+  description: Cymbal tongs
+  classes:
+  - tf_pictograms
+- name: pictEdgeOfCymbal
+  description: Edge of cymbal
+  classes:
+  - tf_pictograms
+- name: pictBellOfCymbal
+  description: Bell of cymbal
+  classes:
+  - tf_pictograms

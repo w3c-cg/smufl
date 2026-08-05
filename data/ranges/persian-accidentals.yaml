@@ -1,0 +1,19 @@
+name: persianAccidentals
+description: Persian accidentals
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E460
+codepointRangeEnd: U+E46F
+hidden: false
+glyphs:
+- name: accidentalKoron
+  description: Koron (quarter tone flat)
+  classes:
+  - accidentals
+  - accidentalsPersian
+  - combiningStaffPositions
+- name: accidentalSori
+  description: Sori (quarter tone sharp)
+  classes:
+  - accidentals
+  - accidentalsPersian
+  - combiningStaffPositions

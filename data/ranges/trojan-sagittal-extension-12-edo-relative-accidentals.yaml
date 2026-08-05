@@ -1,0 +1,152 @@
+name: trojanSagittalExtension12EdoRelativeAccidentals
+description: Trojan Sagittal extension (12-EDO relative) accidentals
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/trojan_sagittal_extension_accidentals.md
+codepointRangeStart: U+E370
+codepointRangeEnd: U+E38F
+hidden: false
+glyphs:
+- name: accSagittal23CommaUp
+  description: 23 comma up, (23C), 2° up [96 EDO], 1/8-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittal23CommaDown
+  description: 23 comma down, 2° down [96 EDO], 1/8-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittal5v19CommaUp
+  description: 5:19 comma up, (5:19C, 5C plus 19s), 1/20-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittal5v19CommaDown
+  description: 5:19 comma down, 1/20-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittal5v23SmallDiesisUp
+  description: 5:23 small diesis up, (5:23S, 5C plus 23C), 2° up [60 EDO], 1/5-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittal5v23SmallDiesisDown
+  description: 5:23 small diesis down, 2° down [60 EDO], 1/5-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalSharp5v23SDown
+  description: Sharp 5:23S-down, 3° up [60 EDO], 3/10-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalFlat5v23SUp
+  description: Flat 5:23S-up, 3° down [60 EDO], 3/10-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalSharp5v19CDown
+  description: Sharp 5:19C-down, 9/20-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalFlat5v19CUp
+  description: Flat 5:19C-up, 9/20-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalSharp23CDown
+  description: Sharp 23C-down, 6° up [96 EDO], 3/8-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalFlat23CUp
+  description: Flat 23C-up, 6° down [96 EDO], 3/8-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalSharp23CUp
+  description: Sharp 23C-up, 10° up [96 EDO], 5/8-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalFlat23CDown
+  description: Flat 23C-down, 10° down [96 EDO], 5/8-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalSharp5v19CUp
+  description: Sharp 5:19C-up, 11/20-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalFlat5v19CDown
+  description: Flat 5:19C-down, 11/20-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalSharp5v23SUp
+  description: Sharp 5:23S-up, 7° up [60 EDO], 7/10-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalFlat5v23SDown
+  description: Flat 5:23S-down, 7° down [60 EDO], 7/10-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp5v23SDown
+  description: Double sharp 5:23S-down, 8° up [60 EDO], 4/5-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat5v23SUp
+  description: Double flat 5:23S-up, 8° down [60 EDO], 4/5-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp5v19CDown
+  description: Double sharp 5:19C-down, 19/20-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat5v19CUp
+  description: Double flat 5:19C-up, 19/20-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalDoubleSharp23CDown
+  description: Double sharp 23C-down, 14°up [96 EDO], 7/8-tone up
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions
+- name: accSagittalDoubleFlat23CUp
+  description: Double flat 23C-up, 14° down [96 EDO], 7/8-tone down
+  classes:
+  - accidentals
+  - accidentalsSagittalTrojan
+  - combiningStaffPositions

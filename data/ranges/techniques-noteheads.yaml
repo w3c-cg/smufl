@@ -1,0 +1,21 @@
+name: techniquesNoteheads
+description: Techniques noteheads
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EE70
+codepointRangeEnd: U+EE7F
+hidden: false
+glyphs:
+- name: swissRudimentsNoteheadBlackFlam
+  description: Swiss rudiments flam black notehead
+  classes:
+  - noteheads
+- name: swissRudimentsNoteheadHalfFlam
+  description: Swiss rudiments flam half (minim) notehead
+  classes:
+  - noteheads
+- name: swissRudimentsNoteheadBlackDouble
+  description: Swiss rudiments doublé black notehead
+- name: swissRudimentsNoteheadHalfDouble
+  description: Swiss rudiments doublé half (minim) notehead
+  classes:
+  - noteheads

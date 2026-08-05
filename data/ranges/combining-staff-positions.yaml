@@ -1,0 +1,71 @@
+name: combiningStaffPositions
+description: Combining staff positions
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EB90
+codepointRangeEnd: U+EB9F
+hidden: false
+glyphs:
+- name: staffPosRaise1
+  description: Raise 1 staff position
+  classes:
+  - forTextBasedApplications
+- name: staffPosRaise2
+  description: Raise 2 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosRaise3
+  description: Raise 3 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosRaise4
+  description: Raise 4 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosRaise5
+  description: Raise 5 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosRaise6
+  description: Raise 6 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosRaise7
+  description: Raise 7 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosRaise8
+  description: Raise 8 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower1
+  description: Lower 1 staff position
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower2
+  description: Lower 2 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower3
+  description: Lower 3 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower4
+  description: Lower 4 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower5
+  description: Lower 5 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower6
+  description: Lower 6 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower7
+  description: Lower 7 staff positions
+  classes:
+  - forTextBasedApplications
+- name: staffPosLower8
+  description: Lower 8 staff positions
+  classes:
+  - forTextBasedApplications

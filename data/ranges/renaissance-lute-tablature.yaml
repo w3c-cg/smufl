@@ -1,0 +1,60 @@
+name: renaissanceLuteTablature
+description: Renaissance lute tablature
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EBA0
+codepointRangeEnd: U+EBBF
+hidden: false
+glyphs:
+- name: luteStaff6Lines
+  description: Lute tablature staff, 6 courses
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: luteStaff6LinesWide
+  description: Lute tablature staff, 6 courses (wide)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: luteStaff6LinesNarrow
+  description: Lute tablature staff, 6 courses (narrow)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: luteBarlineStartRepeat
+  description: Lute tablature start repeat barline
+  classes:
+  - forTextBasedApplications
+- name: luteBarlineEndRepeat
+  description: Lute tablature end repeat barline
+  classes:
+  - forTextBasedApplications
+- name: luteBarlineFinal
+  description: Lute tablature final barline
+  classes:
+  - forTextBasedApplications
+- name: luteDurationDoubleWhole
+  description: Double whole note (breve) duration sign
+- name: luteDurationWhole
+  description: Whole note (semibreve) duration sign
+- name: luteDurationHalf
+  description: Half note (minim) duration sign
+- name: luteDurationQuarter
+  description: Quarter note (crotchet) duration sign
+- name: luteDuration8th
+  description: Eighth note (quaver) duration sign
+- name: luteDuration16th
+  description: 16th note (semiquaver) duration sign
+- name: luteDuration32nd
+  description: 32nd note (demisemiquaver) duration sign
+- name: luteFingeringRHThumb
+  description: Right-hand fingering, thumb
+- name: luteFingeringRHFirst
+  description: Right-hand fingering, first finger
+- name: luteFingeringRHSecond
+  description: Right-hand fingering, second finger
+- name: luteFingeringRHThird
+  description: Right-hand fingering, third finger
+stylisticAlternates:
+- for: luteFingeringRHThird
+  name: luteFingeringRHThirdAlt
+  description: Right-hand fingering, third finger (alternate)

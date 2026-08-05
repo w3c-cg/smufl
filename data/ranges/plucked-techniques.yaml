@@ -1,0 +1,49 @@
+name: pluckedTechniques
+description: Plucked techniques
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/plucked_techniques.md
+codepointRangeStart: U+E630
+codepointRangeEnd: U+E63F
+hidden: false
+glyphs:
+- name: pluckedSnapPizzicatoBelow
+  description: Snap pizzicato below
+  alternateCodepoint: U+1D1AD
+- name: pluckedSnapPizzicatoAbove
+  description: Snap pizzicato above
+- name: pluckedBuzzPizzicato
+  description: Buzz pizzicato
+- name: pluckedLeftHandPizzicato
+  description: Left-hand pizzicato
+- name: arpeggiatoUp
+  description: Arpeggiato up
+  alternateCodepoint: U+1D183
+- name: arpeggiatoDown
+  description: Arpeggiato down
+  alternateCodepoint: U+1D184
+- name: pluckedWithFingernails
+  description: With fingernails
+  alternateCodepoint: U+1D1B3
+- name: pluckedFingernailFlick
+  description: Fingernail flick
+- name: pluckedDamp
+  description: Damp
+  alternateCodepoint: U+1D1B4
+- name: pluckedDampAll
+  description: Damp all
+  alternateCodepoint: U+1D1B5
+- name: pluckedPlectrum
+  description: Plectrum
+- name: pluckedDampOnStem
+  description: Damp for stem
+  classes:
+  - stemDecorations
+- name: arpeggiato
+  description: Arpeggiato
+stylisticAlternates:
+- for: pluckedSnapPizzicatoBelow
+  name: pluckedSnapPizzicatoBelowGerman
+  description: Snap pizzicato below (German)
+- for: pluckedSnapPizzicatoAbove
+  name: pluckedSnapPizzicatoAboveGerman
+  description: Snap pizzicato above (German)

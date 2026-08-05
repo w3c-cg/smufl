@@ -1,0 +1,147 @@
+name: medievalAndRenaissanceProlations
+description: Medieval and Renaissance prolations
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E910
+codepointRangeEnd: U+E92F
+hidden: false
+glyphs:
+- name: mensuralProlation1
+  description: Tempus perfectum cum prolatione perfecta (9/8)
+  alternateCodepoint: U+1D1C7
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation2
+  description: Tempus perfectum cum prolatione imperfecta (3/4)
+  alternateCodepoint: U+1D1C8
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation3
+  description: Tempus perfectum cum prolatione imperfecta diminution 1 (3/8)
+  alternateCodepoint: U+1D1C9
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation4
+  description: Tempus perfectum cum prolatione perfecta diminution 2 (9/16)
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation5
+  description: Tempus imperfectum cum prolatione perfecta (6/8)
+  alternateCodepoint: U+1D1CA
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation6
+  description: Tempus imperfectum cum prolatione imperfecta (2/4)
+  alternateCodepoint: U+1D1CB
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation7
+  description: Tempus imperfectum cum prolatione imperfecta diminution 1 (2/2)
+  alternateCodepoint: U+1D1CC
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation8
+  description: Tempus imperfectum cum prolatione imperfecta diminution 2 (6/16)
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation9
+  description: Tempus imperfectum cum prolatione imperfecta diminution 3 (2/2)
+  alternateCodepoint: U+1D1CD
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation10
+  description: Tempus imperfectum cum prolatione imperfecta diminution 4
+  alternateCodepoint: U+1D1CE
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlation11
+  description: Tempus imperfectum cum prolatione imperfecta diminution 5
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportionTempusPerfectum
+  description: Tempus perfectum
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportionProportioDupla1
+  description: Proportio dupla 1
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportionProportioDupla2
+  description: Proportio dupla 2
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportionProportioTripla
+  description: Proportio tripla
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportionProportioQuadrupla
+  description: Proportio quadrupla
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlationCombiningDot
+  description: Combining dot
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlationCombiningTwoDots
+  description: Combining two dots
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlationCombiningThreeDots
+  description: Combining three dots horizontal
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlationCombiningThreeDotsTri
+  description: Combining three dots triangular
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlationCombiningDotVoid
+  description: Combining void dot
+  classes:
+  - combiningStaffPositions
+- name: mensuralProlationCombiningStroke
+  description: Combining vertical stroke
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportion1
+  description: Mensural proportion 1
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportion2
+  description: Mensural proportion 2
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportion3
+  description: Mensural proportion 3
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportion4
+  description: Mensural proportion 4
+  classes:
+  - combiningStaffPositions
+- name: mensuralProportionMinor
+  description: Mensural proportion minor
+  classes:
+  - tf_prolations
+- name: mensuralProportionMajor
+  description: Mensural proportion major
+  classes:
+  - tf_prolations
+- name: mensuralModusPerfectumVert
+  description: Modus perfectum, vertical
+  classes:
+  - tf_prolations
+- name: mensuralModusImperfectumVert
+  description: Modus imperfectum, vertical
+  classes:
+  - tf_prolations
+- name: mensuralTempusPerfectumHoriz
+  description: Tempus perfectum, horizontal
+  classes:
+  - tf_prolations
+- name: mensuralTempusImperfectumHoriz
+  description: Tempus imperfectum, horizontal
+  classes:
+  - tf_prolations
+stylisticAlternates:
+- for: mensuralProportion4
+  name: mensuralProportion4Old
+  description: Mensural proportion 4 (old)

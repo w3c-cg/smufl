@@ -1,0 +1,75 @@
+name: kievanSquareNotation
+description: Kievan square notation
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/kievan_notation.md
+codepointRangeStart: U+EC30
+codepointRangeEnd: U+EC3F
+hidden: false
+glyphs:
+- name: kievanCClef
+  description: Kievan C clef (tse-fa-ut)
+  alternateCodepoint: U+1D1DE
+  classes:
+  - combiningStaffPositions
+- name: kievanEndingSymbol
+  description: Kievan ending symbol
+  alternateCodepoint: U+1D1DF
+  classes:
+  - combiningStaffPositions
+- name: kievanNoteReciting
+  description: Kievan reciting note
+  alternateCodepoint: U+1D1E1
+  classes:
+  - combiningStaffPositions
+- name: kievanNoteWhole
+  description: Kievan whole note
+  alternateCodepoint: U+1D1E2
+  classes:
+  - combiningStaffPositions
+- name: kievanNoteWholeFinal
+  description: Kievan final whole note
+  alternateCodepoint: U+1D1E0
+  classes:
+  - combiningStaffPositions
+- name: kievanNoteHalfStaffLine
+  description: Kievan half note (on staff line)
+  alternateCodepoint: U+1D1E3
+  classes:
+  - combiningStaffPositions
+- name: kievanNoteHalfStaffSpace
+  description: Kievan half note (in staff space)
+- name: kievanNoteQuarterStemUp
+  description: Kievan quarter note, stem up
+  alternateCodepoint: U+1D1E5
+  classes:
+  - combiningStaffPositions
+- name: kievanNoteQuarterStemDown
+  description: Kievan quarter note, stem down
+  alternateCodepoint: U+1D1E4
+  classes:
+  - combiningStaffPositions
+- name: kievanNote8thStemUp
+  description: Kievan eighth note, stem up
+  alternateCodepoint: U+1D1E7
+  classes:
+  - combiningStaffPositions
+- name: kievanNote8thStemDown
+  description: Kievan eighth note, stem down
+  alternateCodepoint: U+1D1E6
+  classes:
+  - combiningStaffPositions
+- name: kievanNoteBeam
+  description: Kievan beam
+- name: kievanAugmentationDot
+  description: Kievan augmentation dot
+  classes:
+  - combiningStaffPositions
+- name: kievanAccidentalSharp
+  description: Kievan sharp
+  classes:
+  - combiningStaffPositions
+- name: kievanAccidentalFlat
+  description: Kievan flat
+  alternateCodepoint: U+1D1E8
+  classes:
+  - combiningStaffPositions

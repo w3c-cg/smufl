@@ -1,0 +1,89 @@
+name: medievalAndRenaissancePlainchantMultipleNoteForms
+description: Medieval and Renaissance plainchant multiple-note forms
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/plainchant_neumes.md
+codepointRangeStart: U+E9B0
+codepointRangeEnd: U+E9CF
+hidden: false
+glyphs:
+- name: chantPodatusLower
+  description: Podatus, lower
+  classes:
+  - combiningStaffPositions
+- name: chantPodatusUpper
+  description: Podatus, upper
+  alternateCodepoint: U+1D1D4
+  classes:
+  - combiningStaffPositions
+- name: chantDeminutumUpper
+  description: Punctum deminutum, upper
+  classes:
+  - combiningStaffPositions
+- name: chantDeminutumLower
+  description: Punctum deminutum, lower
+  classes:
+  - combiningStaffPositions
+- name: chantEntryLineAsc2nd
+  description: Entry line, ascending 2nd
+  classes:
+  - combiningStaffPositions
+- name: chantEntryLineAsc3rd
+  description: Entry line, ascending 3rd
+  classes:
+  - combiningStaffPositions
+- name: chantEntryLineAsc4th
+  description: Entry line, ascending 4th
+  classes:
+  - combiningStaffPositions
+- name: chantEntryLineAsc5th
+  description: Entry line, ascending 5th
+  classes:
+  - combiningStaffPositions
+- name: chantEntryLineAsc6th
+  description: Entry line, ascending 6th
+  classes:
+  - combiningStaffPositions
+- name: chantLigaturaDesc2nd
+  description: Ligated stroke, descending 2nd
+  classes:
+  - combiningStaffPositions
+- name: chantLigaturaDesc3rd
+  description: Ligated stroke, descending 3rd
+  classes:
+  - combiningStaffPositions
+- name: chantLigaturaDesc4th
+  description: Ligated stroke, descending 4th
+  classes:
+  - combiningStaffPositions
+- name: chantLigaturaDesc5th
+  description: Ligated stroke, descending 5th
+  classes:
+  - combiningStaffPositions
+- name: chantConnectingLineAsc2nd
+  description: Connecting line, ascending 2nd
+  classes:
+  - combiningStaffPositions
+- name: chantConnectingLineAsc3rd
+  description: Connecting line, ascending 3rd
+  classes:
+  - combiningStaffPositions
+- name: chantConnectingLineAsc4th
+  description: Connecting line, ascending 4th
+  classes:
+  - combiningStaffPositions
+- name: chantConnectingLineAsc5th
+  description: Connecting line, ascending 5th
+  classes:
+  - combiningStaffPositions
+- name: chantConnectingLineAsc6th
+  description: Connecting line, ascending 6th
+  classes:
+  - combiningStaffPositions
+- name: chantStrophicusLiquescens2nd
+  description: Strophicus liquescens, 2nd
+- name: chantStrophicusLiquescens3rd
+  description: Strophicus liquescens, 3rd
+- name: chantStrophicusLiquescens4th
+  description: Strophicus liquescens, 4th
+- name: chantStrophicusLiquescens5th
+  description: Strophicus liquescens, 5th

@@ -1,0 +1,626 @@
+name: noteheads
+description: Noteheads
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/noteheads.md
+codepointRangeStart: U+E0A0
+codepointRangeEnd: U+E0FF
+hidden: false
+glyphs:
+- name: noteheadDoubleWhole
+  description: Double whole (breve) notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadDoubleWholeSquare
+  description: Double whole (breve) notehead (square)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadWhole
+  description: Whole (semibreve) notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadHalf
+  description: Half (minim) notehead
+  alternateCodepoint: U+1D157
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadBlack
+  description: Black notehead
+  alternateCodepoint: U+1D158
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDefault
+  - noteheads
+- name: noteheadNull
+  description: Null notehead
+  alternateCodepoint: U+1D159
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadXDoubleWhole
+  description: X notehead double whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetX
+  - noteheads
+- name: noteheadXWhole
+  description: X notehead whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetX
+  - noteheads
+- name: noteheadXHalf
+  description: X notehead half
+  classes:
+  - combiningStaffPositions
+  - noteheadSetX
+  - noteheads
+- name: noteheadXBlack
+  description: X notehead black
+  alternateCodepoint: U+1D143
+  classes:
+  - combiningStaffPositions
+  - noteheadSetX
+  - noteheads
+- name: noteheadXOrnate
+  description: Ornate X notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetX
+  - noteheads
+- name: noteheadXOrnateEllipse
+  description: Ornate X notehead in ellipse
+  classes:
+  - noteheadSetX
+  - noteheads
+- name: noteheadPlusDoubleWhole
+  description: Plus notehead double whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetPlus
+  - noteheads
+- name: noteheadPlusWhole
+  description: Plus notehead whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetPlus
+  - noteheads
+- name: noteheadPlusHalf
+  description: Plus notehead half
+  classes:
+  - combiningStaffPositions
+  - noteheadSetPlus
+  - noteheads
+- name: noteheadPlusBlack
+  description: Plus notehead black
+  alternateCodepoint: U+1D144
+  classes:
+  - combiningStaffPositions
+  - noteheadSetPlus
+  - noteheads
+- name: noteheadCircleXDoubleWhole
+  description: Circle X double whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircleX
+  - noteheadSetPlus
+  - noteheads
+- name: noteheadCircleXWhole
+  description: Circle X whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircleX
+  - noteheads
+- name: noteheadCircleXHalf
+  description: Circle X half
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircleX
+  - noteheads
+- name: noteheadCircleX
+  description: Circle X notehead
+  alternateCodepoint: U+1D145
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircleX
+  - noteheads
+- name: noteheadDoubleWholeWithX
+  description: Double whole notehead with X
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircleX
+  - noteheadSetWithX
+  - noteheads
+- name: noteheadWholeWithX
+  description: Whole notehead with X
+  classes:
+  - combiningStaffPositions
+  - noteheadSetWithX
+  - noteheads
+- name: noteheadHalfWithX
+  description: Half notehead with X
+  classes:
+  - combiningStaffPositions
+  - noteheadSetWithX
+  - noteheads
+- name: noteheadVoidWithX
+  description: Void notehead with X
+  classes:
+  - combiningStaffPositions
+  - noteheadSetWithX
+  - noteheads
+- name: noteheadSquareWhite
+  description: Square notehead white
+  alternateCodepoint: U+1D146
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadSquareBlack
+  description: Square notehead black
+  alternateCodepoint: U+1D147
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadTriangleUpDoubleWhole
+  description: Triangle notehead up double whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleUp
+  - noteheads
+- name: noteheadTriangleUpWhole
+  description: Triangle notehead up whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleUp
+  - noteheads
+- name: noteheadTriangleUpHalf
+  description: Triangle notehead up half
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleUp
+  - noteheads
+- name: noteheadTriangleUpWhite
+  description: Triangle notehead up white
+  alternateCodepoint: U+1D148
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleUp
+  - noteheads
+- name: noteheadTriangleUpBlack
+  description: Triangle notehead up black
+  alternateCodepoint: U+1D149
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleUp
+  - noteheads
+- name: noteheadTriangleLeftWhite
+  description: Triangle notehead left white
+  alternateCodepoint: U+1D14A
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleLeft
+  - noteheads
+- name: noteheadTriangleLeftBlack
+  description: Triangle notehead left black
+  alternateCodepoint: U+1D14B
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleLeft
+  - noteheads
+- name: noteheadTriangleRightWhite
+  description: Triangle notehead right white
+  alternateCodepoint: U+1D14C
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleRight
+  - noteheads
+- name: noteheadTriangleRightBlack
+  description: Triangle notehead right black
+  alternateCodepoint: U+1D14D
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleRight
+  - noteheads
+- name: noteheadTriangleDownDoubleWhole
+  description: Triangle notehead down double whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleDown
+  - noteheads
+- name: noteheadTriangleDownWhole
+  description: Triangle notehead down whole
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleDown
+  - noteheads
+- name: noteheadTriangleDownHalf
+  description: Triangle notehead down half
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleDown
+  - noteheads
+- name: noteheadTriangleDownWhite
+  description: Triangle notehead down white
+  alternateCodepoint: U+1D14E
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleDown
+  - noteheads
+- name: noteheadTriangleDownBlack
+  description: Triangle notehead down black
+  alternateCodepoint: U+1D14F
+  classes:
+  - combiningStaffPositions
+  - noteheadSetTriangleDown
+  - noteheads
+- name: noteheadTriangleUpRightWhite
+  description: Triangle notehead up right white
+  alternateCodepoint: U+1D150
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadTriangleUpRightBlack
+  description: Triangle notehead up right black
+  alternateCodepoint: U+1D151
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadMoonWhite
+  description: Moon notehead white
+  alternateCodepoint: U+1D152
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadMoonBlack
+  description: Moon notehead black
+  alternateCodepoint: U+1D153
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadTriangleRoundDownWhite
+  description: Triangle-round notehead down white
+  alternateCodepoint: U+1D154
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadTriangleRoundDownBlack
+  description: Triangle-round notehead down black
+  alternateCodepoint: U+1D155
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadParenthesis
+  description: Parenthesis notehead
+  alternateCodepoint: U+1D156
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadSlashedBlack1
+  description: Slashed black notehead (bottom left to top right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed1
+  - noteheads
+- name: noteheadSlashedBlack2
+  description: Slashed black notehead (top left to bottom right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed2
+  - noteheads
+- name: noteheadSlashedHalf1
+  description: Slashed half notehead (bottom left to top right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed1
+  - noteheads
+- name: noteheadSlashedHalf2
+  description: Slashed half notehead (top left to bottom right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed2
+  - noteheads
+- name: noteheadSlashedWhole1
+  description: Slashed whole notehead (bottom left to top right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed1
+  - noteheads
+- name: noteheadSlashedWhole2
+  description: Slashed whole notehead (top left to bottom right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed2
+  - noteheads
+- name: noteheadSlashedDoubleWhole1
+  description: Slashed double whole notehead (bottom left to top right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed1
+  - noteheads
+- name: noteheadSlashedDoubleWhole2
+  description: Slashed double whole notehead (top left to bottom right)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetSlashed2
+  - noteheads
+- name: noteheadDiamondDoubleWhole
+  description: Diamond double whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondWhole
+  description: Diamond whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondHalf
+  description: Diamond half notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondHalfWide
+  description: Diamond half notehead (wide)
+- name: noteheadDiamondBlack
+  description: Diamond black notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamond
+  - noteheads
+- name: noteheadDiamondBlackWide
+  description: Diamond black notehead (wide)
+- name: noteheadDiamondWhite
+  description: Diamond white notehead
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadDiamondWhiteWide
+  description: Diamond white notehead (wide)
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadDiamondDoubleWholeOld
+  description: Diamond double whole notehead (old)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamondOld
+  - noteheads
+- name: noteheadDiamondWholeOld
+  description: Diamond whole notehead (old)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamondOld
+  - noteheads
+- name: noteheadDiamondHalfOld
+  description: Diamond half notehead (old)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamondOld
+  - noteheads
+- name: noteheadDiamondBlackOld
+  description: Diamond black notehead (old)
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamondOld
+  - noteheads
+- name: noteheadDiamondHalfFilled
+  description: Half-filled diamond notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetDiamondOld
+  - noteheads
+- name: noteheadCircledBlack
+  description: Circled black notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledHalf
+  description: Circled half notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledWhole
+  description: Circled whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledDoubleWhole
+  description: Circled double whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledBlackLarge
+  description: Black notehead in large circle
+  classes:
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledHalfLarge
+  description: Half notehead in large circle
+  classes:
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledWholeLarge
+  description: Whole notehead in large circle
+  classes:
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledDoubleWholeLarge
+  description: Double whole notehead in large circle
+  classes:
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadCircledXLarge
+  description: Cross notehead in large circle
+  classes:
+  - noteheadSetCircled
+  - noteheads
+- name: noteheadLargeArrowUpDoubleWhole
+  description: Large arrow up (highest pitch) double whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowUp
+  - noteheads
+- name: noteheadLargeArrowUpWhole
+  description: Large arrow up (highest pitch) whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowUp
+  - noteheads
+- name: noteheadLargeArrowUpHalf
+  description: Large arrow up (highest pitch) half notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowUp
+  - noteheads
+- name: noteheadLargeArrowUpBlack
+  description: Large arrow up (highest pitch) black notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowUp
+  - noteheads
+- name: noteheadLargeArrowDownDoubleWhole
+  description: Large arrow down (lowest pitch) double whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowDown
+  - noteheads
+- name: noteheadLargeArrowDownWhole
+  description: Large arrow down (lowest pitch) whole notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowDown
+  - noteheads
+- name: noteheadLargeArrowDownHalf
+  description: Large arrow down (lowest pitch) half notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowDown
+  - noteheads
+- name: noteheadLargeArrowDownBlack
+  description: Large arrow down (lowest pitch) black notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetLargeArrowDown
+  - noteheads
+- name: noteheadParenthesisLeft
+  description: Opening parenthesis
+  classes:
+  - combiningStaffPositions
+  - noteheads
+  - parenthesesNotehead
+- name: noteheadParenthesisRight
+  description: Closing parenthesis
+  classes:
+  - combiningStaffPositions
+  - noteheads
+  - parenthesesNotehead
+- name: noteheadCircleSlash
+  description: Circle slash notehead
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadHeavyX
+  description: Heavy X notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetHeavyX
+  - noteheads
+- name: noteheadHeavyXHat
+  description: Heavy X with hat notehead
+  classes:
+  - combiningStaffPositions
+  - noteheadSetHeavyX
+  - noteheads
+- name: noteheadWholeFilled
+  description: Filled whole (semibreve) notehead
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadHalfFilled
+  description: Filled half (minim) notehead
+  classes:
+  - combiningStaffPositions
+  - noteheads
+- name: noteheadDiamondOpen
+  description: Open diamond notehead
+  classes:
+  - combiningStaffPositions
+  - noteheads
+stylisticAlternates:
+- for: noteheadDoubleWhole
+  name: noteheadDoubleWholeAlt
+  description: Double whole note (breve), single vertical strokes
+- for: noteheadDoubleWhole
+  name: noteheadDoubleWholeSmall
+  description: Double whole note (breve) (small staff)
+  set: small-staff
+- for: noteheadDoubleWhole
+  name: noteheadDoubleWholeOversized
+  description: Double whole note (breve) (oversized)
+  set: oversized
+- for: noteheadDoubleWholeSquare
+  name: noteheadDoubleWholeSquareOversized
+  description: Double whole note (breve) notehead (square) (oversized)
+  set: oversized
+- for: noteheadWhole
+  name: noteheadWholeSmall
+  description: Whole notehead (small staff)
+  set: small-staff
+- for: noteheadWhole
+  name: noteheadWholeOversized
+  description: Whole notehead (oversized)
+  set: oversized
+- for: noteheadHalf
+  name: noteheadHalfSmall
+  description: Half (minim) notehead (small staff)
+  set: small-staff
+- for: noteheadHalf
+  name: noteheadHalfOversized
+  description: Half (minim) notehead (oversized)
+  set: oversized
+- for: noteheadBlack
+  name: noteheadBlackSmall
+  description: Black notehead (small staff)
+  set: small-staff
+- for: noteheadBlack
+  name: noteheadBlackOversized
+  description: Black notehead (oversized)
+  set: oversized
+ligatures:
+- name: noteheadBlackParens
+  description: Parenthesised black notehead
+  components:
+  - noteheadParenthesisLeft
+  - noteheadBlack
+  - noteheadParenthesisRight
+- name: noteheadHalfParens
+  description: Parenthesised half notehead
+  components:
+  - noteheadParenthesisLeft
+  - noteheadHalf
+  - noteheadParenthesisRight
+- name: noteheadWholeParens
+  description: Parenthesised whole (semibreve) notehead
+  components:
+  - noteheadParenthesisLeft
+  - noteheadWhole
+  - noteheadParenthesisRight
+- name: noteheadDoubleWholeParens
+  description: Parenthesised double whole (breve) notehead
+  components:
+  - noteheadParenthesisLeft
+  - noteheadDoubleWhole
+  - noteheadParenthesisRight

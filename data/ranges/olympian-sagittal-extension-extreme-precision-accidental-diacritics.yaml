@@ -1,0 +1,23 @@
+name: olympianSagittalExtensionExtremePrecisionAccidentalDiacritics
+description: Olympian Sagittal extension (extreme precision) accidental diacritics
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E3F4
+codepointRangeEnd: U+E3F7
+hidden: false
+glyphs:
+- name: accSagittal1MinaUp
+  description: 1 mina up, 1/(5⋅7⋅13)-schismina up, 0.42 cents up
+  classes:
+  - accidentals
+- name: accSagittal1MinaDown
+  description: 1 mina down, 1/(5⋅7⋅13)-schismina down, 0.42 cents down
+  classes:
+  - accidentals
+- name: accSagittal2MinasUp
+  description: 2 minas up, 65/77-schismina up, 0.83 cents up
+  classes:
+  - accidentals
+- name: accSagittal2MinasDown
+  description: 2 minas down, 65/77-schismina down, 0.83 cents down
+  classes:
+  - accidentals

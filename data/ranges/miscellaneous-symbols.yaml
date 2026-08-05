@@ -1,0 +1,21 @@
+name: miscellaneousSymbols
+description: Miscellaneous symbols
+firstPublishedIn: '1.4'
+codepointRangeStart: U+EC60
+codepointRangeEnd: U+EC7F
+hidden: false
+glyphs:
+- name: miscDoNotPhotocopy
+  description: Do not photocopy
+- name: miscDoNotCopy
+  description: Do not copy
+- name: miscEyeglasses
+  description: Eyeglasses
+- name: metricModulationArrowLeft
+  description: Left-pointing arrow for metric modulation
+  classes:
+  - forTextBasedApplications
+- name: metricModulationArrowRight
+  description: Right-pointing arrow for metric modulation
+  classes:
+  - forTextBasedApplications

@@ -1,0 +1,1 @@
+The symbols in this range were developed by Casey Driessen with Oriol Saña and more information about chop notation can be found at [The Chop Notation Project](https://www.caseydriessen.com/chop-notation-project).

@@ -1,0 +1,77 @@
+name: guitar
+description: Guitar
+firstPublishedIn: '1.4'
+codepointRangeStart: U+E830
+codepointRangeEnd: U+E84F
+hidden: false
+glyphs:
+- name: guitarVibratoBarScoop
+  description: Guitar vibrato bar scoop
+- name: guitarVibratoBarDip
+  description: Guitar vibrato bar dip
+- name: guitarShake
+  description: Guitar shake
+- name: guitarString0
+  description: String number 0
+- name: guitarString1
+  description: String number 1
+- name: guitarString2
+  description: String number 2
+- name: guitarString3
+  description: String number 3
+- name: guitarString4
+  description: String number 4
+- name: guitarString5
+  description: String number 5
+- name: guitarString6
+  description: String number 6
+- name: guitarString7
+  description: String number 7
+- name: guitarString8
+  description: String number 8
+- name: guitarString9
+  description: String number 9
+- name: guitarOpenPedal
+  description: Open wah/volume pedal
+- name: guitarHalfOpenPedal
+  description: Half-open wah/volume pedal
+- name: guitarClosePedal
+  description: Closed wah/volume pedal
+- name: guitarLeftHandTapping
+  description: Left-hand tapping
+- name: guitarRightHandTapping
+  description: Right-hand tapping
+- name: guitarGolpe
+  description: Golpe (tapping the pick guard)
+- name: guitarFadeIn
+  description: Fade in
+- name: guitarFadeOut
+  description: Fade out
+- name: guitarVolumeSwell
+  description: Volume swell
+- name: guitarStrumUp
+  description: Strum direction up
+- name: guitarStrumDown
+  description: Strum direction down
+- name: guitarBarreFull
+  description: Full barré
+- name: guitarBarreHalf
+  description: Half barré
+- name: guitarString10
+  description: String number 10
+- name: guitarString11
+  description: String number 11
+- name: guitarString12
+  description: String number 12
+- name: guitarString13
+  description: String number 13
+stylisticAlternates:
+- for: guitarGolpe
+  name: guitarGolpeFlamenco
+  description: Golpe (tapping the pick guard) (Vounelakos)
+- for: guitarBarreHalf
+  name: guitarBarreHalfHorizontalFractionSlash
+  description: Half barré (horizontal fraction separator)
+- for: guitarVibratoBarScoop
+  name: guitarVibratoBarScoopCurved
+  description: Guitar vibrato bar scoop (curved)

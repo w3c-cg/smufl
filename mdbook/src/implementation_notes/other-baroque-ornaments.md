@@ -1,0 +1,1 @@
+There is little agreement over the meaning, or indeed the naming, of ornaments beyond those that have survived into modern usage. The glyphs included in this range are the shapes that are used by a wide variety of composers, particularly in the baroque period. For information about the uses and interpretations of individual symbols in this range, consult Neumann (ibid.).

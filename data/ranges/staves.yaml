@@ -1,0 +1,119 @@
+name: staves
+description: Staves
+firstPublishedIn: '1.4'
+implementationNotes: implementation_notes/staves.md
+codepointRangeStart: U+E010
+codepointRangeEnd: U+E02F
+hidden: false
+glyphs:
+- name: staff1Line
+  description: 1-line staff
+  alternateCodepoint: U+1D116
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff2Lines
+  description: 2-line staff
+  alternateCodepoint: U+1D117
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff3Lines
+  description: 3-line staff
+  alternateCodepoint: U+1D118
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff4Lines
+  description: 4-line staff
+  alternateCodepoint: U+1D119
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff5Lines
+  description: 5-line staff
+  alternateCodepoint: U+1D11A
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff6Lines
+  description: 6-line staff
+  alternateCodepoint: U+1D11B
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff1LineWide
+  description: 1-line staff (wide)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff2LinesWide
+  description: 2-line staff (wide)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff3LinesWide
+  description: 3-line staff (wide)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff4LinesWide
+  description: 4-line staff (wide)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff5LinesWide
+  description: 5-line staff (wide)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff6LinesWide
+  description: 6-line staff (wide)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff1LineNarrow
+  description: 1-line staff (narrow)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff2LinesNarrow
+  description: 2-line staff (narrow)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff3LinesNarrow
+  description: 3-line staff (narrow)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff4LinesNarrow
+  description: 4-line staff (narrow)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff5LinesNarrow
+  description: 5-line staff (narrow)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: staff6LinesNarrow
+  description: 6-line staff (narrow)
+  classes:
+  - forTextBasedApplications
+  - tf_zeroWidth
+- name: legerLine
+  description: Leger line
+  classes:
+  - combiningStaffPositions
+  - tf_zeroWidth
+- name: legerLineWide
+  description: Leger line (wide)
+  classes:
+  - combiningStaffPositions
+  - tf_zeroWidth
+- name: legerLineNarrow
+  description: Leger line (narrow)
+  classes:
+  - combiningStaffPositions
+  - tf_zeroWidth
