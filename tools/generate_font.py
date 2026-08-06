@@ -15,6 +15,7 @@ Usage:
     python3 tools/generate_font.py [--output PATH] [--no-hint] [--keep-tmp]
 """
 import argparse
+import datetime
 import json
 import plistlib
 import shutil
@@ -26,6 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import generate  # tools/generate.py
 import generate_font_metadata  # tools/generate_font_metadata.py
+import font_version  # tools/font_version.py
 
 ROOT = Path(__file__).resolve().parent.parent
 UFO_DIR = ROOT / "font" / "Bravura.ufo"
@@ -64,12 +66,45 @@ def prepare_ufo(tmp_dir):
     lib_path.write_bytes(plistlib.dumps(lib))
 
     print(f"Classified {len(lib['public.openTypeCategories'])} ligature glyph(s) for GDEF")
+
+    fontinfo_path = working_ufo / "fontinfo.plist"
+    font_version.set_fontinfo_plist_version(fontinfo_path)
+    font_version.set_fontinfo_plist_copyright_year(fontinfo_path)
+    _, _, version = font_version.format_version()
+    print(f"Set font version to {version}, copyright year to {datetime.date.today().year}")
+
     return working_ufo
 
 
 def run(cmd, **kwargs):
     print(f"$ {' '.join(str(c) for c in cmd)}")
     subprocess.run(cmd, check=True, **kwargs)
+
+
+def relpath(path):
+    return path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
+
+
+def build_otf(tmp_dir, no_hint=False):
+    """Compiles Bravura.otf into tmp_dir and returns its path. Doesn't
+    manage tmp_dir's lifecycle - the caller owns cleanup, since
+    tools/generate_release.py needs the working directory (and the UFO
+    inside it) to stick around afterwards to derive SVG/WOFF/WOFF2 from
+    the same compile without redoing it."""
+    working_ufo = prepare_ufo(tmp_dir)
+
+    unhinted_otf = tmp_dir / "Bravura-unhinted.otf"
+    run([
+        "fontmake", "-u", str(working_ufo), "-o", "otf",
+        "--output-path", str(unhinted_otf), "--no-subroutinize",
+    ])
+
+    if no_hint:
+        return unhinted_otf
+
+    hinted_otf = tmp_dir / "Bravura.otf"
+    run(["otfautohint", "-o", str(hinted_otf), str(unhinted_otf)])
+    return hinted_otf
 
 
 def main():
@@ -79,35 +114,33 @@ def main():
     parser.add_argument("--no-metadata", action="store_true", help="skip generating Bravura.json")
     parser.add_argument("--no-hint", action="store_true", help="skip the otfautohint pass")
     parser.add_argument("--keep-tmp", action="store_true", help="don't delete the working directory (for debugging)")
+
+    import generate_release  # tools/generate_release.py
+    generate_release.add_release_args(parser)
+
     args = parser.parse_args()
 
     if not UFO_DIR.exists():
         print(f"error: {UFO_DIR} not found", file=sys.stderr)
         return 1
 
+    if args.generate_release:
+        fixed_issues = [s.strip() for s in args.fixed_issues.split(",") if s.strip()]
+        return generate_release.build_release(args.output_dir, fixed_issues, args.author, args.keep_tmp)
+
     tmp_dir = Path(tempfile.mkdtemp(prefix="bravura-build-"))
     try:
-        working_ufo = prepare_ufo(tmp_dir)
-
-        unhinted_otf = tmp_dir / "Bravura-unhinted.otf"
-        run([
-            "fontmake", "-u", str(working_ufo), "-o", "otf",
-            "--output-path", str(unhinted_otf), "--no-subroutinize",
-        ])
+        otf_path = build_otf(tmp_dir, no_hint=args.no_hint)
 
         args.output.parent.mkdir(parents=True, exist_ok=True)
-        if args.no_hint:
-            shutil.copy(unhinted_otf, args.output)
-        else:
-            run(["otfautohint", "-o", str(args.output), str(unhinted_otf)])
-
-        print(f"\nWrote {args.output.relative_to(ROOT) if args.output.is_relative_to(ROOT) else args.output}")
+        shutil.copy(otf_path, args.output)
+        print(f"\nWrote {relpath(args.output)}")
 
         if not args.no_metadata:
             metadata = generate_font_metadata.build_metadata(args.output)
             args.metadata_output.parent.mkdir(parents=True, exist_ok=True)
             args.metadata_output.write_text(json.dumps(metadata, indent=4, sort_keys=True))
-            print(f"Wrote {args.metadata_output.relative_to(ROOT) if args.metadata_output.is_relative_to(ROOT) else args.metadata_output}")
+            print(f"Wrote {relpath(args.metadata_output)}")
 
         return 0
     finally:

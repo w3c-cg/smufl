@@ -5,7 +5,10 @@ tools/sync_ufo_glyphs.py and tools/generate_font.py already use.
 
 Where each section comes from:
 
-- fontName / fontVersion: fixed / font/Bravura.ufo/fontinfo.plist.
+- fontName: fixed.
+- fontVersion: data/font-version.yaml (see tools/font_version.py) - NOT
+  font/Bravura.ufo/fontinfo.plist's own version fields, which get
+  overwritten at build time anyway (see tools/generate_font.py).
 - engravingDefaults: data/engraving-defaults.yaml, copied verbatim - these
   are hand-set design decisions, not something derivable from outlines.
 - glyphAdvanceWidths / glyphBBoxes: measured from the *compiled* OTF (not
@@ -32,6 +35,7 @@ from xml.etree import ElementTree as ET
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import generate  # tools/generate.py
+import font_version  # tools/font_version.py
 
 import yaml
 from fontTools.pens.boundsPen import BoundsPen
@@ -47,8 +51,12 @@ FONT_NAME = "Bravura"
 def font_info():
     fontinfo = plistlib.loads((UFO_DIR / "fontinfo.plist").read_bytes())
     staff_space = fontinfo["unitsPerEm"] / 4
-    version = float(f"{fontinfo['versionMajor']}.{fontinfo['versionMinor']}")
-    return staff_space, version
+    # fontVersion is a JSON number (matching the historical smufl-admin
+    # export), which can't distinguish "1.4900" from "1.49" - the build
+    # number's trailing zeros are only meaningful in the font's own
+    # name-table "Version" string and in versionMajor/versionMinor.
+    _, _, version_str = font_version.format_version()
+    return staff_space, float(version_str)
 
 
 def su(value, staff_space):

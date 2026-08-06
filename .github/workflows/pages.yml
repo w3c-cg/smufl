@@ -65,14 +65,20 @@ jobs:
       - name: Validate data/bravura-text-transforms.yaml against schema
         run: check-jsonschema --schemafile data/schema/bravura-text-transforms.schema.json data/bravura-text-transforms.yaml
 
+      - name: Validate data/font-version.yaml against schema
+        run: check-jsonschema --schemafile data/schema/font-version.schema.json data/font-version.yaml
+
       - name: Install generator dependencies
-        run: pip install pyyaml fonttools
+        run: pip install pyyaml fonttools ufoLib2
 
       - name: Check generated output matches committed metadata and tables
         run: python3 tools/generate.py --check
 
       - name: Check Bravura.ufo has a glyph for every spec-defined codepoint
         run: python3 tools/sync_ufo_glyphs.py --check
+
+      - name: Check the font version was bumped for any material change
+        run: python3 tools/check_font_version.py
 
       - name: Install font build dependencies
         run: pip install fontmake afdko

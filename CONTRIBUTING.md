@@ -32,7 +32,7 @@ only inserts an `{{#include}}` reference to it, it doesn't touch its content.
 ## Prerequisites
 
 ```
-pip install pyyaml check-jsonschema fonttools
+pip install pyyaml check-jsonschema fonttools ufoLib2
 ```
 
 [Install mdBook](https://rust-lang.github.io/mdBook/guide/installation.html) if you want
@@ -298,6 +298,40 @@ Two more tools close the rest of the loop, and both run in CI on every PR:
 
   This one's slow (compiling ~19,000 glyphs plus the ligature substitution table takes a couple
   of minutes), so unlike the others it only runs on push to `gh-pages`, not on every PR.
+
+### Font version numbering
+
+`data/font-version.yaml` is the single source of truth for both fonts' version number (they're
+always rebuilt together, so they share one). `stem` (e.g. `"1.49"`) tracks the SMuFL spec
+version being worked towards — bump it to `"1.50"` (resetting `build` to `0`) only once SMuFL
+1.5 is actually ready for release, as a deliberate decision. `build` increments on every
+*material* change to the font — not every rebuild; a rebuild with no real design change keeps
+the same number.
+
+`tools/check_font_version.py` enforces this in CI: it hashes the actual build inputs
+(`font/Bravura.ufo` — skipping empty placeholder glyphs, since adding one isn't a material
+change until it's actually drawn — plus the metadata/data files that feed the font builders)
+and fails if that hash changed without a version bump to match. After making a material change
+and incrementing `build` (or `stem`) in `data/font-version.yaml`:
+
+```
+python3 tools/check_font_version.py --update
+```
+
+This overwrites whatever version number and copyright year FontLab last wrote into
+`font/Bravura.ufo/fontinfo.plist` at build time, in both compiled fonts, so a designer
+re-exporting the UFO can never accidentally change the shipped version.
+
+### Building a full release
+
+`python3 tools/generate_font.py --generate-release [--output-dir PATH] [--fixed-issues REF,...]`
+assembles the structure found in the Bravura repository's `redist/` folder: OTF and WOFF/WOFF2
+for both fonts, `bravura_metadata.json`, and an updated `FONTLOG.txt` (SVG font export is
+deliberately not included — that format is deprecated). Point `--output-dir` at a checkout of
+the Bravura repo's `redist/` folder to update it directly; `--fixed-issues` (comma-separated,
+e.g. `steinbergmedia/bravura#101,w3c-cg/smufl#42`) fetches each issue's title via `gh issue
+view` to build the changelog entry — omit it and a placeholder bullet is written instead. See
+`tools/generate_release.py`.
 
 A maintainer (or you, if you're comfortable with a font editor) still needs to actually
 *draw* a new placeholder glyph in FontLab and wire up any OpenType feature it belongs

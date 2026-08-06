@@ -45,6 +45,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import generate  # tools/generate.py
+import font_version  # tools/font_version.py
 
 import ufoLib2
 import yaml
@@ -264,6 +265,8 @@ def rename_font(font, base_family):
     font.info.styleMapFamilyName = text_family
     for attr, value in TEXT_METRICS.items():
         setattr(font.info, attr, value)
+    font_version.set_ufo_version(font)
+    font_version.set_ufo_copyright_year(font)
 
 
 def odds_and_sods(font):
@@ -281,16 +284,15 @@ def run(cmd, **kwargs):
     subprocess.run(cmd, check=True, **kwargs)
 
 
-def main():
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
-    parser.add_argument("--keep-tmp", action="store_true")
-    args = parser.parse_args()
+def relpath(path):
+    return path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
 
-    if not UFO_DIR.exists():
-        print(f"error: {UFO_DIR} not found", file=sys.stderr)
-        return 1
 
+def build_otf(tmp_dir):
+    """Builds BravuraText.otf into tmp_dir and returns its path. Doesn't
+    manage tmp_dir's lifecycle - the caller owns cleanup, since
+    tools/generate_release.py needs the working directory to stick around
+    afterwards to derive SVG/WOFF/WOFF2 from the same compile."""
     sources = generate.Sources()
     merged_glyphnames, _, merged_classes = generate.merge_metadata(sources)
     index = generate.build_font_glyph_index(sources, merged_glyphnames)
@@ -314,14 +316,28 @@ def main():
     rename_font(font, base_family)
     odds_and_sods(font)
 
+    working_ufo = tmp_dir / "BravuraText.ufo"
+    print(f"Saving working UFO to {working_ufo} ({len(font)} glyphs)")
+    font.save(working_ufo)
+
+    otf_path = tmp_dir / "BravuraText.otf"
+    run(["fontmake", "-u", str(working_ufo), "-o", "otf", "--output-path", str(otf_path), "--no-subroutinize"])
+    return otf_path
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument("--keep-tmp", action="store_true")
+    args = parser.parse_args()
+
+    if not UFO_DIR.exists():
+        print(f"error: {UFO_DIR} not found", file=sys.stderr)
+        return 1
+
     tmp_dir = Path(tempfile.mkdtemp(prefix="bravura-text-build-"))
     try:
-        working_ufo = tmp_dir / "BravuraText.ufo"
-        print(f"Saving working UFO to {working_ufo} ({len(font)} glyphs)")
-        font.save(working_ufo)
-
-        otf_path = tmp_dir / "BravuraText.otf"
-        run(["fontmake", "-u", str(working_ufo), "-o", "otf", "--output-path", str(otf_path), "--no-subroutinize"])
+        otf_path = build_otf(tmp_dir)
 
         print(f"Converting to WOFF")
         ttfont = TTFont(otf_path)
@@ -329,7 +345,7 @@ def main():
         args.output.parent.mkdir(parents=True, exist_ok=True)
         ttfont.save(args.output)
 
-        print(f"\nWrote {args.output.relative_to(ROOT) if args.output.is_relative_to(ROOT) else args.output}")
+        print(f"\nWrote {relpath(args.output)}")
         return 0
     finally:
         if args.keep_tmp:

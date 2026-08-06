@@ -1,0 +1,31 @@
+# Version number for the built Bravura / Bravura Text fonts (both share one
+# number - they're always rebuilt together from the same sources). This is
+# the single source of truth: tools/generate_font.py and
+# tools/generate_bravura_text.py both read it and overwrite whatever
+# version FontLab last wrote into font/Bravura.ufo/fontinfo.plist, so a
+# designer re-exporting the UFO can never accidentally change the shipped
+# version number.
+#
+# stem: the part that tracks the SMuFL spec version, e.g. "1.49" for
+# "working towards 1.5, following the 1.4 release". This is a deliberate,
+# infrequent decision - bump it to "1.50" only once SMuFL 1.5 is actually
+# ready for release, at the same time resetting build to 0.
+#
+# build: increments on every MATERIAL change to the font (not every
+# rebuild - a rebuild with no real design change keeps the same number).
+# tools/check_font_version.py enforces this: it hashes the actual build
+# inputs (font/Bravura.ufo minus fontinfo.plist, plus the metadata/data
+# files that feed generate_font.py and generate_bravura_text.py) and fails
+# CI if that hash has changed but build wasn't incremented and inputsHash
+# wasn't refreshed to match. Two digits (00-99) gives 100 revisions of
+# headroom before stem needs to change anyway.
+#
+# The full version number is stem + build zero-padded to 2 digits, e.g.
+# stem "1.49" + build 0 => "1.4900".
+stem: "1.49"
+build: 0
+
+# sha256 of the build inputs as of this version number - see
+# tools/check_font_version.py. Refresh with:
+#   python3 tools/check_font_version.py --update
+inputsHash: "0a5e15ee1b2f1ac7172a16c9c1e69674013267f6ee611e90a473d4e3aeb24e0c"
