@@ -31,9 +31,24 @@ only inserts an `{{#include}}` reference to it, it doesn't touch its content.
 
 ## Prerequisites
 
+Use a virtual environment rather than a bare `pip install` — on macOS with a Homebrew
+Python in particular, a bare `pip install` either refuses to run (Homebrew's Python
+blocks installing outside a venv) or silently installs into the wrong Python if you have
+more than one on your machine (`pip`/`python3` resolving to different interpreters is a
+common source of "ModuleNotFoundError" even though the install "succeeded"):
+
 ```
+cd smufl
+python3 -m venv .venv
+source .venv/bin/activate        # run this again in any new terminal session
 pip install pyyaml check-jsonschema fonttools ufoLib2
 ```
+
+`.venv/` is gitignored — safe to create inside your checkout. Run `deactivate` to leave
+the virtual environment; `source .venv/bin/activate` again next time you come back to it.
+
+Font-building work (see "How this connects to Bravura" below) needs a couple more
+packages in the same virtual environment: `pip install fontmake afdko`.
 
 [Install mdBook](https://rust-lang.github.io/mdBook/guide/installation.html) if you want
 to preview the built spec locally (`mdbook serve --open` from the `mdbook/` folder).
