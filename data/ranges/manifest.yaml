@@ -76,7 +76,6 @@ ranges:
 - analytics
 - chord-symbols
 - tuplets
-- tuplets-supplement
 - conductor-symbols
 - accordion
 - beams-and-slurs
@@ -133,3 +132,4 @@ ranges:
 - noteheads-supplement
 - note-name-noteheads-supplement
 - scale-degrees
+- tuplets-supplement

@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bravura Text per-glyph scale/shift rules",
+  "type": "object",
+  "properties": {
+    "defaultScale": { "type": "number", "exclusiveMinimum": 0 },
+    "zeroWidthClass": { "type": "string", "minLength": 1 },
+    "unicodeSymbols": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "codepoints": {
+            "type": "array",
+            "items": { "type": "integer", "minimum": 0 },
+            "minItems": 1
+          },
+          "scale": { "type": "number", "exclusiveMinimum": 0 },
+          "shiftY": { "type": "number" }
+        },
+        "required": ["codepoints"],
+        "additionalProperties": false
+      }
+    },
+    "scaleByClass": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "class": { "type": "string", "minLength": 1 },
+          "scale": { "type": "number", "exclusiveMinimum": 0 },
+          "includeAlternates": { "type": "boolean" }
+        },
+        "required": ["class", "scale"],
+        "additionalProperties": false
+      }
+    },
+    "shiftByClass": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "class": { "type": "string", "minLength": 1 },
+          "shiftY": { "type": "number" }
+        },
+        "required": ["class", "shiftY"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["defaultScale", "zeroWidthClass", "unicodeSymbols", "scaleByClass", "shiftByClass"],
+  "additionalProperties": false
+}

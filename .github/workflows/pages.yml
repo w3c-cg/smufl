@@ -62,6 +62,9 @@ jobs:
       - name: Validate data/engraving-defaults.yaml against schema
         run: check-jsonschema --schemafile data/schema/engraving-defaults.schema.json data/engraving-defaults.yaml
 
+      - name: Validate data/bravura-text-transforms.yaml against schema
+        run: check-jsonschema --schemafile data/schema/bravura-text-transforms.schema.json data/bravura-text-transforms.yaml
+
       - name: Install generator dependencies
         run: pip install pyyaml fonttools
 
@@ -119,6 +122,12 @@ jobs:
         run: |
           cp font/Bravura.otf mdbook/src/media/Bravura.otf
           cp font/Bravura.json mdbook/src/media/Bravura.json
+
+      - name: Build BravuraText.woff
+        run: python3 tools/generate_bravura_text.py --output font/BravuraText.woff
+
+      - name: Copy BravuraText.woff into the book's media folder
+        run: cp font/BravuraText.woff mdbook/src/media/BravuraText.woff
 
       - name: Install mdBook
         run: |

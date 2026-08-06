@@ -112,7 +112,6 @@
   * [Analytics](./tables/analytics.md)
   * [Chord symbols](./tables/chord-symbols.md)
   * [Tuplets](./tables/tuplets.md)
-  * [Tuplets supplement](./tables/tuplets-supplement.md)
   * [Conductor symbols](./tables/conductor-symbols.md)
   * [Accordion](./tables/accordion.md)
   * [Beams and slurs](./tables/beams-and-slurs.md)
@@ -169,3 +168,4 @@
   * [Noteheads supplement](./tables/noteheads-supplement.md)
   * [Note name noteheads supplement](./tables/note-name-noteheads-supplement.md)
   * [Scale degrees](./tables/scale-degrees.md)
+  * [Tuplets supplement](./tables/tuplets-supplement.md)

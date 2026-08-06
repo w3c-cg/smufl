@@ -280,6 +280,25 @@ Two more tools close the rest of the loop, and both run in CI on every PR:
   outline. Its source of truth is `data/engraving-defaults.yaml`; edit it directly if
   Bravura's engraving design changes.
 
+* **`tools/generate_bravura_text.py`** builds `font/BravuraText.woff` — a version of Bravura
+  resized and repositioned for setting inline with running text (rather than full music
+  engraving), replacing the old smufl-admin FontLab/Glyphs/UFO conversion script templates.
+  The largest part of what it does is generating the "combining staff position" ligatures:
+  every glyph in the `combiningStaffPositions` class combined with each of the 16 staff
+  position markers (`data/ranges/combining-staff-positions.yaml`) — around 15,500 glyphs,
+  starting at U+F0000 (see
+  [steinbergmedia/bravura#101](https://github.com/steinbergmedia/bravura/issues/101) for why).
+  Per-class scale/shift rules (which glyphs get bigger, which get nudged up or down) are hand-set
+  design decisions with no UFO equivalent, same as `engravingDefaults` — their source of truth
+  is `data/bravura-text-transforms.yaml`.
+
+  ```
+  python3 tools/generate_bravura_text.py
+  ```
+
+  This one's slow (compiling ~19,000 glyphs plus the ligature substitution table takes a couple
+  of minutes), so unlike the others it only runs on push to `gh-pages`, not on every PR.
+
 A maintainer (or you, if you're comfortable with a font editor) still needs to actually
 *draw* a new placeholder glyph in FontLab and wire up any OpenType feature it belongs
 to — these tools guarantee there's a correctly-labelled slot waiting, not a finished

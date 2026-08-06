@@ -8,10 +8,14 @@ in this specification are all taken from Bravura.
 
 This repository also automatically builds Bravura's OpenType font file, and its accompanying
 font-specific metadata file, directly from the same sources as this specification, on every
-change: [download Bravura.otf](media/Bravura.otf) / [download Bravura.json](media/Bravura.json).
+change: [download Bravura.otf](../media/Bravura.otf) / [download Bravura.json](../media/Bravura.json).
 This build tracks the specification exactly as it stands in this repository, including any
 glyphs added since the last stable release — it is not a substitute for the stable release
 linked above, which is signed off and versioned independently by Steinberg.
+
+Bravura Text — a version of Bravura resized and repositioned for setting inline with running
+text — is built the same way, and is what renders every glyph example throughout this
+specification: [download BravuraText.woff](../media/BravuraText.woff).
 
 Other SMuFL-compliant fonts are available under a variety of licenses. A list
 of such fonts can be found [here](http://www.smufl.org/fonts).

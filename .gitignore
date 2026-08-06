@@ -13,6 +13,8 @@ __pycache__/
 # CONTRIBUTING.md "How this connects to Bravura").
 font/Bravura.otf
 font/Bravura.json
+font/BravuraText.woff
 mdbook/src/media/Bravura.otf
 mdbook/src/media/Bravura.json
+mdbook/src/media/BravuraText.woff
 

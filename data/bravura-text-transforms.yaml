@@ -1,0 +1,77 @@
+# Hand-set per-glyph scale/shift rules for building Bravura Text from
+# Bravura - see tools/generate_bravura_text.py. These numbers (scale
+# factors, vertical shifts in font units) are design decisions, not
+# derivable from the outlines themselves - this file is their canonical
+# source. Ported from the old smufl-admin FontLab/Glyphs/UFO conversion
+# script templates (fontlab_scripts/create_text_font_*.py), which applied
+# them via a chain of if/elif branches keyed on Unicode codepoint or SMuFL
+# class membership; this file expresses the same rules declaratively.
+#
+# A glyph's scale = the first matching entry in scaleByClass (checked in
+# list order), or defaultScale if nothing matches. Vertical shift is
+# entirely separate: the first matching entry in shiftByClass, or no shift
+# at all if nothing matches. A glyph can match in one, both, or neither
+# list - being in shiftByClass does not imply special scaling and vice
+# versa (e.g. clefsG only shifts, tf_ornaments only scales).
+#
+# unicodeSymbols match by raw Unicode codepoint, not SMuFL class - these
+# are the 7 standard Unicode music symbols (U+2669-U+266F) that Bravura
+# Text repurposes for basic compatibility outside SMuFL-aware software, so
+# they can't be identified via SMuFL class membership at all. They take
+# priority over class-based rules.
+
+defaultScale: 0.8
+
+zeroWidthClass: tf_zeroWidth
+
+unicodeSymbols:
+  - codepoints: [0x2669, 0x266A, 0x266B, 0x266C]  # quarter note, 8th, beamed 8ths, beamed 16ths
+    scale: 0.75
+    shiftY: 94
+  - codepoints: [0x266D]  # flat - scaled up to sit properly on the baseline
+    scale: 1.5
+    shiftY: 250
+  - codepoints: [0x266E, 0x266F]  # natural, sharp - ditto
+    scale: 1.3
+    shiftY: 350
+
+scaleByClass:
+  - class: octaves
+    scale: 1.65
+  - class: dynamics
+    scale: 1.65
+  - class: tf_ornaments
+    scale: 1.45
+  - class: tf_pedals
+    scale: 1.30
+  - class: tf_harpPedals
+    scale: 1.0
+  - class: tf_pictograms
+    scale: 1.0
+  - class: tf_prolations
+    scale: 1.0
+  - class: tf_figuredBass
+    scale: 1.85
+  - class: tf_daseianNotation
+    scale: 1.0
+  - class: tf_chordSymbols
+    scale: 1.50
+    includeAlternates: true  # also scale this class's stylistic alternates (e.g. the small/superscript chord symbol variants)
+  - class: tf_chordSymbolAccidentals
+    scale: 1.0
+
+shiftByClass:
+  - class: clefsG
+    shiftY: 200
+  - class: clefsC
+    shiftY: 400
+  - class: clefsF
+    shiftY: 600
+  - class: tf_hairpins
+    shiftY: -50
+  - class: tf_prolations
+    shiftY: 250
+  - class: tf_metronomeMarks
+    shiftY: 120
+  - class: combiningStaffPositions
+    shiftY: 400

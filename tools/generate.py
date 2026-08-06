@@ -23,6 +23,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data" / "ranges"
 METADATA_DIR = ROOT / "metadata"
 TABLES_DIR = ROOT / "mdbook" / "src" / "tables"
+SUMMARY_PATH = ROOT / "mdbook" / "src" / "SUMMARY.md"
+SUMMARY_TABLES_HEADING = "* [Glyph tables](./tables/index.md)"
 OPTIONAL_CODEPOINT_START = 0xF400
 
 
@@ -371,6 +373,24 @@ def generate_markdown(slug, range_data, merged_glyphnames, sources, allocate):
     return "\n".join(lines).rstrip("\n")
 
 
+def generate_summary(sources):
+    """Regenerates the "Glyph tables" section of SUMMARY.md - one entry per
+    range, in data/ranges/manifest.yaml order (which is itself required to
+    be codepoint order - see manifest.schema.json/CONTRIBUTING.md). Only
+    this section is touched; everything above it (Preamble, About SMuFL,
+    Specification) is preserved verbatim from whatever's currently on disk,
+    since it isn't derived from data/ranges/*.yaml at all."""
+    current = SUMMARY_PATH.read_text()
+    heading_pos = current.index(SUMMARY_TABLES_HEADING)
+    preamble = current[:heading_pos]
+
+    lines = [SUMMARY_TABLES_HEADING]
+    for slug, range_data in sources.ranges.items():
+        lines.append(f"  * [{range_data['description']}](./tables/{slug}.md)")
+
+    return preamble + "\n".join(lines)
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true")
@@ -390,6 +410,7 @@ def main():
     }
     for slug, range_data in sources.ranges.items():
         outputs[TABLES_DIR / f"{slug}.md"] = generate_markdown(slug, range_data, merged_glyphnames, sources, allocate)
+    outputs[SUMMARY_PATH] = generate_summary(sources)
 
     if args.check:
         failed = False
