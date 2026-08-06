@@ -169,3 +169,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Default is 10 minutes (600000ms). GitHub Pages deployments for
+          # this repo have been taking noticeably longer than that lately
+          # (observed: status still "deployment_in_progress"/"queued" well
+          # past 10 minutes, with the underlying publish completing anyway
+          # a few minutes after this action gives up and reports failure -
+          # confirmed by checking the live site content after a "failed"
+          # run). Longer timeout lets the status check actually observe
+          # success instead of a false-negative failure report.
+          timeout: 1800000
