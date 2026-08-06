@@ -1,6 +1,5 @@
 name: tupletsSupplement
 description: Tuplets supplement
-firstPublishedIn: '1.4'
 implementationNotes: implementation_notes/tuplets.md
 codepointRangeStart: U+EF10
 codepointRangeEnd: U+EF17
