@@ -33,6 +33,11 @@ changed and new members are only ever added with higher codepoints than
 uses of the same base range (true under SMuFL's normal codepoint-immutable
 allocation model, just not mechanically enforced).
 
+Also classifies every ligature glyph (the newly-generated ones and
+Bravura's own native ones, which pass through unchanged) for GDEF, and
+adds a dummy DSIG table after compiling - see tools/generate_font.py and
+tools/font_build_common.py for why.
+
 Usage:
     python3 tools/generate_bravura_text.py [--output PATH] [--keep-tmp]
 """
@@ -46,6 +51,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import generate  # tools/generate.py
 import font_version  # tools/font_version.py
+import font_build_common  # tools/font_build_common.py
 
 import ufoLib2
 import yaml
@@ -205,6 +211,7 @@ def generate_ligatures(font, classes_by_glyph, merged_glyphnames, markers):
     )
 
     substitutions = []
+    new_ligature_names = []
     codepoint = LIGATURE_CODEPOINT_START
     for base_name in base_names:
         base_cp = generate.cp_int(merged_glyphnames[base_name]["codepoint"])
@@ -229,10 +236,11 @@ def generate_ligatures(font, classes_by_glyph, merged_glyphnames, markers):
             )
 
             substitutions.append(f"  sub {marker_ufo_name} {base_ufo_name} by {lig_name}; # {base_name} with {marker_name}")
+            new_ligature_names.append(lig_name)
             codepoint += 1
 
     print(f"Created {len(substitutions)} ligature glyphs (U+{LIGATURE_CODEPOINT_START:X}-U+{codepoint - 1:X})")
-    return substitutions
+    return substitutions, new_ligature_names
 
 
 def build_liga_feature(substitutions):
@@ -309,12 +317,21 @@ def build_otf(tmp_dir):
     base_family = font.info.familyName
 
     transform_glyphs(font, transforms, classes_by_glyph, index)
-    substitutions = generate_ligatures(font, classes_by_glyph, merged_glyphnames, markers)
+    substitutions, new_ligature_names = generate_ligatures(font, classes_by_glyph, merged_glyphnames, markers)
     liga_feature = build_liga_feature(substitutions)
     font.features.text = (font.features.text or "") + "\n\n" + liga_feature
 
     rename_font(font, base_family)
     odds_and_sods(font)
+
+    # GDEF ligature classification - not something FontLab's export carries
+    # (same reasoning as tools/generate_font.py), covering both the newly
+    # generated combining-staff-position ligatures and Bravura's own native
+    # ligatures (which pass through into Bravura Text unchanged).
+    native_ligature_names = {ufo_name for ufo_name, info in index.items() if info["category"] == "ligature"}
+    all_ligature_names = set(new_ligature_names) | native_ligature_names
+    font.lib["public.openTypeCategories"] = {n: "ligature" for n in all_ligature_names if n in font}
+    print(f"Classified {len(font.lib['public.openTypeCategories'])} ligature glyph(s) for GDEF")
 
     working_ufo = tmp_dir / "BravuraText.ufo"
     print(f"Saving working UFO to {working_ufo} ({len(font)} glyphs)")
@@ -322,6 +339,12 @@ def build_otf(tmp_dir):
 
     otf_path = tmp_dir / "BravuraText.otf"
     run(["fontmake", "-u", str(working_ufo), "-o", "otf", "--output-path", str(otf_path), "--no-subroutinize"])
+
+    ttfont = TTFont(otf_path)
+    font_build_common.add_dummy_dsig(ttfont)
+    ttfont.save(otf_path)
+    print("Added DSIG table")
+
     return otf_path
 
 

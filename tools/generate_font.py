@@ -11,6 +11,10 @@ injects public.openTypeCategories (ligature glyphs only - see
 tools/generate.py's build_font_glyph_index) into a throwaway copy of the UFO
 before compiling, so the committed Bravura.ufo never needs to carry it.
 
+Also adds a dummy (zero-signature) DSIG table after compiling - see
+tools/font_build_common.py - matching what previous FontLab-built releases
+carried.
+
 Usage:
     python3 tools/generate_font.py [--output PATH] [--no-hint] [--keep-tmp]
 """
@@ -28,6 +32,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import generate  # tools/generate.py
 import generate_font_metadata  # tools/generate_font_metadata.py
 import font_version  # tools/font_version.py
+import font_build_common  # tools/font_build_common.py
+
+from fontTools.ttLib import TTFont
 
 ROOT = Path(__file__).resolve().parent.parent
 UFO_DIR = ROOT / "font" / "Bravura.ufo"
@@ -100,11 +107,17 @@ def build_otf(tmp_dir, no_hint=False):
     ])
 
     if no_hint:
-        return unhinted_otf
+        final_otf = unhinted_otf
+    else:
+        final_otf = tmp_dir / "Bravura.otf"
+        run(["otfautohint", "-o", str(final_otf), str(unhinted_otf)])
 
-    hinted_otf = tmp_dir / "Bravura.otf"
-    run(["otfautohint", "-o", str(hinted_otf), str(unhinted_otf)])
-    return hinted_otf
+    ttfont = TTFont(final_otf)
+    font_build_common.add_dummy_dsig(ttfont)
+    ttfont.save(final_otf)
+    print("Added DSIG table")
+
+    return final_otf
 
 
 def main():
