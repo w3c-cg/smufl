@@ -341,7 +341,7 @@ re-exporting the UFO can never accidentally change the shipped version.
 
 `python3 tools/generate_font.py --generate-release [--output-dir PATH] [--fixed-issues REF,...]`
 assembles the structure found in the Bravura repository's `redist/` folder: OTF and WOFF/WOFF2
-for both fonts, `bravura_metadata.json`, and an updated `FONTLOG.txt` (SVG font export is
+for both fonts, `Bravura.json`, and an updated `FONTLOG.txt` (SVG font export is
 deliberately not included — that format is deprecated). Point `--output-dir` at a checkout of
 the Bravura repo's `redist/` folder to update it directly; `--fixed-issues` (comma-separated,
 e.g. `steinbergmedia/bravura#101,w3c-cg/smufl#42`) fetches each issue's title via `gh issue

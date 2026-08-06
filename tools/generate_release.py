@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Assembles a full Bravura release - the structure found in the Bravura
 repository's redist/ folder: OTF and WOFF/WOFF2 versions of both Bravura
-and Bravura Text, bravura_metadata.json, and an updated FONTLOG.txt.
+and Bravura Text, Bravura.json, and an updated FONTLOG.txt.
 
 Invoked via `python3 tools/generate_font.py --generate-release`, not run
 directly (it needs the working UFO/build machinery from generate_font.py
@@ -129,9 +129,14 @@ def build_release(output_dir, fixed_issues=None, author="Daniel Spreadbury", kee
         text_otf = generate_bravura_text.build_otf(text_tmp)
         build_format_variants(text_otf, output_dir, "BravuraText")
 
-        print("Building bravura_metadata.json...")
+        print("Building Bravura.json...")
+        # Named to match the font, per the spec's own convention
+        # (font-metadata-locations.md: ".../SMuFL/Fonts/<fontname>/<fontname>.json")
+        # - the redist zip previously shipped this as "bravura_metadata.json",
+        # which never matched what the spec (or Dorico's own bundled copy)
+        # actually expects. See steinbergmedia/bravura#85.
         metadata = generate_font_metadata.build_metadata(bravura_otf)
-        metadata_path = output_dir / "bravura_metadata.json"
+        metadata_path = output_dir / "Bravura.json"
         import json
         metadata_path.write_text(json.dumps(metadata, indent=4, sort_keys=True))
         print(f"  wrote {metadata_path}")
@@ -151,7 +156,7 @@ def build_release(output_dir, fixed_issues=None, author="Daniel Spreadbury", kee
 def add_release_args(parser):
     parser.add_argument("--generate-release", action="store_true",
                          help="build a full release (Bravura + Bravura Text, all formats, "
-                              "bravura_metadata.json, FONTLOG.txt) instead of a single font")
+                              "Bravura.json, FONTLOG.txt) instead of a single font")
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR,
                          help="release output directory (default: font/release/). Point this "
                               "at a checkout of the Bravura repo's redist/ folder to update it directly.")
