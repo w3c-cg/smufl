@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB1A" format="2">
+  <advance width="664"/>
+  <unicode hex="EB1A"/>
+  <note>elecLoudspeaker</note>
+  <outline>
+    <contour>
+      <point x="651" y="1034" type="curve"/>
+      <point x="648" y="1035"/>
+      <point x="645" y="1036"/>
+      <point x="642" y="1036" type="curve" smooth="yes"/>
+      <point x="639" y="1036"/>
+      <point x="635" y="1035"/>
+      <point x="632" y="1033" type="curve" smooth="yes"/>
+      <point x="240" y="786" type="line"/>
+      <point x="27" y="786" type="line" smooth="yes"/>
+      <point x="12" y="786"/>
+      <point x="0" y="774"/>
+      <point x="0" y="759" type="curve" smooth="yes"/>
+      <point x="0" y="277" type="line" smooth="yes"/>
+      <point x="0" y="262"/>
+      <point x="12" y="250"/>
+      <point x="27" y="250" type="curve" smooth="yes"/>
+      <point x="237" y="250" type="line"/>
+      <point x="238" y="250"/>
+      <point x="239" y="250"/>
+      <point x="632" y="3" type="curve"/>
+      <point x="635" y="1"/>
+      <point x="638" y="0"/>
+      <point x="642" y="0" type="curve" smooth="yes"/>
+      <point x="645" y="0"/>
+      <point x="648" y="1"/>
+      <point x="651" y="2" type="curve"/>
+      <point x="656" y="5"/>
+      <point x="660" y="11"/>
+      <point x="660" y="18" type="curve" smooth="yes"/>
+      <point x="660" y="1018" type="line" smooth="yes"/>
+      <point x="660" y="1025"/>
+      <point x="656" y="1031"/>
+    </contour>
+    <contour>
+      <point x="36" y="750" type="line"/>
+      <point x="228" y="750" type="line"/>
+      <point x="228" y="286" type="line"/>
+      <point x="36" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="51" type="line"/>
+      <point x="264" y="278" type="line"/>
+      <point x="264" y="758" type="line"/>
+      <point x="624" y="985" type="line"/>
+    </contour>
+  </outline>
+</glyph>

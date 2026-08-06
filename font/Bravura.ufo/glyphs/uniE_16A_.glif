@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE16A" format="2">
+  <advance width="486"/>
+  <unicode hex="E16A"/>
+  <note>noteASharpWhole</note>
+  <outline>
+    <contour>
+      <point x="356" y="74" type="line" name="hr01"/>
+      <point x="333" y="85" type="line"/>
+      <point x="333" y="47" type="line"/>
+      <point x="314" y="39" type="line" name="hr03"/>
+      <point x="314" y="76" type="line"/>
+      <point x="291" y="76" type="line"/>
+      <point x="291" y="31" type="line" name="hr04"/>
+      <point x="274" y="24" type="line"/>
+      <point x="274" y="-5" type="line"/>
+      <point x="291" y="1" type="line"/>
+      <point x="291" y="-24" type="line" name="hr05"/>
+      <point x="274" y="-30" type="line"/>
+      <point x="274" y="-60" type="line"/>
+      <point x="291" y="-53" type="line"/>
+      <point x="291" y="-87" type="line"/>
+      <point x="314" y="-87" type="line"/>
+      <point x="314" y="-45" type="line"/>
+      <point x="333" y="-37" type="line" name="hr06"/>
+      <point x="333" y="-74" type="line"/>
+      <point x="356" y="-74" type="line"/>
+      <point x="356" y="-28" type="line"/>
+      <point x="377" y="-20" type="line"/>
+      <point x="377" y="10" type="line"/>
+      <point x="356" y="1" type="line"/>
+      <point x="356" y="26" type="line"/>
+      <point x="377" y="35" type="line"/>
+      <point x="377" y="64" type="line"/>
+      <point x="356" y="56" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="-7" type="line"/>
+      <point x="314" y="-15" type="line" name="hr07"/>
+      <point x="314" y="10" type="line"/>
+      <point x="333" y="18" type="line" name="hr08"/>
+    </contour>
+    <contour>
+      <point x="172" y="95" type="line" name="hr09"/>
+      <point x="109" y="-73" type="line"/>
+      <point x="142" y="-92" type="line"/>
+      <point x="158" y="-50" type="line"/>
+      <point x="226" y="-50" type="line"/>
+      <point x="238" y="-87" type="line"/>
+      <point x="277" y="-87" type="line"/>
+      <point x="214" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="-19" type="line"/>
+      <point x="192" y="52" type="line"/>
+      <point x="216" y="-19" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="144" type="curve" smooth="yes" name="hr10"/>
+      <point x="95" y="144"/>
+      <point x="0" y="79"/>
+      <point x="0" y="0" type="curve" smooth="yes"/>
+      <point x="0" y="-77"/>
+      <point x="65" y="-146"/>
+      <point x="237" y="-146" type="curve" smooth="yes"/>
+      <point x="424" y="-146"/>
+      <point x="486" y="-80"/>
+      <point x="486" y="0" type="curve" smooth="yes"/>
+      <point x="486" y="82"/>
+      <point x="401" y="144"/>
+    </contour>
+    <contour>
+      <point x="238" y="-121" type="curve" smooth="yes"/>
+      <point x="109" y="-121"/>
+      <point x="60" y="-64"/>
+      <point x="60" y="0" type="curve" smooth="yes"/>
+      <point x="60" y="65"/>
+      <point x="132" y="118"/>
+      <point x="247" y="118" type="curve" smooth="yes"/>
+      <point x="362" y="118"/>
+      <point x="425" y="67"/>
+      <point x="425" y="0" type="curve" smooth="yes"/>
+      <point x="425" y="-67"/>
+      <point x="379" y="-121"/>
+    </contour>
+  </outline>
+</glyph>

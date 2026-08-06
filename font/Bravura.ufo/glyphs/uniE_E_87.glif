@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE87" format="2">
+  <advance width="472"/>
+  <unicode hex="EE87"/>
+  <note>stringsScrapeParallelOutward</note>
+  <outline>
+    <component base="uniEE86" xScale="-1" xOffset="472.3"/>
+  </outline>
+</glyph>

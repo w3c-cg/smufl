@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE24" format="2">
+  <advance width="500"/>
+  <unicode hex="EE24"/>
+  <note>organGermanBuxheimerBrevis3</note>
+  <outline>
+    <contour>
+      <point x="389" y="-72" type="curve"/>
+      <point x="425" y="-102" type="line"/>
+      <point x="440" y="-95"/>
+      <point x="460" y="-71"/>
+      <point x="460" y="-56" type="curve"/>
+      <point x="460" y="-55"/>
+      <point x="460" y="-54"/>
+      <point x="459" y="-53" type="curve"/>
+      <point x="422" y="-23" type="line"/>
+      <point x="407" y="-25"/>
+      <point x="387" y="-56"/>
+      <point x="387" y="-69" type="curve"/>
+      <point x="387" y="-70"/>
+      <point x="387" y="-71"/>
+    </contour>
+    <contour>
+      <point x="213" y="-72" type="curve"/>
+      <point x="249" y="-102" type="line"/>
+      <point x="264" y="-95"/>
+      <point x="284" y="-71"/>
+      <point x="284" y="-56" type="curve"/>
+      <point x="284" y="-55"/>
+      <point x="284" y="-54"/>
+      <point x="283" y="-53" type="curve"/>
+      <point x="246" y="-23" type="line"/>
+      <point x="231" y="-25"/>
+      <point x="211" y="-56"/>
+      <point x="211" y="-69" type="curve"/>
+      <point x="211" y="-70"/>
+      <point x="211" y="-71"/>
+    </contour>
+    <contour>
+      <point x="37" y="-72" type="curve"/>
+      <point x="73" y="-102" type="line"/>
+      <point x="88" y="-95"/>
+      <point x="108" y="-71"/>
+      <point x="108" y="-56" type="curve"/>
+      <point x="108" y="-55"/>
+      <point x="108" y="-54"/>
+      <point x="107" y="-53" type="curve"/>
+      <point x="70" y="-23" type="line"/>
+      <point x="55" y="-25"/>
+      <point x="35" y="-56"/>
+      <point x="35" y="-69" type="curve"/>
+      <point x="35" y="-70"/>
+      <point x="35" y="-71"/>
+    </contour>
+  </outline>
+</glyph>

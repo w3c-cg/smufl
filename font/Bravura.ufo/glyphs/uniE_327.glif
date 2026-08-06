@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE327" format="2">
+  <advance width="469"/>
+  <unicode hex="E327"/>
+  <note>accSagittalFlat11MDown</note>
+  <outline>
+    <contour>
+      <point x="0" y="78" type="line"/>
+      <point x="0" y="188" type="line"/>
+      <point x="125" y="55" type="line"/>
+      <point x="125" y="359" type="line"/>
+      <point x="156" y="359" type="line"/>
+      <point x="156" y="21" type="line"/>
+      <point x="219" y="-45" type="line"/>
+      <point x="219" y="359" type="line"/>
+      <point x="250" y="359" type="line"/>
+      <point x="250" y="-45" type="line"/>
+      <point x="312" y="21" type="line"/>
+      <point x="312" y="359" type="line"/>
+      <point x="344" y="359" type="line"/>
+      <point x="344" y="55" type="line"/>
+      <point x="469" y="188" type="line"/>
+      <point x="469" y="78" type="line"/>
+      <point x="234" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

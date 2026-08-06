@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE69C" format="2">
+  <advance width="539"/>
+  <unicode hex="E69C"/>
+  <note>harpSalzedoIsolatedSounds</note>
+  <outline>
+    <component base="uniE6D7"/>
+    <component base="uniE1FC" xOffset="220" yOffset="250"/>
+  </outline>
+</glyph>

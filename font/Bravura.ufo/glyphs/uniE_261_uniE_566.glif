@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE261_uniE566" format="2">
+  <advance width="521"/>
+  <unicode hex="F5C8"/>
+  <note>ornamentTrillNaturalAbove</note>
+  <outline>
+    <component base="uniE566" xOffset="218"/>
+    <component base="uniE261.ss01" xScale="0.6263" yScale="0.6267" xOffset="435" yOffset="632"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE075" format="2">
+  <advance width="699"/>
+  <unicode hex="E075"/>
+  <note>cClefReversed</note>
+  <outline>
+    <component base="uniE05C" xScale="-1" xOffset="699"/>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE09D" format="2">
+  <advance width="845"/>
+  <unicode hex="E09D"/>
+  <note>timeSigOpenPenderecki</note>
+  <outline>
+    <contour>
+      <point x="-1" y="-198" type="line" smooth="yes"/>
+      <point x="-1" y="-231"/>
+      <point x="16" y="-231"/>
+      <point x="32" y="-231" type="curve"/>
+      <point x="32" y="-231"/>
+      <point x="49" y="-231"/>
+      <point x="49" y="-48" type="curve" smooth="yes"/>
+      <point x="49" y="68"/>
+      <point x="132" y="117"/>
+      <point x="199" y="117" type="curve" smooth="yes"/>
+      <point x="298" y="117"/>
+      <point x="332" y="51"/>
+      <point x="364" y="-48" type="curve"/>
+      <point x="414" y="-149"/>
+      <point x="481" y="-248"/>
+      <point x="630" y="-248" type="curve" smooth="yes"/>
+      <point x="763" y="-248"/>
+      <point x="846" y="-149"/>
+      <point x="846" y="1" type="curve" smooth="yes"/>
+      <point x="846" y="167" type="line" smooth="yes"/>
+      <point x="846" y="201"/>
+      <point x="830" y="201"/>
+      <point x="813" y="201" type="curve"/>
+      <point x="813" y="201"/>
+      <point x="796" y="201"/>
+      <point x="796" y="1" type="curve" smooth="yes"/>
+      <point x="796" y="-98"/>
+      <point x="747" y="-149"/>
+      <point x="680" y="-149" type="curve" smooth="yes"/>
+      <point x="597" y="-149"/>
+      <point x="547" y="-115"/>
+      <point x="481" y="34" type="curve"/>
+      <point x="448" y="167"/>
+      <point x="348" y="250"/>
+      <point x="231" y="250" type="curve" smooth="yes"/>
+      <point x="115" y="250"/>
+      <point x="-1" y="167"/>
+      <point x="-1" y="1" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

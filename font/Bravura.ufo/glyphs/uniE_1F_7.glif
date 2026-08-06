@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1F7" format="2">
+  <advance width="342"/>
+  <unicode hex="E1F7"/>
+  <note>textCont8thBeamShortStem</note>
+  <outline>
+    <contour>
+      <point x="342" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="563" type="line"/>
+      <point x="342" y="563" type="line"/>
+    </contour>
+  </outline>
+</glyph>

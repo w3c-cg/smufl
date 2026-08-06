@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE08C.ss04" format="2">
+  <advance width="80"/>
+  <unicode hex="F44C"/>
+  <note>timeSigPlusLarge</note>
+  <outline>
+    <contour>
+      <point x="80" y="-23" type="line"/>
+      <point x="80" y="22" type="line"/>
+      <point x="46" y="22" type="line"/>
+      <point x="46" y="149" type="line"/>
+      <point x="34" y="149" type="line"/>
+      <point x="34" y="22" type="line"/>
+      <point x="0" y="22" type="line"/>
+      <point x="0" y="-23" type="line"/>
+      <point x="34" y="-23" type="line"/>
+      <point x="34" y="-149" type="line"/>
+      <point x="46" y="-149" type="line"/>
+      <point x="46" y="-23" type="line"/>
+    </contour>
+  </outline>
+</glyph>

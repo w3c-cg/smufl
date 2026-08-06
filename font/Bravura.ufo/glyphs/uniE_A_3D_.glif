@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA3D" format="2">
+  <advance width="603"/>
+  <unicode hex="EA3D"/>
+  <note>daseianExcellentes2</note>
+  <outline>
+    <component base="uniEA35" yScale="-1" yOffset="573"/>
+  </outline>
+</glyph>

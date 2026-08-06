@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE90B" format="2">
+  <advance width="244"/>
+  <unicode hex="E90B"/>
+  <note>mensuralCclefPetrucciPosHighest</note>
+  <outline>
+    <component base="uniE907" yScale="-1" yOffset="5"/>
+  </outline>
+</glyph>

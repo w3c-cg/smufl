@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE672" format="2">
+  <advance width="204"/>
+  <unicode hex="E672"/>
+  <note>keyboardPedalHookStart</note>
+  <outline>
+    <component base="uniE673" xScale="-1" xOffset="204"/>
+  </outline>
+</glyph>

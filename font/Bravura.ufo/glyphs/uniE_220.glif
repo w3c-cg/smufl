@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE220" format="2">
+  <advance width="150"/>
+  <unicode hex="E220"/>
+  <note>tremolo1</note>
+  <outline>
+    <contour>
+      <point x="150" y="-31" type="line"/>
+      <point x="150" y="94" type="line"/>
+      <point x="-150" y="32" type="line"/>
+      <point x="-150" y="-93" type="line"/>
+    </contour>
+  </outline>
+</glyph>

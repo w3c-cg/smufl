@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC64" format="2">
+  <advance width="827"/>
+  <unicode hex="EC64"/>
+  <note>metricModulationArrowRight</note>
+  <outline>
+    <component base="uniEC63" xScale="-1" xOffset="827"/>
+  </outline>
+</glyph>

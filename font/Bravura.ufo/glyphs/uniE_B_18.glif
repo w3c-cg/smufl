@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB18" format="2">
+  <advance width="1003"/>
+  <unicode hex="EB18"/>
+  <note>elecMonitor</note>
+  <outline>
+    <contour>
+      <point x="1003" y="201" type="curve"/>
+      <point x="1003" y="735" type="line"/>
+      <point x="999" y="748"/>
+      <point x="989" y="759"/>
+      <point x="976" y="759" type="curve" smooth="yes"/>
+      <point x="24" y="759" type="line" smooth="yes"/>
+      <point x="17" y="759"/>
+      <point x="11" y="757"/>
+      <point x="7" y="752" type="curve"/>
+      <point x="2" y="747"/>
+      <point x="0" y="741"/>
+      <point x="0" y="735" type="curve" smooth="yes"/>
+      <point x="0" y="199" type="line" smooth="yes"/>
+      <point x="0" y="186"/>
+      <point x="13" y="176"/>
+      <point x="27" y="176" type="curve" smooth="yes"/>
+      <point x="477" y="176" type="line"/>
+      <point x="477" y="48" type="line"/>
+      <point x="300" y="48" type="line" smooth="yes"/>
+      <point x="286" y="48"/>
+      <point x="276" y="38"/>
+      <point x="276" y="24" type="curve" smooth="yes"/>
+      <point x="276" y="11"/>
+      <point x="286" y="0"/>
+      <point x="300" y="0" type="curve" smooth="yes"/>
+      <point x="703" y="0" type="line" smooth="yes"/>
+      <point x="716" y="0"/>
+      <point x="727" y="11"/>
+      <point x="727" y="24" type="curve" smooth="yes"/>
+      <point x="727" y="38"/>
+      <point x="716" y="48"/>
+      <point x="703" y="48" type="curve" smooth="yes"/>
+      <point x="525" y="48" type="line"/>
+      <point x="525" y="176" type="line"/>
+      <point x="979" y="176" type="line"/>
+      <point x="993" y="177"/>
+      <point x="1003" y="187"/>
+    </contour>
+    <contour>
+      <point x="50" y="224" type="line"/>
+      <point x="50" y="711" type="line"/>
+      <point x="952" y="711" type="line"/>
+      <point x="952" y="224" type="line"/>
+    </contour>
+  </outline>
+</glyph>

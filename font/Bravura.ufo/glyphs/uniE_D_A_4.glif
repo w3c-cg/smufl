@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDA4" format="2">
+  <advance width="244"/>
+  <unicode hex="EDA4"/>
+  <note>kahnJumpTogether</note>
+  <outline>
+    <contour>
+      <point x="182" y="657" type="line"/>
+      <point x="182" y="1" type="line"/>
+      <point x="244" y="1" type="line"/>
+      <point x="244" y="657" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="657" type="line"/>
+      <point x="0" y="1" type="line"/>
+      <point x="61" y="1" type="line"/>
+      <point x="61" y="657" type="line"/>
+    </contour>
+  </outline>
+</glyph>

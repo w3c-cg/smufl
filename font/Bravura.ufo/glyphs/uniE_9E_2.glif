@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9E2" format="2">
+  <advance width="102"/>
+  <unicode hex="E9E2"/>
+  <note>medRenNatural</note>
+  <outline>
+    <contour>
+      <point x="84" y="-52" type="line"/>
+      <point x="21" y="-62" type="line"/>
+      <point x="21" y="12"/>
+      <point x="21" y="49"/>
+      <point x="22" y="49" type="curve"/>
+      <point x="84" y="59" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-108" type="line"/>
+      <point x="2" y="-114"/>
+      <point x="4" y="-116"/>
+      <point x="10" y="-118" type="curve"/>
+      <point x="82" y="-106" type="line"/>
+      <point x="82" y="-151" type="line" smooth="yes"/>
+      <point x="82" y="-216"/>
+      <point x="82" y="-248"/>
+      <point x="81" y="-250" type="curve"/>
+      <point x="89" y="-253"/>
+      <point x="94" y="-254"/>
+      <point x="95" y="-254" type="curve"/>
+      <point x="99" y="-254"/>
+      <point x="102" y="-252"/>
+      <point x="102" y="-248" type="curve" smooth="yes"/>
+      <point x="102" y="107" type="line"/>
+      <point x="101" y="110"/>
+      <point x="99" y="114"/>
+      <point x="95" y="114" type="curve" smooth="yes"/>
+      <point x="83" y="114"/>
+      <point x="69" y="112"/>
+      <point x="23" y="103" type="curve"/>
+      <point x="23" y="251" type="line"/>
+      <point x="18" y="252"/>
+      <point x="14" y="253"/>
+      <point x="10" y="253" type="curve"/>
+      <point x="8" y="253"/>
+      <point x="4" y="252"/>
+      <point x="0" y="251" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

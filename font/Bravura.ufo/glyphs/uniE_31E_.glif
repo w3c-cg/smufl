@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE31E" format="2">
+  <advance width="312"/>
+  <unicode hex="E31E"/>
+  <note>accSagittalSharp5CUp</note>
+  <outline>
+    <contour>
+      <point x="0" y="-185" type="line"/>
+      <point x="94" y="-106" type="line"/>
+      <point x="94" y="-359" type="line"/>
+      <point x="125" y="-359" type="line"/>
+      <point x="125" y="-80" type="line"/>
+      <point x="188" y="-27" type="line"/>
+      <point x="188" y="-359" type="line"/>
+      <point x="219" y="-359" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="281" y="52" type="line"/>
+      <point x="281" y="-359" type="line"/>
+      <point x="312" y="-359" type="line"/>
+      <point x="312" y="172" type="line"/>
+      <point x="297" y="172" type="line"/>
+      <point x="0" y="-78" type="line"/>
+    </contour>
+  </outline>
+</glyph>

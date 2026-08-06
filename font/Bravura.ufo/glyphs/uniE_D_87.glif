@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED87" format="2">
+  <advance width="240"/>
+  <unicode hex="ED87"/>
+  <note>fingering7Italic</note>
+  <outline>
+    <component base="uniE887" xScale="0.65" yScale="0.65"/>
+  </outline>
+</glyph>

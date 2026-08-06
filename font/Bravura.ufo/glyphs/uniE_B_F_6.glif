@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBF6" format="2">
+  <advance width="397"/>
+  <unicode hex="EBF6"/>
+  <note>luteItalianVibrato</note>
+  <outline>
+    <component base="uniEBD2"/>
+  </outline>
+</glyph>

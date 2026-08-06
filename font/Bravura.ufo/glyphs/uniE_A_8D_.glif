@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA8D" format="2">
+  <advance width="655"/>
+  <unicode hex="EA8D"/>
+  <note>functionVUpper</note>
+  <outline>
+    <contour>
+      <point x="635" y="729" type="line"/>
+      <point x="536" y="729" type="line"/>
+      <point x="334" y="112" type="line"/>
+      <point x="120" y="729" type="line"/>
+      <point x="20" y="729" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

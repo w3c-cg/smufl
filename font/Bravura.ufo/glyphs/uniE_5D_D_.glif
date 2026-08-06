@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5DD" format="2">
+  <advance width="425"/>
+  <unicode hex="E5DD"/>
+  <note>brassFallRoughShort</note>
+  <outline>
+    <component base="uniE5D1" xScale="-1" xOffset="423"/>
+  </outline>
+</glyph>

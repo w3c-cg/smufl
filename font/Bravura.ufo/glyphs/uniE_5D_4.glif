@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5D4" format="2">
+  <advance width="318"/>
+  <unicode hex="E5D4"/>
+  <note>brassDoitShort</note>
+  <outline>
+    <component base="uniE5D0" yOffset="340"/>
+  </outline>
+</glyph>

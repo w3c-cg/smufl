@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED1E" format="2">
+  <advance width="200"/>
+  <unicode hex="ED1E"/>
+  <note>fingeringELower</note>
+  <outline>
+    <contour>
+      <point x="90" y="11" type="curve" smooth="yes"/>
+      <point x="65" y="11"/>
+      <point x="53" y="39"/>
+      <point x="53" y="70" type="curve" smooth="yes"/>
+      <point x="53" y="82"/>
+      <point x="55" y="95"/>
+      <point x="59" y="107" type="curve"/>
+      <point x="104" y="107"/>
+      <point x="200" y="136"/>
+      <point x="200" y="206" type="curve" smooth="yes"/>
+      <point x="200" y="234"/>
+      <point x="172" y="261"/>
+      <point x="141" y="261" type="curve" smooth="yes"/>
+      <point x="73" y="261"/>
+      <point x="0" y="175"/>
+      <point x="0" y="93" type="curve" smooth="yes"/>
+      <point x="0" y="34"/>
+      <point x="37" y="-7"/>
+      <point x="86" y="-7" type="curve" smooth="yes"/>
+      <point x="137" y="-7"/>
+      <point x="168" y="43"/>
+      <point x="186" y="75" type="curve"/>
+      <point x="172" y="83" type="line"/>
+      <point x="145" y="43"/>
+      <point x="123" y="11"/>
+    </contour>
+    <contour>
+      <point x="168" y="211" type="curve" smooth="yes"/>
+      <point x="168" y="175"/>
+      <point x="114" y="134"/>
+      <point x="64" y="124" type="curve"/>
+      <point x="77" y="161"/>
+      <point x="109" y="243"/>
+      <point x="145" y="243" type="curve" smooth="yes"/>
+      <point x="159" y="243"/>
+      <point x="168" y="230"/>
+    </contour>
+  </outline>
+</glyph>

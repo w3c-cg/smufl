@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE204" format="2">
+  <advance width="332"/>
+  <unicode hex="E204"/>
+  <note>textHeadlessBlackNoteShortStem</note>
+  <outline>
+    <contour>
+      <point x="332" y="46" type="line"/>
+      <point x="332" y="688" type="line"/>
+      <point x="302" y="688" type="line"/>
+      <point x="302" y="46" type="line"/>
+    </contour>
+  </outline>
+</glyph>

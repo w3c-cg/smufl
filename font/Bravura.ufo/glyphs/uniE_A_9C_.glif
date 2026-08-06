@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA9C" format="2">
+  <advance width="618"/>
+  <unicode hex="EA9C"/>
+  <note>functionKUpper</note>
+  <outline>
+    <contour>
+      <point x="598" y="0" type="line"/>
+      <point x="298" y="432" type="line"/>
+      <point x="595" y="729" type="line"/>
+      <point x="475" y="729" type="line"/>
+      <point x="112" y="360" type="line"/>
+      <point x="112" y="729" type="line"/>
+      <point x="19" y="729" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="255" type="line"/>
+      <point x="231" y="374" type="line"/>
+      <point x="488" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

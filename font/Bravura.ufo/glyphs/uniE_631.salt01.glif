@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE631.salt01" format="2">
+  <advance width="200"/>
+  <unicode hex="F433"/>
+  <note>pluckedSnapPizzicatoAboveGerman</note>
+  <outline>
+    <component base="uniE630.salt01" yScale="-1" yOffset="300"/>
+  </outline>
+</glyph>

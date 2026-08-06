@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE325" format="2">
+  <advance width="406"/>
+  <unicode hex="E325"/>
+  <note>accSagittalFlat35MDown</note>
+  <outline>
+    <contour>
+      <point x="0" y="78" type="line"/>
+      <point x="0" y="190" type="line"/>
+      <point x="94" y="75" type="line"/>
+      <point x="94" y="359" type="line"/>
+      <point x="125" y="359" type="line"/>
+      <point x="125" y="37" type="line"/>
+      <point x="188" y="-40" type="line"/>
+      <point x="188" y="359" type="line"/>
+      <point x="219" y="359" type="line"/>
+      <point x="219" y="-78" type="line"/>
+      <point x="250" y="-78" type="line" smooth="yes"/>
+      <point x="261" y="-78"/>
+      <point x="271" y="-78"/>
+      <point x="281" y="-76" type="curve"/>
+      <point x="281" y="359" type="line"/>
+      <point x="312" y="359" type="line"/>
+      <point x="312" y="-67" type="line"/>
+      <point x="354" y="-50"/>
+      <point x="375" y="-12"/>
+      <point x="375" y="47" type="curve" smooth="yes"/>
+      <point x="375" y="172" type="line"/>
+      <point x="406" y="172" type="line"/>
+      <point x="406" y="-47" type="line" smooth="yes"/>
+      <point x="406" y="-130"/>
+      <point x="365" y="-172"/>
+      <point x="281" y="-172" type="curve" smooth="yes"/>
+      <point x="203" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

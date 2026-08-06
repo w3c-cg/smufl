@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE943" format="2">
+  <advance width="32"/>
+  <unicode hex="E943"/>
+  <note>mensuralCombStemUpFlagLeft</note>
+  <outline>
+    <component base="uniE941" xScale="-1" xOffset="32"/>
+  </outline>
+</glyph>

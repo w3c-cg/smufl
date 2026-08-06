@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5D9" format="2">
+  <advance width="1150"/>
+  <unicode hex="E5D9"/>
+  <note>brassFallLipLong</note>
+  <outline>
+    <component base="uniE5D6" yScale="-1" yOffset="-2"/>
+  </outline>
+</glyph>

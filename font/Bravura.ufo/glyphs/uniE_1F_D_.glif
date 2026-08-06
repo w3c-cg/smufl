@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1FD" format="2">
+  <advance width="365"/>
+  <unicode hex="E1FD"/>
+  <note>textTie</note>
+  <outline>
+    <contour>
+      <point x="365" y="-183" type="curve"/>
+      <point x="361" y="-183" type="line"/>
+      <point x="326" y="-244"/>
+      <point x="252" y="-275"/>
+      <point x="179" y="-275" type="curve" smooth="yes"/>
+      <point x="106" y="-275"/>
+      <point x="34" y="-244"/>
+      <point x="4" y="-183" type="curve"/>
+      <point x="0" y="-183" type="line"/>
+      <point x="29" y="-279"/>
+      <point x="103" y="-326"/>
+      <point x="178" y="-326" type="curve" smooth="yes"/>
+      <point x="255" y="-326"/>
+      <point x="333" y="-278"/>
+    </contour>
+  </outline>
+</glyph>

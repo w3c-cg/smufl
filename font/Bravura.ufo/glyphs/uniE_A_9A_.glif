@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA9A" format="2">
+  <advance width="182"/>
+  <unicode hex="EA9A"/>
+  <note>functionIUpper</note>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="729" type="line"/>
+      <point x="44" y="729" type="line"/>
+      <point x="44" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

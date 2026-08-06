@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC83.ss04" format="2">
+  <advance width="50"/>
+  <unicode hex="F502"/>
+  <note>timeSigBracketRightSmallLarge</note>
+  <outline>
+    <contour>
+      <point x="50" y="-330" type="line"/>
+      <point x="50" y="329" type="line"/>
+      <point x="3" y="329" type="line"/>
+      <point x="3" y="288" type="line"/>
+      <point x="29" y="288" type="line"/>
+      <point x="29" y="-289" type="line"/>
+      <point x="3" y="-289" type="line"/>
+      <point x="3" y="-330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED22" format="2">
+  <advance width="198"/>
+  <unicode hex="ED22"/>
+  <note>fingeringSubstitutionDash</note>
+  <outline>
+    <contour>
+      <point x="198" y="142" type="line"/>
+      <point x="8" y="142" type="line"/>
+      <point x="0" y="110" type="line"/>
+      <point x="190" y="110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED46" format="2">
+  <advance width="958"/>
+  <unicode hex="ED46"/>
+  <note>articSoftAccentTenutoStaccatoAbove</note>
+  <outline>
+    <component base="uniE4A0" xOffset="619"/>
+    <component base="uniE4A0" xScale="-1" xOffset="339"/>
+    <component base="uniE4A4" xScale="0.8466" yScale="0.9583" xOffset="335" yOffset="141"/>
+    <component base="uniE4A2" xOffset="436" yOffset="32"/>
+  </outline>
+</glyph>

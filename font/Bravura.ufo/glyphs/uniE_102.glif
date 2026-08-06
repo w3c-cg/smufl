@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE102" format="2">
+  <advance width="980"/>
+  <unicode hex="E102"/>
+  <note>noteheadSlashWhiteWhole</note>
+  <outline>
+    <contour>
+      <point x="845" y="220" type="line"/>
+      <point x="475" y="-220" type="line"/>
+      <point x="125" y="-220" type="line"/>
+      <point x="495" y="220" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="550" y="-250" type="line"/>
+      <point x="980" y="250" type="line"/>
+    </contour>
+  </outline>
+</glyph>

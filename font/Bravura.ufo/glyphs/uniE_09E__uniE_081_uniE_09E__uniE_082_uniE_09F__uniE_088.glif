@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE09E_uniE081_uniE09E_uniE082_uniE09F_uniE088" format="2">
+  <advance width="742"/>
+  <unicode hex="F60F"/>
+  <note>timeSig12over8</note>
+  <outline>
+    <component base="uniE081" yOffset="750"/>
+    <component base="uniE082" xOffset="314" yOffset="750"/>
+    <component base="uniE088" xOffset="178" yOffset="250"/>
+  </outline>
+</glyph>

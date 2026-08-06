@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4AC" format="2">
+  <advance width="236"/>
+  <unicode hex="E4AC"/>
+  <note>articMarcatoAbove</note>
+  <outline>
+    <contour>
+      <point x="126" y="247" type="line"/>
+      <point x="123" y="251"/>
+      <point x="120" y="253"/>
+      <point x="116" y="253" type="curve" smooth="yes"/>
+      <point x="109" y="253"/>
+      <point x="106" y="247"/>
+      <point x="106" y="247" type="curve"/>
+      <point x="0" y="16" type="line"/>
+      <point x="-1" y="14"/>
+      <point x="-1" y="13"/>
+      <point x="-1" y="11" type="curve"/>
+      <point x="-1" y="6"/>
+      <point x="1" y="1"/>
+      <point x="6" y="0" type="curve"/>
+      <point x="7" y="-1"/>
+      <point x="10" y="-1"/>
+      <point x="11" y="-1" type="curve"/>
+      <point x="15" y="-1"/>
+      <point x="20" y="1"/>
+      <point x="22" y="6" type="curve"/>
+      <point x="22" y="6"/>
+      <point x="76" y="125"/>
+      <point x="78" y="129" type="curve" smooth="yes"/>
+      <point x="79" y="131"/>
+      <point x="80" y="132"/>
+      <point x="82" y="132" type="curve"/>
+      <point x="84" y="132"/>
+      <point x="86" y="131"/>
+      <point x="88" y="129" type="curve"/>
+      <point x="89" y="125"/>
+      <point x="145" y="6"/>
+      <point x="145" y="6" type="curve"/>
+      <point x="148" y="2"/>
+      <point x="152" y="0"/>
+      <point x="156" y="0" type="curve" smooth="yes"/>
+      <point x="224" y="0" type="line"/>
+      <point x="231" y="1"/>
+      <point x="235" y="5"/>
+      <point x="235" y="11" type="curve"/>
+      <point x="235" y="13"/>
+      <point x="235" y="15"/>
+      <point x="234" y="16" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

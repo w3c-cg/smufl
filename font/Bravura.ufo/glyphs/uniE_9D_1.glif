@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9D1" format="2">
+  <advance width="32"/>
+  <unicode hex="E9D1"/>
+  <note>chantIctusBelow</note>
+  <outline>
+    <component base="uniE9D0" yOffset="-162"/>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEAB8" format="2">
+  <advance width="750"/>
+  <unicode hex="EAB8"/>
+  <anchor x="750" y="0" name="repeatOffset"/>
+  <note>wiggleSquareWave</note>
+  <outline>
+    <contour>
+      <point x="562" y="-141" type="line"/>
+      <point x="571" y="-141"/>
+      <point x="578" y="-134"/>
+      <point x="578" y="-125" type="curve" smooth="yes"/>
+      <point x="578" y="109" type="line"/>
+      <point x="750" y="109" type="line" smooth="yes"/>
+      <point x="759" y="109"/>
+      <point x="766" y="116"/>
+      <point x="766" y="125" type="curve" smooth="yes"/>
+      <point x="766" y="134"/>
+      <point x="759" y="141"/>
+      <point x="750" y="141" type="curve" smooth="yes"/>
+      <point x="562" y="141" type="line" smooth="yes"/>
+      <point x="554" y="141"/>
+      <point x="546" y="134"/>
+      <point x="546" y="125" type="curve" smooth="yes"/>
+      <point x="546" y="-109" type="line"/>
+      <point x="203" y="-109" type="line"/>
+      <point x="203" y="125" type="line" smooth="yes"/>
+      <point x="203" y="134"/>
+      <point x="196" y="141"/>
+      <point x="187" y="141" type="curve" smooth="yes"/>
+      <point x="0" y="141" type="line" smooth="yes"/>
+      <point x="-9" y="141"/>
+      <point x="-16" y="134"/>
+      <point x="-16" y="125" type="curve" smooth="yes"/>
+      <point x="-16" y="116"/>
+      <point x="-9" y="109"/>
+      <point x="0" y="109" type="curve" smooth="yes"/>
+      <point x="171" y="109" type="line"/>
+      <point x="171" y="-125" type="line" smooth="yes"/>
+      <point x="171" y="-134"/>
+      <point x="179" y="-141"/>
+      <point x="187" y="-141" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

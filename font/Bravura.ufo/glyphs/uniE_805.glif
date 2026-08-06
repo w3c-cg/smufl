@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE805" format="2">
+  <advance width="153"/>
+  <unicode hex="E805"/>
+  <note>pictChokeCymbal</note>
+  <outline>
+    <component base="uniE4CE"/>
+  </outline>
+</glyph>

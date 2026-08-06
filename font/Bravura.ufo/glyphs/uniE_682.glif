@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE682" format="2">
+  <advance width="250"/>
+  <unicode hex="E682"/>
+  <note>harpPedalLowered</note>
+  <outline>
+    <contour>
+      <point x="0" y="390" type="line"/>
+      <point x="0" y="360" type="line"/>
+      <point x="250" y="360" type="line"/>
+      <point x="250" y="390" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="92" type="line"/>
+      <point x="162" y="92" type="line"/>
+      <point x="162" y="342" type="line"/>
+      <point x="87" y="342" type="line"/>
+    </contour>
+  </outline>
+</glyph>

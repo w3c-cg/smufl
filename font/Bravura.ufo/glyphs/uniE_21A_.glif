@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE21A" format="2">
+  <advance width="15"/>
+  <unicode hex="E21A"/>
+  <note>stemMultiphonicsBlack</note>
+  <outline>
+    <contour>
+      <point x="113" y="733" type="curve"/>
+      <point x="15" y="424" type="line"/>
+      <point x="15" y="875" type="line"/>
+      <point x="-15" y="875" type="line"/>
+      <point x="-15" y="421" type="line"/>
+      <point x="-112" y="733" type="line"/>
+      <point x="-135" y="552"/>
+      <point x="-215" y="336"/>
+      <point x="-278" y="246" type="curve"/>
+      <point x="-180" y="246" type="line"/>
+      <point x="-144" y="331"/>
+      <point x="-119" y="403"/>
+      <point x="-107" y="505" type="curve"/>
+      <point x="-74" y="410"/>
+      <point x="-45" y="291"/>
+      <point x="-15" y="190" type="curve"/>
+      <point x="-15" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="15" y="193" type="line"/>
+      <point x="45" y="293"/>
+      <point x="73" y="411"/>
+      <point x="108" y="505" type="curve"/>
+      <point x="120" y="403"/>
+      <point x="145" y="331"/>
+      <point x="181" y="246" type="curve"/>
+      <point x="279" y="246" type="line"/>
+      <point x="216" y="336"/>
+      <point x="136" y="552"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE6F7" format="2">
+  <advance width="910"/>
+  <unicode hex="E6F7"/>
+  <note>pictBoardClapper</note>
+  <outline>
+    <contour>
+      <point x="378" y="285" type="line"/>
+      <point x="785" y="735" type="line"/>
+      <point x="757" y="758" type="line"/>
+      <point x="351" y="308" type="line"/>
+      <point x="-1" y="67" type="line"/>
+      <point x="46" y="-1" type="line"/>
+      <point x="910" y="591" type="line"/>
+      <point x="883" y="631" type="line"/>
+    </contour>
+  </outline>
+</glyph>

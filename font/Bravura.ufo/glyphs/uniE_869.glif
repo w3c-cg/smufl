@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE869" format="2">
+  <advance width="425"/>
+  <unicode hex="E869"/>
+  <note>analyticsInversion1</note>
+  <outline>
+    <component base="uniE868" yScale="-1" yOffset="502"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA33" format="2">
+  <advance width="609"/>
+  <unicode hex="EA33"/>
+  <note>daseianGraves4</note>
+  <outline>
+    <component base="uniEA37" xScale="-1" xOffset="609"/>
+  </outline>
+</glyph>

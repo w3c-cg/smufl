@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA0D" format="2">
+  <advance width="182"/>
+  <unicode hex="EA0D"/>
+  <note>mensuralColorationEndSquare</note>
+  <outline>
+    <component base="uniEA0C" xScale="-1" xOffset="182"/>
+  </outline>
+</glyph>

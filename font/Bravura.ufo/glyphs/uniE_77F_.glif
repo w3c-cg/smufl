@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE77F" format="2">
+  <advance width="437"/>
+  <unicode hex="E77F"/>
+  <note>pictBeaterWoodXylophoneLeft</note>
+  <outline>
+    <component base="uniE77E" xScale="-1" xOffset="437"/>
+  </outline>
+</glyph>

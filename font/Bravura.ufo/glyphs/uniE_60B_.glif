@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE60B" format="2">
+  <advance width="305"/>
+  <unicode hex="E60B"/>
+  <note>windRimOnly</note>
+  <outline>
+    <component base="uniE5EF"/>
+  </outline>
+</glyph>

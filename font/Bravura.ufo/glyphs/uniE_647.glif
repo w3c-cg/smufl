@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE647" format="2">
+  <advance width="345"/>
+  <unicode hex="E647"/>
+  <note>vocalNasalVoice</note>
+  <outline>
+    <contour>
+      <point x="329" y="0" type="curve"/>
+      <point x="17" y="0" type="line"/>
+      <point x="12" y="0"/>
+      <point x="7" y="2"/>
+      <point x="4" y="7" type="curve"/>
+      <point x="2" y="10"/>
+      <point x="1" y="13"/>
+      <point x="1" y="16" type="curve"/>
+      <point x="1" y="18"/>
+      <point x="1" y="19"/>
+      <point x="2" y="21" type="curve"/>
+      <point x="158" y="489" type="line"/>
+      <point x="160" y="496"/>
+      <point x="166" y="500"/>
+      <point x="173" y="500" type="curve" smooth="yes"/>
+      <point x="180" y="500"/>
+      <point x="186" y="496"/>
+      <point x="188" y="489" type="curve"/>
+      <point x="344" y="21" type="line"/>
+      <point x="345" y="19"/>
+      <point x="345" y="18"/>
+      <point x="345" y="16" type="curve"/>
+      <point x="345" y="13"/>
+      <point x="344" y="10"/>
+      <point x="342" y="7" type="curve"/>
+      <point x="339" y="2"/>
+      <point x="334" y="0"/>
+    </contour>
+    <contour>
+      <point x="39" y="32" type="line"/>
+      <point x="307" y="32" type="line"/>
+      <point x="173" y="433" type="line"/>
+    </contour>
+  </outline>
+</glyph>

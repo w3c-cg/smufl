@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0F7" format="2">
+  <advance width="250"/>
+  <unicode hex="E0F7"/>
+  <anchor x="1" y="0" name="stemDownNW"/>
+  <anchor x="250" y="0" name="stemUpSE"/>
+  <note>noteheadCircleSlash</note>
+  <outline>
+    <contour>
+      <point x="125" y="125" type="curve" smooth="yes"/>
+      <point x="56" y="125"/>
+      <point x="0" y="69"/>
+      <point x="0" y="0" type="curve" smooth="yes"/>
+      <point x="0" y="-69"/>
+      <point x="56" y="-125"/>
+      <point x="125" y="-125" type="curve" smooth="yes"/>
+      <point x="194" y="-125"/>
+      <point x="250" y="-69"/>
+      <point x="250" y="0" type="curve" smooth="yes"/>
+      <point x="250" y="69"/>
+      <point x="194" y="125"/>
+    </contour>
+    <contour>
+      <point x="125" y="93" type="curve" smooth="yes"/>
+      <point x="145" y="93"/>
+      <point x="164" y="87"/>
+      <point x="179" y="77" type="curve"/>
+      <point x="49" y="-53" type="line"/>
+      <point x="38" y="-38"/>
+      <point x="32" y="-20"/>
+      <point x="32" y="0" type="curve" smooth="yes"/>
+      <point x="32" y="52"/>
+      <point x="74" y="93"/>
+    </contour>
+    <contour>
+      <point x="125" y="-93" type="curve" smooth="yes"/>
+      <point x="105" y="-93"/>
+      <point x="86" y="-87"/>
+      <point x="71" y="-77" type="curve"/>
+      <point x="201" y="53" type="line"/>
+      <point x="212" y="38"/>
+      <point x="218" y="20"/>
+      <point x="218" y="0" type="curve" smooth="yes"/>
+      <point x="218" y="-52"/>
+      <point x="176" y="-93"/>
+    </contour>
+  </outline>
+</glyph>

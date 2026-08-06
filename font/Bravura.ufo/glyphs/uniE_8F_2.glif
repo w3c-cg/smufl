@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE8F2" format="2">
+  <advance width="250"/>
+  <unicode hex="E8F2"/>
+  <note>chantStaffNarrow</note>
+  <outline>
+    <contour>
+      <point x="250" y="383" type="line"/>
+      <point x="0" y="383" type="line"/>
+      <point x="0" y="367" type="line"/>
+      <point x="250" y="367" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="133" type="line"/>
+      <point x="0" y="133" type="line"/>
+      <point x="0" y="117" type="line"/>
+      <point x="250" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="-117" type="line"/>
+      <point x="0" y="-117" type="line"/>
+      <point x="0" y="-133" type="line"/>
+      <point x="250" y="-133" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="-367" type="line"/>
+      <point x="0" y="-367" type="line"/>
+      <point x="0" y="-383" type="line"/>
+      <point x="250" y="-383" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE19" format="2">
+  <unicode hex="EE19"/>
+  <note>organGerman2OctaveUp</note>
+  <outline>
+    <contour>
+      <point x="-262" y="476" type="line"/>
+      <point x="240" y="476" type="line"/>
+      <point x="243" y="476"/>
+      <point x="247" y="482"/>
+      <point x="248" y="483" type="curve"/>
+      <point x="250" y="485"/>
+      <point x="262" y="503"/>
+      <point x="262" y="508" type="curve"/>
+      <point x="262" y="508"/>
+      <point x="262" y="508"/>
+      <point x="262" y="508" type="curve"/>
+      <point x="262" y="509"/>
+      <point x="262" y="509"/>
+      <point x="-222" y="509" type="curve"/>
+      <point x="-222" y="509"/>
+      <point x="-222" y="509"/>
+      <point x="-241" y="509" type="curve"/>
+      <point x="-244" y="509"/>
+      <point x="-248" y="504"/>
+      <point x="-249" y="503" type="curve"/>
+      <point x="-251" y="501"/>
+      <point x="-263" y="483"/>
+      <point x="-263" y="478" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-262" y="410" type="line"/>
+      <point x="240" y="410" type="line"/>
+      <point x="243" y="410"/>
+      <point x="247" y="416"/>
+      <point x="248" y="417" type="curve"/>
+      <point x="250" y="419"/>
+      <point x="262" y="437"/>
+      <point x="262" y="442" type="curve"/>
+      <point x="262" y="442"/>
+      <point x="262" y="442"/>
+      <point x="262" y="442" type="curve"/>
+      <point x="262" y="443"/>
+      <point x="262" y="443"/>
+      <point x="-222" y="443" type="curve"/>
+      <point x="-222" y="443"/>
+      <point x="-222" y="443"/>
+      <point x="-241" y="443" type="curve"/>
+      <point x="-244" y="443"/>
+      <point x="-248" y="438"/>
+      <point x="-249" y="437" type="curve"/>
+      <point x="-251" y="435"/>
+      <point x="-263" y="417"/>
+      <point x="-263" y="412" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

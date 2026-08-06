@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE544" format="2">
+  <advance width="77"/>
+  <unicode hex="E544"/>
+  <note>dynamicHairpinBracketLeft</note>
+  <outline>
+    <contour>
+      <point x="75" y="-250" type="line"/>
+      <point x="76" y="-250"/>
+      <point x="77" y="-248"/>
+      <point x="77" y="-247" type="curve"/>
+      <point x="77" y="-232" type="line"/>
+      <point x="77" y="-230"/>
+      <point x="76" y="-229"/>
+      <point x="75" y="-229" type="curve"/>
+      <point x="32" y="-229" type="line"/>
+      <point x="32" y="228" type="line"/>
+      <point x="75" y="228" type="line"/>
+      <point x="76" y="228"/>
+      <point x="77" y="230"/>
+      <point x="77" y="231" type="curve"/>
+      <point x="77" y="247" type="line"/>
+      <point x="77" y="248"/>
+      <point x="76" y="250"/>
+      <point x="75" y="250" type="curve"/>
+      <point x="2" y="250" type="line"/>
+      <point x="1" y="250"/>
+      <point x="0" y="249"/>
+      <point x="0" y="248" type="curve"/>
+      <point x="0" y="-248" type="line"/>
+      <point x="0" y="-249"/>
+      <point x="1" y="-250"/>
+      <point x="2" y="-250" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

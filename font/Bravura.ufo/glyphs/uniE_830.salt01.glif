@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE830.salt01" format="2">
+  <advance width="784"/>
+  <unicode hex="F546"/>
+  <note>guitarVibratoBarScoopCurved</note>
+  <outline>
+    <contour>
+      <point x="-0.4227" y="6.06599" type="line"/>
+      <point x="95.2484" y="6.06599"/>
+      <point x="212.702" y="0.126637"/>
+      <point x="296.037" y="21.2039" type="curve" smooth="yes"/>
+      <point x="339.447" y="32.1833"/>
+      <point x="380.803" y="48.1852"/>
+      <point x="418.947" y="68.9224" type="curve" smooth="yes"/>
+      <point x="459.016" y="90.7057"/>
+      <point x="495.893" y="117.134"/>
+      <point x="529.258" y="148.801" type="curve" smooth="yes"/>
+      <point x="572.052" y="189.416"/>
+      <point x="607.793" y="237.372"/>
+      <point x="634.813" y="290.342" type="curve" smooth="yes"/>
+      <point x="655.507" y="330.91"/>
+      <point x="671.684" y="374.968"/>
+      <point x="679.934" y="420.023" type="curve"/>
+      <point x="785.35" y="420.806" type="line"/>
+      <point x="664.12" y="626.982" type="line"/>
+      <point x="546.244" y="419.978" type="line"/>
+      <point x="647.381" y="419.459" type="line"/>
+      <point x="638.59" y="380.784"/>
+      <point x="624.833" y="341.532"/>
+      <point x="605.494" y="305.255" type="curve"/>
+      <point x="581.545" y="254.952"/>
+      <point x="547.847" y="210.562"/>
+      <point x="507.229" y="172.011" type="curve" smooth="yes"/>
+      <point x="476.04" y="142.41"/>
+      <point x="442.134" y="117.124"/>
+      <point x="404.135" y="97.6032" type="curve"/>
+      <point x="368.237" y="77.3204"/>
+      <point x="329.086" y="61.4751"/>
+      <point x="289.055" y="51.8022" type="curve" smooth="yes"/>
+      <point x="210.201" y="32.748"/>
+      <point x="75.4704" y="37.9834"/>
+      <point x="0.458384" y="37.9834" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

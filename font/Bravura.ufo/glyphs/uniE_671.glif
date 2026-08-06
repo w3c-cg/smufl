@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE671" format="2">
+  <advance width="391"/>
+  <unicode hex="E671"/>
+  <note>keyboardPlayWithLHEnd</note>
+  <outline>
+    <component base="uniE670" xScale="-1" xOffset="391"/>
+  </outline>
+</glyph>

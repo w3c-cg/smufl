@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2B2" format="2">
+  <advance width="160"/>
+  <unicode hex="E2B2"/>
+  <note>accidentalJohnstonEl</note>
+  <outline>
+    <contour>
+      <point x="0" y="-175" type="line"/>
+      <point x="25" y="-185" type="line"/>
+      <point x="160" y="-145" type="line"/>
+      <point x="150" y="-75" type="line"/>
+      <point x="30" y="-110" type="line"/>
+      <point x="30" y="130" type="line"/>
+      <point x="0" y="125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

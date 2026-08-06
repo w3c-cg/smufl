@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA23" format="2">
+  <advance width="300"/>
+  <unicode hex="EA23"/>
+  <note>medRenPlicaCMN</note>
+  <outline>
+    <component base="uniE220"/>
+  </outline>
+</glyph>

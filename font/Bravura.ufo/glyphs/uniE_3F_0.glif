@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE3F0" format="2">
+  <advance width="31"/>
+  <unicode hex="E3F0"/>
+  <note>accSagittalShaftUp</note>
+  <outline>
+    <contour>
+      <point x="0" y="78" type="line"/>
+      <point x="0" y="-359" type="line"/>
+      <point x="31" y="-359" type="line"/>
+      <point x="31" y="78" type="line"/>
+      <point x="16" y="172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

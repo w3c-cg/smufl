@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE635" format="2">
+  <advance width="228"/>
+  <unicode hex="E635"/>
+  <note>arpeggiatoDown</note>
+  <outline>
+    <component base="uniE634" yScale="-1" yOffset="1507"/>
+  </outline>
+</glyph>

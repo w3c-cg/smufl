@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED50" format="2">
+  <advance width="100"/>
+  <unicode hex="ED50"/>
+  <note>accidentalRaisedStockhausen</note>
+  <outline>
+    <contour>
+      <point x="30" y="-125" type="line"/>
+      <point x="30" y="167" type="line"/>
+      <point x="100" y="126" type="line"/>
+      <point x="15" y="275" type="line"/>
+      <point x="-71" y="126" type="line"/>
+      <point x="0" y="167" type="line"/>
+      <point x="0" y="167"/>
+      <point x="0" y="28"/>
+      <point x="0" y="-125" type="curve"/>
+    </contour>
+    <contour>
+      <point x="30" y="-125" type="line"/>
+      <point x="30" y="167" type="line"/>
+      <point x="100" y="126" type="line"/>
+      <point x="15" y="275" type="line"/>
+      <point x="-71" y="126" type="line"/>
+      <point x="0" y="167" type="line"/>
+      <point x="0" y="167"/>
+      <point x="0" y="28"/>
+      <point x="0" y="-125" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

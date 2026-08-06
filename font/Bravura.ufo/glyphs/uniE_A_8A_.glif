@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA8A" format="2">
+  <advance width="465"/>
+  <unicode hex="EA8A"/>
+  <note>functionSLower</note>
+  <outline>
+    <contour>
+      <point x="445" y="147" type="curve" smooth="yes"/>
+      <point x="445" y="225"/>
+      <point x="401" y="264"/>
+      <point x="297" y="289" type="curve" smooth="yes"/>
+      <point x="217" y="308" type="line" smooth="yes"/>
+      <point x="149" y="324"/>
+      <point x="120" y="346"/>
+      <point x="120" y="383" type="curve" smooth="yes"/>
+      <point x="120" y="431"/>
+      <point x="163" y="462"/>
+      <point x="231" y="462" type="curve" smooth="yes"/>
+      <point x="298" y="462"/>
+      <point x="334" y="433"/>
+      <point x="336" y="378" type="curve" name="hr01"/>
+      <point x="424" y="378" type="line"/>
+      <point x="423" y="481"/>
+      <point x="355" y="539"/>
+      <point x="234" y="539" type="curve" smooth="yes"/>
+      <point x="112" y="539"/>
+      <point x="33" y="476"/>
+      <point x="33" y="379" type="curve" smooth="yes"/>
+      <point x="33" y="297"/>
+      <point x="75" y="258"/>
+      <point x="199" y="228" type="curve" smooth="yes"/>
+      <point x="277" y="209" type="line" smooth="yes"/>
+      <point x="335" y="195"/>
+      <point x="358" y="178"/>
+      <point x="358" y="140" type="curve" smooth="yes" name="hr02"/>
+      <point x="358" y="91"/>
+      <point x="309" y="62"/>
+      <point x="236" y="62" type="curve" smooth="yes"/>
+      <point x="161" y="62"/>
+      <point x="119" y="80"/>
+      <point x="108" y="160" type="curve" name="hr03"/>
+      <point x="20" y="160" type="line"/>
+      <point x="24" y="39"/>
+      <point x="92" y="-15"/>
+      <point x="229" y="-15" type="curve" smooth="yes"/>
+      <point x="361" y="-15"/>
+      <point x="445" y="46"/>
+    </contour>
+  </outline>
+</glyph>

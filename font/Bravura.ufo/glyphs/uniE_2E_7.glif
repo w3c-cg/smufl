@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2E7" format="2">
+  <advance width="199"/>
+  <unicode hex="E2E7"/>
+  <note>accidentalCombiningRaise17Schisma</note>
+  <outline>
+    <component base="uniE2E6" xScale="-1" xOffset="198"/>
+  </outline>
+</glyph>

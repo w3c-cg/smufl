@@ -8,6 +8,8 @@ This document describes the build process for the SMuFL specification.
 
 **BUILDING.md** is this document.
 
+**font** contains `Bravura.ufo`, the canonical UFO source for the Bravura reference font. `Bravura.otf` is built from it by `tools/generate_font.py` and is not committed — see [CONTRIBUTING.md](CONTRIBUTING.md#how-this-connects-to-bravura).
+
 **drafts** contains published drafts of the SMuFL specification. Each draft version should be contained in a subfolder named _version-date_, e.g. **1.4-2021-01-03**. The contents of each subfolder is a complete set of GitBook (for versions up to 1.4) or mdBook (for 1.5 or later) output.
 
 **gitbook** contains a single file **index.html**. Because of limitations in GitHub Pages, we use an old-fashioned HTML meta tag with http-equiv attribute to redirect visitors who land at https://w3c.github.io/smufl to the latest version of the specification, which is found at **/latest**.
@@ -81,6 +83,6 @@ Publishing is automated. Every push and pull request against **gh-pages** trigge
 1. Validates **glyphnames.json**, **classes.json** and **ranges.json** against their JSON Schemas, and runs the cross-file consistency checks.
 2. Builds the book with `mdbook build` to confirm the Markdown sources are well-formed.
 
-On a push to **gh-pages** (i.e. once a pull request is merged), a second job also runs, which builds the book again, assembles the site (the built book, plus **drafts**, **releases**, **gitbook**, **metadata**, **index.html** and **w3c.json**), and deploys it directly to GitHub Pages. There is no longer a manual "build, rename the folder, commit" step — merging is enough.
+On a push to **gh-pages** (i.e. once a pull request is merged), a second job also runs, which builds `Bravura.otf` from `font/Bravura.ufo`, copies it into the book's media folder, builds the book again, assembles the site (the built book, plus **drafts**, **releases**, **gitbook**, **metadata**, **index.html** and **w3c.json**), and deploys it directly to GitHub Pages. There is no longer a manual "build, rename the folder, commit" step — merging is enough.
 
 This requires the repository's Pages source (Settings → Pages) to be set to "GitHub Actions" rather than "Deploy from a branch".

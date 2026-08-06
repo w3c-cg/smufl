@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA99" format="2">
+  <advance width="521"/>
+  <unicode hex="EA99"/>
+  <note>functionFUpper</note>
+  <outline>
+    <contour>
+      <point x="506" y="647" type="line"/>
+      <point x="506" y="729" type="line"/>
+      <point x="17" y="729" type="line"/>
+      <point x="17" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="110" y="332" type="line"/>
+      <point x="458" y="332" type="line"/>
+      <point x="458" y="414" type="line"/>
+      <point x="110" y="414" type="line"/>
+      <point x="110" y="647" type="line"/>
+    </contour>
+  </outline>
+</glyph>

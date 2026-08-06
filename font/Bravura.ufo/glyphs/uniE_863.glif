@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE863" format="2">
+  <advance width="297"/>
+  <unicode hex="E863"/>
+  <note>analyticsEndStimme</note>
+  <outline>
+    <component base="uniE862" xScale="-1" xOffset="298"/>
+  </outline>
+</glyph>

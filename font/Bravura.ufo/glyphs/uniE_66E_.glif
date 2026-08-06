@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE66E" format="2">
+  <advance width="391"/>
+  <unicode hex="E66E"/>
+  <note>keyboardPlayWithRH</note>
+  <outline>
+    <contour>
+      <point x="32" y="1016" type="line"/>
+      <point x="0" y="1016" type="line"/>
+      <point x="0" y="16" type="line" smooth="yes"/>
+      <point x="0" y="7"/>
+      <point x="7" y="0"/>
+      <point x="16" y="0" type="curve" smooth="yes"/>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="32" type="line"/>
+      <point x="32" y="32" type="line"/>
+    </contour>
+  </outline>
+</glyph>

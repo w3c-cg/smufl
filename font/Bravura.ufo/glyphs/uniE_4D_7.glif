@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4D7" format="2">
+  <advance width="51"/>
+  <unicode hex="E4D7"/>
+  <note>caesuraSingleStroke</note>
+  <outline>
+    <contour>
+      <point x="51" y="16" type="curve"/>
+      <point x="51" y="517" type="line" smooth="yes"/>
+      <point x="51" y="526"/>
+      <point x="44" y="533"/>
+      <point x="35" y="533" type="curve" smooth="yes"/>
+      <point x="16" y="533" type="line" smooth="yes"/>
+      <point x="7" y="533"/>
+      <point x="0" y="526"/>
+      <point x="0" y="517" type="curve" smooth="yes"/>
+      <point x="0" y="16" type="line" smooth="yes"/>
+      <point x="0" y="7"/>
+      <point x="7" y="0"/>
+      <point x="16" y="0" type="curve" smooth="yes"/>
+      <point x="35" y="0" type="line" smooth="yes"/>
+      <point x="44" y="0"/>
+      <point x="51" y="7"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

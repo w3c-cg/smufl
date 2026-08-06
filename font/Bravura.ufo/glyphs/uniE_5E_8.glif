@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5E8" format="2">
+  <advance width="290"/>
+  <unicode hex="E5E8"/>
+  <note>brassHarmonMuteClosed</note>
+  <outline>
+    <contour>
+      <point x="367" y="157" type="line"/>
+      <point x="291" y="157" type="line"/>
+      <point x="285" y="226"/>
+      <point x="230" y="282"/>
+      <point x="161" y="290" type="curve"/>
+      <point x="161" y="352" type="line"/>
+      <point x="129" y="352" type="line"/>
+      <point x="129" y="290" type="line"/>
+      <point x="60" y="282"/>
+      <point x="6" y="226"/>
+      <point x="0" y="157" type="curve"/>
+      <point x="-74" y="157" type="line"/>
+      <point x="-74" y="125" type="line"/>
+      <point x="1" y="125" type="line"/>
+      <point x="10" y="59"/>
+      <point x="63" y="7"/>
+      <point x="129" y="0" type="curve"/>
+      <point x="129" y="-70" type="line"/>
+      <point x="161" y="-70" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="228" y="7"/>
+      <point x="281" y="59"/>
+      <point x="290" y="125" type="curve"/>
+      <point x="367" y="125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

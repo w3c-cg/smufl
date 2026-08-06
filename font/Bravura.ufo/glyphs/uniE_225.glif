@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE225" format="2">
+  <advance width="150"/>
+  <unicode hex="E225"/>
+  <note>tremoloFingered1</note>
+  <outline>
+    <component base="uniE220"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE223" format="2">
+  <advance width="149"/>
+  <unicode hex="E223"/>
+  <note>tremolo4</note>
+  <outline>
+    <component base="uniE222" yOffset="-90"/>
+    <component base="uniE220" yOffset="280"/>
+  </outline>
+</glyph>

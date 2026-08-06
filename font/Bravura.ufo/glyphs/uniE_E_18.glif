@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE18" format="2">
+  <unicode hex="EE18"/>
+  <note>organGermanOctaveUp</note>
+  <outline>
+    <contour>
+      <point x="-262" y="410" type="curve"/>
+      <point x="240" y="410" type="line"/>
+      <point x="243" y="410"/>
+      <point x="247" y="416"/>
+      <point x="248" y="417" type="curve"/>
+      <point x="250" y="419"/>
+      <point x="262" y="437"/>
+      <point x="262" y="442" type="curve"/>
+      <point x="262" y="443"/>
+      <point x="262" y="443"/>
+      <point x="-222" y="443" type="curve" smooth="yes"/>
+      <point x="-241" y="443"/>
+      <point x="-241" y="443"/>
+      <point x="-241" y="443" type="curve"/>
+      <point x="-244" y="443"/>
+      <point x="-248" y="438"/>
+      <point x="-249" y="437" type="curve"/>
+      <point x="-251" y="435"/>
+      <point x="-262" y="419"/>
+      <point x="-262" y="411" type="curve"/>
+      <point x="-262" y="411"/>
+      <point x="-262" y="410"/>
+    </contour>
+  </outline>
+</glyph>

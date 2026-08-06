@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE136" format="2">
+  <advance width="295"/>
+  <unicode hex="E136"/>
+  <note>noteheadClusterQuarterMiddle</note>
+  <outline>
+    <contour>
+      <point x="224" y="-100" type="line"/>
+      <point x="224" y="100" type="line"/>
+      <point x="70" y="100" type="line"/>
+      <point x="70" y="-100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

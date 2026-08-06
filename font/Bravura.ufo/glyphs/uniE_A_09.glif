@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA09" format="2">
+  <advance width="60"/>
+  <unicode hex="EA09"/>
+  <note>chantCustosStemDownPosHighest</note>
+  <outline>
+    <contour>
+      <point x="60" y="96" type="line"/>
+      <point x="60" y="98"/>
+      <point x="58" y="101"/>
+      <point x="55" y="101" type="curve" smooth="yes"/>
+      <point x="50" y="101" type="line"/>
+      <point x="25" y="99"/>
+      <point x="0" y="86"/>
+      <point x="0" y="59" type="curve" smooth="yes"/>
+      <point x="0" y="-91" type="line" smooth="yes"/>
+      <point x="0" y="-96"/>
+      <point x="0" y="-100"/>
+      <point x="2" y="-100" type="curve"/>
+      <point x="4" y="-100"/>
+      <point x="5" y="-99"/>
+      <point x="7" y="-96" type="curve"/>
+      <point x="13" y="-89"/>
+      <point x="29" y="-85"/>
+      <point x="46" y="-84" type="curve"/>
+      <point x="46" y="-559" type="line" smooth="yes"/>
+      <point x="46" y="-562"/>
+      <point x="48" y="-565"/>
+      <point x="55" y="-565" type="curve" smooth="yes"/>
+      <point x="58" y="-565"/>
+      <point x="60" y="-562"/>
+      <point x="60" y="-559" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

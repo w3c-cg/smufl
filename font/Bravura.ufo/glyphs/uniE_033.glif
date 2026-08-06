@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE033" format="2">
+  <advance width="228"/>
+  <unicode hex="E033"/>
+  <note>barlineReverseFinal</note>
+  <outline>
+    <contour>
+      <point x="192" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="228" y="1000" type="line"/>
+      <point x="192" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="1000" type="line"/>
+      <point x="0" y="1000" type="line"/>
+    </contour>
+  </outline>
+</glyph>

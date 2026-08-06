@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA77" format="2">
+  <advance width="514"/>
+  <unicode hex="EA77"/>
+  <note>functionSeven</note>
+  <outline>
+    <contour>
+      <point x="494" y="620" type="curve"/>
+      <point x="494" y="694" type="line"/>
+      <point x="20" y="694" type="line"/>
+      <point x="20" y="607" type="line"/>
+      <point x="403" y="607" type="line"/>
+      <point x="262" y="429"/>
+      <point x="162" y="222"/>
+      <point x="112" y="0" type="curve"/>
+      <point x="206" y="0" type="line"/>
+      <point x="245" y="229"/>
+      <point x="345" y="443"/>
+    </contour>
+  </outline>
+</glyph>

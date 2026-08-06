@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE648" format="2">
+  <advance width="680"/>
+  <unicode hex="E648"/>
+  <note>vocalTongueClickStockhausen</note>
+  <outline>
+    <contour>
+      <point x="426" y="500" type="line"/>
+      <point x="358" y="500" type="line"/>
+      <point x="358" y="292" type="line"/>
+      <point x="128" y="500" type="line"/>
+      <point x="48" y="500" type="line"/>
+      <point x="268" y="298" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="320" y="254" type="line"/>
+      <point x="358" y="218" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="680" y="46" type="line"/>
+      <point x="426" y="46" type="line"/>
+    </contour>
+  </outline>
+</glyph>

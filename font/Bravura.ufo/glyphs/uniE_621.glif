@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE621" format="2">
+  <advance width="713"/>
+  <unicode hex="E621"/>
+  <note>stringsJeteBelow</note>
+  <outline>
+    <component base="uniE620" yScale="-1" yOffset="239"/>
+  </outline>
+</glyph>

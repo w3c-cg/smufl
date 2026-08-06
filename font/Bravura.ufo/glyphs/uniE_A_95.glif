@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA95" format="2">
+  <advance width="466"/>
+  <unicode hex="EA95"/>
+  <note>functionRepetition1</note>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="136" y="116" type="line"/>
+      <point x="20" y="116" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="0" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="116" type="line"/>
+      <point x="330" y="116" type="line"/>
+    </contour>
+  </outline>
+</glyph>

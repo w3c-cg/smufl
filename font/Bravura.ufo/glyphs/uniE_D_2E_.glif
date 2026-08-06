@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED2E" format="2">
+  <advance width="164"/>
+  <unicode hex="ED2E"/>
+  <note>fingeringSeparatorSlash</note>
+  <outline>
+    <contour>
+      <point x="0" y="-66" type="line"/>
+      <point x="32" y="-66" type="line"/>
+      <point x="162" y="306" type="line"/>
+      <point x="130" y="306" type="line"/>
+    </contour>
+  </outline>
+</glyph>

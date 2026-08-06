@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5EE" format="2">
+  <advance width="1370"/>
+  <unicode hex="E5EE"/>
+  <note>brassLiftSmoothLong</note>
+  <outline>
+    <component base="uniE5DC" xScale="-1" xOffset="1365"/>
+  </outline>
+</glyph>

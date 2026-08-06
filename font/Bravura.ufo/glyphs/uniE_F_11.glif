@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF11" format="2">
+  <advance width="167"/>
+  <unicode hex="EF11"/>
+  <note>tupletParenthesisRightItalic</note>
+  <outline>
+    <contour>
+      <point x="126" y="249" type="curve" smooth="yes"/>
+      <point x="126" y="101.5"/>
+      <point x="67.5" y="-10"/>
+      <point x="-6" y="-64.5" type="curve"/>
+      <point x="-6" y="-85" type="line"/>
+      <point x="97" y="-29"/>
+      <point x="171.5" y="72.5"/>
+      <point x="171.5" y="212" type="curve" smooth="yes"/>
+      <point x="171.5" y="282"/>
+      <point x="148" y="346.5"/>
+      <point x="118" y="400" type="curve"/>
+      <point x="94" y="400" type="line"/>
+      <point x="112" y="357.5"/>
+      <point x="126" y="307"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

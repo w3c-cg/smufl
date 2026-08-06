@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF17.ss06" format="2">
+  <advance width="150"/>
+  <unicode hex="F545"/>
+  <note>tupletBracketRightRomanLight</note>
+  <outline>
+    <contour>
+      <point x="18" y="-25.55" type="line"/>
+      <point x="113.85" y="-25.55" type="line"/>
+      <point x="113.85" y="397" type="line"/>
+      <point x="18" y="397" type="line"/>
+      <point x="18" y="381.25" type="line"/>
+      <point x="59.85" y="381.25" type="line" smooth="yes"/>
+      <point x="75.6" y="381.25"/>
+      <point x="82.35" y="374.95"/>
+      <point x="82.35" y="359.2" type="curve" smooth="yes"/>
+      <point x="82.35" y="12.25" type="line" smooth="yes"/>
+      <point x="82.35" y="-3.50001"/>
+      <point x="75.6" y="-9.80001"/>
+      <point x="59.85" y="-9.80001" type="curve" smooth="yes"/>
+      <point x="18" y="-9.80001" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

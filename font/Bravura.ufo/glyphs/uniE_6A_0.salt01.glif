@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE6A0.salt01" format="2">
+  <advance width="1196"/>
+  <unicode hex="F4AA"/>
+  <note>pictGlspPeinkofer</note>
+  <outline>
+    <contour>
+      <point x="1183" y="613" type="curve"/>
+      <point x="17" y="780" type="line"/>
+      <point x="12" y="780"/>
+      <point x="8" y="779"/>
+      <point x="5" y="776" type="curve"/>
+      <point x="1" y="773"/>
+      <point x="0" y="769"/>
+      <point x="0" y="765" type="curve" smooth="yes"/>
+      <point x="0" y="15" type="line" smooth="yes"/>
+      <point x="0" y="11"/>
+      <point x="1" y="6"/>
+      <point x="5" y="4" type="curve"/>
+      <point x="7" y="1"/>
+      <point x="11" y="0"/>
+      <point x="15" y="0" type="curve"/>
+      <point x="15" y="0"/>
+      <point x="16" y="0"/>
+      <point x="1183" y="163" type="curve" smooth="yes"/>
+      <point x="1190" y="164"/>
+      <point x="1196" y="170"/>
+      <point x="1196" y="178" type="curve" smooth="yes"/>
+      <point x="1196" y="598" type="line" smooth="yes"/>
+      <point x="1196" y="605"/>
+      <point x="1190" y="612"/>
+    </contour>
+    <contour>
+      <point x="1166" y="585" type="line"/>
+      <point x="1166" y="405" type="line"/>
+      <point x="30" y="405" type="line"/>
+      <point x="30" y="748" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="32" type="line"/>
+      <point x="30" y="375" type="line"/>
+      <point x="1166" y="375" type="line"/>
+      <point x="1166" y="191" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4B4.ss01" format="2">
+  <advance width="339"/>
+  <unicode hex="F489"/>
+  <note>articTenutoAccentAboveSmall</note>
+  <outline>
+    <component base="uniE4A4.ss01"/>
+    <component base="uniE4A0.ss01" yOffset="140"/>
+  </outline>
+</glyph>

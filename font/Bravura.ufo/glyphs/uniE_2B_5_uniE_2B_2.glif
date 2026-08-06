@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2B5_uniE2B2" format="2">
+  <advance width="235"/>
+  <unicode hex="F5FA"/>
+  <note>accidentalJohnstonDownEl</note>
+  <outline>
+    <contour>
+      <point x="20" y="-70" type="line"/>
+      <point x="0" y="-90" type="line"/>
+      <point x="90" y="-180" type="line"/>
+      <point x="180" y="-90" type="line"/>
+      <point x="160" y="-70" type="line"/>
+      <point x="105" y="-125" type="line"/>
+      <point x="105" y="-59" type="line"/>
+      <point x="235" y="-20" type="line"/>
+      <point x="225" y="50" type="line"/>
+      <point x="105" y="15" type="line"/>
+      <point x="105" y="255" type="line"/>
+      <point x="75" y="250" type="line"/>
+      <point x="75" y="-125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

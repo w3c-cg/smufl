@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9D2" format="2">
+  <advance width="94"/>
+  <unicode hex="E9D2"/>
+  <note>chantCirculusAbove</note>
+  <outline>
+    <contour>
+      <point x="47" y="96" type="curve" smooth="yes"/>
+      <point x="31" y="96"/>
+      <point x="18" y="109"/>
+      <point x="18" y="125" type="curve" smooth="yes"/>
+      <point x="18" y="141"/>
+      <point x="31" y="154"/>
+      <point x="47" y="154" type="curve" smooth="yes"/>
+      <point x="63" y="154"/>
+      <point x="76" y="141"/>
+      <point x="76" y="125" type="curve" smooth="yes"/>
+      <point x="76" y="109"/>
+      <point x="63" y="96"/>
+    </contour>
+    <contour>
+      <point x="47" y="172" type="curve" smooth="yes"/>
+      <point x="22" y="172"/>
+      <point x="0" y="150"/>
+      <point x="0" y="125" type="curve" smooth="yes"/>
+      <point x="0" y="100"/>
+      <point x="22" y="78"/>
+      <point x="47" y="78" type="curve" smooth="yes"/>
+      <point x="72" y="78"/>
+      <point x="94" y="100"/>
+      <point x="94" y="125" type="curve" smooth="yes"/>
+      <point x="94" y="150"/>
+      <point x="72" y="172"/>
+    </contour>
+  </outline>
+</glyph>

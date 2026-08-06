@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE8CE" format="2">
+  <advance width="458"/>
+  <unicode hex="E8CE"/>
+  <note>accdnRicochet3</note>
+  <outline>
+    <component base="uniE883" xOffset="70" yOffset="180"/>
+    <component base="uniE22F" xOffset="31"/>
+    <contour>
+      <point x="20" y="735" type="line" smooth="yes"/>
+      <point x="9" y="735"/>
+      <point x="0" y="726"/>
+      <point x="0" y="715" type="curve" smooth="yes"/>
+      <point x="0" y="590" type="line"/>
+      <point x="40" y="590" type="line"/>
+      <point x="40" y="695" type="line"/>
+      <point x="418" y="695" type="line"/>
+      <point x="418" y="590" type="line"/>
+      <point x="458" y="590" type="line"/>
+      <point x="458" y="715" type="line" smooth="yes"/>
+      <point x="458" y="726"/>
+      <point x="449" y="735"/>
+      <point x="438" y="735" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

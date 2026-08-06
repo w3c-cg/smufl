@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2B3_uniE2B4" format="2">
+  <advance width="235"/>
+  <unicode hex="F5F7"/>
+  <note>accidentalJohnstonSevenUp</note>
+  <outline>
+    <contour>
+      <point x="215" y="70" type="line"/>
+      <point x="235" y="90" type="line"/>
+      <point x="145" y="180" type="line"/>
+      <point x="55" y="90" type="line"/>
+      <point x="75" y="70" type="line"/>
+      <point x="130" y="125" type="line"/>
+      <point x="130" y="59" type="line"/>
+      <point x="0" y="20" type="line"/>
+      <point x="10" y="-50" type="line"/>
+      <point x="130" y="-15" type="line"/>
+      <point x="130" y="-255" type="line"/>
+      <point x="160" y="-250" type="line"/>
+      <point x="160" y="125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

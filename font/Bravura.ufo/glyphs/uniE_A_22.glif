@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA22" format="2">
+  <advance width="330"/>
+  <unicode hex="EA22"/>
+  <note>medRenLiquescenceCMN</note>
+  <outline>
+    <component base="uniE0A9"/>
+  </outline>
+</glyph>

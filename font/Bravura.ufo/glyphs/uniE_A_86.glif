@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA86" format="2">
+  <advance width="457"/>
+  <unicode hex="EA86"/>
+  <note>functionNLower</note>
+  <outline>
+    <contour>
+      <point x="437" y="0" type="line"/>
+      <point x="437" y="396" type="line" smooth="yes"/>
+      <point x="437" y="483"/>
+      <point x="372" y="539"/>
+      <point x="271" y="539" type="curve" smooth="yes"/>
+      <point x="193" y="539"/>
+      <point x="143" y="509"/>
+      <point x="97" y="436" type="curve"/>
+      <point x="97" y="524" type="line" name="hr01"/>
+      <point x="20" y="524" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="103" y="289" type="line" smooth="yes"/>
+      <point x="103" y="396"/>
+      <point x="161" y="466"/>
+      <point x="246" y="466" type="curve" smooth="yes"/>
+      <point x="312" y="466"/>
+      <point x="354" y="426"/>
+      <point x="354" y="363" type="curve" smooth="yes"/>
+      <point x="354" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

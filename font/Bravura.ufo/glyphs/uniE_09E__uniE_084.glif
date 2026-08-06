@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE09E_uniE084" format="2">
+  <advance width="432"/>
+  <unicode hex="F5DB"/>
+  <note>timeSig4Numerator</note>
+  <outline>
+    <component base="uniE084" xOffset="-20" yOffset="750"/>
+  </outline>
+</glyph>

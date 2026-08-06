@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE370" format="2">
+  <advance width="187"/>
+  <unicode hex="E370"/>
+  <note>accSagittal23CommaUp</note>
+  <outline>
+    <contour>
+      <point x="0" y="-359" type="line"/>
+      <point x="31" y="-359" type="line"/>
+      <point x="31" y="-3" type="line"/>
+      <point x="37" y="-12"/>
+      <point x="42" y="-16"/>
+      <point x="47" y="-16" type="curve" smooth="yes"/>
+      <point x="125" y="-16" type="line" smooth="yes"/>
+      <point x="146" y="-16"/>
+      <point x="156" y="-57"/>
+      <point x="156" y="-141" type="curve"/>
+      <point x="188" y="-141" type="line"/>
+      <point x="188" y="-16"/>
+      <point x="172" y="47"/>
+      <point x="143" y="47" type="curve" smooth="yes"/>
+      <point x="62" y="47" type="line" smooth="yes"/>
+      <point x="49" y="47"/>
+      <point x="33" y="88"/>
+      <point x="16" y="172" type="curve"/>
+      <point x="0" y="172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

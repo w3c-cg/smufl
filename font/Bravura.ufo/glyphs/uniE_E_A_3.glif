@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEEA3" format="2">
+  <advance width="293"/>
+  <unicode hex="EEA3"/>
+  <anchor x="293" y="-125" name="stemUpSE"/>
+  <anchor x="0" y="-125" name="stemDownNW"/>
+  <note>noteheadCowellThirdNoteSeriesBlack</note>
+  <outline>
+    <component base="uniE0BE"/>
+  </outline>
+</glyph>

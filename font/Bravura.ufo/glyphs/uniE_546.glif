@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE546" format="2">
+  <advance width="171"/>
+  <unicode hex="E546"/>
+  <note>dynamicCombinedSeparatorColon</note>
+  <outline>
+    <contour>
+      <point x="67" y="19" type="curve" smooth="yes"/>
+      <point x="89" y="19"/>
+      <point x="108" y="37"/>
+      <point x="108" y="63" type="curve" smooth="yes"/>
+      <point x="108" y="83"/>
+      <point x="93" y="101"/>
+      <point x="71" y="101" type="curve" smooth="yes"/>
+      <point x="48" y="101"/>
+      <point x="30" y="83"/>
+      <point x="30" y="58" type="curve" smooth="yes"/>
+      <point x="30" y="37"/>
+      <point x="44" y="19"/>
+    </contour>
+    <contour>
+      <point x="100" y="147" type="curve" smooth="yes"/>
+      <point x="122" y="147"/>
+      <point x="141" y="165"/>
+      <point x="141" y="191" type="curve" smooth="yes"/>
+      <point x="141" y="211"/>
+      <point x="126" y="229"/>
+      <point x="104" y="229" type="curve" smooth="yes"/>
+      <point x="81" y="229"/>
+      <point x="63" y="211"/>
+      <point x="63" y="186" type="curve" smooth="yes"/>
+      <point x="63" y="165"/>
+      <point x="77" y="147"/>
+    </contour>
+  </outline>
+</glyph>

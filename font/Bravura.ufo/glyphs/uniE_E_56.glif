@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE56" format="2">
+  <advance width="354"/>
+  <unicode hex="EE56"/>
+  <anchor x="268" y="114" name="cutOutSE"/>
+  <anchor x="82" y="114" name="cutOutSW"/>
+  <note>accidentalCombiningLower43Comma</note>
+  <outline>
+    <contour>
+      <point x="203.825" y="242.438" type="curve" smooth="yes"/>
+      <point x="264.668" y="261.931"/>
+      <point x="353.342" y="297.765"/>
+      <point x="353.342" y="297.765" type="curve"/>
+      <point x="176.058" y="-5.47951" type="line"/>
+      <point x="0.910713" y="297.765" type="line"/>
+      <point x="0.910713" y="297.765"/>
+      <point x="89.5853" y="261.93"/>
+      <point x="150.428" y="242.438" type="curve" smooth="yes"/>
+      <point x="160.155" y="239.322"/>
+      <point x="168.641" y="237.764"/>
+      <point x="177.126" y="237.764" type="curve" smooth="yes"/>
+      <point x="185.612" y="237.764"/>
+      <point x="194.097" y="239.322"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE12D" format="2">
+  <advance width="598"/>
+  <unicode hex="E12D"/>
+  <note>noteheadClusterDoubleWholeMiddle</note>
+  <outline>
+    <contour>
+      <point x="597" y="-99" type="line" name="hr01"/>
+      <point x="597" y="100" type="line"/>
+      <point x="565" y="100" type="line"/>
+      <point x="565" y="-99" type="line"/>
+    </contour>
+    <contour>
+      <point x="540" y="-99" type="line" name="hr03"/>
+      <point x="540" y="100" type="line"/>
+      <point x="509" y="100" type="line"/>
+      <point x="509" y="-99" type="line"/>
+    </contour>
+    <contour>
+      <point x="89" y="-99" type="line"/>
+      <point x="89" y="100" type="line"/>
+      <point x="58" y="100" type="line"/>
+      <point x="58" y="-99" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="-99" type="line" name="hr04"/>
+      <point x="32" y="100" type="line"/>
+      <point x="0" y="100" type="line"/>
+      <point x="0" y="-99" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="-83" type="line" name="hr05"/>
+      <point x="414" y="81" type="line"/>
+      <point x="345" y="81" type="line"/>
+      <point x="345" y="-83" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="-83" type="line"/>
+      <point x="271" y="81" type="line"/>
+      <point x="202" y="81" type="line"/>
+      <point x="202" y="-83" type="line"/>
+    </contour>
+  </outline>
+</glyph>

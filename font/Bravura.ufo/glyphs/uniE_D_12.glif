@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED12" format="2">
+  <advance width="242"/>
+  <unicode hex="ED12"/>
+  <note>fingering2</note>
+  <outline>
+    <component base="uniEA52"/>
+  </outline>
+</glyph>

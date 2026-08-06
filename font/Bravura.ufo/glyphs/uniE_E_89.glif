@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE89" format="2">
+  <advance width="320"/>
+  <unicode hex="EE89"/>
+  <note>stringsScrapeCircularCounterclockwise</note>
+  <outline>
+    <component base="uniEE88" xScale="-1" xOffset="319.797"/>
+  </outline>
+</glyph>

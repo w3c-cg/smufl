@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE457" format="2">
+  <advance width="321"/>
+  <unicode hex="E457"/>
+  <anchor x="252" y="200" name="cutOutSE"/>
+  <note>accidental4CommaFlat</note>
+  <outline>
+    <component base="uniE260"/>
+    <component base="uniEA55" xOffset="126" yOffset="239"/>
+  </outline>
+</glyph>

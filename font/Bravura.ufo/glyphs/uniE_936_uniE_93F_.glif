@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE936_uniE93F" format="2">
+  <advance width="333"/>
+  <unicode hex="F590"/>
+  <note>mensuralLongaBlackVoidStemDownRight</note>
+  <outline>
+    <contour>
+      <point x="16" y="141" type="line" smooth="yes"/>
+      <point x="8" y="141"/>
+      <point x="0" y="134"/>
+      <point x="0" y="125" type="curve" smooth="yes"/>
+      <point x="0" y="-125" type="line" smooth="yes"/>
+      <point x="0" y="-134"/>
+      <point x="8" y="-141"/>
+      <point x="16" y="-141" type="curve" smooth="yes"/>
+      <point x="301" y="-141" type="line"/>
+      <point x="301" y="-625" type="line" smooth="yes"/>
+      <point x="301" y="-634"/>
+      <point x="308" y="-641"/>
+      <point x="317" y="-641" type="curve" smooth="yes"/>
+      <point x="326" y="-641"/>
+      <point x="333" y="-634"/>
+      <point x="333" y="-625" type="curve" smooth="yes"/>
+      <point x="333" y="125" type="line" smooth="yes"/>
+      <point x="333" y="134"/>
+      <point x="326" y="141"/>
+      <point x="317" y="141" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="171" y="-109" type="line"/>
+      <point x="32" y="-109" type="line"/>
+      <point x="32" y="109" type="line"/>
+      <point x="171" y="109" type="line"/>
+    </contour>
+  </outline>
+</glyph>

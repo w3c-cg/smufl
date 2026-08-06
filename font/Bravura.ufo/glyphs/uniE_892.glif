@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE892" format="2">
+  <advance width="199"/>
+  <unicode hex="E892"/>
+  <note>conductorRightBeat</note>
+  <outline>
+    <component base="uniE891" xScale="-1" xOffset="199"/>
+  </outline>
+</glyph>

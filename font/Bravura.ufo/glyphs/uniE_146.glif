@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE146" format="2">
+  <advance width="344"/>
+  <unicode hex="E146"/>
+  <note>noteheadRectangularClusterWhiteMiddle</note>
+  <outline>
+    <contour>
+      <point x="344" y="130" type="line"/>
+      <point x="292" y="130" type="line"/>
+      <point x="292" y="-130" type="line"/>
+      <point x="344" y="-130" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="130" type="line"/>
+      <point x="0" y="130" type="line"/>
+      <point x="0" y="-130" type="line"/>
+      <point x="52" y="-130" type="line"/>
+    </contour>
+  </outline>
+</glyph>

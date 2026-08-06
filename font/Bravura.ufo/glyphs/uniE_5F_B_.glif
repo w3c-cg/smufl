@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5FB" format="2">
+  <advance width="375"/>
+  <unicode hex="E5FB"/>
+  <note>windFlatEmbouchure</note>
+  <outline>
+    <contour>
+      <point x="186" y="336" type="line"/>
+      <point x="328" y="34" type="line"/>
+      <point x="44" y="34" type="line"/>
+    </contour>
+    <contour>
+      <point x="2" y="25" type="line" smooth="yes"/>
+      <point x="1" y="23"/>
+      <point x="0" y="20"/>
+      <point x="0" y="17" type="curve" smooth="yes"/>
+      <point x="0" y="8"/>
+      <point x="7" y="0"/>
+      <point x="17" y="0" type="curve" smooth="yes"/>
+      <point x="355" y="0" type="line" smooth="yes"/>
+      <point x="365" y="0"/>
+      <point x="372" y="8"/>
+      <point x="372" y="17" type="curve" smooth="yes"/>
+      <point x="372" y="20"/>
+      <point x="372" y="23"/>
+      <point x="371" y="25" type="curve" smooth="yes"/>
+      <point x="201" y="384" type="line" smooth="yes"/>
+      <point x="198" y="390"/>
+      <point x="192" y="393"/>
+      <point x="186" y="393" type="curve" smooth="yes"/>
+      <point x="180" y="393"/>
+      <point x="174" y="390"/>
+      <point x="171" y="384" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

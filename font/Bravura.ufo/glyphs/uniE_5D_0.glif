@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5D0" format="2">
+  <advance width="318"/>
+  <unicode hex="E5D0"/>
+  <note>brassScoop</note>
+  <outline>
+    <contour>
+      <point x="24" y="-373" type="line"/>
+      <point x="135" y="-360"/>
+      <point x="320" y="-201"/>
+      <point x="320" y="-8" type="curve" smooth="yes"/>
+      <point x="320" y="9"/>
+      <point x="313" y="13"/>
+      <point x="304" y="13" type="curve" smooth="yes"/>
+      <point x="295" y="13"/>
+      <point x="287" y="6"/>
+      <point x="285" y="-6" type="curve" smooth="yes"/>
+      <point x="248" y="-254"/>
+      <point x="64" y="-280"/>
+      <point x="24" y="-295" type="curve" smooth="yes"/>
+      <point x="9" y="-301"/>
+      <point x="1" y="-304"/>
+      <point x="1" y="-335" type="curve" smooth="yes"/>
+      <point x="1" y="-351" type="line" smooth="yes"/>
+      <point x="1" y="-365"/>
+      <point x="2" y="-373"/>
+      <point x="18" y="-373" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

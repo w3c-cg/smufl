@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE62" format="2">
+  <advance width="205"/>
+  <unicode hex="EE62"/>
+  <anchor x="134" y="-70" name="cutOutSE"/>
+  <anchor x="134" y="74" name="cutOutNE"/>
+  <note>accidentalUpsAndDownsMore</note>
+  <outline>
+    <component base="uniEE60" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="101.958" yOffset="122.112"/>
+  </outline>
+</glyph>

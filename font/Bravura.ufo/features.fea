@@ -1,0 +1,806 @@
+#> classes
+#/> otclasses
+@salt1 = [uniE000 uniE042 uniE047 uniE048 uniE05C uniE062 uniE069 uniE06D uniE06E uniE0A0 uniE1D0 uniE240 uniE241 uniE242 uniE243 uniE244 uniE245 uniE246 uniE247 uniE248 uniE249 uniE24A uniE24B uniE24C uniE24D uniE24E uniE24F uniE264 uniE266 uniE4A0 uniE4A1 uniE4D1 uniE5F0 uniE5F1 uniE5F2 uniE5F3 uniE626 uniE630 uniE631 uniE650 uniE659 uniE68F uniE690 uniE6A0 uniE6A1 uniE6A2 uniE6A3 uniE6A6 uniE6A7 uniE6A8 uniE6B1 uniE6B2 uniE6D0 uniE6D4 uniE6D7 uniE6D8 uniE6DB uniE6DC uniE6DD uniE6DE uniE6F3 uniE6F8 uniE710 uniE711 uniE740 uniE741 uniE75A uniE766 uniE842 uniE86B uniE8CB uniE902 uniE905 uniE906 uniE929 uniE9E0 uniEBB0 uniEBC2 uniEBCD uniEBCE uniEBCF uniEBD0];
+@ss011 = [uniE050 uniE05C uniE062 uniE080 uniE081 uniE082 uniE083 uniE084 uniE085 uniE086 uniE087 uniE088 uniE089 uniE0A0 uniE0A2 uniE0A3 uniE0A4 uniE260 uniE261 uniE262 uniE4A0 uniE4A1 uniE4A2 uniE4A3 uniE4A4 uniE4A5 uniE4A6 uniE4A7 uniE4A8 uniE4A9 uniE4AA uniE4AB uniE4AC uniE4AD uniE4AE uniE4AF uniE4B0 uniE4B1 uniE4B2 uniE4B3 uniE4B4 uniE4B5 uniE520 uniE521 uniE522 uniE523 uniE524 uniE525 uniE526];
+@ss031 = [uniE240 uniE241 uniE242 uniE243 uniE244 uniE245 uniE246 uniE247 uniE248 uniE249 uniE24A uniE24B uniE24C uniE24D uniE24E uniE24F];
+@ss041 = [uniE080 uniE081 uniE082 uniE083 uniE084 uniE085 uniE086 uniE087 uniE088 uniE089 uniE08A uniE08B uniE08C];
+#/< otclasses
+#< classes
+
+
+
+languagesystem DFLT dflt;
+feature ss01 {
+# Stylistic set 01: Smaller optical size for small staves
+   sub uniE080 from [uniE080.ss01]; # Alternates for timeSig0: timeSig0Small
+   sub uniE081 from [uniE081.ss01]; # Alternates for timeSig1: timeSig1Small
+   sub uniE082 from [uniE082.ss01]; # Alternates for timeSig2: timeSig2Small
+   sub uniE083 from [uniE083.ss01]; # Alternates for timeSig3: timeSig3Small
+   sub uniE084 from [uniE084.ss01]; # Alternates for timeSig4: timeSig4Small
+   sub uniE085 from [uniE085.ss01]; # Alternates for timeSig5: timeSig5Small
+   sub uniE086 from [uniE086.ss01]; # Alternates for timeSig6: timeSig6Small
+   sub uniE087 from [uniE087.ss01]; # Alternates for timeSig7: timeSig7Small
+   sub uniE088 from [uniE088.ss01]; # Alternates for timeSig8: timeSig8Small
+   sub uniE089 from [uniE089.ss01]; # Alternates for timeSig9: timeSig9Small
+   sub uniE520 from [uniE520.ss01]; # Alternates for dynamicPiano: dynamicPianoSmall
+   sub uniE521 from [uniE521.ss01]; # Alternates for dynamicMezzo: dynamicMezzoSmall
+   sub uniE522 from [uniE522.ss01]; # Alternates for dynamicForte: dynamicForteSmall
+   sub uniE523 from [uniE523.ss01]; # Alternates for dynamicRinforzando: dynamicRinforzandoSmall
+   sub uniE524 from [uniE524.ss01]; # Alternates for dynamicSforzando: dynamicSforzandoSmall
+   sub uniE525 from [uniE525.ss01]; # Alternates for dynamicZ: dynamicZSmall
+   sub uniE526 from [uniE526.ss01]; # Alternates for dynamicNiente: dynamicNienteSmall
+   sub uniE260 from [uniE260.ss01]; # Alternates for accidentalFlat: accidentalFlatSmall
+   sub uniE261 from [uniE261.ss01]; # Alternates for accidentalNatural: accidentalNaturalSmall
+   sub uniE262 from [uniE262.ss01]; # Alternates for accidentalSharp: accidentalSharpSmall
+   sub uniE0A0 from [uniE0A0.ss01]; # Alternates for noteheadDoubleWhole: noteheadDoubleWholeSmall
+   sub uniE0A2 from [uniE0A2.ss01]; # Alternates for noteheadWhole: noteheadWholeSmall
+   sub uniE0A3 from [uniE0A3.ss01]; # Alternates for noteheadHalf: noteheadHalfSmall
+   sub uniE0A4 from [uniE0A4.ss01]; # Alternates for noteheadBlack: noteheadBlackSmall
+   sub uniE4A0 from [uniE4A0.ss01]; # Alternates for articAccentAbove: articAccentAboveSmall
+   sub uniE4A1 from [uniE4A1.ss01]; # Alternates for articAccentBelow: articAccentBelowSmall
+   sub uniE4A2 from [uniE4A2.ss01]; # Alternates for articStaccatoAbove: articStaccatoAboveSmall
+   sub uniE4A3 from [uniE4A3.ss01]; # Alternates for articStaccatoBelow: articStaccatoBelowSmall
+   sub uniE4A4 from [uniE4A4.ss01]; # Alternates for articTenutoAbove: articTenutoAboveSmall
+   sub uniE4A5 from [uniE4A5.ss01]; # Alternates for articTenutoBelow: articTenutoBelowSmall
+   sub uniE4A6 from [uniE4A6.ss01]; # Alternates for articStaccatissimoAbove: articStaccatissimoAboveSmall
+   sub uniE4A7 from [uniE4A7.ss01]; # Alternates for articStaccatissimoBelow: articStaccatissimoBelowSmall
+   sub uniE4A8 from [uniE4A8.ss01]; # Alternates for articStaccatissimoWedgeAbove: articStaccatissimoWedgeAboveSmall
+   sub uniE4A9 from [uniE4A9.ss01]; # Alternates for articStaccatissimoWedgeBelow: articStaccatissimoWedgeBelowSmall
+   sub uniE4AA from [uniE4AA.ss01]; # Alternates for articStaccatissimoStrokeAbove: articStaccatissimoStrokeAboveSmall
+   sub uniE4AB from [uniE4AB.ss01]; # Alternates for articStaccatissimoStrokeBelow: articStaccatissimoStrokeBelowSmall
+   sub uniE4AC from [uniE4AC.ss01]; # Alternates for articMarcatoAbove: articMarcatoAboveSmall
+   sub uniE4AD from [uniE4AD.ss01]; # Alternates for articMarcatoBelow: articMarcatoBelowSmall
+   sub uniE4AE from [uniE4AE.ss01]; # Alternates for articMarcatoStaccatoAbove: articMarcatoStaccatoAboveSmall
+   sub uniE4AF from [uniE4AF.ss01]; # Alternates for articMarcatoStaccatoBelow: articMarcatoStaccatoBelowSmall
+   sub uniE4B0 from [uniE4B0.ss01]; # Alternates for articAccentStaccatoAbove: articAccentStaccatoAboveSmall
+   sub uniE4B1 from [uniE4B1.ss01]; # Alternates for articAccentStaccatoBelow: articAccentStaccatoBelowSmall
+   sub uniE4B2 from [uniE4B2.ss01]; # Alternates for articTenutoStaccatoAbove: articTenutoStaccatoAboveSmall
+   sub uniE4B3 from [uniE4B3.ss01]; # Alternates for articTenutoStaccatoBelow: articTenutoStaccatoBelowSmall
+   sub uniE4B4 from [uniE4B4.ss01]; # Alternates for articTenutoAccentAbove: articTenutoAccentAboveSmall
+   sub uniE4B5 from [uniE4B5.ss01]; # Alternates for articTenutoAccentBelow: articTenutoAccentBelowSmall
+   sub uniE050 from [uniE050.ss01]; # Alternates for gClef: gClefSmall
+   sub uniE05C from [uniE05C.ss01]; # Alternates for cClef: cClefSmall
+   sub uniE062 from [uniE062.ss01]; # Alternates for fClef: fClefSmall
+} ss01;
+feature ss02 {
+   # Stylistic set 02: Short flags (to avoid augmentation dots)
+   sub uniE242 from [uniE242.ss02]; # Alternates for flag16thUp: flag16thUpShort
+   sub uniE244 from [uniE244.ss02]; # Alternates for flag32ndUp: flag32ndUpShort
+   sub uniE246 from [uniE246.ss02]; # Alternates for flag64thUp: flag64thUpShort
+   sub uniE248 from [uniE248.ss02]; # Alternates for flag128thUp: flag128thUpShort
+   sub uniE24A from [uniE24A.ss02]; # Alternates for flag256thUp: flag256thUpShort
+   sub uniE24C from [uniE24C.ss02]; # Alternates for flag512thUp: flag512thUpShort
+   sub uniE24E from [uniE24E.ss02]; # Alternates for flag1024thUp: flag1024thUpShort
+   sub uniE240 from [uniE240.ss02]; # Alternates for flag8thUp: flag8thUpShort
+} ss02;
+feature ss03 {
+   # Stylistic set 03: Straight flags
+   sub uniE242 from [uniE242.ss03]; # Alternates for flag16thUp: flag16thUpStraight
+   sub uniE243 from [uniE243.ss03]; # Alternates for flag16thDown: flag16thDownStraight
+   sub uniE244 from [uniE244.ss03]; # Alternates for flag32ndUp: flag32ndUpStraight
+   sub uniE245 from [uniE245.ss03]; # Alternates for flag32ndDown: flag32ndDownStraight
+   sub uniE246 from [uniE246.ss03]; # Alternates for flag64thUp: flag64thUpStraight
+   sub uniE247 from [uniE247.ss03]; # Alternates for flag64thDown: flag64thDownStraight
+   sub uniE248 from [uniE248.ss03]; # Alternates for flag128thUp: flag128thUpStraight
+   sub uniE249 from [uniE249.ss03]; # Alternates for flag128thDown: flag128thDownStraight
+   sub uniE24A from [uniE24A.ss03]; # Alternates for flag256thUp: flag256thUpStraight
+   sub uniE24B from [uniE24B.ss03]; # Alternates for flag256thDown: flag256thDownStraight
+   sub uniE24C from [uniE24C.ss03]; # Alternates for flag512thUp: flag512thUpStraight
+   sub uniE24D from [uniE24D.ss03]; # Alternates for flag512thDown: flag512thDownStraight
+   sub uniE24E from [uniE24E.ss03]; # Alternates for flag1024thUp: flag1024thUpStraight
+   sub uniE24F from [uniE24F.ss03]; # Alternates for flag1024thDown: flag1024thDownStraight
+   sub uniE240 from [uniE240.ss03]; # Alternates for flag8thUp: flag8thUpStraight
+   sub uniE241 from [uniE241.ss03]; # Alternates for flag8thDown: flag8thDownStraight
+} ss03;
+feature ss04 {
+   # Stylistic set 04: Large time signatures
+   sub uniE080 from [uniE080.ss04]; # Alternates for timeSig0: timeSig0Large
+   sub uniE081 from [uniE081.ss04]; # Alternates for timeSig1: timeSig1Large
+   sub uniE082 from [uniE082.ss04]; # Alternates for timeSig2: timeSig2Large
+   sub uniE083 from [uniE083.ss04]; # Alternates for timeSig3: timeSig3Large
+   sub uniE084 from [uniE084.ss04]; # Alternates for timeSig4: timeSig4Large
+   sub uniE085 from [uniE085.ss04]; # Alternates for timeSig5: timeSig5Large
+   sub uniE086 from [uniE086.ss04]; # Alternates for timeSig6: timeSig6Large
+   sub uniE087 from [uniE087.ss04]; # Alternates for timeSig7: timeSig7Large
+   sub uniE088 from [uniE088.ss04]; # Alternates for timeSig8: timeSig8Large
+   sub uniE089 from [uniE089.ss04]; # Alternates for timeSig9: timeSig9Large
+   sub uniE08A from [uniE08A.ss04]; # Alternates for timeSigCommon: timeSigCommonLarge
+   sub uniE08B from [uniE08B.ss04]; # Alternates for timeSigCutCommon: timeSigCutCommonLarge
+   sub uniE08C from [uniE08C.ss04]; # Alternates for timeSigPlus: timeSigPlusLarge
+   sub uniE08D from [uniE08D.ss04]; # Alternates for timeSigPlusSmall: timeSigPlusSmallLarge
+   sub uniE08E from [uniE08E.ss04]; # Alternates for timeSigFractionalSlash: timeSigFractionalSlashLarge
+   sub uniE08F from [uniE08F.ss04]; # Alternates for timeSigEquals: timeSigEqualsLarge
+   sub uniE090 from [uniE090.ss04]; # Alternates for timeSigMinus: timeSigMinusLarge
+   sub uniE091 from [uniE091.ss04]; # Alternates for timeSigMultiply: timeSigMultiplyLarge
+   sub uniE092 from [uniE092.ss04]; # Alternates for timeSigParensLeftSmall: timeSigParensLeftSmallLarge
+   sub uniE093 from [uniE093.ss04]; # Alternates for timeSigParensRightSmall: timeSigParensRightSmallLarge
+   sub uniE094 from [uniE094.ss04]; # Alternates for timeSigParensLeft: timeSigParensLeftLarge
+   sub uniE095 from [uniE095.ss04]; # Alternates for timeSigParensRight: timeSigParensRightLarge
+   sub uniE096 from [uniE096.ss04]; # Alternates for timeSigComma: timeSigCommaLarge
+   sub uniE097 from [uniE097.ss04]; # Alternates for timeSigFractionQuarter: timeSigFractionQuarterLarge
+   sub uniE098 from [uniE098.ss04]; # Alternates for timeSigFractionHalf: timeSigFractionHalfLarge
+   sub uniE099 from [uniE099.ss04]; # Alternates for timeSigFractionThreeQuarters: timeSigFractionThreeQuartersLarge
+   sub uniE09A from [uniE09A.ss04]; # Alternates for timeSigFractionOneThird: timeSigFractionOneThirdLarge
+   sub uniE09B from [uniE09B.ss04]; # Alternates for timeSigFractionTwoThirds: timeSigFractionTwoThirdsLarge
+   sub uniE09C from [uniE09C.ss04]; # Alternates for timeSigX: timeSigXLarge
+   sub uniE09D from [uniE09D.ss04]; # Alternates for timeSigOpenPenderecki: timeSigOpenPendereckiLarge
+   sub uniEC80 from [uniEC80.ss04]; # Alternates for timeSigBracketLeft: timeSigBracketLeftLarge
+   sub uniEC81 from [uniEC81.ss04]; # Alternates for timeSigBracketRight: timeSigBracketRightLarge
+   sub uniEC82 from [uniEC82.ss04]; # Alternates for timeSigBracketLeftSmall: timeSigBracketLeftSmallLarge
+   sub uniEC83 from [uniEC83.ss04]; # Alternates for timeSigBracketRightSmall: timeSigBracketRightSmallLarge
+   sub uniEC84 from [uniEC84.ss04]; # Alternates for timeSigSlash: timeSigSlashLarge
+   sub uniEC85 from [uniEC85.ss04]; # Alternates for timeSigCut2: timeSigCut2Large
+   sub uniEC86 from [uniEC86.ss04]; # Alternates for timeSigCut3: timeSigCut3Large
+} ss04;
+feature ss06 {
+   # Stylistic set 06: Tuplet numbers at a lighter weight
+   sub uniE880 from [uniE880.ss06]; # Alternates for tuplet0: tuplet0Light
+   sub uniE881 from [uniE881.ss06]; # Alternates for tuplet1: tuplet1Light
+   sub uniE882 from [uniE882.ss06]; # Alternates for tuplet2: tuplet2Light
+   sub uniE883 from [uniE883.ss06]; # Alternates for tuplet3: tuplet3Light
+   sub uniE884 from [uniE884.ss06]; # Alternates for tuplet4: tuplet4Light
+   sub uniE885 from [uniE885.ss06]; # Alternates for tuplet5: tuplet5Light
+   sub uniE886 from [uniE886.ss06]; # Alternates for tuplet6: tuplet6Light
+   sub uniE887 from [uniE887.ss06]; # Alternates for tuplet7: tuplet7Light
+   sub uniE888 from [uniE888.ss06]; # Alternates for tuplet8: tuplet8Light
+   sub uniE889 from [uniE889.ss06]; # Alternates for tuplet9: tuplet9Light
+   sub uniE88A from [uniE88A.ss06]; # Alternates for tupletColon: tupletColonLight
+   sub uniEF10 from [uniEF10.ss06]; # Alternates for tupletParenthesisLeftItalic: tupletParenthesisLeftItalicLight
+   sub uniEF11 from [uniEF11.ss06]; # Alternates for tupletParenthesisRightItalic: tupletParenthesisRightItalicLight
+   sub uniEF12 from [uniEF12.ss06]; # Alternates for tupletParenthesisLeftRoman: tupletParenthesisLeftRomanLight
+   sub uniEF13 from [uniEF13.ss06]; # Alternates for tupletParenthesisRightRoman: tupletParenthesisRightRomanLight
+   sub uniEF14 from [uniEF14.ss06]; # Alternates for tupletBracketLeftItalic: tupletBracketLeftItalicLight
+   sub uniEF15 from [uniEF15.ss06]; # Alternates for tupletBracketRightItalic: tupletBracketRightItalicLight
+   sub uniEF16 from [uniEF16.ss06]; # Alternates for tupletBracketLeftRoman: tupletBracketLeftRomanLight
+   sub uniEF17 from [uniEF17.ss06]; # Alternates for tupletBracketRightRoman: tupletBracketRightRomanLight
+} ss06;
+feature ss07 {
+   # Stylistic set 07: Smaller optical size for subscript and superscript placement
+   sub uniE870 from [uniE870.ss07]; # Alternates for csymDiminished: csymDiminishedSmall
+   sub uniE871 from [uniE871.ss07]; # Alternates for csymHalfDiminished: csymHalfDiminishedSmall
+   sub uniE872 from [uniE872.ss07]; # Alternates for csymAugmented: csymAugmentedSmall
+   sub uniE873 from [uniE873.ss07]; # Alternates for csymMajorSeventh: csymMajorSeventhSmall
+   sub uniE874 from [uniE874.ss07]; # Alternates for csymMinor: csymMinorSmall
+   sub uniED60 from [uniED60.ss07]; # Alternates for csymAccidentalFlat: csymAccidentalFlatSmall
+   sub uniED61 from [uniED61.ss07]; # Alternates for csymAccidentalNatural: csymAccidentalNaturalSmall
+   sub uniED62 from [uniED62.ss07]; # Alternates for csymAccidentalSharp: csymAccidentalSharpSmall
+   sub uniED63 from [uniED63.ss07]; # Alternates for csymAccidentalDoubleSharp: csymAccidentalDoubleSharpSmall
+   sub uniED64 from [uniED64.ss07]; # Alternates for csymAccidentalDoubleFlat: csymAccidentalDoubleFlatSmall
+   sub uniED65 from [uniED65.ss07]; # Alternates for csymAccidentalTripleSharp: csymAccidentalTripleSharpSmall
+   sub uniED66 from [uniED66.ss07]; # Alternates for csymAccidentalTripleFlat: csymAccidentalTripleFlatSmall
+} ss07;
+feature ss08 {
+   # Stylistic set 08: Oversized
+   sub uniE0A0 from [uniE0A0.ss08]; # Alternates for noteheadDoubleWhole: noteheadDoubleWholeOversized
+   sub uniE0A1 from [uniE0A1.ss08]; # Alternates for noteheadDoubleWholeSquare: noteheadDoubleWholeSquareOversized
+   sub uniE0A2 from [uniE0A2.ss08]; # Alternates for noteheadWhole: noteheadWholeOversized
+   sub uniE0A3 from [uniE0A3.ss08]; # Alternates for noteheadHalf: noteheadHalfOversized
+   sub uniE0A4 from [uniE0A4.ss08]; # Alternates for noteheadBlack: noteheadBlackOversized
+   sub uniE100 from [uniE100.ss08]; # Alternates for noteheadSlashVerticalEnds: noteheadSlashVerticalEndsOversized
+   sub uniE101 from [uniE101.ss08]; # Alternates for noteheadSlashHorizontalEnds: noteheadSlashHorizontalEndsOversized
+   sub uniE102 from [uniE102.ss08]; # Alternates for noteheadSlashWhiteWhole: noteheadSlashWhiteWholeOversized
+   sub uniE103 from [uniE103.ss08]; # Alternates for noteheadSlashWhiteHalf: noteheadSlashWhiteHalfOversized
+   sub uniE104 from [uniE104.ss08]; # Alternates for noteheadSlashDiamondWhite: noteheadSlashDiamondWhiteOversized
+   sub uniE105 from [uniE105.ss08]; # Alternates for noteheadSlashVerticalEndsSmall: noteheadSlashVerticalEndsSmallOversized
+   sub uniE106 from [uniE106.ss08]; # Alternates for noteheadSlashX: noteheadSlashXOversized
+   sub uniE107 from [uniE107.ss08]; # Alternates for noteheadSlashVerticalEndsMuted: noteheadSlashVerticalEndsMutedOversized
+   sub uniE108 from [uniE108.ss08]; # Alternates for noteheadSlashHorizontalEndsMuted: noteheadSlashHorizontalEndsMutedOversized
+   sub uniE109 from [uniE109.ss08]; # Alternates for noteheadSlashWhiteMuted: noteheadSlashWhiteMutedOversized
+   sub uniE10A from [uniE10A.ss08]; # Alternates for noteheadSlashWhiteDoubleWhole: noteheadSlashWhiteDoubleWholeOversized
+} ss08;
+feature ss09 {
+   # Stylistic set 09: Large, narrow time signatures
+   sub uniE080 from [uniE080.ss09]; # Alternates for timeSig0: timeSig0Narrow
+   sub uniE081 from [uniE081.ss09]; # Alternates for timeSig1: timeSig1Narrow
+   sub uniE082 from [uniE082.ss09]; # Alternates for timeSig2: timeSig2Narrow
+   sub uniE083 from [uniE083.ss09]; # Alternates for timeSig3: timeSig3Narrow
+   sub uniE084 from [uniE084.ss09]; # Alternates for timeSig4: timeSig4Narrow
+   sub uniE085 from [uniE085.ss09]; # Alternates for timeSig5: timeSig5Narrow
+   sub uniE086 from [uniE086.ss09]; # Alternates for timeSig6: timeSig6Narrow
+   sub uniE087 from [uniE087.ss09]; # Alternates for timeSig7: timeSig7Narrow
+   sub uniE088 from [uniE088.ss09]; # Alternates for timeSig8: timeSig8Narrow
+   sub uniE089 from [uniE089.ss09]; # Alternates for timeSig9: timeSig9Narrow
+   sub uniE08A from [uniE08A.ss09]; # Alternates for timeSigCommon: timeSigCommonNarrow
+   sub uniE08B from [uniE08B.ss09]; # Alternates for timeSigCutCommon: timeSigCutCommonNarrow
+   sub uniE08C from [uniE08C.ss09]; # Alternates for timeSigPlus: timeSigPlusNarrow
+   sub uniE08D from [uniE08D.ss09]; # Alternates for timeSigPlusSmall: timeSigPlusSmallNarrow
+   sub uniE08E from [uniE08E.ss09]; # Alternates for timeSigFractionalSlash: timeSigFractionalSlashNarrow
+   sub uniE08F from [uniE08F.ss09]; # Alternates for timeSigEquals: timeSigEqualsNarrow
+   sub uniE090 from [uniE090.ss09]; # Alternates for timeSigMinus: timeSigMinusNarrow
+   sub uniE091 from [uniE091.ss09]; # Alternates for timeSigMultiply: timeSigMultiplyNarrow
+   sub uniE092 from [uniE092.ss09]; # Alternates for timeSigParensLeftSmall: timeSigParensLeftSmallNarrow
+   sub uniE093 from [uniE093.ss09]; # Alternates for timeSigParensRightSmall: timeSigParensRightSmallNarrow
+   sub uniE094 from [uniE094.ss09]; # Alternates for timeSigParensLeft: timeSigParensLeftNarrow
+   sub uniE095 from [uniE095.ss09]; # Alternates for timeSigParensRight: timeSigParensRightNarrow
+   sub uniE096 from [uniE096.ss09]; # Alternates for timeSigComma: timeSigCommaNarrow
+   sub uniE097 from [uniE097.ss09]; # Alternates for timeSigFractionQuarter: timeSigFractionQuarterNarrow
+   sub uniE098 from [uniE098.ss09]; # Alternates for timeSigFractionHalf: timeSigFractionHalfNarrow
+   sub uniE099 from [uniE099.ss09]; # Alternates for timeSigFractionThreeQuarters: timeSigFractionThreeQuartersNarrow
+   sub uniE09A from [uniE09A.ss09]; # Alternates for timeSigFractionOneThird: timeSigFractionOneThirdNarrow
+   sub uniE09B from [uniE09B.ss09]; # Alternates for timeSigFractionTwoThirds: timeSigFractionTwoThirdsNarrow
+   sub uniE09C from [uniE09C.ss09]; # Alternates for timeSigX: timeSigXNarrow
+   sub uniE09D from [uniE09D.ss09]; # Alternates for timeSigOpenPenderecki: timeSigOpenPendereckiNarrow
+   sub uniEC80 from [uniEC80.ss09]; # Alternates for timeSigBracketLeft: timeSigBracketLeftNarrow
+   sub uniEC81 from [uniEC81.ss09]; # Alternates for timeSigBracketRight: timeSigBracketRightNarrow
+   sub uniEC82 from [uniEC82.ss09]; # Alternates for timeSigBracketLeftSmall: timeSigBracketLeftSmallNarrow
+   sub uniEC83 from [uniEC83.ss09]; # Alternates for timeSigBracketRightSmall: timeSigBracketRightSmallNarrow
+   sub uniEC84 from [uniEC84.ss09]; # Alternates for timeSigSlash: timeSigSlashNarrow
+   sub uniEC85 from [uniEC85.ss09]; # Alternates for timeSigCut2: timeSigCut2Narrow
+   sub uniEC86 from [uniEC86.ss09]; # Alternates for timeSigCut3: timeSigCut3Narrow
+} ss09;
+feature ss10 {
+   # Stylistic set 10: Accidentals for figured bass with longer stems
+   sub uniEA63 from [uniEA63.ss10]; # Alternates for figbassDoubleFlat: figbassDoubleFlatLongerStem
+   sub uniEA64 from [uniEA64.ss10]; # Alternates for figbassFlat: figbassFlatLongerStem
+   sub uniEA65 from [uniEA65.ss10]; # Alternates for figbassNatural: figbassNaturalLongerStem
+   sub uniEA66 from [uniEA66.ss10]; # Alternates for figbassSharp: figbassSharpLongerStem
+   sub uniEA67 from [uniEA67.ss10]; # Alternates for figbassDoubleSharp: figbassDoubleSharpLongerStem
+   sub uniECC1 from [uniECC1.ss10]; # Alternates for figbassTripleFlat: figbassTripleFlatLongerStem
+   sub uniECC2 from [uniECC2.ss10]; # Alternates for figbassTripleSharp: figbassTripleSharpLongerStem
+} ss10;
+feature salt {
+   # Stylistic alternates
+   sub uniE626 from [uniE626.salt01 uniE626.salt02]; # Alternates for stringsChangeBowDirection: stringsChangeBowDirectionLiga, stringsChangeBowDirectionImposed
+   sub uniE630 from [uniE630.salt01]; # Alternates for pluckedSnapPizzicatoBelow: pluckedSnapPizzicatoBelowGerman
+   sub uniE631 from [uniE631.salt01]; # Alternates for pluckedSnapPizzicatoAbove: pluckedSnapPizzicatoAboveGerman
+   sub uniE8CB from [uniE8CB.salt01]; # Alternates for accdnPush: accdnPushAlt
+   sub uniE650 from [uniE650.salt01]; # Alternates for keyboardPedalPed: keyboardPedalPedNoDot
+   sub uniE659 from [uniE659.salt01]; # Alternates for keyboardPedalSost: keyboardPedalSostNoDot
+   sub uniE902 from [uniE902.salt01]; # Alternates for chantFclef: chantFclefHufnagel
+   sub uniE905 from [uniE905.salt01 uniE905.salt02]; # Alternates for mensuralCclef: mensuralCclefVoid, mensuralCclefBlack
+   sub uniE906 from [uniE906.salt01]; # Alternates for chantCclef: chantCclefHufnagel
+   sub uniE929 from [uniE929.salt01]; # Alternates for mensuralProportion4: mensuralProportion4Old
+   sub uniE68F from [uniE68F.salt01]; # Alternates for harpMetalRod: harpMetalRodAlt
+   sub uniE690 from [uniE690.salt01]; # Alternates for harpTuningKey: harpTuningKeyAlt
+   sub uniEBB0 from [uniEBB0.salt01]; # Alternates for luteFingeringRHThird: luteFingeringRHThirdAlt
+   sub uniEBC2 from [uniEBC2.salt01]; # Alternates for luteFrenchFretC: luteFrenchFretCAlt
+   sub uniE6A0 from [uniE6A0.salt01]; # Alternates for pictGlsp: pictGlspPeinkofer
+   sub uniE6A1 from [uniE6A1.salt01]; # Alternates for pictXyl: pictXylPeinkofer
+   sub uniE6A2 from [uniE6A2.salt01]; # Alternates for pictXylTenor: pictXylTenorPeinkofer
+   sub uniE6A3 from [uniE6A3.salt01]; # Alternates for pictXylBass: pictXylBassPeinkofer
+   sub uniEBD0 from [uniEBD0.salt01 uniEBD0.salt02 uniEBD0.salt03]; # Alternates for luteFrench10thCourse: luteFrench10thCourseStrikethru, luteFrench10thCourseUnderline, luteFrench10thCourseRight
+   sub uniE6A6 from [uniE6A6.salt01]; # Alternates for pictMar: pictMarPeinkofer
+   sub uniE6A7 from [uniE6A7.salt01]; # Alternates for pictVib: pictVibPeinkofer
+   sub uniE6A8 from [uniE6A8.salt01]; # Alternates for pictVibMotorOff: pictVibMotorOffPeinkofer
+   sub uniE6B1 from [uniE6B1.salt01]; # Alternates for pictLithophone: pictLithophonePeinkofer
+   sub uniE6B2 from [uniE6B2.salt01]; # Alternates for pictTubaphone: pictTubaphonePeinkofer
+   sub uniEEE3 from [uniEEE3.salt01]; # Alternates for noteMeWhole: noteMaWhole
+   sub uniEBCD from [uniEBCD.salt01 uniEBCD.salt02 uniEBCD.salt03]; # Alternates for luteFrench7thCourse: luteFrench7thCourseStrikethru, luteFrench7thCourseUnderline, luteFrench7thCourseRight
+   sub uniEEE7 from [uniEEE7.salt01]; # Alternates for noteLeWhole: noteLoWhole
+   sub uniEEE8 from [uniEEE8.salt01]; # Alternates for noteTeWhole: noteTaWhole
+   sub uniE6D0 from [uniE6D0.salt01]; # Alternates for pictTimpani: pictTimpaniPeinkofer
+   sub uniEBCE from [uniEBCE.salt01 uniEBCE.salt02 uniEBCE.salt03]; # Alternates for luteFrench8thCourse: luteFrench8thCourseStrikethru, luteFrench8thCourseUnderline, luteFrench8thCourseRight
+   sub uniE6D4 from [uniE6D4.salt01]; # Alternates for pictBassDrum: pictBassDrumPeinkofer
+   sub uniE6D7 from [uniE6D7.salt01]; # Alternates for pictTomTom: pictTomTomPeinkofer
+   sub uniE6D8 from [uniE6D8.salt01]; # Alternates for pictTomTomChinese: pictTomTomChinesePeinkofer
+   sub uniEBCF from [uniEBCF.salt01 uniEBCF.salt02 uniEBCF.salt03]; # Alternates for luteFrench9thCourse: luteFrench9thCourseStrikethru, luteFrench9thCourseUnderline, luteFrench9thCourseRight
+   sub uniE6DB from [uniE6DB.salt01]; # Alternates for pictTambourine: pictTambourineStockhausen
+   sub uniE6DC from [uniE6DC.salt01]; # Alternates for pictTimbales: pictTimbalesPeinkofer
+   sub uniE6DD from [uniE6DD.salt01]; # Alternates for pictBongos: pictBongosPeinkofer
+   sub uniE6DE from [uniE6DE.salt01]; # Alternates for pictConga: pictCongaPeinkofer
+   sub uniEEF9 from [uniEEF9.salt01]; # Alternates for noteLeBlack: noteLoBlack
+   sub uniEEFA from [uniEEFA.salt01]; # Alternates for noteTeBlack: noteTaBlack
+   sub uniE6F3 from [uniE6F3.salt01 uniE6F3.salt02]; # Alternates for pictGuiro: pictGuiroSevsay, pictGuiroPeinkofer
+   sub uniE6F8 from [uniE6F8.salt01]; # Alternates for pictCastanets: pictCastanetsSmithBrindle
+   sub uniE710 from [uniE710.salt01]; # Alternates for pictSleighBell: pictSleighBellSmithBrindle
+   sub uniE711 from [uniE711.salt01]; # Alternates for pictCowBell: pictCowBellBerio
+   sub uniE518 from [uniE518.salt01]; # Alternates for ventiduesimaAlta: ventiquattresimaAlta
+   sub uniE515 from [uniE515.salt01]; # Alternates for quindicesimaAlta: sedicesimaAlta
+   sub uniE516 from [uniE516.salt01]; # Alternates for quindicesimaBassa: sedicesimaBassa
+   sub uniE517 from [uniE517.salt01]; # Alternates for ventiduesima: ventiquattresima
+   sub uniE740 from [uniE740.salt01]; # Alternates for pictFlexatone: pictFlexatonePeinkofer
+   sub uniE741 from [uniE741.salt01]; # Alternates for pictMaraca: pictMaracaSmithBrindle
+   sub uniE4A0 from [uniE4A0.salt01 uniE4A0.salt03]; # Alternates for articAccentAbove: articAccentAboveLarge, articAccentAboveRossini
+   sub uniE4A1 from [uniE4A1.salt01 uniE4A1.salt03]; # Alternates for articAccentBelow: articAccentBelowLarge, articAccentBelowRossini
+   sub uniE519 from [uniE519.salt01]; # Alternates for ventiduesimaBassa: ventiquattresimaBassa
+   sub uniE1D0 from [uniE1D0.salt01]; # Alternates for noteDoubleWhole: noteDoubleWholeAlt
+   sub uniE75A from [uniE75A.salt01]; # Alternates for pictLotusFlute: pictLotusFlutePeinkofer
+   sub uniE9E0 from [uniE9E0.salt01 uniE9E0.salt02]; # Alternates for medRenFlatSoftB: medRenFlatSoftBOld, medRenFlatSoftBHufnagel
+   sub uniE766 from [uniE766.salt01]; # Alternates for pictMusicalSaw: pictMusicalSawPeinkofer
+   sub uniE51D from [uniE51D.salt01]; # Alternates for quindicesimaBassaMb: sedicesimaBassaMb
+   sub uniE51E from [uniE51E.salt01]; # Alternates for ventiduesimaBassaMb: ventiquattresimaBassaMb
+   sub uniE24A from [uniE24A.salt03]; # Alternates for flag256thUp: flag256thUpSmall
+   sub uniE4D1 from [uniE4D1.salt01]; # Alternates for caesura: caesuraSingleStroke
+   sub uniE514 from [uniE514.salt01]; # Alternates for quindicesima: sedicesima
+   sub uniE240 from [uniE240.salt03]; # Alternates for flag8thUp: flag8thUpSmall
+   sub uniE241 from [uniE241.salt02]; # Alternates for flag8thDown: flag8thDownSmall
+   sub uniE242 from [uniE242.salt03]; # Alternates for flag16thUp: flag16thUpSmall
+   sub uniE243 from [uniE243.salt02]; # Alternates for flag16thDown: flag16thDownSmall
+   sub uniE244 from [uniE244.salt03]; # Alternates for flag32ndUp: flag32ndUpSmall
+   sub uniE245 from [uniE245.salt02]; # Alternates for flag32ndDown: flag32ndDownSmall
+   sub uniE246 from [uniE246.salt03]; # Alternates for flag64thUp: flag64thUpSmall
+   sub uniE247 from [uniE247.salt02]; # Alternates for flag64thDown: flag64thDownSmall
+   sub uniE248 from [uniE248.salt03]; # Alternates for flag128thUp: flag128thUpSmall
+   sub uniE249 from [uniE249.salt02]; # Alternates for flag128thDown: flag128thDownSmall
+   sub uniE000 from [uniE000.salt01 uniE000.salt02 uniE000.salt03 uniE000.salt04]; # Alternates for brace: braceSmall, braceLarge, braceLarger, braceFlat
+   sub uniE24B from [uniE24B.salt02]; # Alternates for flag256thDown: flag256thDownSmall
+   sub uniE24C from [uniE24C.salt03]; # Alternates for flag512thUp: flag512thUpSmall
+   sub uniE24D from [uniE24D.salt02]; # Alternates for flag512thDown: flag512thDownSmall
+   sub uniE24E from [uniE24E.salt03]; # Alternates for flag1024thUp: flag1024thUpSmall
+   sub uniE24F from [uniE24F.salt02]; # Alternates for flag1024thDown: flag1024thDownSmall
+   sub uniE264 from [uniE264.salt01]; # Alternates for accidentalDoubleFlat: accidentalDoubleFlatJoinedStems
+   sub uniE266 from [uniE266.salt01]; # Alternates for accidentalTripleFlat: accidentalTripleFlatJoinedStems
+   sub uniEEEC from [uniEEEC.salt01]; # Alternates for noteMeHalf: noteMaHalf
+   sub uniEEF0 from [uniEEF0.salt01]; # Alternates for noteLeHalf: noteLoHalf
+   sub uniEEF1 from [uniEEF1.salt01]; # Alternates for noteTeHalf: noteTaHalf
+   sub uniE042 from [uniE042.salt01]; # Alternates for repeatRightLeft: repeatRightLeftThick
+   sub uniE047 from [uniE047.salt01]; # Alternates for segno: segnoJapanese
+   sub uniE048 from [uniE048.salt01]; # Alternates for coda: codaJapanese
+   sub uniEEF5 from [uniEEF5.salt01]; # Alternates for noteMeBlack: noteMaBlack
+   sub uniE05C from [uniE05C.salt01 uniE05C.salt03]; # Alternates for cClef: cClefFrench, cClefFrench20C
+   sub uniEAAB from [uniEAAB.salt01]; # Alternates for wiggleArpeggiatoUpSwash: wiggleArpeggiatoUpSwashCouperin
+   sub uniEAAC from [uniEAAC.salt01]; # Alternates for wiggleArpeggiatoDownSwash: wiggleArpeggiatoDownSwashCouperin
+   sub uniE062 from [uniE062.salt01 uniE062.salt02]; # Alternates for fClef: fClefFrench, fClef19thCentury
+   sub uniE069 from [uniE069.salt01]; # Alternates for unpitchedPercussionClef1: unpitchedPercussionClef1Alt
+   sub uniE06D from [uniE06D.salt01 uniE06D.salt02]; # Alternates for 6stringTabClef: 6stringTabClefTall, 6stringTabClefSerif
+   sub uniE06E from [uniE06E.salt01 uniE06E.salt02]; # Alternates for 4stringTabClef: 4stringTabClefTall, 4stringTabClefSerif
+   sub uniE07B from [uniE07B.salt01]; # Alternates for cClefChange: cClefFrench20CChange
+   sub uniE842 from [uniE842.salt01]; # Alternates for guitarGolpe: guitarGolpeFlamenco
+   sub uniE849 from [uniE849.salt01]; # Alternates for guitarBarreHalf: guitarBarreHalfHorizontalFractionSlash
+   sub uniE0A0 from [uniE0A0.salt01]; # Alternates for noteheadDoubleWhole: noteheadDoubleWholeAlt
+   sub uniE86B from [uniE86B.salt01]; # Alternates for analyticsHauptrhythmus: analyticsHauptrhythmusR
+   sub uniE5F0 from [uniE5F0.salt01]; # Alternates for doubleTongueAbove: doubleTongueAboveNoSlur
+   sub uniE5F1 from [uniE5F1.salt01]; # Alternates for doubleTongueBelow: doubleTongueBelowNoSlur
+   sub uniE5F2 from [uniE5F2.salt01]; # Alternates for tripleTongueAbove: tripleTongueAboveNoSlur
+   sub uniE5F3 from [uniE5F3.salt01]; # Alternates for tripleTongueBelow: tripleTongueBelowNoSlur
+} salt;
+feature liga {
+  # Ligatures 
+  # Mandatory codepoint ligatures
+  sub uniE520 uniE520 uniE520 uniE520 uniE520 uniE520 by uniE527; # dynamicPPPPPP
+  sub uniE520 uniE520 uniE520 uniE520 uniE520 by uniE528; # dynamicPPPPP
+  sub uniE520 uniE520 uniE520 uniE520 by uniE529; # dynamicPPPP
+  sub uniE520 uniE520 uniE520 by uniE52A; # dynamicPPP
+  sub uniE520 uniE520 by uniE52B; # dynamicPP
+  sub uniE521 uniE520 by uniE52C; # dynamicMP
+  sub uniE521 uniE522 by uniE52D; # dynamicMF
+  sub uniE520 uniE522 by uniE52E; # dynamicPF
+  sub uniE522 uniE522 by uniE52F; # dynamicFF
+  sub uniE522 uniE522 uniE522 by uniE530; # dynamicFFF
+  sub uniE522 uniE522 uniE522 uniE522 by uniE531; # dynamicFFFF
+  sub uniE522 uniE522 uniE522 uniE522 uniE522 by uniE532; # dynamicFFFFF
+  sub uniE522 uniE522 uniE522 uniE522 uniE522 uniE522 by uniE533; # dynamicFFFFFF
+  sub uniE522 uniE520 by uniE534; # dynamicFortePiano
+  sub uniE522 uniE525 by uniE535; # dynamicForzando
+  sub uniE524 uniE522 by uniE536; # dynamicSforzando1
+  sub uniE524 uniE522 uniE520 by uniE537; # dynamicSforzandoPiano
+  sub uniE524 uniE522 uniE520 uniE520 by uniE538; # dynamicSforzandoPianissimo
+  sub uniE524 uniE522 uniE525 by uniE539; # dynamicSforzato
+  sub uniE524 uniE522 uniE525 uniE520 by uniE53A; # dynamicSforzatoPiano
+  sub uniE524 uniE522 uniE522 uniE525 by uniE53B; # dynamicSforzatoFF
+  sub uniE523 uniE522 by uniE53C; # dynamicRinforzando1
+  sub uniE523 uniE522 uniE525 by uniE53D; # dynamicRinforzando2
+
+  # Optional codepoint ligatures
+  sub uniE062 uniE885 by uniE062_uniE885; # fClef5Below
+  sub uniE058 uniE880 by uniE058_uniE880; # gClef0Below
+  sub uniE058 uniE881 uniE880 by uniE058_uniE881_uniE880; # gClef10Below
+  sub uniE058 uniE881 uniE881 by uniE058_uniE881_uniE881; # gClef11Below
+  sub uniE058 uniE881 uniE882 by uniE058_uniE881_uniE882; # gClef12Below
+  sub uniE058 uniE881 uniE883 by uniE058_uniE881_uniE883; # gClef13Below
+  sub uniE058 uniE881 uniE884 by uniE058_uniE881_uniE884; # gClef14Below
+  sub uniE058 uniE881 uniE885 by uniE058_uniE881_uniE885; # gClef15Below
+  sub uniE058 uniE881 uniE886 by uniE058_uniE881_uniE886; # gClef16Below
+  sub uniE058 uniE881 uniE887 by uniE058_uniE881_uniE887; # gClef17Below
+  sub uniE059 uniE882 by uniE059_uniE882; # gClef2Above
+  sub uniE058 uniE882 by uniE058_uniE882; # gClef2Below
+  sub uniE059 uniE883 by uniE059_uniE883; # gClef3Above
+  sub uniE058 uniE883 by uniE058_uniE883; # gClef3Below
+  sub uniE059 uniE884 by uniE059_uniE884; # gClef4Above
+  sub uniE058 uniE884 by uniE058_uniE884; # gClef4Below
+  sub uniE059 uniE885 by uniE059_uniE885; # gClef5Above
+  sub uniE058 uniE885 by uniE058_uniE885; # gClef5Below
+  sub uniE059 uniE886 by uniE059_uniE886; # gClef6Above
+  sub uniE058 uniE886 by uniE058_uniE886; # gClef6Below
+  sub uniE059 uniE887 by uniE059_uniE887; # gClef7Above
+  sub uniE058 uniE887 by uniE058_uniE887; # gClef7Below
+  sub uniE059 uniE888 by uniE059_uniE888; # gClef8Above
+  sub uniE058 uniE888 by uniE058_uniE888; # gClef8Below
+  sub uniE059 uniE889 by uniE059_uniE889; # gClef9Above
+  sub uniE058 uniE889 by uniE058_uniE889; # gClef9Below
+  sub uniE058 uniE881 uniE880 uniE260 by uniE058_uniE881_uniE880_uniE260; # gClefFlat10Below
+  sub uniE058 uniE881 uniE881 uniE260 by uniE058_uniE881_uniE881_uniE260; # gClefFlat11Below
+  sub uniE058 uniE881 uniE883 uniE260 by uniE058_uniE881_uniE883_uniE260; # gClefFlat13Below
+  sub uniE058 uniE881 uniE884 uniE260 by uniE058_uniE881_uniE884_uniE260; # gClefFlat14Below
+  sub uniE058 uniE881 uniE885 uniE260 by uniE058_uniE881_uniE885_uniE260; # gClefFlat15Below
+  sub uniE058 uniE881 uniE886 uniE260 by uniE058_uniE881_uniE886_uniE260; # gClefFlat16Below
+  sub uniE058 uniE260 uniE881 by uniE058_uniE260_uniE881; # gClefFlat1Below
+  sub uniE059 uniE882 uniE260 by uniE059_uniE882_uniE260; # gClefFlat2Above
+  sub uniE058 uniE260 uniE882 by uniE058_uniE260_uniE882; # gClefFlat2Below
+  sub uniE059 uniE883 uniE260 by uniE059_uniE883_uniE260; # gClefFlat3Above
+  sub uniE058 uniE260 uniE883 by uniE058_uniE260_uniE883; # gClefFlat3Below
+  sub uniE058 uniE260 uniE884 by uniE058_uniE260_uniE884; # gClefFlat4Below
+  sub uniE059 uniE885 uniE260 by uniE059_uniE885_uniE260; # gClefFlat5Above
+  sub uniE059 uniE886 uniE260 by uniE059_uniE886_uniE260; # gClefFlat6Above
+  sub uniE058 uniE260 uniE886 by uniE058_uniE260_uniE886; # gClefFlat6Below
+  sub uniE059 uniE887 uniE260 by uniE059_uniE887_uniE260; # gClefFlat7Above
+  sub uniE058 uniE260 uniE887 by uniE058_uniE260_uniE887; # gClefFlat7Below
+  sub uniE059 uniE888 uniE260 by uniE059_uniE888_uniE260; # gClefFlat8Above
+  sub uniE059 uniE889 uniE260 by uniE059_uniE889_uniE260; # gClefFlat9Above
+  sub uniE058 uniE260 uniE889 by uniE058_uniE260_uniE889; # gClefFlat9Below
+  sub uniE058 uniE261 uniE882 by uniE058_uniE261_uniE882; # gClefNat2Below
+  sub uniE058 uniE881 uniE880 uniE261 by uniE058_uniE881_uniE880_uniE261; # gClefNatural10Below
+  sub uniE058 uniE881 uniE883 uniE261 by uniE058_uniE881_uniE883_uniE261; # gClefNatural13Below
+  sub uniE058 uniE881 uniE887 uniE261 by uniE058_uniE881_uniE887_uniE261; # gClefNatural17Below
+  sub uniE059 uniE882 uniE261 by uniE059_uniE882_uniE261; # gClefNatural2Above
+  sub uniE059 uniE883 uniE261 by uniE059_uniE883_uniE261; # gClefNatural3Above
+  sub uniE058 uniE261 uniE883 by uniE058_uniE261_uniE883; # gClefNatural3Below
+  sub uniE059 uniE886 uniE261 by uniE059_uniE886_uniE261; # gClefNatural6Above
+  sub uniE058 uniE261 uniE886 by uniE058_uniE261_uniE886; # gClefNatural6Below
+  sub uniE059 uniE887 uniE261 by uniE059_uniE887_uniE261; # gClefNatural7Above
+  sub uniE059 uniE889 uniE261 by uniE059_uniE889_uniE261; # gClefNatural9Above
+  sub uniE058 uniE261 uniE889 by uniE058_uniE261_uniE889; # gClefNatural9Below
+  sub uniE058 uniE881 uniE882 uniE262 by uniE058_uniE881_uniE882_uniE262; # gClefSharp12Below
+  sub uniE059 uniE881 uniE262 by uniE059_uniE881_uniE262; # gClefSharp1Above
+  sub uniE059 uniE884 uniE262 by uniE059_uniE884_uniE262; # gClefSharp4Above
+  sub uniE058 uniE262 uniE885 by uniE058_uniE262_uniE885; # gClefSharp5Below
+  sub uniE938 uniE94C by uniE938_uniE94C; # mensuralFusaBlackStemDown
+  sub uniE938 uniE94B by uniE938_uniE94B; # mensuralFusaBlackStemUp
+  sub uniE93A uniE94C by uniE93A_uniE94C; # mensuralFusaBlackVoidStemDown
+  sub uniE93A uniE94B by uniE93A_uniE94B; # mensuralFusaBlackVoidStemUp
+  sub uniE939 uniE94C by uniE939_uniE94C; # mensuralFusaVoidStemDown
+  sub uniE939 uniE94B by uniE939_uniE94B; # mensuralFusaVoidStemUp
+  sub uniE93F uniE934 by uniE93F_uniE934; # mensuralLongaBlackStemDownLeft
+  sub uniE934 uniE93F by uniE934_uniE93F; # mensuralLongaBlackStemDownRight
+  sub uniE93E uniE934 by uniE93E_uniE934; # mensuralLongaBlackStemUpLeft
+  sub uniE934 uniE93E by uniE934_uniE93E; # mensuralLongaBlackStemUpRight
+  sub uniE93F uniE936 by uniE93F_uniE936; # mensuralLongaBlackVoidStemDownLeft
+  sub uniE936 uniE93F by uniE936_uniE93F; # mensuralLongaBlackVoidStemDownRight
+  sub uniE93E uniE936 by uniE93E_uniE936; # mensuralLongaBlackVoidStemUpLeft
+  sub uniE936 uniE93E by uniE936_uniE93E; # mensuralLongaBlackVoidStemUpRight
+  sub uniE93F uniE935 by uniE93F_uniE935; # mensuralLongaVoidStemDownLeft
+  sub uniE935 uniE93F by uniE935_uniE93F; # mensuralLongaVoidStemDownRight
+  sub uniE93E uniE935 by uniE93E_uniE935; # mensuralLongaVoidStemUpLeft
+  sub uniE935 uniE93E by uniE935_uniE93E; # mensuralLongaVoidStemUpRight
+  sub uniE93F uniE930 by uniE93F_uniE930; # mensuralMaximaBlackStemDownLeft
+  sub uniE930 uniE93F by uniE930_uniE93F; # mensuralMaximaBlackStemDownRight
+  sub uniE93E uniE930 by uniE93E_uniE930; # mensuralMaximaBlackStemUpLeft
+  sub uniE930 uniE93E by uniE930_uniE93E; # mensuralMaximaBlackStemUpRight
+  sub uniE93F uniE932 by uniE93F_uniE932; # mensuralMaximaBlackVoidStemDownLeft
+  sub uniE932 uniE93F by uniE932_uniE93F; # mensuralMaximaBlackVoidStemDownRight
+  sub uniE93E uniE932 by uniE93E_uniE932; # mensuralMaximaBlackVoidStemUpLeft
+  sub uniE932 uniE93E by uniE932_uniE93E; # mensuralMaximaBlackVoidStemUpRight
+  sub uniE93F uniE931 by uniE93F_uniE931; # mensuralMaximaVoidStemDownLeft
+  sub uniE931 uniE93F by uniE931_uniE93F; # mensuralMaximaVoidStemDownRight
+  sub uniE93E uniE931 by uniE93E_uniE931; # mensuralMaximaVoidStemUpLeft
+  sub uniE931 uniE93E by uniE931_uniE93E; # mensuralMaximaVoidStemUpRight
+  sub uniE938 uniE93F by uniE938_uniE93F; # mensuralMinimaBlackStemDown
+  sub uniE938 uniE948 by uniE938_uniE948; # mensuralMinimaBlackStemDownExtendedFlag
+  sub uniE938 uniE944 by uniE938_uniE944; # mensuralMinimaBlackStemDownFlagLeft
+  sub uniE938 uniE942 by uniE938_uniE942; # mensuralMinimaBlackStemDownFlagRight
+  sub uniE938 uniE946 by uniE938_uniE946; # mensuralMinimaBlackStemDownFlaredFlag
+  sub uniE938 uniE93E by uniE938_uniE93E; # mensuralMinimaBlackStemUp
+  sub uniE938 uniE947 by uniE938_uniE947; # mensuralMinimaBlackStemUpExtendedFlag
+  sub uniE938 uniE943 by uniE938_uniE943; # mensuralMinimaBlackStemUpFlagLeft
+  sub uniE938 uniE941 by uniE938_uniE941; # mensuralMinimaBlackStemUpFlagRight
+  sub uniE938 uniE945 by uniE938_uniE945; # mensuralMinimaBlackStemUpFlaredFlag
+  sub uniE93A uniE93F by uniE93A_uniE93F; # mensuralMinimaBlackVoidStemDown
+  sub uniE93A uniE948 by uniE93A_uniE948; # mensuralMinimaBlackVoidStemDownExtendedFlag
+  sub uniE93A uniE944 by uniE93A_uniE944; # mensuralMinimaBlackVoidStemDownFlagLeft
+  sub uniE93A uniE942 by uniE93A_uniE942; # mensuralMinimaBlackVoidStemDownFlagRight
+  sub uniE93A uniE946 by uniE93A_uniE946; # mensuralMinimaBlackVoidStemDownFlaredFlag
+  sub uniE93A uniE93E by uniE93A_uniE93E; # mensuralMinimaBlackVoidStemUp
+  sub uniE93A uniE947 by uniE93A_uniE947; # mensuralMinimaBlackVoidStemUpExtendedFlag
+  sub uniE93A uniE943 by uniE93A_uniE943; # mensuralMinimaBlackVoidStemUpFlagLeft
+  sub uniE93A uniE941 by uniE93A_uniE941; # mensuralMinimaBlackVoidStemUpFlagRight
+  sub uniE93A uniE945 by uniE93A_uniE945; # mensuralMinimaBlackVoidStemUpFlaredFlag
+  sub uniE939 uniE93F by uniE939_uniE93F; # mensuralMinimaVoidStemDown
+  sub uniE939 uniE948 by uniE939_uniE948; # mensuralMinimaVoidStemDownExtendedFlag
+  sub uniE939 uniE944 by uniE939_uniE944; # mensuralMinimaVoidStemDownFlagLeft
+  sub uniE939 uniE942 by uniE939_uniE942; # mensuralMinimaVoidStemDownFlagRight
+  sub uniE939 uniE946 by uniE939_uniE946; # mensuralMinimaVoidStemDownFlaredFlag
+  sub uniE939 uniE947 by uniE939_uniE947; # mensuralMinimaVoidStemUpExtendedFlag
+  sub uniE939 uniE93E by uniE939_uniE93E; # mensuralMinimaVoidStemUp
+  sub uniE939 uniE943 by uniE939_uniE943; # mensuralMinimaVoidStemUpFlagLeft
+  sub uniE939 uniE941 by uniE939_uniE941; # mensuralMinimaVoidStemUpFlagRight
+  sub uniE939 uniE945 by uniE939_uniE945; # mensuralMinimaVoidStemUpFlaredFlag
+  sub uniE938 uniE94A by uniE938_uniE94A; # mensuralSemiminimaBlackStemDown
+  sub uniE938 uniE949 by uniE938_uniE949; # mensuralSemiminimaBlackStemUp
+  sub uniE93A uniE94A by uniE93A_uniE94A; # mensuralSemiminimaBlackVoidStemDown
+  sub uniE93A uniE949 by uniE93A_uniE949; # mensuralSemiminimaBlackVoidStemUp
+  sub uniE939 uniE94A by uniE939_uniE94A; # mensuralSemiminimaVoidStemDown
+  sub uniE939 uniE949 by uniE939_uniE949; # mensuralSemiminimaVoidStemUp
+  sub uniE260 uniE566 by uniE260_uniE566; # ornamentTrillFlatAbove
+  sub uniE261 uniE566 by uniE261_uniE566; # ornamentTrillNaturalAbove
+  sub uniE262 uniE566 by uniE262_uniE566; # ornamentTrillSharpAbove
+  sub uniE260 uniE567 by uniE260_uniE567; # ornamentTurnFlatAbove
+  sub uniE260 uniE567 uniE262 by uniE260_uniE567_uniE262; # ornamentTurnFlatAboveSharpBelow
+  sub uniE567 uniE260 by uniE567_uniE260; # ornamentTurnFlatBelow
+  sub uniE261 uniE567 by uniE261_uniE567; # ornamentTurnNaturalAbove
+  sub uniE567 uniE261 by uniE567_uniE261; # ornamentTurnNaturalBelow
+  sub uniE262 uniE567 by uniE262_uniE567; # ornamentTurnSharpAbove
+  sub uniE262 uniE567 uniE260 by uniE262_uniE567_uniE260; # ornamentTurnSharpAboveFlatBelow
+  sub uniE567 uniE262 by uniE567_uniE262; # ornamentTurnSharpBelow
+  sub uniE09F uniE080 by uniE09F_uniE080; # timeSig0Denominator
+  sub uniE09E uniE080 by uniE09E_uniE080; # timeSig0Numerator
+  sub uniE09F uniE081 by uniE09F_uniE081; # timeSig1Denominator
+  sub uniE09E uniE081 by uniE09E_uniE081; # timeSig1Numerator
+  sub uniE09F uniE082 by uniE09F_uniE082; # timeSig2Denominator
+  sub uniE09E uniE082 by uniE09E_uniE082; # timeSig2Numerator
+  sub uniE09F uniE083 by uniE09F_uniE083; # timeSig3Denominator
+  sub uniE09E uniE083 by uniE09E_uniE083; # timeSig3Numerator
+  sub uniE09F uniE084 by uniE09F_uniE084; # timeSig4Denominator
+  sub uniE09E uniE084 by uniE09E_uniE084; # timeSig4Numerator
+  sub uniE09F uniE085 by uniE09F_uniE085; # timeSig5Denominator
+  sub uniE09E uniE085 by uniE09E_uniE085; # timeSig5Numerator
+  sub uniE09F uniE086 by uniE09F_uniE086; # timeSig6Denominator
+  sub uniE09E uniE086 by uniE09E_uniE086; # timeSig6Numerator
+  sub uniE09F uniE087 by uniE09F_uniE087; # timeSig7Denominator
+  sub uniE09E uniE087 by uniE09E_uniE087; # timeSig7Numerator
+  sub uniE09F uniE088 by uniE09F_uniE088; # timeSig8Denominator
+  sub uniE09E uniE088 by uniE09E_uniE088; # timeSig8Numerator
+  sub uniE09F uniE089 by uniE09F_uniE089; # timeSig9Denominator
+  sub uniE09E uniE089 by uniE09E_uniE089; # timeSig9Numerator
+  sub uniE0F5 uniE0A4 uniE0F6 by uniE0F5_uniE0A4_uniE0F6; # noteheadBlackParens
+  sub uniE0F5 uniE0A3 uniE0F6 by uniE0F5_uniE0A3_uniE0F6; # noteheadHalfParens
+  sub uniE0F5 uniE0A2 uniE0F6 by uniE0F5_uniE0A2_uniE0F6; # noteheadWholeParens
+  sub uniE0F5 uniE0A0 uniE0F6 by uniE0F5_uniE0A0_uniE0F6; # noteheadDoubleWholeParens
+  sub uniE26A uniE260 uniE26B by uniE26A_uniE260_uniE26B; # accidentalFlatParens
+  sub uniE26A uniE261 uniE26B by uniE26A_uniE261_uniE26B; # accidentalNaturalParens
+  sub uniE26A uniE262 uniE26B by uniE26A_uniE262_uniE26B; # accidentalSharpParens
+  sub uniE26A uniE263 uniE26B by uniE26A_uniE263_uniE26B; # accidentalDoubleSharpParens
+  sub uniE26A uniE264 uniE26B by uniE26A_uniE264_uniE26B; # accidentalDoubleFlatParens
+  sub uniE262 uniE2B2 by uniE262_uniE2B2; # accidentalSharpJohnstonEl
+  sub uniE262 uniE2B4 by uniE262_uniE2B4; # accidentalSharpJohnstonUp
+  sub uniE262 uniE2B5 by uniE262_uniE2B5; # accidentalSharpJohnstonDown
+  sub uniE260 uniE2B2 by uniE260_uniE2B2; # accidentalFlatJohnstonEl
+  sub uniE260 uniE2B4 by uniE260_uniE2B4; # accidentalFlatJohnstonUp
+  sub uniE260 uniE2B5 by uniE260_uniE2B5; # accidentalFlatJohnstonDown
+  sub uniE2B3 uniE262 by uniE2B3_uniE262; # accidentalJohnstonSevenSharp
+  sub uniE2B3 uniE260 by uniE2B3_uniE260; # accidentalJohnstonSevenFlat
+  sub uniE2B3 uniE2B4 by uniE2B3_uniE2B4; # accidentalJohnstonSevenUp
+  sub uniE2B3 uniE2B5 by uniE2B3_uniE2B5; # accidentalJohnstonSevenDown
+  sub uniE2B4 uniE2B2 by uniE2B4_uniE2B2; # accidentalJohnstonUpEl
+  sub uniE2B5 uniE2B2 by uniE2B5_uniE2B2; # accidentalJohnstonDownEl
+  sub uniE262 uniE2B4 uniE2B2 by uniE262_uniE2B4_uniE2B2; # accidentalSharpJohnstonUpEl
+  sub uniE262 uniE2B5 uniE2B2 by uniE262_uniE2B5_uniE2B2; # accidentalSharpJohnstonDownEl
+  sub uniE2B3 uniE262 uniE2B4 by uniE2B3_uniE262_uniE2B4; # accidentalJohnstonSevenSharpUp
+  sub uniE2B3 uniE262 uniE2B5 by uniE2B3_uniE262_uniE2B5; # accidentalJohnstonSevenSharpDown
+  sub uniE260 uniE2B4 uniE2B2 by uniE260_uniE2B4_uniE2B2; # accidentalFlatJohnstonUpEl
+  sub uniE260 uniE2B2 uniE2B5 by uniE260_uniE2B2_uniE2B5; # accidentalFlatJohnstonElDown
+  sub uniE2B3 uniE260 uniE2B4 by uniE2B3_uniE260_uniE2B4; # accidentalJohnstonSevenFlatUp
+  sub uniE2B3 uniE260 uniE2B5 by uniE2B3_uniE260_uniE2B5; # accidentalJohnstonSevenFlatDown
+  sub uniE09E uniE082 uniE09F uniE084 by uniE09E_uniE082_uniE09F_uniE084; # timeSig2over4
+  sub uniE09E uniE082 uniE09F uniE082 by uniE09E_uniE082_uniE09F_uniE082; # timeSig2over2
+  sub uniE09E uniE083 uniE09F uniE082 by uniE09E_uniE083_uniE09F_uniE082; # timeSig3over2
+  sub uniE09E uniE083 uniE09F uniE084 by uniE09E_uniE083_uniE09F_uniE084; # timeSig3over4
+  sub uniE09E uniE083 uniE09F uniE088 by uniE09E_uniE083_uniE09F_uniE088; # timeSig3over8
+  sub uniE09E uniE084 uniE09F uniE084 by uniE09E_uniE084_uniE09F_uniE084; # timeSig4over4
+  sub uniE09E uniE085 uniE09F uniE084 by uniE09E_uniE085_uniE09F_uniE084; # timeSig5over4
+  sub uniE09E uniE085 uniE09F uniE088 by uniE09E_uniE085_uniE09F_uniE088; # timeSig5over8
+  sub uniE09E uniE086 uniE09F uniE084 by uniE09E_uniE086_uniE09F_uniE084; # timeSig6over4
+  sub uniE09E uniE086 uniE09F uniE088 by uniE09E_uniE086_uniE09F_uniE088; # timeSig6over8
+  sub uniE09E uniE087 uniE09F uniE088 by uniE09E_uniE087_uniE09F_uniE088; # timeSig7over8
+  sub uniE09E uniE089 uniE09F uniE088 by uniE09E_uniE089_uniE09F_uniE088; # timeSig9over8
+  sub uniE09E uniE081 uniE09E uniE082 uniE09F uniE088 by uniE09E_uniE081_uniE09E_uniE082_uniE09F_uniE088; # timeSig12over8
+} liga;
+feature ccmp {
+  # Ligatures 
+  # Mandatory codepoint ligatures
+  sub uniE520 uniE520 uniE520 uniE520 uniE520 uniE520 by uniE527; # dynamicPPPPPP
+  sub uniE520 uniE520 uniE520 uniE520 uniE520 by uniE528; # dynamicPPPPP
+  sub uniE520 uniE520 uniE520 uniE520 by uniE529; # dynamicPPPP
+  sub uniE520 uniE520 uniE520 by uniE52A; # dynamicPPP
+  sub uniE520 uniE520 by uniE52B; # dynamicPP
+  sub uniE521 uniE520 by uniE52C; # dynamicMP
+  sub uniE521 uniE522 by uniE52D; # dynamicMF
+  sub uniE520 uniE522 by uniE52E; # dynamicPF
+  sub uniE522 uniE522 by uniE52F; # dynamicFF
+  sub uniE522 uniE522 uniE522 by uniE530; # dynamicFFF
+  sub uniE522 uniE522 uniE522 uniE522 by uniE531; # dynamicFFFF
+  sub uniE522 uniE522 uniE522 uniE522 uniE522 by uniE532; # dynamicFFFFF
+  sub uniE522 uniE522 uniE522 uniE522 uniE522 uniE522 by uniE533; # dynamicFFFFFF
+  sub uniE522 uniE520 by uniE534; # dynamicFortePiano
+  sub uniE522 uniE525 by uniE535; # dynamicForzando
+  sub uniE524 uniE522 by uniE536; # dynamicSforzando1
+  sub uniE524 uniE522 uniE520 by uniE537; # dynamicSforzandoPiano
+  sub uniE524 uniE522 uniE520 uniE520 by uniE538; # dynamicSforzandoPianissimo
+  sub uniE524 uniE522 uniE525 by uniE539; # dynamicSforzato
+  sub uniE524 uniE522 uniE525 uniE520 by uniE53A; # dynamicSforzatoPiano
+  sub uniE524 uniE522 uniE522 uniE525 by uniE53B; # dynamicSforzatoFF
+  sub uniE523 uniE522 by uniE53C; # dynamicRinforzando1
+  sub uniE523 uniE522 uniE525 by uniE53D; # dynamicRinforzando2
+
+  # Optional codepoint ligatures
+  sub uniE062 uniE885 by uniE062_uniE885; # fClef5Below
+  sub uniE058 uniE880 by uniE058_uniE880; # gClef0Below
+  sub uniE058 uniE881 uniE880 by uniE058_uniE881_uniE880; # gClef10Below
+  sub uniE058 uniE881 uniE881 by uniE058_uniE881_uniE881; # gClef11Below
+  sub uniE058 uniE881 uniE882 by uniE058_uniE881_uniE882; # gClef12Below
+  sub uniE058 uniE881 uniE883 by uniE058_uniE881_uniE883; # gClef13Below
+  sub uniE058 uniE881 uniE884 by uniE058_uniE881_uniE884; # gClef14Below
+  sub uniE058 uniE881 uniE885 by uniE058_uniE881_uniE885; # gClef15Below
+  sub uniE058 uniE881 uniE886 by uniE058_uniE881_uniE886; # gClef16Below
+  sub uniE058 uniE881 uniE887 by uniE058_uniE881_uniE887; # gClef17Below
+  sub uniE059 uniE882 by uniE059_uniE882; # gClef2Above
+  sub uniE058 uniE882 by uniE058_uniE882; # gClef2Below
+  sub uniE059 uniE883 by uniE059_uniE883; # gClef3Above
+  sub uniE058 uniE883 by uniE058_uniE883; # gClef3Below
+  sub uniE059 uniE884 by uniE059_uniE884; # gClef4Above
+  sub uniE058 uniE884 by uniE058_uniE884; # gClef4Below
+  sub uniE059 uniE885 by uniE059_uniE885; # gClef5Above
+  sub uniE058 uniE885 by uniE058_uniE885; # gClef5Below
+  sub uniE059 uniE886 by uniE059_uniE886; # gClef6Above
+  sub uniE058 uniE886 by uniE058_uniE886; # gClef6Below
+  sub uniE059 uniE887 by uniE059_uniE887; # gClef7Above
+  sub uniE058 uniE887 by uniE058_uniE887; # gClef7Below
+  sub uniE059 uniE888 by uniE059_uniE888; # gClef8Above
+  sub uniE058 uniE888 by uniE058_uniE888; # gClef8Below
+  sub uniE059 uniE889 by uniE059_uniE889; # gClef9Above
+  sub uniE058 uniE889 by uniE058_uniE889; # gClef9Below
+  sub uniE058 uniE881 uniE880 uniE260 by uniE058_uniE881_uniE880_uniE260; # gClefFlat10Below
+  sub uniE058 uniE881 uniE881 uniE260 by uniE058_uniE881_uniE881_uniE260; # gClefFlat11Below
+  sub uniE058 uniE881 uniE883 uniE260 by uniE058_uniE881_uniE883_uniE260; # gClefFlat13Below
+  sub uniE058 uniE881 uniE884 uniE260 by uniE058_uniE881_uniE884_uniE260; # gClefFlat14Below
+  sub uniE058 uniE881 uniE885 uniE260 by uniE058_uniE881_uniE885_uniE260; # gClefFlat15Below
+  sub uniE058 uniE881 uniE886 uniE260 by uniE058_uniE881_uniE886_uniE260; # gClefFlat16Below
+  sub uniE058 uniE260 uniE881 by uniE058_uniE260_uniE881; # gClefFlat1Below
+  sub uniE059 uniE882 uniE260 by uniE059_uniE882_uniE260; # gClefFlat2Above
+  sub uniE058 uniE260 uniE882 by uniE058_uniE260_uniE882; # gClefFlat2Below
+  sub uniE059 uniE883 uniE260 by uniE059_uniE883_uniE260; # gClefFlat3Above
+  sub uniE058 uniE260 uniE883 by uniE058_uniE260_uniE883; # gClefFlat3Below
+  sub uniE058 uniE260 uniE884 by uniE058_uniE260_uniE884; # gClefFlat4Below
+  sub uniE059 uniE885 uniE260 by uniE059_uniE885_uniE260; # gClefFlat5Above
+  sub uniE059 uniE886 uniE260 by uniE059_uniE886_uniE260; # gClefFlat6Above
+  sub uniE058 uniE260 uniE886 by uniE058_uniE260_uniE886; # gClefFlat6Below
+  sub uniE059 uniE887 uniE260 by uniE059_uniE887_uniE260; # gClefFlat7Above
+  sub uniE058 uniE260 uniE887 by uniE058_uniE260_uniE887; # gClefFlat7Below
+  sub uniE059 uniE888 uniE260 by uniE059_uniE888_uniE260; # gClefFlat8Above
+  sub uniE059 uniE889 uniE260 by uniE059_uniE889_uniE260; # gClefFlat9Above
+  sub uniE058 uniE260 uniE889 by uniE058_uniE260_uniE889; # gClefFlat9Below
+  sub uniE058 uniE261 uniE882 by uniE058_uniE261_uniE882; # gClefNat2Below
+  sub uniE058 uniE881 uniE880 uniE261 by uniE058_uniE881_uniE880_uniE261; # gClefNatural10Below
+  sub uniE058 uniE881 uniE883 uniE261 by uniE058_uniE881_uniE883_uniE261; # gClefNatural13Below
+  sub uniE058 uniE881 uniE887 uniE261 by uniE058_uniE881_uniE887_uniE261; # gClefNatural17Below
+  sub uniE059 uniE882 uniE261 by uniE059_uniE882_uniE261; # gClefNatural2Above
+  sub uniE059 uniE883 uniE261 by uniE059_uniE883_uniE261; # gClefNatural3Above
+  sub uniE058 uniE261 uniE883 by uniE058_uniE261_uniE883; # gClefNatural3Below
+  sub uniE059 uniE886 uniE261 by uniE059_uniE886_uniE261; # gClefNatural6Above
+  sub uniE058 uniE261 uniE886 by uniE058_uniE261_uniE886; # gClefNatural6Below
+  sub uniE059 uniE887 uniE261 by uniE059_uniE887_uniE261; # gClefNatural7Above
+  sub uniE059 uniE889 uniE261 by uniE059_uniE889_uniE261; # gClefNatural9Above
+  sub uniE058 uniE261 uniE889 by uniE058_uniE261_uniE889; # gClefNatural9Below
+  sub uniE058 uniE881 uniE882 uniE262 by uniE058_uniE881_uniE882_uniE262; # gClefSharp12Below
+  sub uniE059 uniE881 uniE262 by uniE059_uniE881_uniE262; # gClefSharp1Above
+  sub uniE059 uniE884 uniE262 by uniE059_uniE884_uniE262; # gClefSharp4Above
+  sub uniE058 uniE262 uniE885 by uniE058_uniE262_uniE885; # gClefSharp5Below
+  sub uniE938 uniE94C by uniE938_uniE94C; # mensuralFusaBlackStemDown
+  sub uniE938 uniE94B by uniE938_uniE94B; # mensuralFusaBlackStemUp
+  sub uniE93A uniE94C by uniE93A_uniE94C; # mensuralFusaBlackVoidStemDown
+  sub uniE93A uniE94B by uniE93A_uniE94B; # mensuralFusaBlackVoidStemUp
+  sub uniE939 uniE94C by uniE939_uniE94C; # mensuralFusaVoidStemDown
+  sub uniE939 uniE94B by uniE939_uniE94B; # mensuralFusaVoidStemUp
+  sub uniE93F uniE934 by uniE93F_uniE934; # mensuralLongaBlackStemDownLeft
+  sub uniE934 uniE93F by uniE934_uniE93F; # mensuralLongaBlackStemDownRight
+  sub uniE93E uniE934 by uniE93E_uniE934; # mensuralLongaBlackStemUpLeft
+  sub uniE934 uniE93E by uniE934_uniE93E; # mensuralLongaBlackStemUpRight
+  sub uniE93F uniE936 by uniE93F_uniE936; # mensuralLongaBlackVoidStemDownLeft
+  sub uniE936 uniE93F by uniE936_uniE93F; # mensuralLongaBlackVoidStemDownRight
+  sub uniE93E uniE936 by uniE93E_uniE936; # mensuralLongaBlackVoidStemUpLeft
+  sub uniE936 uniE93E by uniE936_uniE93E; # mensuralLongaBlackVoidStemUpRight
+  sub uniE93F uniE935 by uniE93F_uniE935; # mensuralLongaVoidStemDownLeft
+  sub uniE935 uniE93F by uniE935_uniE93F; # mensuralLongaVoidStemDownRight
+  sub uniE93E uniE935 by uniE93E_uniE935; # mensuralLongaVoidStemUpLeft
+  sub uniE935 uniE93E by uniE935_uniE93E; # mensuralLongaVoidStemUpRight
+  sub uniE93F uniE930 by uniE93F_uniE930; # mensuralMaximaBlackStemDownLeft
+  sub uniE930 uniE93F by uniE930_uniE93F; # mensuralMaximaBlackStemDownRight
+  sub uniE93E uniE930 by uniE93E_uniE930; # mensuralMaximaBlackStemUpLeft
+  sub uniE930 uniE93E by uniE930_uniE93E; # mensuralMaximaBlackStemUpRight
+  sub uniE93F uniE932 by uniE93F_uniE932; # mensuralMaximaBlackVoidStemDownLeft
+  sub uniE932 uniE93F by uniE932_uniE93F; # mensuralMaximaBlackVoidStemDownRight
+  sub uniE93E uniE932 by uniE93E_uniE932; # mensuralMaximaBlackVoidStemUpLeft
+  sub uniE932 uniE93E by uniE932_uniE93E; # mensuralMaximaBlackVoidStemUpRight
+  sub uniE93F uniE931 by uniE93F_uniE931; # mensuralMaximaVoidStemDownLeft
+  sub uniE931 uniE93F by uniE931_uniE93F; # mensuralMaximaVoidStemDownRight
+  sub uniE93E uniE931 by uniE93E_uniE931; # mensuralMaximaVoidStemUpLeft
+  sub uniE931 uniE93E by uniE931_uniE93E; # mensuralMaximaVoidStemUpRight
+  sub uniE938 uniE93F by uniE938_uniE93F; # mensuralMinimaBlackStemDown
+  sub uniE938 uniE948 by uniE938_uniE948; # mensuralMinimaBlackStemDownExtendedFlag
+  sub uniE938 uniE944 by uniE938_uniE944; # mensuralMinimaBlackStemDownFlagLeft
+  sub uniE938 uniE942 by uniE938_uniE942; # mensuralMinimaBlackStemDownFlagRight
+  sub uniE938 uniE946 by uniE938_uniE946; # mensuralMinimaBlackStemDownFlaredFlag
+  sub uniE938 uniE93E by uniE938_uniE93E; # mensuralMinimaBlackStemUp
+  sub uniE938 uniE947 by uniE938_uniE947; # mensuralMinimaBlackStemUpExtendedFlag
+  sub uniE938 uniE943 by uniE938_uniE943; # mensuralMinimaBlackStemUpFlagLeft
+  sub uniE938 uniE941 by uniE938_uniE941; # mensuralMinimaBlackStemUpFlagRight
+  sub uniE938 uniE945 by uniE938_uniE945; # mensuralMinimaBlackStemUpFlaredFlag
+  sub uniE93A uniE93F by uniE93A_uniE93F; # mensuralMinimaBlackVoidStemDown
+  sub uniE93A uniE948 by uniE93A_uniE948; # mensuralMinimaBlackVoidStemDownExtendedFlag
+  sub uniE93A uniE944 by uniE93A_uniE944; # mensuralMinimaBlackVoidStemDownFlagLeft
+  sub uniE93A uniE942 by uniE93A_uniE942; # mensuralMinimaBlackVoidStemDownFlagRight
+  sub uniE93A uniE946 by uniE93A_uniE946; # mensuralMinimaBlackVoidStemDownFlaredFlag
+  sub uniE93A uniE93E by uniE93A_uniE93E; # mensuralMinimaBlackVoidStemUp
+  sub uniE93A uniE947 by uniE93A_uniE947; # mensuralMinimaBlackVoidStemUpExtendedFlag
+  sub uniE93A uniE943 by uniE93A_uniE943; # mensuralMinimaBlackVoidStemUpFlagLeft
+  sub uniE93A uniE941 by uniE93A_uniE941; # mensuralMinimaBlackVoidStemUpFlagRight
+  sub uniE93A uniE945 by uniE93A_uniE945; # mensuralMinimaBlackVoidStemUpFlaredFlag
+  sub uniE939 uniE93F by uniE939_uniE93F; # mensuralMinimaVoidStemDown
+  sub uniE939 uniE948 by uniE939_uniE948; # mensuralMinimaVoidStemDownExtendedFlag
+  sub uniE939 uniE944 by uniE939_uniE944; # mensuralMinimaVoidStemDownFlagLeft
+  sub uniE939 uniE942 by uniE939_uniE942; # mensuralMinimaVoidStemDownFlagRight
+  sub uniE939 uniE946 by uniE939_uniE946; # mensuralMinimaVoidStemDownFlaredFlag
+  sub uniE939 uniE947 by uniE939_uniE947; # mensuralMinimaVoidStemUpExtendedFlag
+  sub uniE939 uniE93E by uniE939_uniE93E; # mensuralMinimaVoidStemUp
+  sub uniE939 uniE943 by uniE939_uniE943; # mensuralMinimaVoidStemUpFlagLeft
+  sub uniE939 uniE941 by uniE939_uniE941; # mensuralMinimaVoidStemUpFlagRight
+  sub uniE939 uniE945 by uniE939_uniE945; # mensuralMinimaVoidStemUpFlaredFlag
+  sub uniE938 uniE94A by uniE938_uniE94A; # mensuralSemiminimaBlackStemDown
+  sub uniE938 uniE949 by uniE938_uniE949; # mensuralSemiminimaBlackStemUp
+  sub uniE93A uniE94A by uniE93A_uniE94A; # mensuralSemiminimaBlackVoidStemDown
+  sub uniE93A uniE949 by uniE93A_uniE949; # mensuralSemiminimaBlackVoidStemUp
+  sub uniE939 uniE94A by uniE939_uniE94A; # mensuralSemiminimaVoidStemDown
+  sub uniE939 uniE949 by uniE939_uniE949; # mensuralSemiminimaVoidStemUp
+  sub uniE260 uniE566 by uniE260_uniE566; # ornamentTrillFlatAbove
+  sub uniE261 uniE566 by uniE261_uniE566; # ornamentTrillNaturalAbove
+  sub uniE262 uniE566 by uniE262_uniE566; # ornamentTrillSharpAbove
+  sub uniE260 uniE567 by uniE260_uniE567; # ornamentTurnFlatAbove
+  sub uniE260 uniE567 uniE262 by uniE260_uniE567_uniE262; # ornamentTurnFlatAboveSharpBelow
+  sub uniE567 uniE260 by uniE567_uniE260; # ornamentTurnFlatBelow
+  sub uniE261 uniE567 by uniE261_uniE567; # ornamentTurnNaturalAbove
+  sub uniE567 uniE261 by uniE567_uniE261; # ornamentTurnNaturalBelow
+  sub uniE262 uniE567 by uniE262_uniE567; # ornamentTurnSharpAbove
+  sub uniE262 uniE567 uniE260 by uniE262_uniE567_uniE260; # ornamentTurnSharpAboveFlatBelow
+  sub uniE567 uniE262 by uniE567_uniE262; # ornamentTurnSharpBelow
+  sub uniE09F uniE080 by uniE09F_uniE080; # timeSig0Denominator
+  sub uniE09E uniE080 by uniE09E_uniE080; # timeSig0Numerator
+  sub uniE09F uniE081 by uniE09F_uniE081; # timeSig1Denominator
+  sub uniE09E uniE081 by uniE09E_uniE081; # timeSig1Numerator
+  sub uniE09F uniE082 by uniE09F_uniE082; # timeSig2Denominator
+  sub uniE09E uniE082 by uniE09E_uniE082; # timeSig2Numerator
+  sub uniE09F uniE083 by uniE09F_uniE083; # timeSig3Denominator
+  sub uniE09E uniE083 by uniE09E_uniE083; # timeSig3Numerator
+  sub uniE09F uniE084 by uniE09F_uniE084; # timeSig4Denominator
+  sub uniE09E uniE084 by uniE09E_uniE084; # timeSig4Numerator
+  sub uniE09F uniE085 by uniE09F_uniE085; # timeSig5Denominator
+  sub uniE09E uniE085 by uniE09E_uniE085; # timeSig5Numerator
+  sub uniE09F uniE086 by uniE09F_uniE086; # timeSig6Denominator
+  sub uniE09E uniE086 by uniE09E_uniE086; # timeSig6Numerator
+  sub uniE09F uniE087 by uniE09F_uniE087; # timeSig7Denominator
+  sub uniE09E uniE087 by uniE09E_uniE087; # timeSig7Numerator
+  sub uniE09F uniE088 by uniE09F_uniE088; # timeSig8Denominator
+  sub uniE09E uniE088 by uniE09E_uniE088; # timeSig8Numerator
+  sub uniE09F uniE089 by uniE09F_uniE089; # timeSig9Denominator
+  sub uniE09E uniE089 by uniE09E_uniE089; # timeSig9Numerator
+  sub uniE0F5 uniE0A4 uniE0F6 by uniE0F5_uniE0A4_uniE0F6; # noteheadBlackParens
+  sub uniE0F5 uniE0A3 uniE0F6 by uniE0F5_uniE0A3_uniE0F6; # noteheadHalfParens
+  sub uniE0F5 uniE0A2 uniE0F6 by uniE0F5_uniE0A2_uniE0F6; # noteheadWholeParens
+  sub uniE0F5 uniE0A0 uniE0F6 by uniE0F5_uniE0A0_uniE0F6; # noteheadDoubleWholeParens
+  sub uniE26A uniE260 uniE26B by uniE26A_uniE260_uniE26B; # accidentalFlatParens
+  sub uniE26A uniE261 uniE26B by uniE26A_uniE261_uniE26B; # accidentalNaturalParens
+  sub uniE26A uniE262 uniE26B by uniE26A_uniE262_uniE26B; # accidentalSharpParens
+  sub uniE26A uniE263 uniE26B by uniE26A_uniE263_uniE26B; # accidentalDoubleSharpParens
+  sub uniE26A uniE264 uniE26B by uniE26A_uniE264_uniE26B; # accidentalDoubleFlatParens
+  sub uniE262 uniE2B2 by uniE262_uniE2B2; # accidentalSharpJohnstonEl
+  sub uniE262 uniE2B4 by uniE262_uniE2B4; # accidentalSharpJohnstonUp
+  sub uniE262 uniE2B5 by uniE262_uniE2B5; # accidentalSharpJohnstonDown
+  sub uniE260 uniE2B2 by uniE260_uniE2B2; # accidentalFlatJohnstonEl
+  sub uniE260 uniE2B4 by uniE260_uniE2B4; # accidentalFlatJohnstonUp
+  sub uniE260 uniE2B5 by uniE260_uniE2B5; # accidentalFlatJohnstonDown
+  sub uniE2B3 uniE262 by uniE2B3_uniE262; # accidentalJohnstonSevenSharp
+  sub uniE2B3 uniE260 by uniE2B3_uniE260; # accidentalJohnstonSevenFlat
+  sub uniE2B3 uniE2B4 by uniE2B3_uniE2B4; # accidentalJohnstonSevenUp
+  sub uniE2B3 uniE2B5 by uniE2B3_uniE2B5; # accidentalJohnstonSevenDown
+  sub uniE2B4 uniE2B2 by uniE2B4_uniE2B2; # accidentalJohnstonUpEl
+  sub uniE2B5 uniE2B2 by uniE2B5_uniE2B2; # accidentalJohnstonDownEl
+  sub uniE262 uniE2B4 uniE2B2 by uniE262_uniE2B4_uniE2B2; # accidentalSharpJohnstonUpEl
+  sub uniE262 uniE2B5 uniE2B2 by uniE262_uniE2B5_uniE2B2; # accidentalSharpJohnstonDownEl
+  sub uniE2B3 uniE262 uniE2B4 by uniE2B3_uniE262_uniE2B4; # accidentalJohnstonSevenSharpUp
+  sub uniE2B3 uniE262 uniE2B5 by uniE2B3_uniE262_uniE2B5; # accidentalJohnstonSevenSharpDown
+  sub uniE260 uniE2B4 uniE2B2 by uniE260_uniE2B4_uniE2B2; # accidentalFlatJohnstonUpEl
+  sub uniE260 uniE2B2 uniE2B5 by uniE260_uniE2B2_uniE2B5; # accidentalFlatJohnstonElDown
+  sub uniE2B3 uniE260 uniE2B4 by uniE2B3_uniE260_uniE2B4; # accidentalJohnstonSevenFlatUp
+  sub uniE2B3 uniE260 uniE2B5 by uniE2B3_uniE260_uniE2B5; # accidentalJohnstonSevenFlatDown
+  sub uniE09E uniE082 uniE09F uniE084 by uniE09E_uniE082_uniE09F_uniE084; # timeSig2over4
+  sub uniE09E uniE082 uniE09F uniE082 by uniE09E_uniE082_uniE09F_uniE082; # timeSig2over2
+  sub uniE09E uniE083 uniE09F uniE082 by uniE09E_uniE083_uniE09F_uniE082; # timeSig3over2
+  sub uniE09E uniE083 uniE09F uniE084 by uniE09E_uniE083_uniE09F_uniE084; # timeSig3over4
+  sub uniE09E uniE083 uniE09F uniE088 by uniE09E_uniE083_uniE09F_uniE088; # timeSig3over8
+  sub uniE09E uniE084 uniE09F uniE084 by uniE09E_uniE084_uniE09F_uniE084; # timeSig4over4
+  sub uniE09E uniE085 uniE09F uniE084 by uniE09E_uniE085_uniE09F_uniE084; # timeSig5over4
+  sub uniE09E uniE085 uniE09F uniE088 by uniE09E_uniE085_uniE09F_uniE088; # timeSig5over8
+  sub uniE09E uniE086 uniE09F uniE084 by uniE09E_uniE086_uniE09F_uniE084; # timeSig6over4
+  sub uniE09E uniE086 uniE09F uniE088 by uniE09E_uniE086_uniE09F_uniE088; # timeSig6over8
+  sub uniE09E uniE087 uniE09F uniE088 by uniE09E_uniE087_uniE09F_uniE088; # timeSig7over8
+  sub uniE09E uniE089 uniE09F uniE088 by uniE09E_uniE089_uniE09F_uniE088; # timeSig9over8
+  sub uniE09E uniE081 uniE09E uniE082 uniE09F uniE088 by uniE09E_uniE081_uniE09E_uniE082_uniE09F_uniE088; # timeSig12over8
+} ccmp;

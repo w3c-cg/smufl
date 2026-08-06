@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC83" format="2">
+  <advance width="118"/>
+  <unicode hex="EC83"/>
+  <note>timeSigBracketRightSmall</note>
+  <outline>
+    <component base="uniEC82" xScale="-1" xOffset="118"/>
+  </outline>
+</glyph>

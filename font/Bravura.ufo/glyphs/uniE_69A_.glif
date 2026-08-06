@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE69A" format="2">
+  <advance width="284"/>
+  <unicode hex="E69A"/>
+  <note>harpSalzedoDampAbove</note>
+  <outline>
+    <component base="uniE699" yScale="-1" yOffset="284"/>
+  </outline>
+</glyph>

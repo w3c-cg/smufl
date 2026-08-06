@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE133" format="2">
+  <advance width="300"/>
+  <unicode hex="E133"/>
+  <note>noteheadClusterHalfMiddle</note>
+  <outline>
+    <contour>
+      <point x="234" y="100" type="line" name="hr01"/>
+      <point x="197" y="100" type="line"/>
+      <point x="197" y="-99" type="line"/>
+      <point x="234" y="-99" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="-100" type="line"/>
+      <point x="101" y="100" type="line"/>
+      <point x="65" y="100" type="line"/>
+      <point x="65" y="-100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

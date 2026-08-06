@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE65C" format="2">
+  <advance width="451"/>
+  <unicode hex="E65C"/>
+  <note>keyboardPedalHalf3</note>
+  <outline>
+    <component base="uniE65B" yScale="-1" yOffset="492"/>
+  </outline>
+</glyph>

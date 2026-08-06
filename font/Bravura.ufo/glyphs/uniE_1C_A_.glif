@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1CA" format="2">
+  <advance width="323"/>
+  <unicode hex="E1CA"/>
+  <anchor x="0" y="0" name="stemDownNW"/>
+  <anchor x="323" y="0" name="stemUpSE"/>
+  <note>noteShapeTriangleRoundLeftWhite</note>
+  <outline>
+    <contour>
+      <point x="256" y="-124" type="line"/>
+      <point x="257" y="-125"/>
+      <point x="258" y="-125"/>
+      <point x="260" y="-125" type="curve"/>
+      <point x="280" y="-125"/>
+      <point x="323" y="-81"/>
+      <point x="323" y="2" type="curve" smooth="yes"/>
+      <point x="323" y="85"/>
+      <point x="281" y="125"/>
+      <point x="260" y="125" type="curve"/>
+      <point x="258" y="125"/>
+      <point x="256" y="125"/>
+      <point x="255" y="124" type="curve"/>
+      <point x="14" y="14" type="line" smooth="yes"/>
+      <point x="5" y="10"/>
+      <point x="0" y="4"/>
+      <point x="0" y="-1" type="curve" smooth="yes"/>
+      <point x="0" y="-6"/>
+      <point x="5" y="-11"/>
+      <point x="14" y="-15" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="65" y="-8" type="line"/>
+      <point x="60" y="-6"/>
+      <point x="58" y="-4"/>
+      <point x="58" y="-1" type="curve" smooth="yes"/>
+      <point x="58" y="2"/>
+      <point x="60" y="5"/>
+      <point x="65" y="7" type="curve"/>
+      <point x="192" y="64" type="line"/>
+      <point x="203" y="64"/>
+      <point x="225" y="43"/>
+      <point x="225" y="1" type="curve" smooth="yes"/>
+      <point x="225" y="-42"/>
+      <point x="202" y="-65"/>
+      <point x="190" y="-65" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

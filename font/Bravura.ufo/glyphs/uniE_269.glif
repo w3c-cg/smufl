@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE269" format="2">
+  <advance width="519"/>
+  <unicode hex="E269"/>
+  <anchor x="482" y="225" name="cutOutNE"/>
+  <anchor x="36" y="149" name="cutOutNW"/>
+  <anchor x="484" y="-151" name="cutOutSE"/>
+  <anchor x="36" y="-224" name="cutOutSW"/>
+  <note>accidentalSharpSharp</note>
+  <outline>
+    <component base="uniE262"/>
+    <component base="uniE262" xOffset="270"/>
+  </outline>
+</glyph>

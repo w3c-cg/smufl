@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE564" format="2">
+  <advance width="505"/>
+  <unicode hex="E564"/>
+  <note>graceNoteSlashStemUp</note>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="curve" smooth="yes"/>
+      <point x="37" y="0"/>
+      <point x="43" y="2"/>
+      <point x="48" y="6" type="curve" smooth="yes"/>
+      <point x="494" y="348" type="line"/>
+      <point x="501" y="353"/>
+      <point x="505" y="363"/>
+      <point x="505" y="372" type="curve" smooth="yes"/>
+      <point x="505" y="377"/>
+      <point x="503" y="385"/>
+      <point x="499" y="390" type="curve"/>
+      <point x="494" y="398"/>
+      <point x="487" y="401"/>
+      <point x="477" y="401" type="curve" smooth="yes"/>
+      <point x="472" y="401"/>
+      <point x="464" y="400"/>
+      <point x="459" y="396" type="curve" smooth="yes"/>
+      <point x="13" y="54" type="line"/>
+      <point x="4" y="48"/>
+      <point x="0" y="39"/>
+      <point x="0" y="30" type="curve" smooth="yes"/>
+      <point x="0" y="22"/>
+      <point x="2" y="17"/>
+      <point x="7" y="11" type="curve" smooth="yes"/>
+      <point x="13" y="4"/>
+      <point x="20" y="0"/>
+    </contour>
+  </outline>
+</glyph>

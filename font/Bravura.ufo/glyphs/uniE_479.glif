@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE479" format="2">
+  <advance width="301"/>
+  <unicode hex="E479"/>
+  <note>accidentalCommaSlashUp</note>
+  <outline>
+    <component base="uniE47A" yScale="-1" yOffset="1"/>
+  </outline>
+</glyph>

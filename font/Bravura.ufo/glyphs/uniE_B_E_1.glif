@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBE1" format="2">
+  <advance width="138"/>
+  <unicode hex="EBE1"/>
+  <note>luteItalianFret1</note>
+  <outline>
+    <component base="uniEA51" xScale="1.1795" yScale="1.1811"/>
+  </outline>
+</glyph>

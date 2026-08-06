@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4B9" format="2">
+  <advance width="383"/>
+  <unicode hex="E4B9"/>
+  <note>articUnstressBelow</note>
+  <outline>
+    <contour>
+      <point x="383" y="-207" type="line"/>
+      <point x="383" y="-191" type="line" smooth="yes"/>
+      <point x="383" y="-86"/>
+      <point x="297" y="0"/>
+      <point x="192" y="0" type="curve" smooth="yes"/>
+      <point x="87" y="0"/>
+      <point x="1" y="-86"/>
+      <point x="1" y="-191" type="curve" smooth="yes"/>
+      <point x="1" y="-207" type="line"/>
+      <point x="33" y="-207" type="line"/>
+      <point x="33" y="-191" type="line" smooth="yes"/>
+      <point x="33" y="-103"/>
+      <point x="104" y="-32"/>
+      <point x="192" y="-32" type="curve" smooth="yes"/>
+      <point x="280" y="-32"/>
+      <point x="351" y="-103"/>
+      <point x="351" y="-191" type="curve" smooth="yes"/>
+      <point x="351" y="-207" type="line"/>
+    </contour>
+  </outline>
+</glyph>

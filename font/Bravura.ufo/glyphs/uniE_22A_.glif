@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE22A" format="2">
+  <advance width="156"/>
+  <unicode hex="E22A"/>
+  <note>buzzRoll</note>
+  <outline>
+    <contour>
+      <point x="156" y="-116" type="line"/>
+      <point x="156" y="-67" type="line"/>
+      <point x="-64" y="-67" type="line"/>
+      <point x="156" y="67" type="line"/>
+      <point x="156" y="116" type="line"/>
+      <point x="-155" y="116" type="line"/>
+      <point x="-155" y="67" type="line"/>
+      <point x="61" y="67" type="line"/>
+      <point x="-155" y="-67" type="line"/>
+      <point x="-155" y="-116" type="line"/>
+    </contour>
+  </outline>
+</glyph>

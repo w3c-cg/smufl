@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4A1.salt01" format="2">
+  <advance width="431"/>
+  <unicode hex="F42B"/>
+  <note>articAccentBelowLarge</note>
+  <outline>
+    <component base="uniE4A0.salt01" yOffset="-305"/>
+  </outline>
+</glyph>

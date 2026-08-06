@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA0A" format="2">
+  <advance width="558"/>
+  <unicode hex="EA0A"/>
+  <note>mensuralCustosCheckmark</note>
+  <outline>
+    <contour>
+      <point x="553" y="452" type="curve"/>
+      <point x="551" y="453"/>
+      <point x="549" y="454"/>
+      <point x="546" y="454" type="curve" smooth="yes"/>
+      <point x="542" y="454"/>
+      <point x="539" y="453"/>
+      <point x="537" y="450" type="curve"/>
+      <point x="304" y="172" type="line"/>
+      <point x="140" y="309" type="line"/>
+      <point x="138" y="311"/>
+      <point x="136" y="312"/>
+      <point x="133" y="312" type="curve" smooth="yes"/>
+      <point x="129" y="312"/>
+      <point x="125" y="310"/>
+      <point x="123" y="308" type="curve"/>
+      <point x="3" y="164" type="line"/>
+      <point x="1" y="162"/>
+      <point x="0" y="159"/>
+      <point x="0" y="157" type="curve"/>
+      <point x="0" y="153"/>
+      <point x="2" y="150"/>
+      <point x="4" y="147" type="curve"/>
+      <point x="177" y="3" type="line"/>
+      <point x="179" y="0"/>
+      <point x="181" y="0"/>
+      <point x="184" y="0" type="curve" smooth="yes"/>
+      <point x="187" y="0"/>
+      <point x="191" y="1"/>
+      <point x="193" y="4" type="curve"/>
+      <point x="555" y="435" type="line"/>
+      <point x="556" y="438"/>
+      <point x="558" y="440"/>
+      <point x="558" y="443" type="curve" smooth="yes"/>
+      <point x="558" y="446"/>
+      <point x="556" y="450"/>
+    </contour>
+  </outline>
+</glyph>

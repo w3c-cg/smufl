@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE99D" format="2">
+  <advance width="154"/>
+  <unicode hex="E99D"/>
+  <note>chantOriscusDescending</note>
+  <outline>
+    <component base="uniE99C" xScale="-1" xOffset="154"/>
+  </outline>
+</glyph>

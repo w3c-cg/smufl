@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE08E.ss04" format="2">
+  <advance width="74"/>
+  <unicode hex="F4EF"/>
+  <note>timeSigFractionalSlashLarge</note>
+  <outline>
+    <contour>
+      <point x="73" y="262" type="line"/>
+      <point x="59" y="262" type="line"/>
+      <point x="0" y="-262" type="line"/>
+      <point x="13" y="-262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

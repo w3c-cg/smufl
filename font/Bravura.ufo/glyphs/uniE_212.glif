@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE212" format="2">
+  <advance width="15"/>
+  <unicode hex="E212"/>
+  <note>stemSwished</note>
+  <outline>
+    <contour>
+      <point x="183" y="530" type="line"/>
+      <point x="234" y="718" type="line"/>
+      <point x="46" y="668" type="line"/>
+      <point x="104" y="610" type="line"/>
+      <point x="15" y="521" type="line"/>
+      <point x="15" y="871" type="line"/>
+      <point x="-15" y="871" type="line"/>
+      <point x="-15" y="491" type="line"/>
+      <point x="-205" y="301" type="line"/>
+      <point x="-184" y="280" type="line"/>
+      <point x="-15" y="448" type="line"/>
+      <point x="-15" y="-4" type="line"/>
+      <point x="15" y="-4" type="line"/>
+      <point x="15" y="478" type="line"/>
+      <point x="125" y="588" type="line"/>
+    </contour>
+  </outline>
+</glyph>

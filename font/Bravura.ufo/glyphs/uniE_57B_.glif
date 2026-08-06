@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE57B" format="2">
+  <advance width="314"/>
+  <unicode hex="E57B"/>
+  <note>ornamentObliqueLineBeforeNote</note>
+  <outline>
+    <contour>
+      <point x="55" y="-1" type="line"/>
+      <point x="314" y="443" type="line"/>
+      <point x="260" y="476" type="line"/>
+      <point x="1" y="30" type="line"/>
+    </contour>
+  </outline>
+</glyph>

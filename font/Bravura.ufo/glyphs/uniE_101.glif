@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE101" format="2">
+  <advance width="531"/>
+  <unicode hex="E101"/>
+  <anchor x="0" y="-250" name="stemDownNW"/>
+  <anchor x="530" y="250" name="stemUpSE"/>
+  <note>noteheadSlashHorizontalEnds</note>
+  <outline>
+    <contour>
+      <point x="430" y="250" type="line"/>
+      <point x="0" y="-250" type="line"/>
+      <point x="100" y="-250" type="line"/>
+      <point x="530" y="250" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2DE" format="2">
+  <advance width="172"/>
+  <unicode hex="E2DE"/>
+  <anchor x="53" y="80" name="cutOutNE"/>
+  <note>accidentalLowerOneSeptimalComma</note>
+  <outline>
+    <contour>
+      <point x="159" y="88" type="curve"/>
+      <point x="30" y="36" type="line"/>
+      <point x="30" y="423" type="line" smooth="yes"/>
+      <point x="30" y="429"/>
+      <point x="25" y="434"/>
+      <point x="19" y="434" type="curve" smooth="yes"/>
+      <point x="11" y="434" type="line" smooth="yes"/>
+      <point x="5" y="434"/>
+      <point x="0" y="429"/>
+      <point x="0" y="423" type="curve" smooth="yes"/>
+      <point x="0" y="-83" type="line" smooth="yes"/>
+      <point x="0" y="-90"/>
+      <point x="2" y="-95"/>
+      <point x="7" y="-95" type="curve"/>
+      <point x="8" y="-95"/>
+      <point x="10" y="-95"/>
+      <point x="12" y="-94" type="curve"/>
+      <point x="159" y="-34" type="line" smooth="yes"/>
+      <point x="166.051" y="-31.122"/>
+      <point x="171" y="-29"/>
+      <point x="171" y="-22" type="curve" smooth="yes"/>
+      <point x="171" y="76" type="line" smooth="yes"/>
+      <point x="171" y="83"/>
+      <point x="168" y="89"/>
+      <point x="163" y="89" type="curve"/>
+      <point x="162" y="89"/>
+      <point x="160" y="89"/>
+    </contour>
+  </outline>
+</glyph>

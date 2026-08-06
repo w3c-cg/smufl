@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE425" format="2">
+  <advance width="250"/>
+  <unicode hex="E425"/>
+  <anchor x="215" y="235" name="cutOutNE"/>
+  <anchor x="30" y="151" name="cutOutNW"/>
+  <anchor x="217" y="-152" name="cutOutSE"/>
+  <anchor x="30" y="-229" name="cutOutSW"/>
+  <note>accidentalWyschnegradsky6TwelfthsSharp</note>
+  <outline>
+    <component base="uniE262"/>
+  </outline>
+</glyph>

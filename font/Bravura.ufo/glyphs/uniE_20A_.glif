@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE20A" format="2">
+  <advance width="342"/>
+  <unicode hex="E20A"/>
+  <note>textHeadlessBlackNoteFrac32ndLongStem</note>
+  <outline>
+    <contour>
+      <point x="342" y="47" type="line"/>
+      <point x="342" y="878" type="line"/>
+      <point x="0" y="878" type="line"/>
+      <point x="0" y="753" type="line"/>
+      <point x="312" y="753" type="line"/>
+      <point x="312" y="688" type="line"/>
+      <point x="0" y="688" type="line"/>
+      <point x="0" y="563" type="line"/>
+      <point x="312" y="563" type="line"/>
+      <point x="312" y="501" type="line"/>
+      <point x="0" y="501" type="line"/>
+      <point x="0" y="376" type="line"/>
+      <point x="312" y="376" type="line"/>
+      <point x="312" y="47" type="line"/>
+    </contour>
+  </outline>
+</glyph>

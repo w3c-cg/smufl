@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA3F" format="2">
+  <advance width="609"/>
+  <unicode hex="EA3F"/>
+  <note>daseianExcellentes4</note>
+  <outline>
+    <component base="uniEA37" yScale="-1" yOffset="603"/>
+  </outline>
+</glyph>

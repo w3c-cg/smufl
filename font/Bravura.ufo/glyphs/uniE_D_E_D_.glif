@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDED" format="2">
+  <advance width="406"/>
+  <unicode hex="EDED"/>
+  <note>kahnOverTheTopTap</note>
+  <outline>
+    <contour>
+      <point x="202" y="670" type="line"/>
+      <point x="202" y="362" type="line"/>
+      <point x="146" y="361.333"/>
+      <point x="97.3333" y="340.333"/>
+      <point x="56" y="299" type="curve"/>
+      <point x="56" y="670" type="line"/>
+      <point x="0" y="670" type="line"/>
+      <point x="0" y="1" type="line"/>
+      <point x="55" y="1" type="line"/>
+      <point x="55" y="162" type="line" smooth="yes"/>
+      <point x="55" y="232.268"/>
+      <point x="112.15" y="306.277"/>
+      <point x="202" y="309" type="curve"/>
+      <point x="202" y="83" type="line"/>
+      <point x="176" y="108.333"/>
+      <point x="144.667" y="121"/>
+      <point x="108" y="121" type="curve"/>
+      <point x="108" y="89" type="line"/>
+      <point x="164.156" y="89"/>
+      <point x="202" y="42.697"/>
+      <point x="202" y="1" type="curve"/>
+      <point x="236" y="1" type="line"/>
+      <point x="236" y="311" type="line"/>
+      <point x="278.667" y="317.667"/>
+      <point x="316.667" y="338"/>
+      <point x="350" y="372" type="curve"/>
+      <point x="350" y="1" type="line"/>
+      <point x="406" y="1" type="line"/>
+      <point x="406" y="670" type="line"/>
+      <point x="351" y="670" type="line"/>
+      <point x="351" y="509" type="line"/>
+      <point x="348.332" y="447.632"/>
+      <point x="308.037" y="382.008"/>
+      <point x="236" y="366" type="curve"/>
+      <point x="236" y="670" type="line"/>
+    </contour>
+  </outline>
+</glyph>

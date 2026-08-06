@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE6A6.salt01" format="2">
+  <advance width="1201"/>
+  <unicode hex="F4AB"/>
+  <note>pictMarPeinkofer</note>
+  <outline>
+    <component base="uniE6A9"/>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE7D1" format="2">
+  <advance width="142"/>
+  <unicode hex="E7D1"/>
+  <note>pictBeaterSnareSticksUp</note>
+  <outline>
+    <contour>
+      <point x="123" y="0" type="line" smooth="yes"/>
+      <point x="128" y="0"/>
+      <point x="133" y="2"/>
+      <point x="136" y="6" type="curve"/>
+      <point x="140" y="9"/>
+      <point x="141" y="14"/>
+      <point x="141" y="19" type="curve"/>
+      <point x="89" y="716" type="line"/>
+      <point x="88" y="725"/>
+      <point x="80" y="732"/>
+      <point x="71" y="732" type="curve" smooth="yes"/>
+      <point x="62" y="732"/>
+      <point x="54" y="725"/>
+      <point x="53" y="716" type="curve"/>
+      <point x="1" y="19" type="line"/>
+      <point x="1" y="14"/>
+      <point x="2" y="9"/>
+      <point x="6" y="6" type="curve"/>
+      <point x="9" y="2"/>
+      <point x="14" y="0"/>
+      <point x="19" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="38" y="36" type="line"/>
+      <point x="71" y="473" type="line"/>
+      <point x="104" y="36" type="line"/>
+    </contour>
+  </outline>
+</glyph>

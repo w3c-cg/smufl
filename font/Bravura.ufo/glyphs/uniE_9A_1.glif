@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9A1" format="2">
+  <advance width="91"/>
+  <unicode hex="E9A1"/>
+  <note>chantPunctumDeminutum</note>
+  <outline>
+    <component base="uniE990" xScale="0.569" yScale="0.567"/>
+  </outline>
+</glyph>

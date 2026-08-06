@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE221" format="2">
+  <advance width="149"/>
+  <unicode hex="E221"/>
+  <note>tremolo2</note>
+  <outline>
+    <contour>
+      <point x="149" y="62" type="line"/>
+      <point x="149" y="187" type="line"/>
+      <point x="-151" y="125" type="line"/>
+      <point x="-151" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="1" type="line"/>
+      <point x="-151" y="-62" type="line"/>
+      <point x="-151" y="-187" type="line"/>
+      <point x="149" y="-124" type="line"/>
+    </contour>
+  </outline>
+</glyph>

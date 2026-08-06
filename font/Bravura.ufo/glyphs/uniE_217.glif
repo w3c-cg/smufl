@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE217" format="2">
+  <advance width="15"/>
+  <unicode hex="E217"/>
+  <note>stemBuzzRoll</note>
+  <outline>
+    <contour>
+      <point x="156" y="565" type="line"/>
+      <point x="156" y="614" type="line"/>
+      <point x="15" y="614" type="line"/>
+      <point x="15" y="875" type="line"/>
+      <point x="-15" y="875" type="line"/>
+      <point x="-15" y="614" type="line"/>
+      <point x="-156" y="614" type="line"/>
+      <point x="-156" y="565" type="line"/>
+      <point x="-15" y="565" type="line"/>
+      <point x="-15" y="518" type="line"/>
+      <point x="-156" y="431" type="line"/>
+      <point x="-156" y="382" type="line"/>
+      <point x="-15" y="382" type="line"/>
+      <point x="-15" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="15" y="382" type="line"/>
+      <point x="156" y="382" type="line"/>
+      <point x="156" y="431" type="line"/>
+      <point x="15" y="431" type="line"/>
+      <point x="15" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="565" type="line"/>
+      <point x="60" y="565" type="line"/>
+      <point x="15" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="-15" y="431" type="line"/>
+      <point x="-65" y="431" type="line"/>
+      <point x="-15" y="461" type="line"/>
+    </contour>
+  </outline>
+</glyph>

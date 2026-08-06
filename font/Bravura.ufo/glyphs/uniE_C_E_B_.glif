@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniECEB" format="2">
+  <advance width="417"/>
+  <unicode hex="ECEB"/>
+  <note>timeSigCutCommonTurned</note>
+  <outline>
+    <component base="uniE08B" xScale="-1" yScale="-1" xOffset="418" yOffset="2"/>
+  </outline>
+</glyph>

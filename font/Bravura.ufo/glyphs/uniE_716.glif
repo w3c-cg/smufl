@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE716" format="2">
+  <advance width="251"/>
+  <unicode hex="E716"/>
+  <note>pictCencerro</note>
+  <outline>
+    <contour>
+      <point x="236" y="0" type="line" smooth="yes"/>
+      <point x="240" y="0"/>
+      <point x="244" y="2"/>
+      <point x="247" y="5" type="curve"/>
+      <point x="250" y="9"/>
+      <point x="251" y="13"/>
+      <point x="251" y="17" type="curve"/>
+      <point x="140" y="734" type="line"/>
+      <point x="140" y="744"/>
+      <point x="126" y="747"/>
+      <point x="125" y="747" type="curve"/>
+      <point x="118" y="747"/>
+      <point x="111" y="742"/>
+      <point x="110" y="734" type="curve"/>
+      <point x="0" y="17" type="line"/>
+      <point x="0" y="13"/>
+      <point x="1" y="9"/>
+      <point x="4" y="5" type="curve"/>
+      <point x="6" y="2"/>
+      <point x="11" y="0"/>
+      <point x="15" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="125" y="633" type="line"/>
+      <point x="218" y="30" type="line"/>
+      <point x="32" y="30" type="line"/>
+    </contour>
+  </outline>
+</glyph>

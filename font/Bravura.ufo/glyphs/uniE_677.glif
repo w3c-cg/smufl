@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE677" format="2">
+  <advance width="167"/>
+  <unicode hex="E677"/>
+  <note>keyboardPedalParensRight</note>
+  <outline>
+    <component base="uniE676" xScale="-1" xOffset="165"/>
+  </outline>
+</glyph>

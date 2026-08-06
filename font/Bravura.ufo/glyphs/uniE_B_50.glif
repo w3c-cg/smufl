@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB50" format="2">
+  <advance width="543"/>
+  <unicode hex="EB50"/>
+  <note>elecUpload</note>
+  <outline>
+    <component base="uniEB4F" yScale="-1" yOffset="865"/>
+  </outline>
+</glyph>

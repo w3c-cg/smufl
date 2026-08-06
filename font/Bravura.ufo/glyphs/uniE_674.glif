@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE674" format="2">
+  <advance width="888"/>
+  <unicode hex="E674"/>
+  <note>keyboardPedalHeelToToe</note>
+  <outline>
+    <component base="uniE661"/>
+    <component base="uniE664" yScale="-1" xOffset="450" yOffset="532"/>
+    <component base="uniE550" yScale="-1" xOffset="268" yOffset="587"/>
+  </outline>
+</glyph>

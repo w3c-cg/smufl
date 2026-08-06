@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE957" format="2">
+  <advance width="283"/>
+  <unicode hex="E957"/>
+  <note>mensuralBlackSemibrevisVoid</note>
+  <outline>
+    <component base="uniE939"/>
+  </outline>
+</glyph>

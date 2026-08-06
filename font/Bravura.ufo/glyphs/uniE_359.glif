@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE359" format="2">
+  <advance width="344"/>
+  <unicode hex="E359"/>
+  <note>accSagittalFlat55CDown</note>
+  <outline>
+    <contour>
+      <point x="31" y="359" type="line"/>
+      <point x="31" y="-54" type="line"/>
+      <point x="94" y="-7" type="line"/>
+      <point x="94" y="359" type="line"/>
+      <point x="125" y="359" type="line"/>
+      <point x="125" y="16" type="line"/>
+      <point x="188" y="64" type="line"/>
+      <point x="188" y="359" type="line"/>
+      <point x="219" y="359" type="line"/>
+      <point x="219" y="88" type="line"/>
+      <point x="344" y="183" type="line"/>
+      <point x="344" y="78" type="line"/>
+      <point x="16" y="-172" type="line"/>
+      <point x="0" y="-172" type="line"/>
+      <point x="0" y="359" type="line"/>
+    </contour>
+  </outline>
+</glyph>

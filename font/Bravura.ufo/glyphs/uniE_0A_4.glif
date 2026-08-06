@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0A4" format="2">
+  <advance width="295"/>
+  <unicode hex="E0A4"/>
+  <anchor x="52" y="75" name="cutOutNW"/>
+  <anchor x="235" y="-74" name="cutOutSE"/>
+  <anchor x="242" y="-62" name="splitStemDownNE"/>
+  <anchor x="30" y="-104" name="splitStemDownNW"/>
+  <anchor x="273" y="98" name="splitStemUpSE"/>
+  <anchor x="78" y="89" name="splitStemUpSW"/>
+  <anchor x="0" y="-42" name="stemDownNW"/>
+  <anchor x="295" y="42" name="stemUpSE"/>
+  <note>noteheadBlack</note>
+  <outline>
+    <contour>
+      <point x="97" y="-125" type="curve" smooth="yes"/>
+      <point x="186" y="-125"/>
+      <point x="295" y="-43"/>
+      <point x="295" y="42" type="curve" smooth="yes"/>
+      <point x="295" y="93"/>
+      <point x="255" y="125"/>
+      <point x="198" y="125" type="curve" smooth="yes"/>
+      <point x="88" y="125"/>
+      <point x="0" y="44"/>
+      <point x="0" y="-42" type="curve" smooth="yes"/>
+      <point x="0" y="-94"/>
+      <point x="43" y="-125"/>
+    </contour>
+  </outline>
+</glyph>

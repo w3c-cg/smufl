@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE013" format="2">
+  <advance width="500"/>
+  <unicode hex="E013"/>
+  <note>staff4Lines</note>
+  <outline>
+    <contour>
+      <point x="500" y="391" type="line"/>
+      <point x="0" y="391" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="500" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="641" type="line"/>
+      <point x="0" y="641" type="line"/>
+      <point x="0" y="609" type="line"/>
+      <point x="500" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="141" type="line"/>
+      <point x="0" y="141" type="line"/>
+      <point x="0" y="109" type="line"/>
+      <point x="500" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="891" type="line"/>
+      <point x="0" y="891" type="line"/>
+      <point x="0" y="859" type="line"/>
+      <point x="500" y="859" type="line"/>
+    </contour>
+  </outline>
+</glyph>

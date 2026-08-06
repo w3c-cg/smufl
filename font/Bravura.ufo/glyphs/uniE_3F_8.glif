@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE3F8" format="2">
+  <advance width="155"/>
+  <unicode hex="E3F8"/>
+  <note>accSagittal1TinaDown</note>
+  <outline>
+    <contour>
+      <point x="93" y="107" type="curve"/>
+      <point x="63" y="107" type="line"/>
+      <point x="63" y="70"/>
+      <point x="62.5195" y="59.5195"/>
+      <point x="56" y="53" type="curve" smooth="yes"/>
+      <point x="51" y="48"/>
+      <point x="33" y="47"/>
+      <point x="0" y="47" type="curve"/>
+      <point x="0" y="16" type="line"/>
+      <point x="35" y="16"/>
+      <point x="64" y="19"/>
+      <point x="78" y="31" type="curve" smooth="yes"/>
+      <point x="89.8134" y="41.1258"/>
+      <point x="93" y="51"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <real>0</real>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w155m93,107l63,107c63,70 62.52,59.52 56,53c51,48 33,47 0,47l0,16c35,16 64,19 78,31c89.81,41.13 93,51 93,107</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 16 31</string>
+          <string>vstem 63 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

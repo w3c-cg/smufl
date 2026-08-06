@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE565" format="2">
+  <advance width="505"/>
+  <unicode hex="E565"/>
+  <note>graceNoteSlashStemDown</note>
+  <outline>
+    <component base="uniE564" yScale="-1"/>
+  </outline>
+</glyph>

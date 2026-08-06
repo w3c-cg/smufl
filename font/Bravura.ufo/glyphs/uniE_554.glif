@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE554" format="2">
+  <advance width="335"/>
+  <unicode hex="E554"/>
+  <note>lyricsHyphenBaselineNonBreaking</note>
+  <outline>
+    <component base="uniE553"/>
+  </outline>
+</glyph>

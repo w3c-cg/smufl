@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB20" format="2">
+  <advance width="901"/>
+  <unicode hex="EB20"/>
+  <note>elecRewind</note>
+  <outline>
+    <component base="uniEB1F" xScale="-1" xOffset="900"/>
+  </outline>
+</glyph>

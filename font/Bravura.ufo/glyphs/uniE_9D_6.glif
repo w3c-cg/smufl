@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9D6" format="2">
+  <advance width="73"/>
+  <unicode hex="E9D6"/>
+  <note>chantAccentusAbove</note>
+  <outline>
+    <contour>
+      <point x="14" y="97" type="curve" smooth="yes"/>
+      <point x="19" y="97"/>
+      <point x="25" y="100"/>
+      <point x="27" y="104" type="curve"/>
+      <point x="72" y="175" type="line"/>
+      <point x="73" y="178"/>
+      <point x="74" y="181"/>
+      <point x="74" y="185" type="curve" smooth="yes"/>
+      <point x="74" y="194"/>
+      <point x="67" y="203"/>
+      <point x="56" y="203" type="curve" smooth="yes"/>
+      <point x="50" y="203"/>
+      <point x="44" y="199"/>
+      <point x="41" y="193" type="curve"/>
+      <point x="1" y="120" type="line"/>
+      <point x="0" y="118"/>
+      <point x="0" y="115"/>
+      <point x="0" y="113" type="curve"/>
+      <point x="0" y="106"/>
+      <point x="6" y="97"/>
+    </contour>
+  </outline>
+</glyph>

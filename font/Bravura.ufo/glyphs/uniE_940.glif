@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE940" format="2">
+  <advance width="1"/>
+  <unicode hex="E940"/>
+  <note>mensuralCombStemDiagonal</note>
+  <outline>
+    <contour>
+      <point x="-177" y="-193" type="curve" smooth="yes"/>
+      <point x="-173" y="-193"/>
+      <point x="-169" y="-191"/>
+      <point x="-166" y="-188" type="curve" smooth="yes"/>
+      <point x="187" y="165" type="line" smooth="yes"/>
+      <point x="190" y="168"/>
+      <point x="192" y="173"/>
+      <point x="192" y="177" type="curve" smooth="yes"/>
+      <point x="192" y="181"/>
+      <point x="190" y="185"/>
+      <point x="187" y="188" type="curve" smooth="yes"/>
+      <point x="184" y="191"/>
+      <point x="180" y="192"/>
+      <point x="176" y="192" type="curve" smooth="yes"/>
+      <point x="172" y="192"/>
+      <point x="168" y="191"/>
+      <point x="165" y="188" type="curve" smooth="yes"/>
+      <point x="-189" y="-166" type="line" smooth="yes"/>
+      <point x="-192" y="-169"/>
+      <point x="-194" y="-173"/>
+      <point x="-194" y="-177" type="curve" smooth="yes"/>
+      <point x="-194" y="-181"/>
+      <point x="-192" y="-185"/>
+      <point x="-189" y="-188" type="curve" smooth="yes"/>
+      <point x="-186" y="-191"/>
+      <point x="-181" y="-193"/>
+    </contour>
+  </outline>
+</glyph>

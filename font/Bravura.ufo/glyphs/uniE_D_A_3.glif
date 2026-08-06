@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDA3" format="2">
+  <advance width="403"/>
+  <unicode hex="EDA3"/>
+  <note>kahnLeap</note>
+  <outline>
+    <contour>
+      <point x="404" y="221" type="line"/>
+      <point x="338.667" y="220.333"/>
+      <point x="282" y="197"/>
+      <point x="234" y="151" type="curve"/>
+      <point x="234" y="703" type="line"/>
+      <point x="171" y="703" type="line"/>
+      <point x="171.049" y="701.568"/>
+      <point x="171.074" y="700.136"/>
+      <point x="171.074" y="698.704" type="curve" smooth="yes"/>
+      <point x="171.074" y="626.137"/>
+      <point x="103.233" y="543"/>
+      <point x="0" y="543" type="curve"/>
+      <point x="0" y="483" type="line"/>
+      <point x="66.6667" y="484.333"/>
+      <point x="123.333" y="507.333"/>
+      <point x="170" y="552" type="curve"/>
+      <point x="170" y="1" type="line"/>
+      <point x="234" y="1" type="line"/>
+      <point x="233.949" y="2.48718"/>
+      <point x="233.923" y="3.97337"/>
+      <point x="233.923" y="5.45858" type="curve" smooth="yes"/>
+      <point x="233.923" y="76.6044"/>
+      <point x="299.878" y="161"/>
+      <point x="404" y="161" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

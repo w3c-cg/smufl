@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE265" format="2">
+  <advance width="513"/>
+  <unicode hex="E265"/>
+  <anchor x="215" y="229" name="cutOutNE"/>
+  <anchor x="30" y="149" name="cutOutNW"/>
+  <anchor x="215" y="-147" name="cutOutSE"/>
+  <anchor x="30" y="-225" name="cutOutSW"/>
+  <note>accidentalTripleSharp</note>
+  <outline>
+    <component base="uniE263" xOffset="266"/>
+    <component base="uniE262"/>
+  </outline>
+</glyph>

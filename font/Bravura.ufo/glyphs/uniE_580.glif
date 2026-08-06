@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE580" format="2">
+  <advance width="485"/>
+  <unicode hex="E580"/>
+  <note>ornamentObliqueLineHorizAfterNote</note>
+  <outline>
+    <component base="uniE57F" xScale="-1" xOffset="486"/>
+  </outline>
+</glyph>

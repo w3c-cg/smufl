@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE345" format="2">
+  <advance width="219"/>
+  <unicode hex="E345"/>
+  <note>accSagittal55CommaDown</note>
+  <outline>
+    <contour>
+      <point x="0" y="-172" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="31" y="359" type="line"/>
+      <point x="31" y="-40" type="line"/>
+      <point x="219" y="190" type="line"/>
+      <point x="219" y="78" type="line"/>
+      <point x="16" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

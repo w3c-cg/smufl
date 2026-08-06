@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE68F" format="2">
+  <advance width="702"/>
+  <unicode hex="E68F"/>
+  <note>harpMetalRod</note>
+  <outline>
+    <contour>
+      <point x="618" y="533" type="line"/>
+      <point x="625" y="530"/>
+      <point x="639" y="520"/>
+      <point x="651" y="503" type="curve"/>
+      <point x="664" y="487"/>
+      <point x="669" y="470"/>
+      <point x="670" y="462" type="curve"/>
+      <point x="84" y="33" type="line"/>
+      <point x="77" y="37"/>
+      <point x="62" y="47"/>
+      <point x="50" y="63" type="curve"/>
+      <point x="38" y="80"/>
+      <point x="33" y="97"/>
+      <point x="32" y="104" type="curve"/>
+    </contour>
+    <contour>
+      <point x="692" y="439" type="line" smooth="yes"/>
+      <point x="699" y="444"/>
+      <point x="702" y="450"/>
+      <point x="702" y="460" type="curve" smooth="yes"/>
+      <point x="702" y="465"/>
+      <point x="701" y="471"/>
+      <point x="699" y="478" type="curve" smooth="yes"/>
+      <point x="695" y="493"/>
+      <point x="687" y="509"/>
+      <point x="677" y="522" type="curve"/>
+      <point x="659" y="547"/>
+      <point x="632" y="566"/>
+      <point x="615" y="566" type="curve" smooth="yes"/>
+      <point x="610" y="566"/>
+      <point x="606" y="564"/>
+      <point x="603" y="562" type="curve"/>
+      <point x="10" y="128" type="line" smooth="yes"/>
+      <point x="3" y="123"/>
+      <point x="0" y="116"/>
+      <point x="0" y="106" type="curve" smooth="yes"/>
+      <point x="0" y="101"/>
+      <point x="1" y="95"/>
+      <point x="3" y="88" type="curve" smooth="yes"/>
+      <point x="7" y="73"/>
+      <point x="15" y="58"/>
+      <point x="24" y="44" type="curve"/>
+      <point x="42" y="20"/>
+      <point x="70" y="0"/>
+      <point x="86" y="0" type="curve" smooth="yes"/>
+      <point x="90" y="0"/>
+      <point x="96" y="3"/>
+      <point x="98" y="4" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

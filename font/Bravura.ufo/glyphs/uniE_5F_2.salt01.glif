@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5F2.salt01" format="2">
+  <advance width="384"/>
+  <unicode hex="F42F"/>
+  <note>tripleTongueAboveNoSlur</note>
+  <outline>
+    <contour>
+      <point x="100" y="50" type="curve" smooth="yes"/>
+      <point x="100" y="78"/>
+      <point x="78" y="100"/>
+      <point x="50" y="100" type="curve" smooth="yes"/>
+      <point x="23" y="100"/>
+      <point x="0" y="78"/>
+      <point x="0" y="50" type="curve" smooth="yes"/>
+      <point x="0" y="23"/>
+      <point x="23" y="0"/>
+      <point x="50" y="0" type="curve" smooth="yes"/>
+      <point x="78" y="0"/>
+      <point x="100" y="23"/>
+    </contour>
+    <contour>
+      <point x="242" y="50" type="curve" smooth="yes"/>
+      <point x="242" y="78"/>
+      <point x="219" y="100"/>
+      <point x="192" y="100" type="curve" smooth="yes"/>
+      <point x="164" y="100"/>
+      <point x="142" y="78"/>
+      <point x="142" y="50" type="curve" smooth="yes"/>
+      <point x="142" y="23"/>
+      <point x="164" y="0"/>
+      <point x="192" y="0" type="curve" smooth="yes"/>
+      <point x="219" y="0"/>
+      <point x="242" y="23"/>
+    </contour>
+    <contour>
+      <point x="383" y="50" type="curve" smooth="yes"/>
+      <point x="383" y="78"/>
+      <point x="361" y="100"/>
+      <point x="333" y="100" type="curve" smooth="yes"/>
+      <point x="305" y="100"/>
+      <point x="283" y="78"/>
+      <point x="283" y="50" type="curve" smooth="yes"/>
+      <point x="283" y="23"/>
+      <point x="305" y="0"/>
+      <point x="333" y="0" type="curve" smooth="yes"/>
+      <point x="361" y="0"/>
+      <point x="383" y="23"/>
+    </contour>
+  </outline>
+</glyph>

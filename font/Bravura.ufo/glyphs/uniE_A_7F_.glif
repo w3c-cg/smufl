@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA7F" format="2">
+  <advance width="618"/>
+  <unicode hex="EA7F"/>
+  <note>functionDUpper</note>
+  <outline>
+    <contour>
+      <point x="598" y="365" type="curve" smooth="yes"/>
+      <point x="598" y="591"/>
+      <point x="486" y="729"/>
+      <point x="301" y="729" type="curve" smooth="yes"/>
+      <point x="20" y="729" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="301" y="0" type="line" smooth="yes"/>
+      <point x="485" y="0"/>
+      <point x="598" y="138"/>
+    </contour>
+    <contour>
+      <point x="505" y="364" type="curve" smooth="yes"/>
+      <point x="505" y="180"/>
+      <point x="429" y="82"/>
+      <point x="285" y="82" type="curve" smooth="yes"/>
+      <point x="113" y="82" type="line"/>
+      <point x="113" y="647" type="line"/>
+      <point x="285" y="647" type="line" smooth="yes"/>
+      <point x="429" y="647"/>
+      <point x="505" y="550"/>
+    </contour>
+  </outline>
+</glyph>

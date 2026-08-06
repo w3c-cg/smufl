@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4C3" format="2">
+  <advance width="735"/>
+  <unicode hex="E4C3"/>
+  <note>fermataVeryShortBelow</note>
+  <outline>
+    <component base="uniE4C2" yScale="-1"/>
+  </outline>
+</glyph>

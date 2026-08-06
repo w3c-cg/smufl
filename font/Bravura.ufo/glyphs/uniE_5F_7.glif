@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5F7" format="2">
+  <advance width="305"/>
+  <unicode hex="E5F7"/>
+  <note>windHalfClosedHole2</note>
+  <outline>
+    <contour>
+      <point x="153" y="304" type="curve" smooth="yes"/>
+      <point x="70" y="304"/>
+      <point x="1" y="236"/>
+      <point x="1" y="152" type="curve" smooth="yes"/>
+      <point x="1" y="68"/>
+      <point x="70" y="0"/>
+      <point x="153" y="0" type="curve" smooth="yes"/>
+      <point x="237" y="0"/>
+      <point x="305" y="68"/>
+      <point x="305" y="152" type="curve" smooth="yes"/>
+      <point x="305" y="236"/>
+      <point x="237" y="304"/>
+    </contour>
+    <contour>
+      <point x="153" y="272" type="curve" smooth="yes"/>
+      <point x="219" y="272"/>
+      <point x="273" y="218"/>
+      <point x="273" y="152" type="curve"/>
+      <point x="33" y="152" type="line"/>
+      <point x="33" y="218"/>
+      <point x="87" y="272"/>
+    </contour>
+  </outline>
+</glyph>

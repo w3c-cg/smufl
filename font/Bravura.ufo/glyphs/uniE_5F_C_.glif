@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5FC" format="2">
+  <advance width="375"/>
+  <unicode hex="E5FC"/>
+  <note>windSharpEmbouchure</note>
+  <outline>
+    <component base="uniE5FB" yScale="-1" yOffset="393"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1B7" format="2">
+  <advance width="360"/>
+  <unicode hex="E1B7"/>
+  <anchor x="0" y="125" name="stemDownNW"/>
+  <anchor x="359" y="-125" name="stemUpSE"/>
+  <note>noteShapeTriangleLeftBlack</note>
+  <outline>
+    <component base="uniE1B5" xScale="-1" yScale="-1" xOffset="360"/>
+  </outline>
+</glyph>

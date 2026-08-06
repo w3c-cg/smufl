@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEAB1" format="2">
+  <advance width="205"/>
+  <unicode hex="EAB1"/>
+  <anchor x="205" y="0" name="repeatOffset"/>
+  <note>wiggleVibratoWide</note>
+  <outline>
+    <component base="uniEAB3"/>
+  </outline>
+</glyph>

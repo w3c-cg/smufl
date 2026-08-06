@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB33" format="2">
+  <advance width="236"/>
+  <unicode hex="EB33"/>
+  <note>elecVolumeLevel100</note>
+  <outline>
+    <component base="uniEB2E" yScale="-1" yOffset="1020"/>
+  </outline>
+</glyph>

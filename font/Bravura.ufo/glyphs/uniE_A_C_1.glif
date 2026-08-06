@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEAC1" format="2">
+  <advance width="268"/>
+  <unicode hex="EAC1"/>
+  <anchor x="268" y="0" name="repeatOffset"/>
+  <note>wiggleCircularConstantFlipped</note>
+  <outline>
+    <component base="uniEAC0" yScale="-1"/>
+  </outline>
+</glyph>

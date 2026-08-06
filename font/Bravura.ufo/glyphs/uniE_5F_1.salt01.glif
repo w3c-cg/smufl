@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5F1.salt01" format="2">
+  <advance width="250"/>
+  <unicode hex="F42E"/>
+  <note>doubleTongueBelowNoSlur</note>
+  <outline>
+    <component base="uniE5F0.salt01"/>
+  </outline>
+</glyph>

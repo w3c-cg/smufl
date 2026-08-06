@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE09B" format="2">
+  <advance width="446"/>
+  <unicode hex="E09B"/>
+  <note>timeSigFractionTwoThirds</note>
+  <outline>
+    <component base="uniE083" xScale="0.5039" yScale="0.504" xOffset="230" yOffset="-123"/>
+    <component base="uniE082" xScale="0.468" yScale="0.4697" xOffset="6" yOffset="131"/>
+    <component base="uniE08E" xOffset="29" yOffset="5"/>
+  </outline>
+</glyph>

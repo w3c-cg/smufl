@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE93A_uniE93F" format="2">
+  <advance width="282"/>
+  <unicode hex="F5AD"/>
+  <note>mensuralMinimaBlackVoidStemDown</note>
+  <outline>
+    <contour>
+      <point x="153" y="136" type="line" smooth="yes"/>
+      <point x="150" y="139"/>
+      <point x="146" y="140"/>
+      <point x="142" y="140" type="curve" smooth="yes"/>
+      <point x="138" y="140"/>
+      <point x="133" y="139"/>
+      <point x="130" y="136" type="curve" smooth="yes"/>
+      <point x="5" y="11" type="line" smooth="yes"/>
+      <point x="2" y="8"/>
+      <point x="0" y="4"/>
+      <point x="0" y="0" type="curve" smooth="yes"/>
+      <point x="0" y="-4"/>
+      <point x="2" y="-9"/>
+      <point x="5" y="-12" type="curve" smooth="yes"/>
+      <point x="126" y="-132" type="line"/>
+      <point x="126" y="-650" type="line" smooth="yes"/>
+      <point x="126" y="-659"/>
+      <point x="133" y="-666"/>
+      <point x="142" y="-666" type="curve" smooth="yes"/>
+      <point x="151" y="-666"/>
+      <point x="158" y="-659"/>
+      <point x="158" y="-650" type="curve" smooth="yes"/>
+      <point x="158" y="-132" type="line"/>
+      <point x="278" y="-12" type="line" smooth="yes"/>
+      <point x="281" y="-9"/>
+      <point x="282" y="-4"/>
+      <point x="282" y="0" type="curve" smooth="yes"/>
+      <point x="282" y="4"/>
+      <point x="281" y="8"/>
+      <point x="278" y="11" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="142" y="-103" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

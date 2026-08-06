@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2A2" format="2">
+  <advance width="321"/>
+  <unicode hex="E2A2"/>
+  <anchor x="177" y="125" name="cutOutNW"/>
+  <anchor x="297" y="475" name="cutOutSE"/>
+  <note>accidentalSims4Down</note>
+  <outline>
+    <contour>
+      <point x="240" y="-132" type="curve" smooth="yes"/>
+      <point x="245" y="-132"/>
+      <point x="249" y="-131"/>
+      <point x="254" y="-129" type="curve"/>
+      <point x="265" y="-124"/>
+      <point x="272" y="-113"/>
+      <point x="272" y="-100" type="curve" smooth="yes"/>
+      <point x="272" y="492" type="line"/>
+      <point x="467" y="567" type="line" smooth="yes"/>
+      <point x="480" y="572"/>
+      <point x="488" y="585"/>
+      <point x="488" y="598" type="curve" smooth="yes"/>
+      <point x="488" y="602"/>
+      <point x="487" y="605"/>
+      <point x="486" y="609" type="curve"/>
+      <point x="481" y="621"/>
+      <point x="468" y="629"/>
+      <point x="455" y="629" type="curve" smooth="yes"/>
+      <point x="451" y="629"/>
+      <point x="448" y="628"/>
+      <point x="444" y="627" type="curve"/>
+      <point x="228" y="543" type="line"/>
+      <point x="216" y="539"/>
+      <point x="208" y="527"/>
+      <point x="208" y="514" type="curve" smooth="yes"/>
+      <point x="208" y="-33" type="line"/>
+      <point x="52" y="95" type="line" smooth="yes"/>
+      <point x="46" y="100"/>
+      <point x="39" y="102"/>
+      <point x="32" y="102" type="curve" smooth="yes"/>
+      <point x="23" y="102"/>
+      <point x="13" y="98"/>
+      <point x="7" y="90" type="curve"/>
+      <point x="2" y="84"/>
+      <point x="0" y="76"/>
+      <point x="0" y="69" type="curve" smooth="yes"/>
+      <point x="0" y="60"/>
+      <point x="4" y="51"/>
+      <point x="11" y="45" type="curve" smooth="yes"/>
+      <point x="220" y="-125" type="line" smooth="yes"/>
+      <point x="226" y="-130"/>
+      <point x="233" y="-132"/>
+    </contour>
+  </outline>
+</glyph>

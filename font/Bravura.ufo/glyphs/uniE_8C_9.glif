@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE8C9" format="2">
+  <advance width="638"/>
+  <unicode hex="E8C9"/>
+  <note>accdnCombLH3RanksEmptySquare</note>
+  <outline>
+    <contour>
+      <point x="0" y="784" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="638" y="784" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="32" type="line"/>
+      <point x="32" y="32" type="line"/>
+      <point x="32" y="251" type="line"/>
+      <point x="606" y="251" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="283" type="line"/>
+      <point x="32" y="283" type="line"/>
+      <point x="32" y="501" type="line"/>
+      <point x="606" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="534" type="line"/>
+      <point x="32" y="752" type="line"/>
+      <point x="606" y="752" type="line"/>
+      <point x="606" y="534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

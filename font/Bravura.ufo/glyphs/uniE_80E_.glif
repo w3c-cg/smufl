@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE80E" format="2">
+  <advance width="781"/>
+  <unicode hex="E80E"/>
+  <note>pictScrapeAroundRimClockwise</note>
+  <outline>
+    <component base="uniE7F3" xScale="-1" xOffset="784"/>
+  </outline>
+</glyph>

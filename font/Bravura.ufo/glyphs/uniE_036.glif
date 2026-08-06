@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE036" format="2">
+  <advance width="36"/>
+  <unicode hex="E036"/>
+  <note>barlineDashed</note>
+  <outline>
+    <contour>
+      <point x="36" y="875" type="line"/>
+      <point x="36" y="1000" type="line"/>
+      <point x="0" y="1000" type="line"/>
+      <point x="0" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="471" type="line"/>
+      <point x="0" y="471" type="line"/>
+      <point x="0" y="182" type="line"/>
+      <point x="36" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="817" type="line"/>
+      <point x="0" y="817" type="line"/>
+      <point x="0" y="528" type="line"/>
+      <point x="36" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="125" type="line"/>
+      <point x="0" y="125" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="36" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

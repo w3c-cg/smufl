@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1B9" format="2">
+  <advance width="361"/>
+  <unicode hex="E1B9"/>
+  <anchor x="0" y="0" name="stemDownNW"/>
+  <anchor x="361" y="0" name="stemUpSE"/>
+  <note>noteShapeDiamondBlack</note>
+  <outline>
+    <contour>
+      <point x="183" y="137" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="177" y="-138" type="line"/>
+      <point x="361" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,4 +1,5 @@
 _site/
+.DS_Store
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
@@ -7,4 +8,9 @@ Gemfile.lock
 
 __pycache__/
 *.pyc
+
+# Built by tools/generate_font.py - a build artifact, not committed (see
+# CONTRIBUTING.md "How this connects to Bravura").
+font/Bravura.otf
+mdbook/src/media/Bravura.otf
 

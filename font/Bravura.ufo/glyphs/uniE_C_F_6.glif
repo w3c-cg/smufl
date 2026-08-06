@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniECF6" format="2">
+  <advance width="434"/>
+  <unicode hex="ECF6"/>
+  <note>timeSig6Reversed</note>
+  <outline>
+    <component base="uniE086" xScale="-1" xOffset="434"/>
+  </outline>
+</glyph>

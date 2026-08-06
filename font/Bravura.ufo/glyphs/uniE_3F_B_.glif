@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE3FB" format="2">
+  <advance width="156"/>
+  <unicode hex="E3FB"/>
+  <note>accSagittal2TinasUp</note>
+  <outline>
+    <contour>
+      <point x="94" y="-47" type="line"/>
+      <point x="80.3779" y="-47"/>
+      <point x="71.7743" y="-57"/>
+      <point x="69" y="-64" type="curve" smooth="yes"/>
+      <point x="65.433" y="-73"/>
+      <point x="62" y="-83.8172"/>
+      <point x="62" y="-107" type="curve"/>
+      <point x="32" y="-107" type="line"/>
+      <point x="31.3808" y="-90.9012"/>
+      <point x="29.279" y="-73.36"/>
+      <point x="25" y="-64" type="curve" smooth="yes"/>
+      <point x="21.9749" y="-57.3827"/>
+      <point x="15.8028" y="-47"/>
+      <point x="0" y="-47" type="curve"/>
+      <point x="0" y="-16" type="line"/>
+      <point x="16" y="-16"/>
+      <point x="33" y="-27"/>
+      <point x="37" y="-31" type="curve" smooth="yes"/>
+      <point x="42" y="-36"/>
+      <point x="42" y="-36"/>
+      <point x="47" y="-44" type="curve"/>
+      <point x="52" y="-36"/>
+      <point x="53.25" y="-35"/>
+      <point x="57" y="-30" type="curve" smooth="yes"/>
+      <point x="60" y="-26"/>
+      <point x="80" y="-16"/>
+      <point x="94" y="-16" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>811d67a545046c54a5391d36e4b37cdb6ae95222fe6983abb354d923a2c2bb494f1933fc53bdd7e1ab50d4fef358c5c9a571d1f34ea19ae4d0cb600b8703c39c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -47 31</string>
+          <string>vstem 32 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

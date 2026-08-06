@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE222" format="2">
+  <advance width="150"/>
+  <unicode hex="E222"/>
+  <note>tremolo3</note>
+  <outline>
+    <contour>
+      <point x="150" y="153" type="line"/>
+      <point x="150" y="278" type="line"/>
+      <point x="-150" y="215" type="line"/>
+      <point x="-150" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="91" type="line"/>
+      <point x="-150" y="29" type="line"/>
+      <point x="-150" y="-96" type="line"/>
+      <point x="150" y="-34" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="-93" type="line"/>
+      <point x="-150" y="-155" type="line"/>
+      <point x="-150" y="-280" type="line"/>
+      <point x="150" y="-218" type="line"/>
+    </contour>
+  </outline>
+</glyph>

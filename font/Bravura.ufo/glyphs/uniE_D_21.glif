@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED21" format="2">
+  <advance width="280"/>
+  <unicode hex="ED21"/>
+  <note>fingeringSubstitutionBelow</note>
+  <outline>
+    <component base="uniED20" yScale="-1" yOffset="250"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE660" format="2">
+  <advance width="422"/>
+  <unicode hex="E660"/>
+  <note>keyboardRightPedalPictogram</note>
+  <outline>
+    <component base="uniE65E" xScale="-1" xOffset="426"/>
+  </outline>
+</glyph>

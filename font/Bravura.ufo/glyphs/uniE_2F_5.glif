@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2F5" format="2">
+  <advance width="226"/>
+  <unicode hex="E2F5"/>
+  <anchor x="87" y="167" name="cutOutNW"/>
+  <anchor x="87" y="-117" name="cutOutSW"/>
+  <note>accidentalQuarterFlatEqualTempered</note>
+  <outline>
+    <component base="uniE2F1" xScale="-1" xOffset="226"/>
+  </outline>
+</glyph>

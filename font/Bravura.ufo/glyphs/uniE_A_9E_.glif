@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA9E" format="2">
+  <advance width="493"/>
+  <unicode hex="EA9E"/>
+  <note>functionLUpper</note>
+  <outline>
+    <contour>
+      <point x="473" y="0" type="line"/>
+      <point x="473" y="82" type="line"/>
+      <point x="113" y="82" type="line"/>
+      <point x="113" y="729" type="line"/>
+      <point x="20" y="729" type="line"/>
+      <point x="20" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

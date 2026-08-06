@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9B2" format="2">
+  <advance width="14"/>
+  <unicode hex="E9B2"/>
+  <note>chantDeminutumUpper</note>
+  <outline>
+    <contour>
+      <point x="-13" y="67" type="curve" smooth="yes" name="hr01"/>
+      <point x="-41" y="67"/>
+      <point x="-62" y="45"/>
+      <point x="-62" y="22" type="curve" smooth="yes"/>
+      <point x="-62" y="-59" type="line"/>
+      <point x="-53" y="-48"/>
+      <point x="-40" y="-43"/>
+      <point x="-23" y="-43" type="curve" smooth="yes"/>
+      <point x="-8" y="-43"/>
+      <point x="0" y="-52"/>
+      <point x="0" y="-70" type="curve" smooth="yes"/>
+      <point x="0" y="-121" type="line"/>
+      <point x="14" y="-121" type="line"/>
+      <point x="14" y="44" type="line" smooth="yes"/>
+      <point x="14" y="59"/>
+      <point x="5" y="67"/>
+    </contour>
+  </outline>
+</glyph>

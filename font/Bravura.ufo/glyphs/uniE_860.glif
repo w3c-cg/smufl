@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE860" format="2">
+  <advance width="706"/>
+  <unicode hex="E860"/>
+  <note>analyticsHauptstimme</note>
+  <outline>
+    <contour>
+      <point x="377" y="750" type="line"/>
+      <point x="377" y="423" type="line"/>
+      <point x="96" y="423" type="line"/>
+      <point x="96" y="750" type="line"/>
+      <point x="0" y="750" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="327" type="line"/>
+      <point x="377" y="327" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="473" y="654" type="line"/>
+      <point x="707" y="654" type="line"/>
+      <point x="707" y="750" type="line"/>
+    </contour>
+  </outline>
+</glyph>

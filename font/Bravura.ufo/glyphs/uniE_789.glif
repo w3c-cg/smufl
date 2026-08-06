@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE789" format="2">
+  <advance width="220"/>
+  <unicode hex="E789"/>
+  <note>pictBeaterSoftTimpaniDown</note>
+  <outline>
+    <component base="uniE788" yScale="-1" yOffset="763"/>
+  </outline>
+</glyph>

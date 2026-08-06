@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE543" format="2">
+  <advance width="110"/>
+  <unicode hex="E543"/>
+  <note>dynamicHairpinParenthesisRight</note>
+  <outline>
+    <contour>
+      <point x="0" y="-234" type="line" smooth="yes"/>
+      <point x="0" y="-231"/>
+      <point x="2" y="-229"/>
+      <point x="3" y="-228" type="curve"/>
+      <point x="43" y="-173"/>
+      <point x="63" y="-111"/>
+      <point x="63" y="0" type="curve" smooth="yes"/>
+      <point x="63" y="111"/>
+      <point x="42" y="171"/>
+      <point x="2" y="227" type="curve"/>
+      <point x="0" y="229"/>
+      <point x="0" y="235"/>
+      <point x="0" y="235" type="curve"/>
+      <point x="0" y="245" type="line" smooth="yes"/>
+      <point x="0" y="248"/>
+      <point x="2" y="249"/>
+      <point x="3" y="249" type="curve"/>
+      <point x="76" y="189"/>
+      <point x="110" y="102"/>
+      <point x="110" y="0" type="curve" smooth="yes"/>
+      <point x="110" y="-101"/>
+      <point x="78" y="-189"/>
+      <point x="3" y="-250" type="curve"/>
+      <point x="3" y="-251"/>
+      <point x="2" y="-251"/>
+      <point x="2" y="-251" type="curve"/>
+      <point x="1" y="-251"/>
+      <point x="0" y="-248"/>
+      <point x="0" y="-247" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

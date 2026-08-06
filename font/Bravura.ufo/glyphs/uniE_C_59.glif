@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC59" format="2">
+  <advance width="387"/>
+  <unicode hex="EC59"/>
+  <note>smnSharpDown</note>
+  <outline>
+    <component base="uniEC50" xScale="-1" xOffset="387"/>
+  </outline>
+</glyph>

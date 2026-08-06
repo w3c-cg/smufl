@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF00" format="2">
+  <advance width="285"/>
+  <unicode hex="EF00"/>
+  <note>scaleDegree1</note>
+  <outline>
+    <component base="uniEA71"/>
+    <contour>
+      <point x="-57.0165" y="817.54" type="line"/>
+      <point x="97.3684" y="1004.4" type="line"/>
+      <point x="199.066" y="1004.4" type="line"/>
+      <point x="355.902" y="817.54" type="line"/>
+      <point x="355.902" y="803.45" type="line"/>
+      <point x="282.998" y="803.45" type="line"/>
+      <point x="147.605" y="937.4" type="line"/>
+      <point x="13.4369" y="803.45" type="line"/>
+      <point x="-57.0165" y="803.45" type="line"/>
+    </contour>
+  </outline>
+</glyph>

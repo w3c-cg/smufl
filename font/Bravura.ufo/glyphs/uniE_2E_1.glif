@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2E1" format="2">
+  <advance width="172"/>
+  <unicode hex="E2E1"/>
+  <anchor x="55" y="189" name="cutOutSE"/>
+  <note>accidentalRaiseTwoSeptimalCommas</note>
+  <outline>
+    <component base="uniE2E0" yScale="-1" yOffset="5"/>
+  </outline>
+</glyph>

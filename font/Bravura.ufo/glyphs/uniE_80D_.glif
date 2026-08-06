@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE80D" format="2">
+  <advance width="161"/>
+  <unicode hex="E80D"/>
+  <note>pictDeadNoteStem</note>
+  <outline>
+    <component base="uniE645" yOffset="-160"/>
+  </outline>
+</glyph>

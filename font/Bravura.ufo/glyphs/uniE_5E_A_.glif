@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5EA" format="2">
+  <advance width="303"/>
+  <unicode hex="E5EA"/>
+  <note>brassHarmonMuteStemHalfRight</note>
+  <outline>
+    <contour>
+      <point x="358" y="164" type="line" name="hr01"/>
+      <point x="303" y="164" type="line"/>
+      <point x="298" y="237"/>
+      <point x="240" y="295"/>
+      <point x="168" y="303" type="curve"/>
+      <point x="168" y="359" type="line"/>
+      <point x="136" y="359" type="line"/>
+      <point x="136" y="303" type="line"/>
+      <point x="64" y="295"/>
+      <point x="6" y="237"/>
+      <point x="0" y="164" type="curve"/>
+      <point x="-50" y="164" type="line"/>
+      <point x="-50" y="132" type="line"/>
+      <point x="1" y="132" type="line"/>
+      <point x="10" y="62"/>
+      <point x="66" y="8"/>
+      <point x="136" y="0" type="curve"/>
+      <point x="136" y="-64" type="line"/>
+      <point x="168" y="-64" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="238" y="8"/>
+      <point x="294" y="62"/>
+      <point x="303" y="132" type="curve"/>
+      <point x="358" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="271" type="curve"/>
+      <point x="136" y="164" type="line"/>
+      <point x="33" y="164" type="line"/>
+      <point x="38" y="219"/>
+      <point x="81" y="263"/>
+    </contour>
+    <contour>
+      <point x="34" y="132" type="curve" name="hr02"/>
+      <point x="136" y="132" type="line"/>
+      <point x="136" y="33" type="line"/>
+      <point x="84" y="40"/>
+      <point x="42" y="80"/>
+    </contour>
+  </outline>
+</glyph>

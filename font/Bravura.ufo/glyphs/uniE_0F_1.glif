@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0F1" format="2">
+  <advance width="551"/>
+  <unicode hex="E0F1"/>
+  <anchor x="97" y="0" name="noteheadOrigin"/>
+  <note>noteheadLargeArrowDownDoubleWhole</note>
+  <outline>
+    <component base="uniE0ED" yScale="-1"/>
+  </outline>
+</glyph>

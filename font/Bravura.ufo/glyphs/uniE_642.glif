@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE642" format="2">
+  <advance width="375"/>
+  <unicode hex="E642"/>
+  <note>vocalMouthOpen</note>
+  <outline>
+    <contour>
+      <point x="0" y="231" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="375" y="231" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="54" type="line"/>
+      <point x="26" y="177" type="line"/>
+      <point x="349" y="177" type="line"/>
+      <point x="349" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

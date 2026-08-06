@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE880.ss06" format="2">
+  <advance width="254"/>
+  <unicode hex="F4CC"/>
+  <note>tuplet0Light</note>
+  <outline>
+    <contour>
+      <point x="183" y="378" type="curve" smooth="yes"/>
+      <point x="214" y="378"/>
+      <point x="265" y="351"/>
+      <point x="265" y="290" type="curve" smooth="yes"/>
+      <point x="265" y="284"/>
+      <point x="264" y="276"/>
+      <point x="263" y="269" type="curve"/>
+      <point x="255" y="193"/>
+      <point x="217" y="-13"/>
+      <point x="99" y="-13" type="curve" smooth="yes"/>
+      <point x="39" y="-13"/>
+      <point x="10" y="37"/>
+      <point x="10" y="87" type="curve" smooth="yes"/>
+      <point x="10" y="93"/>
+      <point x="10" y="99"/>
+      <point x="11" y="105" type="curve"/>
+      <point x="15" y="160"/>
+      <point x="40" y="378"/>
+    </contour>
+    <contour>
+      <point x="53" y="69" type="curve"/>
+      <point x="53" y="35"/>
+      <point x="79" y="13"/>
+      <point x="95" y="13" type="curve" smooth="yes"/>
+      <point x="165" y="13"/>
+      <point x="220" y="246"/>
+      <point x="220" y="309" type="curve" smooth="yes"/>
+      <point x="220" y="342"/>
+      <point x="193" y="357"/>
+      <point x="179" y="357" type="curve" smooth="yes"/>
+      <point x="103" y="357"/>
+      <point x="57" y="118"/>
+    </contour>
+  </outline>
+</glyph>

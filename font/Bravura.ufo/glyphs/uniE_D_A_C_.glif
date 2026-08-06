@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDAC" format="2">
+  <advance width="137"/>
+  <unicode hex="EDAC"/>
+  <note>kahnKneeOutward</note>
+  <outline>
+    <contour>
+      <point x="0" y="670" type="line"/>
+      <point x="83" y="587" type="line"/>
+      <point x="0" y="503" type="line"/>
+      <point x="26" y="477" type="line"/>
+      <point x="136" y="587" type="line"/>
+      <point x="26" y="696" type="line"/>
+    </contour>
+  </outline>
+</glyph>

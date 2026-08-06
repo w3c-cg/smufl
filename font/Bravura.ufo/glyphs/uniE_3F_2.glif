@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE3F2" format="2">
+  <advance width="187"/>
+  <unicode hex="E3F2"/>
+  <note>accSagittalAcute</note>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="-62" type="line"/>
+      <point x="125" y="62" type="line"/>
+      <point x="125" y="125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

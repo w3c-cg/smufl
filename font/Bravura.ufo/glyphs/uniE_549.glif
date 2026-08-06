@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE549" format="2">
+  <advance width="223"/>
+  <unicode hex="E549"/>
+  <note>dynamicCombinedSeparatorSlash</note>
+  <outline>
+    <contour>
+      <point x="-38" y="-148" type="line"/>
+      <point x="20" y="-148" type="line"/>
+      <point x="261" y="537" type="line"/>
+      <point x="202" y="537" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB3A" format="2">
+  <advance width="548"/>
+  <unicode hex="EB3A"/>
+  <note>elecMIDIController80</note>
+  <outline>
+    <component base="uniEB37" xScale="-1" xOffset="548"/>
+  </outline>
+</glyph>

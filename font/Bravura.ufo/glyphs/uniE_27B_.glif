@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE27B" format="2">
+  <advance width="185"/>
+  <unicode hex="E27B"/>
+  <anchor x="128" y="96" name="cutOutNE"/>
+  <anchor x="55" y="96" name="cutOutNW"/>
+  <note>accidentalArrowDown</note>
+  <outline>
+    <component base="uniE27A" yScale="-1" yOffset="263"/>
+  </outline>
+</glyph>

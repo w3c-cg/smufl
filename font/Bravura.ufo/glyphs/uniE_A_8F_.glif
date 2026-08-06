@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA8F" format="2">
+  <advance width="186"/>
+  <unicode hex="EA8F"/>
+  <note>functionBracketLeft</note>
+  <outline>
+    <contour>
+      <point x="186" y="-212" type="line"/>
+      <point x="186" y="-140" type="line"/>
+      <point x="83" y="-140" type="line" name="hr01"/>
+      <point x="83" y="657" type="line"/>
+      <point x="186" y="657" type="line" name="hr02"/>
+      <point x="186" y="729" type="line"/>
+      <point x="0" y="729" type="line"/>
+      <point x="0" y="-212" type="line"/>
+    </contour>
+  </outline>
+</glyph>

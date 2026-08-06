@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE58" format="2">
+  <advance width="240"/>
+  <unicode hex="EE58"/>
+  <anchor x="160" y="168" name="cutOutNW"/>
+  <note>accidentalCombiningLower47Quartertone</note>
+  <outline>
+    <contour>
+      <point x="204.4" y="124.4" type="line"/>
+      <point x="204.4" y="624.2" type="line"/>
+      <point x="239.4" y="624.2" type="line"/>
+      <point x="239.4" y="-185" type="line"/>
+      <point x="0" y="-185" type="line"/>
+      <point x="0" y="-81.4" type="line"/>
+      <point x="204.4" y="-81.4" type="line"/>
+      <point x="204.4" y="20.8" type="line"/>
+      <point x="0" y="20.8" type="line"/>
+      <point x="0" y="124.4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

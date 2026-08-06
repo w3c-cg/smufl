@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE93E" format="2">
+  <advance width="32"/>
+  <unicode hex="E93E"/>
+  <note>mensuralCombStemUp</note>
+  <outline>
+    <contour>
+      <point x="16" y="0" type="curve" smooth="yes"/>
+      <point x="25" y="0"/>
+      <point x="32" y="7"/>
+      <point x="32" y="16" type="curve" smooth="yes"/>
+      <point x="32" y="766" type="line" smooth="yes"/>
+      <point x="32" y="774"/>
+      <point x="25" y="782"/>
+      <point x="16" y="782" type="curve" smooth="yes"/>
+      <point x="8" y="782"/>
+      <point x="0" y="774"/>
+      <point x="0" y="766" type="curve" smooth="yes"/>
+      <point x="0" y="16" type="line" smooth="yes"/>
+      <point x="0" y="7"/>
+      <point x="8" y="0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF15.ss06" format="2">
+  <advance width="333"/>
+  <unicode hex="F543"/>
+  <note>tupletBracketRightItalicLight</note>
+  <outline>
+    <contour>
+      <point x="45.2732" y="-4.42378" type="line"/>
+      <point x="-15.0294" y="-4.42378" type="line"/>
+      <point x="-19.5295" y="-23.3246" type="line"/>
+      <point x="74.0744" y="-23.3246" type="line"/>
+      <point x="187.929" y="399.243" type="line"/>
+      <point x="85.3248" y="399.243" type="line"/>
+      <point x="80.8246" y="380.342" type="line"/>
+      <point x="150.128" y="380.342" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

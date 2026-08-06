@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA94" format="2">
+  <advance width="440"/>
+  <unicode hex="EA94"/>
+  <note>functionAngleRight</note>
+  <outline>
+    <component base="uniEA93" xScale="-1" xOffset="440"/>
+  </outline>
+</glyph>

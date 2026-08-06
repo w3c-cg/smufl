@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE13D" format="2">
+  <advance width="291"/>
+  <unicode hex="E13D"/>
+  <note>noteheadDiamondClusterWhiteMiddle</note>
+  <outline>
+    <contour>
+      <point x="180" y="-100" type="line"/>
+      <point x="216" y="-100" type="line"/>
+      <point x="216" y="100" type="line"/>
+      <point x="180" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="-100" type="line"/>
+      <point x="111" y="-100" type="line"/>
+      <point x="111" y="100" type="line"/>
+      <point x="81" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

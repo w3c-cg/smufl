@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDAD" format="2">
+  <advance width="137"/>
+  <unicode hex="EDAD"/>
+  <note>kahnKneeInward</note>
+  <outline>
+    <component base="uniEDAC" xScale="-1" xOffset="136"/>
+  </outline>
+</glyph>

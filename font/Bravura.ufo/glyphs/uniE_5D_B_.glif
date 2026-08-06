@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5DB" format="2">
+  <advance width="911"/>
+  <unicode hex="E5DB"/>
+  <note>brassFallSmoothMedium</note>
+  <outline>
+    <contour>
+      <point x="869" y="0" type="curve" smooth="yes"/>
+      <point x="877" y="0"/>
+      <point x="884" y="3"/>
+      <point x="889" y="9" type="curve"/>
+      <point x="894" y="14"/>
+      <point x="897" y="21"/>
+      <point x="897" y="28" type="curve" smooth="yes"/>
+      <point x="897" y="35"/>
+      <point x="894" y="42"/>
+      <point x="889" y="48" type="curve"/>
+      <point x="48" y="889" type="line"/>
+      <point x="42" y="894"/>
+      <point x="35" y="897"/>
+      <point x="28" y="897" type="curve" smooth="yes"/>
+      <point x="21" y="897"/>
+      <point x="13" y="894"/>
+      <point x="8" y="889" type="curve"/>
+      <point x="3" y="883"/>
+      <point x="0" y="876"/>
+      <point x="0" y="869" type="curve" smooth="yes"/>
+      <point x="0" y="862"/>
+      <point x="3" y="855"/>
+      <point x="8" y="850" type="curve" smooth="yes"/>
+      <point x="850" y="9" type="line"/>
+      <point x="855" y="3"/>
+      <point x="862" y="0"/>
+    </contour>
+  </outline>
+</glyph>

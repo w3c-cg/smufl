@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB6F" format="2">
+  <advance width="384"/>
+  <unicode hex="EB6F"/>
+  <note>arrowWhiteUpLeft</note>
+  <outline>
+    <component base="uniEB69" xScale="-1" xOffset="384"/>
+  </outline>
+</glyph>

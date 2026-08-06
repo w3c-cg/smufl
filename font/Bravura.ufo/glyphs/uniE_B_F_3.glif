@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBF3" format="2">
+  <advance width="307"/>
+  <unicode hex="EBF3"/>
+  <note>luteItalianHoldNote</note>
+  <outline>
+    <contour>
+      <point x="291" y="169" type="curve"/>
+      <point x="169" y="169" type="line"/>
+      <point x="169" y="291" type="line" smooth="yes"/>
+      <point x="169" y="299"/>
+      <point x="162" y="307"/>
+      <point x="153" y="307" type="curve" smooth="yes"/>
+      <point x="144" y="307"/>
+      <point x="137" y="299"/>
+      <point x="137" y="291" type="curve" smooth="yes"/>
+      <point x="137" y="169" type="line"/>
+      <point x="16" y="169" type="line" smooth="yes"/>
+      <point x="7" y="169"/>
+      <point x="0" y="162"/>
+      <point x="0" y="153" type="curve" smooth="yes"/>
+      <point x="0" y="144"/>
+      <point x="7" y="137"/>
+      <point x="16" y="137" type="curve" smooth="yes"/>
+      <point x="137" y="137" type="line"/>
+      <point x="137" y="16" type="line" smooth="yes"/>
+      <point x="137" y="7"/>
+      <point x="144" y="0"/>
+      <point x="153" y="0" type="curve" smooth="yes"/>
+      <point x="162" y="0"/>
+      <point x="169" y="7"/>
+      <point x="169" y="16" type="curve" smooth="yes"/>
+      <point x="169" y="137" type="line"/>
+      <point x="291" y="137" type="line" smooth="yes"/>
+      <point x="300" y="137"/>
+      <point x="307" y="144"/>
+      <point x="307" y="153" type="curve" smooth="yes"/>
+      <point x="307" y="162"/>
+      <point x="300" y="169"/>
+    </contour>
+  </outline>
+</glyph>

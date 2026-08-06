@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE019" format="2">
+  <advance width="750"/>
+  <unicode hex="E019"/>
+  <note>staff4LinesWide</note>
+  <outline>
+    <contour>
+      <point x="750" y="391" type="line"/>
+      <point x="0" y="391" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="750" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="641" type="line"/>
+      <point x="0" y="641" type="line"/>
+      <point x="0" y="609" type="line"/>
+      <point x="750" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="141" type="line"/>
+      <point x="0" y="141" type="line"/>
+      <point x="0" y="109" type="line"/>
+      <point x="750" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="891" type="line"/>
+      <point x="0" y="891" type="line"/>
+      <point x="0" y="859" type="line"/>
+      <point x="750" y="859" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDF1" format="2">
+  <advance width="574"/>
+  <unicode hex="EDF1"/>
+  <note>kahnRightTurn</note>
+  <outline>
+    <component base="uniEDF0" xScale="-1" xOffset="575"/>
+  </outline>
+</glyph>

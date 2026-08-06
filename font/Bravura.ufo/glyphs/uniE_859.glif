@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE859" format="2">
+  <advance width="75"/>
+  <unicode hex="E859"/>
+  <note>fretboardX</note>
+  <outline>
+    <contour>
+      <point x="75" y="58" type="line"/>
+      <point x="58" y="75" type="line"/>
+      <point x="0" y="17" type="line"/>
+      <point x="-57" y="75" type="line"/>
+      <point x="-74" y="58" type="line"/>
+      <point x="-17" y="0" type="line"/>
+      <point x="-74" y="-57" type="line"/>
+      <point x="-57" y="-74" type="line"/>
+      <point x="0" y="-16" type="line"/>
+      <point x="58" y="-74" type="line"/>
+      <point x="75" y="-57" type="line"/>
+      <point x="17" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

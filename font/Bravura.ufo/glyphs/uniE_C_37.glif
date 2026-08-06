@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC37" format="2">
+  <advance width="233"/>
+  <unicode hex="EC37"/>
+  <note>kievanNoteQuarterStemUp</note>
+  <outline>
+    <component base="uniEC38" yScale="-1"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE104" format="2">
+  <advance width="500"/>
+  <unicode hex="E104"/>
+  <anchor x="0" y="0" name="stemDownNW"/>
+  <anchor x="500" y="0" name="stemUpSE"/>
+  <note>noteheadSlashDiamondWhite</note>
+  <outline>
+    <contour>
+      <point x="500" y="0" type="line" name="hr01"/>
+      <point x="250" y="250" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="250" y="-250" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="160" type="line"/>
+      <point x="411" y="1" type="line" name="hr03"/>
+      <point x="250" y="-160" type="line"/>
+      <point x="89" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

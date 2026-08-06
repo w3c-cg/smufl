@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE478" format="2">
+  <advance width="227"/>
+  <unicode hex="E478"/>
+  <anchor x="78" y="179" name="cutOutNE"/>
+  <anchor x="132" y="-109" name="cutOutSE"/>
+  <note>accidentalQuarterToneFlatPenderecki</note>
+  <outline>
+    <contour>
+      <point x="29" y="-172" type="curve"/>
+      <point x="59" y="-156"/>
+      <point x="83" y="-128"/>
+      <point x="107" y="-111" type="curve" smooth="yes"/>
+      <point x="196" y="-49"/>
+      <point x="227" y="11"/>
+      <point x="227" y="60" type="curve" smooth="yes"/>
+      <point x="227" y="114"/>
+      <point x="183" y="151"/>
+      <point x="138" y="153" type="curve"/>
+      <point x="131" y="153"/>
+      <point x="125" y="152"/>
+      <point x="118" y="151" type="curve"/>
+      <point x="105" y="148"/>
+      <point x="94" y="143"/>
+      <point x="83" y="136" type="curve"/>
+      <point x="76" y="131"/>
+      <point x="63" y="122"/>
+      <point x="61" y="122" type="curve"/>
+      <point x="59" y="122"/>
+      <point x="58" y="122"/>
+      <point x="56" y="123" type="curve"/>
+      <point x="49" y="125"/>
+      <point x="45" y="132"/>
+      <point x="45" y="141" type="curve"/>
+      <point x="46" y="162"/>
+      <point x="51" y="402"/>
+      <point x="52" y="421" type="curve"/>
+      <point x="52" y="432"/>
+      <point x="43" y="437"/>
+      <point x="33" y="437" type="curve" smooth="yes"/>
+      <point x="19" y="437"/>
+      <point x="3" y="428"/>
+      <point x="2" y="410" type="curve"/>
+      <point x="2" y="410"/>
+      <point x="6" y="-160"/>
+      <point x="14" y="-169" type="curve"/>
+      <point x="17" y="-173"/>
+      <point x="20" y="-174"/>
+      <point x="23" y="-174" type="curve" smooth="yes"/>
+      <point x="26" y="-174"/>
+      <point x="29" y="-172"/>
+    </contour>
+  </outline>
+</glyph>

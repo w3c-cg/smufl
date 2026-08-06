@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE070" format="2">
+  <advance width="309"/>
+  <unicode hex="E070"/>
+  <note>schaefferPreviousClef</note>
+  <outline>
+    <contour>
+      <point x="281" y="-191" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="281" y="191" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="309" y="-249" type="line"/>
+      <point x="309" y="250" type="line"/>
+    </contour>
+  </outline>
+</glyph>

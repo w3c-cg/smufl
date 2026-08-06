@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE996" format="2">
+  <advance width="160"/>
+  <unicode hex="E996"/>
+  <note>chantPunctumVirga</note>
+  <outline>
+    <contour>
+      <point x="80" y="102" type="line" smooth="yes"/>
+      <point x="50" y="102"/>
+      <point x="0" y="99"/>
+      <point x="0" y="57" type="curve" smooth="yes"/>
+      <point x="0" y="-83" type="line" smooth="yes"/>
+      <point x="0" y="-87"/>
+      <point x="4" y="-93"/>
+      <point x="4" y="-93" type="curve"/>
+      <point x="10" y="-87"/>
+      <point x="42" y="-71"/>
+      <point x="80" y="-70" type="curve"/>
+      <point x="85" y="-70" type="line" smooth="yes"/>
+      <point x="110" y="-70"/>
+      <point x="129" y="-75"/>
+      <point x="141" y="-82" type="curve"/>
+      <point x="141" y="-393" type="line" smooth="yes"/>
+      <point x="141" y="-396"/>
+      <point x="145" y="-401"/>
+      <point x="148" y="-401" type="curve" smooth="yes"/>
+      <point x="153" y="-401" type="line" smooth="yes"/>
+      <point x="158" y="-401"/>
+      <point x="160" y="-396"/>
+      <point x="160" y="-393" type="curve" smooth="yes"/>
+      <point x="160" y="55" type="line" smooth="yes"/>
+      <point x="160" y="98"/>
+      <point x="111" y="102"/>
+      <point x="90" y="102" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

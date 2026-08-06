@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE57D" format="2">
+  <advance width="500"/>
+  <unicode hex="E57D"/>
+  <note>ornamentDoubleObliqueLinesBeforeNote</note>
+  <outline>
+    <contour>
+      <point x="51" y="-1" type="line"/>
+      <point x="309" y="442" type="line"/>
+      <point x="258" y="475" type="line"/>
+      <point x="-1" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="442" type="line"/>
+      <point x="465" y="475" type="line"/>
+      <point x="206" y="30" type="line"/>
+      <point x="260" y="-1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u1D180" format="2">
+  <advance width="236"/>
+  <unicode hex="1D180"/>
+  <outline>
+    <component base="uniE4AC" yOffset="240"/>
+    <contour>
+      <point x="181" y="61" type="curve" smooth="yes"/>
+      <point x="181" y="95"/>
+      <point x="154" y="122"/>
+      <point x="120" y="122" type="curve" smooth="yes"/>
+      <point x="86" y="122"/>
+      <point x="59" y="95"/>
+      <point x="59" y="61" type="curve" smooth="yes"/>
+      <point x="59" y="27"/>
+      <point x="86" y="0"/>
+      <point x="120" y="0" type="curve" smooth="yes"/>
+      <point x="154" y="0"/>
+      <point x="181" y="27"/>
+    </contour>
+  </outline>
+</glyph>

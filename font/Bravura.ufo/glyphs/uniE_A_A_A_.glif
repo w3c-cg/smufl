@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEAAA" format="2">
+  <advance width="255"/>
+  <unicode hex="EAAA"/>
+  <anchor x="255" y="0" name="repeatOffset"/>
+  <note>wiggleArpeggiatoDown</note>
+  <outline>
+    <component base="uniEAA9" xScale="-1" xOffset="259"/>
+  </outline>
+</glyph>

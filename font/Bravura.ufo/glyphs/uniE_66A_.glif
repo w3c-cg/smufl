@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE66A" format="2">
+  <advance width="575"/>
+  <unicode hex="E66A"/>
+  <note>keyboardBebung3DotsAbove</note>
+  <outline>
+    <component base="uniE5F2"/>
+  </outline>
+</glyph>

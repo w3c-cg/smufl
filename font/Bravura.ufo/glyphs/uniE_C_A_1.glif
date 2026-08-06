@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniECA1" format="2">
+  <advance width="533"/>
+  <unicode hex="ECA1"/>
+  <note>metNoteDoubleWholeSquare</note>
+  <outline>
+    <component base="uniE0A1"/>
+  </outline>
+</glyph>

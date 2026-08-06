@@ -60,10 +60,19 @@ jobs:
         run: check-jsonschema --schemafile data/schema/stylistic-sets.schema.json data/stylistic-sets.yaml
 
       - name: Install generator dependencies
-        run: pip install pyyaml
+        run: pip install pyyaml fonttools
 
       - name: Check generated output matches committed metadata and tables
         run: python3 tools/generate.py --check
+
+      - name: Check Bravura.ufo has a glyph for every spec-defined codepoint
+        run: python3 tools/sync_ufo_glyphs.py --check
+
+      - name: Install font build dependencies
+        run: pip install fontmake afdko
+
+      - name: Build Bravura.otf (validates the UFO compiles cleanly)
+        run: python3 tools/generate_font.py --output /tmp/Bravura.otf
 
       - name: Install mdBook
         run: |
@@ -91,6 +100,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install font build dependencies
+        run: pip install pyyaml fonttools fontmake afdko
+
+      - name: Build Bravura.otf
+        run: python3 tools/generate_font.py --output font/Bravura.otf
+
+      - name: Copy Bravura.otf into the book's media folder
+        run: cp font/Bravura.otf mdbook/src/media/Bravura.otf
 
       - name: Install mdBook
         run: |

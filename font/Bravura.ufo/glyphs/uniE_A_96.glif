@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA96" format="2">
+  <advance width="540"/>
+  <unicode hex="EA96"/>
+  <note>functionRepetition2</note>
+  <outline>
+    <contour>
+      <point x="21" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="116" type="line"/>
+      <point x="21" y="116" type="line"/>
+    </contour>
+    <contour>
+      <point x="521" y="495" type="line"/>
+      <point x="521" y="571" type="line"/>
+      <point x="308" y="571" type="line"/>
+      <point x="308" y="783" type="line"/>
+      <point x="232" y="783" type="line"/>
+      <point x="232" y="571" type="line"/>
+      <point x="20" y="571" type="line"/>
+      <point x="20" y="495" type="line"/>
+      <point x="232" y="495" type="line"/>
+      <point x="232" y="283" type="line"/>
+      <point x="308" y="283" type="line"/>
+      <point x="308" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="116" type="line"/>
+      <point x="403" y="116" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE08F" format="2">
+  <advance width="448"/>
+  <unicode hex="E08F"/>
+  <note>timeSigEquals</note>
+  <outline>
+    <contour>
+      <point x="448" y="111" type="line" smooth="yes"/>
+      <point x="448" y="118"/>
+      <point x="440" y="124"/>
+      <point x="430" y="124" type="curve" smooth="yes"/>
+      <point x="19" y="124" type="line" smooth="yes"/>
+      <point x="8" y="124"/>
+      <point x="0" y="118"/>
+      <point x="0" y="111" type="curve" smooth="yes"/>
+      <point x="0" y="62" type="line" smooth="yes"/>
+      <point x="0" y="55"/>
+      <point x="8" y="49"/>
+      <point x="19" y="49" type="curve" smooth="yes"/>
+      <point x="430" y="49" type="line" smooth="yes"/>
+      <point x="440" y="49"/>
+      <point x="448" y="55"/>
+      <point x="448" y="62" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="448" y="-63" type="line" smooth="yes"/>
+      <point x="448" y="-56"/>
+      <point x="440" y="-50"/>
+      <point x="430" y="-50" type="curve" smooth="yes"/>
+      <point x="19" y="-50" type="line" smooth="yes"/>
+      <point x="8" y="-50"/>
+      <point x="0" y="-56"/>
+      <point x="0" y="-63" type="curve" smooth="yes"/>
+      <point x="0" y="-112" type="line" smooth="yes"/>
+      <point x="0" y="-119"/>
+      <point x="8" y="-125"/>
+      <point x="19" y="-125" type="curve" smooth="yes"/>
+      <point x="430" y="-125" type="line" smooth="yes"/>
+      <point x="440" y="-125"/>
+      <point x="448" y="-119"/>
+      <point x="448" y="-112" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

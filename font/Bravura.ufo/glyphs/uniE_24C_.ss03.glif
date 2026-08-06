@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE24C.ss03" format="2">
+  <advance width="268"/>
+  <unicode hex="F421"/>
+  <anchor x="0" y="964" name="stemUpNW"/>
+  <note>flag512thUpStraight</note>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="-125" type="line"/>
+      <point x="10" y="-125" type="line"/>
+      <point x="240" y="-355" type="line"/>
+      <point x="240" y="-230" type="line"/>
+      <point x="10" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-200" type="line"/>
+      <point x="0" y="-325" type="line"/>
+      <point x="10" y="-325" type="line"/>
+      <point x="240" y="-555" type="line"/>
+      <point x="240" y="-430" type="line"/>
+      <point x="10" y="-200" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="200" type="line"/>
+      <point x="0" y="75" type="line"/>
+      <point x="10" y="75" type="line"/>
+      <point x="240" y="-155" type="line"/>
+      <point x="240" y="-30" type="line"/>
+      <point x="10" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="400" type="line"/>
+      <point x="0" y="275" type="line"/>
+      <point x="10" y="275" type="line"/>
+      <point x="240" y="45" type="line"/>
+      <point x="240" y="170" type="line"/>
+      <point x="10" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="600" type="line"/>
+      <point x="0" y="475" type="line"/>
+      <point x="10" y="475" type="line"/>
+      <point x="240" y="245" type="line"/>
+      <point x="240" y="370" type="line"/>
+      <point x="10" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="800" type="line"/>
+      <point x="0" y="675" type="line"/>
+      <point x="10" y="675" type="line"/>
+      <point x="240" y="445" type="line"/>
+      <point x="240" y="570" type="line"/>
+      <point x="10" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1000" type="line"/>
+      <point x="0" y="875" type="line"/>
+      <point x="10" y="875" type="line"/>
+      <point x="240" y="645" type="line"/>
+      <point x="240" y="770" type="line"/>
+      <point x="10" y="1000" type="line"/>
+    </contour>
+  </outline>
+</glyph>

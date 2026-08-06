@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC53" format="2">
+  <advance width="394"/>
+  <unicode hex="EC53"/>
+  <note>smnFlatWhite</note>
+  <outline>
+    <contour>
+      <point x="35" y="113" type="line"/>
+      <point x="200" y="113" type="line"/>
+      <point x="359" y="-113" type="line"/>
+      <point x="194" y="-113" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="-137" type="line" smooth="yes"/>
+      <point x="389" y="-137"/>
+      <point x="394" y="-132"/>
+      <point x="394" y="-125" type="curve" smooth="yes"/>
+      <point x="394" y="-122"/>
+      <point x="393" y="-120"/>
+      <point x="391" y="-118" type="curve"/>
+      <point x="216" y="132" type="line" smooth="yes"/>
+      <point x="214" y="135"/>
+      <point x="210" y="137"/>
+      <point x="206" y="137" type="curve" smooth="yes"/>
+      <point x="12" y="137" type="line" smooth="yes"/>
+      <point x="7" y="137"/>
+      <point x="3" y="134"/>
+      <point x="1" y="130" type="curve"/>
+      <point x="0" y="129"/>
+      <point x="0" y="128"/>
+      <point x="0" y="126" type="curve"/>
+      <point x="0" y="123"/>
+      <point x="1" y="120"/>
+      <point x="2" y="118" type="curve"/>
+      <point x="177" y="-132" type="line"/>
+      <point x="180" y="-135"/>
+      <point x="183" y="-137"/>
+      <point x="187" y="-137" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

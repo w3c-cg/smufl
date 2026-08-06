@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE072" format="2">
+  <advance width="616"/>
+  <unicode hex="E072"/>
+  <note>schaefferFClefToGClef</note>
+  <outline>
+    <component base="uniE070" yOffset="500"/>
+    <component base="uniE06F" xOffset="307"/>
+  </outline>
+</glyph>

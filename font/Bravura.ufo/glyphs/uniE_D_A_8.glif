@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDA8" format="2">
+  <advance width="271"/>
+  <unicode hex="EDA8"/>
+  <note>kahnGraceTap</note>
+  <outline>
+    <contour>
+      <point x="125" y="370" type="line"/>
+      <point x="125" y="307" type="line"/>
+      <point x="111" y="304" type="line"/>
+      <point x="0" y="266" type="line"/>
+      <point x="11" y="218" type="line"/>
+      <point x="20.0775" y="221.026"/>
+      <point x="77.6246" y="238.84"/>
+      <point x="125" y="252" type="curve"/>
+      <point x="125" y="194" type="line"/>
+      <point x="143" y="194" type="line"/>
+      <point x="143" y="259" type="line"/>
+      <point x="165.667" y="265.667"/>
+      <point x="181" y="271.333"/>
+      <point x="185" y="274" type="curve"/>
+      <point x="253" y="295" type="line"/>
+      <point x="263.667" y="300.333"/>
+      <point x="268.615" y="312.805"/>
+      <point x="268.615" y="321.893" type="curve" smooth="yes"/>
+      <point x="268.615" y="323.913"/>
+      <point x="268.41" y="325.949"/>
+      <point x="268" y="328" type="curve"/>
+      <point x="264" y="341.333"/>
+      <point x="254.877" y="345.778"/>
+      <point x="248.704" y="345.778" type="curve" smooth="yes"/>
+      <point x="246.235" y="345.778"/>
+      <point x="243.667" y="345.185"/>
+      <point x="241" y="344" type="curve"/>
+      <point x="143" y="313" type="line"/>
+      <point x="143" y="370" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE091.ss04" format="2">
+  <advance width="92"/>
+  <unicode hex="F4F2"/>
+  <note>timeSigMultiplyLarge</note>
+  <outline>
+    <contour>
+      <point x="91" y="-94" type="line"/>
+      <point x="57" y="-1" type="line"/>
+      <point x="91" y="93" type="line"/>
+      <point x="79" y="127" type="line"/>
+      <point x="45" y="33" type="line"/>
+      <point x="12" y="127" type="line"/>
+      <point x="0" y="93" type="line"/>
+      <point x="33" y="-1" type="line"/>
+      <point x="0" y="-94" type="line"/>
+      <point x="12" y="-128" type="line"/>
+      <point x="45" y="-34" type="line"/>
+      <point x="79" y="-128" type="line"/>
+    </contour>
+  </outline>
+</glyph>

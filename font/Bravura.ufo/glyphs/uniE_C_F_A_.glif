@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniECFA" format="2">
+  <advance width="424"/>
+  <unicode hex="ECFA"/>
+  <note>timeSigCommonReversed</note>
+  <outline>
+    <component base="uniE08A" xScale="-1" xOffset="429"/>
+  </outline>
+</glyph>

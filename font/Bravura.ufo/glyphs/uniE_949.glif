@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE949" format="2">
+  <advance width="219"/>
+  <unicode hex="E949"/>
+  <note>mensuralCombStemUpFlagSemiminima</note>
+  <outline>
+    <contour>
+      <point x="30" y="774" type="line" smooth="yes"/>
+      <point x="27" y="779"/>
+      <point x="21" y="782"/>
+      <point x="16" y="782" type="curve"/>
+      <point x="15" y="782"/>
+      <point x="13" y="781"/>
+      <point x="12" y="781" type="curve"/>
+      <point x="5" y="779"/>
+      <point x="0" y="773"/>
+      <point x="0" y="766" type="curve" smooth="yes"/>
+      <point x="0" y="16" type="line" smooth="yes"/>
+      <point x="0" y="7"/>
+      <point x="8" y="0"/>
+      <point x="16" y="0" type="curve" smooth="yes"/>
+      <point x="25" y="0"/>
+      <point x="32" y="7"/>
+      <point x="32" y="16" type="curve" smooth="yes"/>
+      <point x="32" y="709" type="line"/>
+      <point x="189" y="455" type="line" smooth="yes"/>
+      <point x="192" y="450"/>
+      <point x="198" y="448"/>
+      <point x="203" y="448" type="curve" smooth="yes"/>
+      <point x="206" y="448"/>
+      <point x="209" y="448"/>
+      <point x="211" y="450" type="curve"/>
+      <point x="216" y="453"/>
+      <point x="219" y="458"/>
+      <point x="219" y="463" type="curve" smooth="yes"/>
+      <point x="219" y="466"/>
+      <point x="218" y="469"/>
+      <point x="216" y="472" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

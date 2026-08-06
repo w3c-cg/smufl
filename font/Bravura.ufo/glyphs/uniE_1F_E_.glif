@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1FE" format="2">
+  <advance width="318"/>
+  <unicode hex="E1FE"/>
+  <note>textTupletBracketStartShortStem</note>
+  <outline>
+    <contour>
+      <point x="28" y="941" type="line"/>
+      <point x="318" y="941" type="line"/>
+      <point x="318" y="969" type="line"/>
+      <point x="0" y="969" type="line"/>
+      <point x="0" y="763" type="line"/>
+      <point x="28" y="763" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE848" format="2">
+  <advance width="393"/>
+  <unicode hex="E848"/>
+  <note>guitarBarreFull</note>
+  <outline>
+    <contour>
+      <point x="0" y="221" type="curve" smooth="yes"/>
+      <point x="0" y="94"/>
+      <point x="84" y="-15"/>
+      <point x="215" y="-15" type="curve" smooth="yes"/>
+      <point x="290" y="-15"/>
+      <point x="350" y="24"/>
+      <point x="379" y="94" type="curve" smooth="yes"/>
+      <point x="387" y="113"/>
+      <point x="393" y="137"/>
+      <point x="393" y="158" type="curve"/>
+      <point x="372" y="158" type="line"/>
+      <point x="350" y="76"/>
+      <point x="316" y="12"/>
+      <point x="222" y="12" type="curve" smooth="yes"/>
+      <point x="109" y="12"/>
+      <point x="80" y="128"/>
+      <point x="80" y="222" type="curve" smooth="yes"/>
+      <point x="80" y="311"/>
+      <point x="96" y="450"/>
+      <point x="213" y="450" type="curve" smooth="yes"/>
+      <point x="304" y="450"/>
+      <point x="334" y="367"/>
+      <point x="359" y="294" type="curve"/>
+      <point x="359" y="294"/>
+      <point x="361" y="287"/>
+      <point x="362" y="287" type="curve"/>
+      <point x="382" y="287" type="line"/>
+      <point x="374" y="475" type="line"/>
+      <point x="353" y="475" type="line"/>
+      <point x="328" y="434" type="line"/>
+      <point x="292" y="459"/>
+      <point x="253" y="477"/>
+      <point x="209" y="477" type="curve" smooth="yes"/>
+      <point x="75" y="477"/>
+      <point x="0" y="340"/>
+    </contour>
+  </outline>
+</glyph>

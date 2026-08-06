@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0F5_uniE0A0_uniE0F6" format="2">
+  <advance width="864"/>
+  <unicode hex="F5E9"/>
+  <note>noteheadDoubleWholeParens</note>
+  <outline>
+    <component base="uniE0F5"/>
+    <component base="uniE0F6" xOffset="790"/>
+    <component base="uniE0A0" xOffset="130"/>
+  </outline>
+</glyph>

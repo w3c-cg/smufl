@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1FA" format="2">
+  <advance width="342"/>
+  <unicode hex="E1FA"/>
+  <note>textCont16thBeamLongStem</note>
+  <outline>
+    <contour>
+      <point x="342" y="691" type="line"/>
+      <point x="0" y="691" type="line"/>
+      <point x="0" y="566" type="line"/>
+      <point x="342" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="342" y="878" type="line"/>
+      <point x="0" y="878" type="line"/>
+      <point x="0" y="753" type="line"/>
+      <point x="342" y="753" type="line"/>
+    </contour>
+  </outline>
+</glyph>

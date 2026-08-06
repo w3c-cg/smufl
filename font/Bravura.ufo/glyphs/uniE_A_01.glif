@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA01" format="2">
+  <advance width="285"/>
+  <unicode hex="EA01"/>
+  <note>mensuralSignumDown</note>
+  <outline>
+    <component base="uniEA00" yScale="-1" yOffset="471"/>
+  </outline>
+</glyph>

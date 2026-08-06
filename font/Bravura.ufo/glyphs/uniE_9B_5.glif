@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9B5" format="2">
+  <advance width="14"/>
+  <unicode hex="E9B5"/>
+  <note>chantEntryLineAsc3rd</note>
+  <outline>
+    <component base="uniE9BE"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE004" format="2">
+  <advance width="469"/>
+  <unicode hex="E004"/>
+  <note>bracketBottom</note>
+  <outline>
+    <component base="uniE003" yScale="-1"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0CD" format="2">
+  <advance width="278"/>
+  <unicode hex="E0CD"/>
+  <anchor x="0" y="78" name="stemDownNW"/>
+  <anchor x="278" y="78" name="stemUpSE"/>
+  <note>noteheadTriangleRoundDownBlack</note>
+  <outline>
+    <contour>
+      <point x="139" y="-125" type="line"/>
+      <point x="278" y="78" type="line"/>
+      <point x="266" y="86" type="line" smooth="yes"/>
+      <point x="227" y="112"/>
+      <point x="183" y="125"/>
+      <point x="138" y="125" type="curve" smooth="yes"/>
+      <point x="94" y="125"/>
+      <point x="51" y="112"/>
+      <point x="11" y="86" type="curve"/>
+      <point x="0" y="78" type="line"/>
+    </contour>
+  </outline>
+</glyph>

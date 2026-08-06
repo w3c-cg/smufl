@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE50" format="2">
+  <advance width="356"/>
+  <unicode hex="EE50"/>
+  <anchor x="300" y="-28" name="cutOutNE"/>
+  <anchor x="48" y="-28" name="cutOutNW"/>
+  <anchor x="292" y="-250" name="cutOutSE"/>
+  <anchor x="48" y="-250" name="cutOutSW"/>
+  <note>accidentalCombiningLower29LimitComma</note>
+  <outline>
+    <contour>
+      <point x="0.2049" y="-77.4832" type="line"/>
+      <point x="97.5391" y="-78" type="line"/>
+      <point x="97.5391" y="255.2" type="line"/>
+      <point x="132.539" y="255.2" type="line"/>
+      <point x="132.539" y="-78" type="line"/>
+      <point x="132.539" y="-78"/>
+      <point x="146.539" y="-146.6"/>
+      <point x="178.739" y="-146.6" type="curve" smooth="yes"/>
+      <point x="209.539" y="-146.6"/>
+      <point x="220.739" y="-78"/>
+      <point x="220.739" y="-78" type="curve"/>
+      <point x="220.739" y="255.2" type="line"/>
+      <point x="255.739" y="255.2" type="line"/>
+      <point x="255.739" y="-78" type="line"/>
+      <point x="355.028" y="-77.4833" type="line"/>
+      <point x="176.542" y="-330.558" type="line"/>
+    </contour>
+  </outline>
+</glyph>

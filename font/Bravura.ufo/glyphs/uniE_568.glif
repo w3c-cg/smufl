@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE568" format="2">
+  <advance width="457"/>
+  <unicode hex="E568"/>
+  <note>ornamentTurnInverted</note>
+  <outline>
+    <component base="uniE567" xScale="-1" xOffset="457"/>
+  </outline>
+</glyph>

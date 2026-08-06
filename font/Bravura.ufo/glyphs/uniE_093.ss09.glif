@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE093.ss09" format="2">
+  <advance width="110"/>
+  <unicode hex="F519"/>
+  <note>timeSigParensRightSmallNarrow</note>
+  <outline>
+    <component base="uniE092.ss09" xScale="-1" xOffset="110"/>
+  </outline>
+</glyph>

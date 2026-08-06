@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA6E" format="2">
+  <advance width="412"/>
+  <unicode hex="EA6E"/>
+  <note>figbassCombiningLowering</note>
+  <outline>
+    <component base="uniEA6D" xScale="-1" xOffset="412"/>
+  </outline>
+</glyph>

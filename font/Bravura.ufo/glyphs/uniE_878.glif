@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE878" format="2">
+  <advance width="155"/>
+  <unicode hex="E878"/>
+  <note>csymBracketRightTall</note>
+  <outline>
+    <component base="uniE877" xScale="-1" xOffset="156"/>
+  </outline>
+</glyph>

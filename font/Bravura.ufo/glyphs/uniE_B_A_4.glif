@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBA4" format="2">
+  <advance width="375"/>
+  <unicode hex="EBA4"/>
+  <note>luteBarlineEndRepeat</note>
+  <outline>
+    <component base="uniEBA3" xScale="-1" xOffset="375"/>
+  </outline>
+</glyph>

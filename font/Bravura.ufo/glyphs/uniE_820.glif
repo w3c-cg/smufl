@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE820" format="2">
+  <advance width="732"/>
+  <unicode hex="E820"/>
+  <note>handbellsTableSingleBell</note>
+  <outline>
+    <contour>
+      <point x="610" y="246" type="curve"/>
+      <point x="608" y="244"/>
+      <point x="606" y="244"/>
+      <point x="604" y="244" type="curve"/>
+      <point x="600" y="244"/>
+      <point x="596" y="246"/>
+      <point x="594" y="250" type="curve"/>
+      <point x="56" y="1018" type="line"/>
+      <point x="54" y="1022"/>
+      <point x="48" y="1024"/>
+      <point x="44" y="1024" type="curve"/>
+      <point x="42" y="1024"/>
+      <point x="40" y="1024"/>
+      <point x="38" y="1022" type="curve"/>
+      <point x="6" y="998" type="line"/>
+      <point x="2" y="996"/>
+      <point x="0" y="992"/>
+      <point x="0" y="988" type="curve"/>
+      <point x="0" y="986"/>
+      <point x="0" y="984"/>
+      <point x="2" y="982" type="curve"/>
+      <point x="542" y="212" type="line"/>
+      <point x="544" y="210"/>
+      <point x="544" y="208"/>
+      <point x="544" y="206" type="curve"/>
+      <point x="544" y="202"/>
+      <point x="542" y="198"/>
+      <point x="538" y="196" type="curve"/>
+      <point x="454" y="136" type="line"/>
+      <point x="450" y="134"/>
+      <point x="450" y="132"/>
+      <point x="450" y="130" type="curve"/>
+      <point x="450" y="128"/>
+      <point x="450" y="126"/>
+      <point x="454" y="124" type="curve"/>
+      <point x="722" y="0" type="line"/>
+      <point x="730" y="0"/>
+      <point x="732" y="2"/>
+      <point x="732" y="6" type="curve"/>
+      <point x="706" y="300" type="line"/>
+      <point x="706" y="306"/>
+      <point x="702" y="308"/>
+      <point x="700" y="308" type="curve"/>
+      <point x="698" y="308"/>
+      <point x="698" y="308"/>
+    </contour>
+  </outline>
+</glyph>

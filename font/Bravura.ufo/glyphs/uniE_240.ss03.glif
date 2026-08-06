@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE240.ss03" format="2">
+  <advance width="250"/>
+  <unicode hex="F40F"/>
+  <anchor x="0" y="-55" name="stemUpNW"/>
+  <note>flag8thUpStraight</note>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="-125" type="line"/>
+      <point x="10" y="-125" type="line"/>
+      <point x="240" y="-355" type="line"/>
+      <point x="240" y="-230" type="line"/>
+      <point x="10" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

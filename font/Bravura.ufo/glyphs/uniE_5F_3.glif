@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5F3" format="2">
+  <advance width="575"/>
+  <unicode hex="E5F3"/>
+  <note>tripleTongueBelow</note>
+  <outline>
+    <component base="uniE5F2" yScale="-1" yOffset="239"/>
+  </outline>
+</glyph>

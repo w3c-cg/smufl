@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE017" format="2">
+  <advance width="750"/>
+  <unicode hex="E017"/>
+  <note>staff2LinesWide</note>
+  <outline>
+    <contour>
+      <point x="750" y="391" type="line"/>
+      <point x="0" y="391" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="750" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="641" type="line"/>
+      <point x="0" y="641" type="line"/>
+      <point x="0" y="609" type="line"/>
+      <point x="750" y="609" type="line"/>
+    </contour>
+  </outline>
+</glyph>

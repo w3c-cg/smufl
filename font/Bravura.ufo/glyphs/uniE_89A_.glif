@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE89A" format="2">
+  <advance width="400"/>
+  <unicode hex="E89A"/>
+  <note>conductorUnconducted</note>
+  <outline>
+    <contour>
+      <point x="400" y="820" type="curve" smooth="yes"/>
+      <point x="400" y="931"/>
+      <point x="310" y="1020"/>
+      <point x="200" y="1020" type="curve" smooth="yes"/>
+      <point x="89" y="1020"/>
+      <point x="0" y="931"/>
+      <point x="0" y="820" type="curve" smooth="yes"/>
+      <point x="0" y="717"/>
+      <point x="77" y="633"/>
+      <point x="177" y="621" type="curve"/>
+      <point x="177" y="24" type="line" smooth="yes"/>
+      <point x="177" y="11"/>
+      <point x="188" y="0"/>
+      <point x="201" y="0" type="curve" smooth="yes"/>
+      <point x="214" y="0"/>
+      <point x="225" y="11"/>
+      <point x="225" y="24" type="curve" smooth="yes"/>
+      <point x="225" y="622" type="line"/>
+      <point x="324" y="634"/>
+      <point x="400" y="718"/>
+    </contour>
+  </outline>
+</glyph>

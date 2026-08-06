@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBCD.salt03" format="2">
+  <advance width="276"/>
+  <unicode hex="F450"/>
+  <note>luteFrench7thCourseRight</note>
+  <outline>
+    <component base="uniEBC0"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4A1" format="2">
+  <advance width="339"/>
+  <unicode hex="E4A1"/>
+  <note>articAccentBelow</note>
+  <outline>
+    <component base="uniE4A0" yOffset="-245"/>
+  </outline>
+</glyph>

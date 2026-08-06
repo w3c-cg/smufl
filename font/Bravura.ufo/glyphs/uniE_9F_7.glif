@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9F7" format="2">
+  <advance width="139"/>
+  <unicode hex="E9F7"/>
+  <note>mensuralRestFusa</note>
+  <outline>
+    <component base="uniE9F6" xScale="-1" xOffset="139"/>
+  </outline>
+</glyph>

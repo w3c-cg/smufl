@@ -207,6 +207,43 @@ def resolve_ligature(lig, merged_glyphnames, sources, next_free_codepoint):
     return next_free_codepoint(), label
 
 
+def build_font_glyph_index(sources, merged_glyphnames):
+    """Returns {ufo_glyph_name: {"codepoint": int, "description": str,
+    "category": "base"|"alternate"|"ligature"}} for every glyph the spec
+    defines: base glyphs, stylistic alternates, and ligatures. Mirrors
+    generate_markdown's own resolution loop exactly (same shared allocator,
+    same per-range reset of the position/salt counters, same range
+    iteration order) so codepoints assigned here always agree with what's
+    already published in font-optional-codepoints.json and
+    mdbook/src/tables/*.md - this is what lets tools/sync_ufo_glyphs.py add
+    placeholder glyphs to the UFO that land on the exact right codepoint,
+    and tools/generate_font.py classify glyphs for the GDEF table."""
+    allocate = make_codepoint_allocator(sources)
+    index = {}
+
+    for name, entry in merged_glyphnames.items():
+        index[f"uni{cp_int(entry['codepoint']):04X}"] = {
+            "codepoint": cp_int(entry["codepoint"]),
+            "description": name,
+            "category": "base",
+        }
+
+    for range_data in sources.ranges.values():
+        position_by_base = {}
+        salt_occurrence_by_base = {}
+        for alt in range_data.get("stylisticAlternates", []):
+            base_cp = sources.base_glyph_codepoint(alt["for"], merged_glyphnames)
+            alt_cp, label = resolve_alternate(
+                alt, base_cp, sources, allocate, position_by_base, salt_occurrence_by_base
+            )
+            index[label] = {"codepoint": alt_cp, "description": alt["name"], "category": "alternate"}
+        for lig in range_data.get("ligatures", []):
+            lig_cp, label = resolve_ligature(lig, merged_glyphnames, sources, allocate)
+            index[label] = {"codepoint": lig_cp, "description": lig["name"], "category": "ligature"}
+
+    return index
+
+
 def make_codepoint_allocator(sources):
     all_used = (
         [cp_int(e["codepoint"]) for e in sources.font_baseline["stylisticAlternates"]]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBA2" format="2">
+  <advance width="250"/>
+  <unicode hex="EBA2"/>
+  <note>luteStaff6LinesNarrow</note>
+  <outline>
+    <contour>
+      <point x="250" y="1891" type="line"/>
+      <point x="0" y="1891" type="line"/>
+      <point x="0" y="1859" type="line"/>
+      <point x="250" y="1859" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="1516" type="line"/>
+      <point x="0" y="1516" type="line"/>
+      <point x="0" y="1484" type="line"/>
+      <point x="250" y="1484" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="1141" type="line"/>
+      <point x="0" y="1141" type="line"/>
+      <point x="0" y="1109" type="line"/>
+      <point x="250" y="1109" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="766" type="line"/>
+      <point x="0" y="766" type="line"/>
+      <point x="0" y="734" type="line"/>
+      <point x="250" y="734" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="391" type="line"/>
+      <point x="0" y="391" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="250" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="16" type="line"/>
+      <point x="0" y="16" type="line"/>
+      <point x="0" y="-16" type="line"/>
+      <point x="250" y="-16" type="line"/>
+    </contour>
+  </outline>
+</glyph>

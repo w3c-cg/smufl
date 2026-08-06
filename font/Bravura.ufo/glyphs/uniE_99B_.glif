@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE99B" format="2">
+  <advance width="154"/>
+  <unicode hex="E99B"/>
+  <note>chantQuilisma</note>
+  <outline>
+    <contour>
+      <point x="0" y="-76" type="line"/>
+      <point x="0" y="-96"/>
+      <point x="10" y="-115"/>
+      <point x="25" y="-115" type="curve" smooth="yes"/>
+      <point x="36" y="-115"/>
+      <point x="46" y="-100"/>
+      <point x="53" y="-68" type="curve"/>
+      <point x="66" y="-91"/>
+      <point x="79" y="-102"/>
+      <point x="91" y="-102" type="curve" smooth="yes"/>
+      <point x="107" y="-102"/>
+      <point x="115" y="-85"/>
+      <point x="119" y="-52" type="curve"/>
+      <point x="125" y="-70"/>
+      <point x="132" y="-79"/>
+      <point x="139" y="-79" type="curve" smooth="yes"/>
+      <point x="149" y="-79"/>
+      <point x="154" y="-66"/>
+      <point x="154" y="-38" type="curve" smooth="yes"/>
+      <point x="154" y="115" type="line"/>
+      <point x="148" y="66"/>
+      <point x="139" y="42"/>
+      <point x="131" y="42" type="curve" smooth="yes"/>
+      <point x="125" y="42"/>
+      <point x="117" y="60"/>
+      <point x="108" y="95" type="curve"/>
+      <point x="103" y="50"/>
+      <point x="97" y="29"/>
+      <point x="89" y="29" type="curve" smooth="yes"/>
+      <point x="81" y="29"/>
+      <point x="75" y="32"/>
+      <point x="70" y="41" type="curve" smooth="yes"/>
+      <point x="66" y="48"/>
+      <point x="61" y="61"/>
+      <point x="55" y="80" type="curve"/>
+      <point x="53" y="32"/>
+      <point x="46" y="8"/>
+      <point x="34" y="8" type="curve" smooth="yes"/>
+      <point x="21" y="8"/>
+      <point x="9" y="24"/>
+      <point x="0" y="56" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE175" format="2">
+  <advance width="486"/>
+  <unicode hex="E175"/>
+  <note>noteEWhole</note>
+  <outline>
+    <contour>
+      <point x="249" y="144" type="curve" smooth="yes" name="hr01"/>
+      <point x="95" y="144"/>
+      <point x="0" y="79"/>
+      <point x="0" y="0" type="curve" smooth="yes"/>
+      <point x="0" y="-77"/>
+      <point x="65" y="-146"/>
+      <point x="237" y="-146" type="curve" smooth="yes"/>
+      <point x="425" y="-146"/>
+      <point x="486" y="-80"/>
+      <point x="486" y="0" type="curve" smooth="yes"/>
+      <point x="486" y="82"/>
+      <point x="401" y="144"/>
+    </contour>
+    <contour>
+      <point x="239" y="-121" type="curve" smooth="yes"/>
+      <point x="110" y="-121"/>
+      <point x="61" y="-64"/>
+      <point x="61" y="0" type="curve" smooth="yes"/>
+      <point x="61" y="65"/>
+      <point x="132" y="118"/>
+      <point x="247" y="118" type="curve" smooth="yes"/>
+      <point x="362" y="118"/>
+      <point x="426" y="67"/>
+      <point x="426" y="0" type="curve" smooth="yes"/>
+      <point x="426" y="-67"/>
+      <point x="379" y="-121"/>
+    </contour>
+    <contour>
+      <point x="175" y="-92" type="line" name="hr03"/>
+      <point x="311" y="-92" type="line"/>
+      <point x="311" y="-61" type="line"/>
+      <point x="212" y="-61" type="line"/>
+      <point x="212" y="-13" type="line"/>
+      <point x="300" y="-13" type="line"/>
+      <point x="300" y="18" type="line"/>
+      <point x="212" y="18" type="line"/>
+      <point x="212" y="59" type="line"/>
+      <point x="307" y="59" type="line"/>
+      <point x="307" y="90" type="line"/>
+      <point x="175" y="90" type="line"/>
+    </contour>
+  </outline>
+</glyph>

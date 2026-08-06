@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED37" format="2">
+  <advance width="317"/>
+  <unicode hex="ED37"/>
+  <note>accidentalThreeQuarterTonesSharpArabic</note>
+  <outline>
+    <component base="uniE283"/>
+  </outline>
+</glyph>

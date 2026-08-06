@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE845" format="2">
+  <advance width="724"/>
+  <unicode hex="E845"/>
+  <note>guitarVolumeSwell</note>
+  <outline>
+    <component base="uniE843"/>
+    <component base="uniE843" xScale="-1" xOffset="724"/>
+  </outline>
+</glyph>

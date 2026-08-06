@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE537" format="2">
+  <advance width="846"/>
+  <unicode hex="E537"/>
+  <anchor x="476" y="0" name="opticalCenter"/>
+  <note>dynamicSforzandoPiano</note>
+  <outline>
+    <component base="uniE524"/>
+    <component base="uniE522" xOffset="230"/>
+    <component base="uniE520" xOffset="479"/>
+  </outline>
+</glyph>

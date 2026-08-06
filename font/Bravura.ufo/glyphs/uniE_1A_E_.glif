@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE1AE" format="2">
+  <advance width="361"/>
+  <unicode hex="E1AE"/>
+  <anchor x="0" y="-47" name="stemDownNW"/>
+  <anchor x="361" y="49" name="stemUpSE"/>
+  <note>noteEmptyHalf</note>
+  <outline>
+    <contour>
+      <point x="119" y="-144" type="curve" smooth="yes"/>
+      <point x="321" y="-144"/>
+      <point x="361" y="12"/>
+      <point x="361" y="49" type="curve" smooth="yes"/>
+      <point x="361" y="108"/>
+      <point x="311" y="146"/>
+      <point x="241" y="146" type="curve" smooth="yes"/>
+      <point x="57" y="146"/>
+      <point x="0" y="12"/>
+      <point x="0" y="-47" type="curve" smooth="yes"/>
+      <point x="0" y="-109"/>
+      <point x="52" y="-144"/>
+    </contour>
+  </outline>
+</glyph>

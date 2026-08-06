@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC80" format="2">
+  <advance width="118"/>
+  <unicode hex="EC80"/>
+  <note>timeSigBracketLeft</note>
+  <outline>
+    <contour>
+      <point x="118" y="-586" type="line"/>
+      <point x="36" y="-586" type="line"/>
+      <point x="36" y="578" type="line"/>
+      <point x="118" y="578" type="line"/>
+      <point x="118" y="614" type="line"/>
+      <point x="28" y="614" type="line" smooth="yes"/>
+      <point x="13" y="614"/>
+      <point x="0" y="602"/>
+      <point x="0" y="586" type="curve" smooth="yes"/>
+      <point x="0" y="-594" type="line" smooth="yes"/>
+      <point x="0" y="-609"/>
+      <point x="13" y="-622"/>
+      <point x="28" y="-622" type="curve" smooth="yes"/>
+      <point x="118" y="-622" type="line"/>
+    </contour>
+  </outline>
+</glyph>

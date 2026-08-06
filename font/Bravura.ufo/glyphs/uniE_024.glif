@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE024" format="2">
+  <advance width="132"/>
+  <unicode hex="E024"/>
+  <note>legerLineNarrow</note>
+  <outline>
+    <contour>
+      <point x="212" y="-20" type="line"/>
+      <point x="212" y="20" type="line"/>
+      <point x="-80" y="20" type="line"/>
+      <point x="-80" y="-20" type="line"/>
+    </contour>
+  </outline>
+</glyph>

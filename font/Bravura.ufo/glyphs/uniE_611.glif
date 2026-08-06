@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE611" format="2">
+  <advance width="312"/>
+  <unicode hex="E611"/>
+  <note>stringsDownBowTurned</note>
+  <outline>
+    <component base="uniE610" yScale="-1" yOffset="318"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE68E" format="2">
+  <advance width="346"/>
+  <unicode hex="E68E"/>
+  <note>harpSalzedoFluidicSoundsRight</note>
+  <outline>
+    <contour>
+      <point x="346" y="137" type="line"/>
+      <point x="293" y="250" type="line"/>
+      <point x="-1" y="113" type="line"/>
+      <point x="52" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

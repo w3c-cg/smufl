@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED51" format="2">
+  <advance width="100"/>
+  <unicode hex="ED51"/>
+  <note>accidentalLoweredStockhausen</note>
+  <outline>
+    <component base="uniED50" yScale="-1" yOffset="150"/>
+  </outline>
+</glyph>

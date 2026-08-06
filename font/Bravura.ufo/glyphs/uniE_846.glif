@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE846" format="2">
+  <advance width="228"/>
+  <unicode hex="E846"/>
+  <note>guitarStrumUp</note>
+  <outline>
+    <component base="uniEB60"/>
+  </outline>
+</glyph>

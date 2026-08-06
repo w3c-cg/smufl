@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE011" format="2">
+  <advance width="500"/>
+  <unicode hex="E011"/>
+  <note>staff2Lines</note>
+  <outline>
+    <contour>
+      <point x="500" y="391" type="line"/>
+      <point x="0" y="391" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="500" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="641" type="line"/>
+      <point x="0" y="641" type="line"/>
+      <point x="0" y="609" type="line"/>
+      <point x="500" y="609" type="line"/>
+    </contour>
+  </outline>
+</glyph>

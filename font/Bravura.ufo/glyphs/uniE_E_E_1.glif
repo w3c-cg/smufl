@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEEE1" format="2">
+  <advance width="487"/>
+  <unicode hex="EEE1"/>
+  <note>noteRiWhole</note>
+  <outline>
+    <contour>
+      <point x="248.688" y="144.275" type="curve" smooth="yes" name="hr04"/>
+      <point x="95.6882" y="144.275"/>
+      <point x="0.688248" y="79.275"/>
+      <point x="0.688248" y="0.275024" type="curve" smooth="yes"/>
+      <point x="0.688248" y="-76.725"/>
+      <point x="65.6882" y="-145.725"/>
+      <point x="237.688" y="-145.725" type="curve" smooth="yes"/>
+      <point x="424.688" y="-145.725"/>
+      <point x="486.688" y="-79.725"/>
+      <point x="486.688" y="0.275024" type="curve" smooth="yes"/>
+      <point x="486.688" y="82.275"/>
+      <point x="355.688" y="144.275"/>
+    </contour>
+    <contour>
+      <point x="238.688" y="-120.725" type="curve" smooth="yes"/>
+      <point x="109.688" y="-120.725"/>
+      <point x="60.6882" y="-63.725"/>
+      <point x="60.6882" y="-0.724976" type="curve" smooth="yes"/>
+      <point x="60.6882" y="64.275"/>
+      <point x="132.688" y="118.275"/>
+      <point x="247.688" y="118.275" type="curve" smooth="yes"/>
+      <point x="327.688" y="118.275"/>
+      <point x="425.688" y="67.275"/>
+      <point x="425.688" y="-0.724976" type="curve" smooth="yes"/>
+      <point x="425.688" y="-66.725"/>
+      <point x="379.688" y="-120.725"/>
+    </contour>
+    <contour>
+      <point x="284.884" y="-95.4089" type="line" name="hr01"/>
+      <point x="284.884" y="-88.4089" type="line"/>
+      <point x="278.884" y="-85.4089"/>
+      <point x="276.884" y="-81.4089"/>
+      <point x="276.884" y="-73.4089" type="curve"/>
+      <point x="275.884" y="-20.4089"/>
+      <point x="274.884" y="-17.4089"/>
+      <point x="252.884" y="-7.40887" type="curve"/>
+      <point x="272.884" y="0.591125"/>
+      <point x="281.884" y="15.5911"/>
+      <point x="281.884" y="37.5911" type="curve" smooth="yes" name="hr03"/>
+      <point x="281.884" y="65.5911"/>
+      <point x="265.884" y="86.5911"/>
+      <point x="234.884" y="86.5911" type="curve" smooth="yes"/>
+      <point x="140.884" y="86.5911" type="line"/>
+      <point x="140.884" y="-95.4089" type="line"/>
+      <point x="176.884" y="-95.4089" type="line"/>
+      <point x="176.884" y="-23.4089" type="line"/>
+      <point x="218.884" y="-23.4089" type="line" smooth="yes" name="hr04"/>
+      <point x="233.884" y="-23.4089"/>
+      <point x="240.884" y="-29.4089"/>
+      <point x="240.884" y="-45.4089" type="curve" smooth="yes"/>
+      <point x="240.884" y="-64.4089" type="line" smooth="yes"/>
+      <point x="240.884" y="-81.4089"/>
+      <point x="240.884" y="-86.4089"/>
+      <point x="245.884" y="-95.4089" type="curve"/>
+    </contour>
+    <contour>
+      <point x="245.884" y="32.5911" type="curve" smooth="yes" name="hr05"/>
+      <point x="245.884" y="15.5911"/>
+      <point x="240.884" y="7.59113"/>
+      <point x="220.884" y="7.59113" type="curve" smooth="yes" name="hr06"/>
+      <point x="176.884" y="7.59113" type="line"/>
+      <point x="176.884" y="55.5911" type="line"/>
+      <point x="220.884" y="55.5911" type="line" smooth="yes"/>
+      <point x="240.884" y="55.5911"/>
+      <point x="245.884" y="47.5911"/>
+    </contour>
+    <contour>
+      <point x="331.422" y="-96.2199" type="line" name="hr06"/>
+      <point x="331.422" y="38.7801" type="line"/>
+      <point x="298.422" y="38.7801" type="line"/>
+      <point x="298.422" y="-96.2199" type="line"/>
+    </contour>
+    <contour>
+      <point x="331.422" y="54.7801" type="line" name="hr07"/>
+      <point x="331.422" y="89.7801" type="line"/>
+      <point x="298.422" y="89.7801" type="line"/>
+      <point x="298.422" y="54.7801" type="line"/>
+    </contour>
+  </outline>
+</glyph>

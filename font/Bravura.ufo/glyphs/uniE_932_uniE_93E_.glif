@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE932_uniE93E" format="2">
+  <advance width="783"/>
+  <unicode hex="F59E"/>
+  <note>mensuralMaximaBlackVoidStemUpRight</note>
+  <outline>
+    <contour>
+      <point x="767" y="641" type="curve" smooth="yes"/>
+      <point x="758" y="641"/>
+      <point x="751" y="634"/>
+      <point x="751" y="625" type="curve" smooth="yes"/>
+      <point x="751" y="142" type="line"/>
+      <point x="16" y="142" type="line" smooth="yes"/>
+      <point x="7" y="142"/>
+      <point x="0" y="134"/>
+      <point x="0" y="126" type="curve" smooth="yes"/>
+      <point x="0" y="-124" type="line" smooth="yes"/>
+      <point x="0" y="-133"/>
+      <point x="7" y="-140"/>
+      <point x="16" y="-140" type="curve"/>
+      <point x="391" y="-141"/>
+      <point x="391" y="-141"/>
+      <point x="767" y="-141" type="curve"/>
+      <point x="768" y="-141"/>
+      <point x="781" y="-134"/>
+      <point x="783" y="-128" type="curve"/>
+      <point x="783" y="625" type="line" smooth="yes"/>
+      <point x="783" y="634"/>
+      <point x="776" y="641"/>
+    </contour>
+    <contour>
+      <point x="376" y="-108" type="line"/>
+      <point x="32" y="-108" type="line"/>
+      <point x="32" y="110" type="line"/>
+      <point x="376" y="110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

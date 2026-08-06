@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE8F1" format="2">
+  <advance width="750"/>
+  <unicode hex="E8F1"/>
+  <note>chantStaffWide</note>
+  <outline>
+    <contour>
+      <point x="750" y="383" type="line"/>
+      <point x="0" y="383" type="line"/>
+      <point x="0" y="367" type="line"/>
+      <point x="750" y="367" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="133" type="line"/>
+      <point x="0" y="133" type="line"/>
+      <point x="0" y="117" type="line"/>
+      <point x="750" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="-117" type="line"/>
+      <point x="0" y="-117" type="line"/>
+      <point x="0" y="-133" type="line"/>
+      <point x="750" y="-133" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="-367" type="line"/>
+      <point x="0" y="-367" type="line"/>
+      <point x="0" y="-383" type="line"/>
+      <point x="750" y="-383" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEC3B" format="2">
+  <advance width="500"/>
+  <unicode hex="EC3B"/>
+  <note>kievanNoteBeam</note>
+  <outline>
+    <contour>
+      <point x="525" y="-90" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="-32" y="90" type="line"/>
+      <point x="-32" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE787" format="2">
+  <advance width="399"/>
+  <unicode hex="E787"/>
+  <note>pictBeaterHardGlockenspielLeft</note>
+  <outline>
+    <component base="uniE786" xScale="-1" xOffset="400"/>
+  </outline>
+</glyph>

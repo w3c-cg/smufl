@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDBD" format="2">
+  <advance width="429"/>
+  <unicode hex="EDBD"/>
+  <note>kahnLeftCross</note>
+  <outline>
+    <contour>
+      <point x="210" y="466" type="curve" smooth="yes"/>
+      <point x="104.978" y="466"/>
+      <point x="0" y="385.71"/>
+      <point x="0" y="251" type="curve" smooth="yes"/>
+      <point x="0" y="120.333"/>
+      <point x="101.697" y="31"/>
+      <point x="212" y="31" type="curve" smooth="yes"/>
+      <point x="306.139" y="31"/>
+      <point x="429" y="95.671"/>
+      <point x="429" y="254" type="curve" smooth="yes"/>
+      <point x="429" y="366.104"/>
+      <point x="338.996" y="466"/>
+    </contour>
+    <contour>
+      <point x="43" y="250" type="curve" smooth="yes"/>
+      <point x="43" y="303.333"/>
+      <point x="66.3333" y="353.667"/>
+      <point x="105" y="387" type="curve"/>
+      <point x="348" y="248" type="line"/>
+      <point x="107" y="110" type="line"/>
+      <point x="67" y="140.667"/>
+      <point x="43" y="194"/>
+    </contour>
+    <contour>
+      <point x="212" y="428" type="curve" smooth="yes"/>
+      <point x="302.598" y="428"/>
+      <point x="375.677" y="354.827"/>
+      <point x="381" y="267" type="curve"/>
+      <point x="135" y="408" type="line"/>
+      <point x="158.333" y="421.333"/>
+      <point x="184" y="428"/>
+    </contour>
+    <contour>
+      <point x="212" y="73" type="curve" smooth="yes"/>
+      <point x="184.667" y="73"/>
+      <point x="160.333" y="78"/>
+      <point x="139" y="88" type="curve"/>
+      <point x="380" y="229" type="line"/>
+      <point x="372.178" y="142.953"/>
+      <point x="300.834" y="73"/>
+    </contour>
+  </outline>
+</glyph>

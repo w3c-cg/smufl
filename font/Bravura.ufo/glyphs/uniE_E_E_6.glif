@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEEE6" format="2">
+  <advance width="487"/>
+  <unicode hex="EEE6"/>
+  <note>noteLiWhole</note>
+  <outline>
+    <contour>
+      <point x="248.978" y="142.681" type="curve" smooth="yes" name="hr04"/>
+      <point x="95.9779" y="142.681"/>
+      <point x="0.977859" y="77.681"/>
+      <point x="0.977859" y="-1.319" type="curve" smooth="yes"/>
+      <point x="0.977859" y="-78.319"/>
+      <point x="65.9779" y="-147.319"/>
+      <point x="237.978" y="-147.319" type="curve" smooth="yes"/>
+      <point x="424.978" y="-147.319"/>
+      <point x="486.978" y="-81.319"/>
+      <point x="486.978" y="-1.319" type="curve" smooth="yes"/>
+      <point x="486.978" y="80.681"/>
+      <point x="355.978" y="142.681"/>
+    </contour>
+    <contour>
+      <point x="238.978" y="-122.319" type="curve" smooth="yes"/>
+      <point x="109.978" y="-122.319"/>
+      <point x="60.9779" y="-65.319"/>
+      <point x="60.9779" y="-2.319" type="curve" smooth="yes"/>
+      <point x="60.9779" y="62.681"/>
+      <point x="132.978" y="116.681"/>
+      <point x="247.978" y="116.681" type="curve" smooth="yes"/>
+      <point x="327.978" y="116.681"/>
+      <point x="425.978" y="65.681"/>
+      <point x="425.978" y="-2.319" type="curve" smooth="yes"/>
+      <point x="425.978" y="-68.319"/>
+      <point x="379.978" y="-122.319"/>
+    </contour>
+    <contour>
+      <point x="269.978" y="-96.9503" type="line"/>
+      <point x="269.978" y="-65.9503" type="line"/>
+      <point x="187.978" y="-65.9503" type="line"/>
+      <point x="187.978" y="85.0497" type="line"/>
+      <point x="153.978" y="85.0497" type="line"/>
+      <point x="153.978" y="-96.9503" type="line"/>
+    </contour>
+    <contour>
+      <point x="319.646" y="-96.9503" type="line" name="hr06"/>
+      <point x="319.646" y="38.0497" type="line"/>
+      <point x="286.646" y="38.0497" type="line"/>
+      <point x="286.646" y="-96.9503" type="line"/>
+    </contour>
+    <contour>
+      <point x="319.646" y="54.0496" type="line" name="hr07"/>
+      <point x="319.646" y="89.0496" type="line"/>
+      <point x="286.646" y="89.0496" type="line"/>
+      <point x="286.646" y="54.0496" type="line"/>
+    </contour>
+  </outline>
+</glyph>

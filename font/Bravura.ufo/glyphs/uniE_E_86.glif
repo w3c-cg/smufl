@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE86" format="2">
+  <advance width="472"/>
+  <unicode hex="EE86"/>
+  <note>stringsScrapeParallelInward</note>
+  <outline>
+    <contour>
+      <point x="456.755" y="0.25" type="line" smooth="yes"/>
+      <point x="465.842" y="0.25"/>
+      <point x="471.9" y="6.30786"/>
+      <point x="471.9" y="15.3947" type="curve" smooth="yes"/>
+      <point x="471.9" y="21.1053" type="line" smooth="yes"/>
+      <point x="471.9" y="30.1921"/>
+      <point x="465.842" y="36.25"/>
+      <point x="456.755" y="36.25" type="curve" smooth="yes"/>
+      <point x="71.6931" y="36.25" type="line"/>
+      <point x="235.048" y="128.42" type="line" smooth="yes"/>
+      <point x="241.619" y="132.128"/>
+      <point x="242.686" y="138.384"/>
+      <point x="237.715" y="144.059" type="curve" smooth="yes"/>
+      <point x="227.045" y="156.24" type="line" smooth="yes"/>
+      <point x="224.018" y="159.696"/>
+      <point x="219.337" y="160.486"/>
+      <point x="215.343" y="158.215" type="curve" smooth="yes"/>
+      <point x="13.5662" y="43.4861" type="line" smooth="yes"/>
+      <point x="5.66652" y="38.9944"/>
+      <point x="0.400074" y="29.9419"/>
+      <point x="0.400074" y="20.8547" type="curve" smooth="yes"/>
+      <point x="0.400074" y="15.3953" type="line" smooth="yes"/>
+      <point x="0.400074" y="6.3081"/>
+      <point x="6.45808" y="0.249975"/>
+      <point x="15.5451" y="0.249975" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

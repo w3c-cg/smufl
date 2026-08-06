@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE318" format="2">
+  <advance width="406"/>
+  <unicode hex="E318"/>
+  <note>accSagittalSharp</note>
+  <outline>
+    <contour>
+      <point x="125" y="-37" type="line"/>
+      <point x="125" y="-359" type="line"/>
+      <point x="156" y="-359" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="203" y="59" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="-359" type="line"/>
+      <point x="281" y="-359" type="line"/>
+      <point x="281" y="-37" type="line"/>
+      <point x="406" y="-190" type="line"/>
+      <point x="406" y="-78" type="line"/>
+      <point x="203" y="172" type="line"/>
+      <point x="0" y="-78" type="line"/>
+      <point x="0" y="-190" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE2EB" format="2">
+  <advance width="245"/>
+  <unicode hex="E2EB"/>
+  <note>accidentalCombiningRaise23Limit29LimitComma</note>
+  <outline>
+    <component base="uniE2B4" xScale="1.3743" yScale="-1.3768" yOffset="-47"/>
+  </outline>
+</glyph>

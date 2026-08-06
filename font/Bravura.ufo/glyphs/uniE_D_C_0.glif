@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDC0" format="2">
+  <advance width="429"/>
+  <unicode hex="EDC0"/>
+  <note>kahnRightCatch</note>
+  <outline>
+    <component base="uniEDBF" xScale="-1" xOffset="429"/>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0CA" format="2">
+  <advance width="315"/>
+  <unicode hex="E0CA"/>
+  <anchor x="0" y="0" name="stemDownNW"/>
+  <anchor x="315" y="0" name="stemUpSE"/>
+  <note>noteheadMoonWhite</note>
+  <outline>
+    <contour>
+      <point x="158" y="-125" type="curve" smooth="yes"/>
+      <point x="211" y="-125"/>
+      <point x="253" y="-112"/>
+      <point x="280" y="-85" type="curve"/>
+      <point x="309" y="-58"/>
+      <point x="315" y="-24"/>
+      <point x="315" y="0" type="curve" smooth="yes"/>
+      <point x="315" y="125" type="line"/>
+      <point x="0" y="125" type="line"/>
+      <point x="0" y="0" type="line" smooth="yes"/>
+      <point x="0" y="-34"/>
+      <point x="12" y="-64"/>
+      <point x="35" y="-85" type="curve"/>
+      <point x="62" y="-112"/>
+      <point x="104" y="-125"/>
+    </contour>
+    <contour>
+      <point x="28" y="97" type="line"/>
+      <point x="287" y="97" type="line"/>
+      <point x="287" y="0" type="line" smooth="yes"/>
+      <point x="287" y="-18"/>
+      <point x="282" y="-45"/>
+      <point x="260" y="-66" type="curve" smooth="yes"/>
+      <point x="239" y="-86"/>
+      <point x="204" y="-97"/>
+      <point x="158" y="-97" type="curve" smooth="yes"/>
+      <point x="41" y="-97"/>
+      <point x="28" y="-29"/>
+      <point x="28" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

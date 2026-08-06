@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE1C" format="2">
+  <unicode hex="EE1C"/>
+  <note>organGermanAugmentationDot</note>
+  <outline>
+    <contour>
+      <point x="81" y="-72" type="curve"/>
+      <point x="117" y="-102" type="line"/>
+      <point x="132" y="-95"/>
+      <point x="152" y="-71"/>
+      <point x="152" y="-56" type="curve"/>
+      <point x="152" y="-55"/>
+      <point x="152" y="-54"/>
+      <point x="151" y="-53" type="curve"/>
+      <point x="114" y="-23" type="line"/>
+      <point x="99" y="-25"/>
+      <point x="79" y="-56"/>
+      <point x="79" y="-69" type="curve"/>
+      <point x="79" y="-70"/>
+      <point x="79" y="-71"/>
+    </contour>
+  </outline>
+</glyph>

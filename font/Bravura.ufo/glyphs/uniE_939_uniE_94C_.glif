@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE939_uniE94C" format="2">
+  <advance width="343"/>
+  <unicode hex="F589"/>
+  <note>mensuralFusaVoidStemDown</note>
+  <outline>
+    <component base="uniE939_uniE94B" yScale="-1"/>
+  </outline>
+</glyph>

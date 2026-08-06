@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDEE" format="2">
+  <advance width="172"/>
+  <unicode hex="EDEE"/>
+  <note>kahnLeftFoot</note>
+  <outline>
+    <contour>
+      <point x="1" y="479" type="line"/>
+      <point x="1" y="469" type="line"/>
+      <point x="167" y="469" type="line"/>
+      <point x="172" y="545" type="line"/>
+      <point x="163" y="545" type="line"/>
+      <point x="157" y="522"/>
+      <point x="155" y="500"/>
+      <point x="132" y="486" type="curve" smooth="yes"/>
+      <point x="127" y="483"/>
+      <point x="119" y="480"/>
+      <point x="113" y="480" type="curve" smooth="yes"/>
+      <point x="69" y="480" type="line" smooth="yes"/>
+      <point x="65" y="480"/>
+      <point x="61" y="485"/>
+      <point x="61" y="490" type="curve" smooth="yes"/>
+      <point x="61" y="652" type="line" smooth="yes"/>
+      <point x="61" y="657"/>
+      <point x="67" y="661"/>
+      <point x="69" y="661" type="curve"/>
+      <point x="94" y="661" type="line"/>
+      <point x="94" y="669" type="line"/>
+      <point x="1" y="669" type="line"/>
+      <point x="1" y="661" type="line"/>
+      <point x="22" y="661" type="line" smooth="yes"/>
+      <point x="26" y="661"/>
+      <point x="32" y="656"/>
+      <point x="32" y="652" type="curve" smooth="yes"/>
+      <point x="32" y="490" type="line" smooth="yes"/>
+      <point x="32" y="486"/>
+      <point x="27" y="479"/>
+      <point x="22" y="479" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

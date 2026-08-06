@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE539" format="2">
+  <advance width="732"/>
+  <unicode hex="E539"/>
+  <anchor x="440" y="0" name="opticalCenter"/>
+  <note>dynamicSforzato</note>
+  <outline>
+    <component base="uniE524"/>
+    <component base="uniE522" xOffset="235"/>
+    <component base="uniE525" xOffset="489"/>
+  </outline>
+</glyph>

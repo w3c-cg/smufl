@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0C5" format="2">
+  <advance width="285"/>
+  <unicode hex="E0C5"/>
+  <anchor x="0" y="116" name="stemDownNW"/>
+  <anchor x="285" y="116" name="stemUpSE"/>
+  <note>noteheadTriangleDownHalf</note>
+  <outline>
+    <component base="uniE0BC" xScale="-1" yScale="-1" xOffset="285"/>
+  </outline>
+</glyph>

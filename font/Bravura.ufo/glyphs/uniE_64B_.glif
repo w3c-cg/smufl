@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE64B" format="2">
+  <advance width="74"/>
+  <unicode hex="E64B"/>
+  <note>vocalHalbGesungen</note>
+  <outline>
+    <contour>
+      <point x="75" y="31" type="line"/>
+      <point x="75" y="93" type="line"/>
+      <point x="-75" y="62" type="line"/>
+      <point x="-75" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

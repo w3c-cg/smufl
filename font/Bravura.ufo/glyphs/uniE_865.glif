@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE865" format="2">
+  <advance width="743"/>
+  <unicode hex="E865"/>
+  <note>analyticsThemeRetrograde</note>
+  <outline>
+    <component base="uniE864" xScale="-1" xOffset="743"/>
+  </outline>
+</glyph>

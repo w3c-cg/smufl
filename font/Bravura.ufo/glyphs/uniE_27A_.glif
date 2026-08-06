@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE27A" format="2">
+  <advance width="185"/>
+  <unicode hex="E27A"/>
+  <anchor x="133" y="164" name="cutOutSE"/>
+  <anchor x="50" y="164" name="cutOutSW"/>
+  <note>accidentalArrowUp</note>
+  <outline>
+    <contour>
+      <point x="185" y="186" type="line"/>
+      <point x="92" y="390" type="line"/>
+      <point x="0" y="186" type="line"/>
+      <point x="77" y="186" type="line"/>
+      <point x="77" y="-115" type="line" smooth="yes"/>
+      <point x="77" y="-121"/>
+      <point x="82" y="-125"/>
+      <point x="87" y="-125" type="curve" smooth="yes"/>
+      <point x="97" y="-125" type="line" smooth="yes"/>
+      <point x="103" y="-125"/>
+      <point x="107" y="-121"/>
+      <point x="107" y="-115" type="curve" smooth="yes"/>
+      <point x="107" y="186" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE7BC" format="2">
+  <advance width="252"/>
+  <unicode hex="E7BC"/>
+  <note>pictGumSoftDown</note>
+  <outline>
+    <component base="uniE7BB" yScale="-1" yOffset="761"/>
+  </outline>
+</glyph>

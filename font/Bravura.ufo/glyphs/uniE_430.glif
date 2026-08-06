@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE430" format="2">
+  <advance width="227"/>
+  <unicode hex="E430"/>
+  <anchor x="76" y="179" name="cutOutNE"/>
+  <anchor x="141" y="-110" name="cutOutSE"/>
+  <note>accidentalWyschnegradsky6TwelfthsFlat</note>
+  <outline>
+    <component base="uniE260"/>
+  </outline>
+</glyph>

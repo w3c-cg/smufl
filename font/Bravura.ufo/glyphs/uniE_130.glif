@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE130" format="2">
+  <advance width="424"/>
+  <unicode hex="E130"/>
+  <note>noteheadClusterWholeMiddle</note>
+  <outline>
+    <contour>
+      <point x="319" y="-100" type="line"/>
+      <point x="319" y="100" type="line"/>
+      <point x="241" y="100" type="line"/>
+      <point x="241" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="-100" type="line"/>
+      <point x="183" y="100" type="line"/>
+      <point x="105" y="100" type="line"/>
+      <point x="105" y="-100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

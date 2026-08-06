@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0BD" format="2">
+  <advance width="293"/>
+  <unicode hex="E0BD"/>
+  <anchor x="0" y="-125" name="stemDownNW"/>
+  <anchor x="293" y="-125" name="stemUpSE"/>
+  <note>noteheadTriangleUpWhite</note>
+  <outline>
+    <contour>
+      <point x="293" y="-125" type="line"/>
+      <point x="145" y="125" type="line"/>
+      <point x="0" y="-125" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="-97" type="line"/>
+      <point x="145" y="69" type="line"/>
+      <point x="243" y="-97" type="line"/>
+    </contour>
+  </outline>
+</glyph>

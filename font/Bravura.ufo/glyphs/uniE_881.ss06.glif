@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE881.ss06" format="2">
+  <advance width="206"/>
+  <unicode hex="F4CD"/>
+  <note>tuplet1Light</note>
+  <outline>
+    <contour>
+      <point x="216" y="378" type="line"/>
+      <point x="128" y="55" type="line"/>
+      <point x="127" y="52"/>
+      <point x="127" y="49"/>
+      <point x="127" y="47" type="curve"/>
+      <point x="127" y="33"/>
+      <point x="141" y="21"/>
+      <point x="191" y="21" type="curve"/>
+      <point x="186" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="14" y="21" type="line"/>
+      <point x="67" y="21"/>
+      <point x="73" y="36"/>
+      <point x="80" y="56" type="curve"/>
+      <point x="80" y="57"/>
+      <point x="81" y="58"/>
+      <point x="81" y="59" type="curve"/>
+      <point x="81" y="59"/>
+      <point x="140" y="286"/>
+      <point x="144" y="298" type="curve"/>
+      <point x="145" y="300"/>
+      <point x="146" y="303"/>
+      <point x="146" y="305" type="curve"/>
+      <point x="146" y="312"/>
+      <point x="139" y="319"/>
+      <point x="123" y="319" type="curve" smooth="yes"/>
+      <point x="102" y="319"/>
+      <point x="81" y="319"/>
+      <point x="81" y="319" type="curve"/>
+      <point x="90" y="344" type="line"/>
+      <point x="123" y="344"/>
+      <point x="161" y="353"/>
+      <point x="195" y="378" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

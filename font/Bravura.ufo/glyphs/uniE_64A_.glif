@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE64A" format="2">
+  <advance width="666"/>
+  <unicode hex="E64A"/>
+  <note>vocalTongueFingerClickStockhausen</note>
+  <outline>
+    <contour>
+      <point x="666" y="454" type="line"/>
+      <point x="666" y="500" type="line"/>
+      <point x="346" y="500" type="line"/>
+      <point x="346" y="304" type="line"/>
+      <point x="127" y="500" type="line"/>
+      <point x="47" y="500" type="line"/>
+      <point x="270" y="298" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="320" y="254" type="line"/>
+      <point x="346" y="230" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="666" y="46" type="line"/>
+      <point x="414" y="46" type="line"/>
+      <point x="414" y="300" type="line"/>
+      <point x="602" y="300" type="line"/>
+      <point x="602" y="346" type="line"/>
+      <point x="414" y="346" type="line"/>
+      <point x="414" y="454" type="line"/>
+    </contour>
+  </outline>
+</glyph>

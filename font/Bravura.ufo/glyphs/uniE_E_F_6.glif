@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEEF6" format="2">
+  <advance width="358"/>
+  <unicode hex="EEF6"/>
+  <anchor x="358" y="47" name="stemUpSE"/>
+  <anchor x="0" y="-47" name="stemDownNW"/>
+  <note>noteFiBlack</note>
+  <outline>
+    <contour>
+      <point x="182" y="25.2082" type="line"/>
+      <point x="109" y="25.2082" type="line"/>
+      <point x="109" y="-11.7918" type="line"/>
+      <point x="173" y="-11.7918" type="line"/>
+      <point x="173" y="-39.7918" type="line"/>
+      <point x="109" y="-39.7918" type="line"/>
+      <point x="109" y="-110.792" type="line"/>
+      <point x="78" y="-110.792" type="line"/>
+      <point x="78" y="53.2082" type="line"/>
+      <point x="182" y="53.2082" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="141.208" type="curve" smooth="yes"/>
+      <point x="107" y="141.208"/>
+      <point x="0" y="50.2082"/>
+      <point x="0" y="-46.7918" type="curve" smooth="yes"/>
+      <point x="0" y="-105.792"/>
+      <point x="52" y="-140.792"/>
+      <point x="118" y="-140.792" type="curve" smooth="yes"/>
+      <point x="225" y="-140.792"/>
+      <point x="358" y="-47.7918"/>
+      <point x="358" y="47.2082" type="curve" smooth="yes"/>
+      <point x="358" y="104.208"/>
+      <point x="309" y="141.208"/>
+    </contour>
+    <contour>
+      <point x="262" y="-61.7918" type="line" name="hr07"/>
+      <point x="234" y="-61.7918" type="line" name="hr08"/>
+      <point x="234" y="60.2082" type="line"/>
+      <point x="262" y="60.2082" type="line" name="hr09"/>
+    </contour>
+    <contour>
+      <point x="263" y="74.2082" type="line"/>
+      <point x="234" y="74.2082" type="line" name="hr10"/>
+      <point x="234" y="106.208" type="line" name="hr11"/>
+      <point x="263" y="106.208" type="line" name="hr12"/>
+    </contour>
+  </outline>
+</glyph>

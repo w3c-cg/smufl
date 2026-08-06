@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED30" format="2">
+  <advance width="413"/>
+  <unicode hex="ED30"/>
+  <note>accidentalDoubleFlatArabic</note>
+  <outline>
+    <component base="uniE264"/>
+  </outline>
+</glyph>

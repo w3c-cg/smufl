@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE535" format="2">
+  <advance width="497"/>
+  <unicode hex="E535"/>
+  <anchor x="338" y="0" name="opticalCenter"/>
+  <note>dynamicForzando</note>
+  <outline>
+    <component base="uniE522"/>
+    <component base="uniE525" xOffset="253"/>
+  </outline>
+</glyph>

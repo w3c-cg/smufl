@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE8A" format="2">
+  <advance width="472"/>
+  <unicode hex="EE8A"/>
+  <note>stringsTripleChopInward</note>
+  <outline>
+    <component base="uniEE86" xOffset="-0.0748" yOffset="469.866"/>
+    <component base="uniE56E" xScale="0.4703" yScale="0.4703" xOffset="4.2032" yOffset="-0.2677"/>
+    <component base="uniE883" xScale="0.5967" yScale="0.5967" xOffset="150.001" yOffset="187.106"/>
+  </outline>
+</glyph>

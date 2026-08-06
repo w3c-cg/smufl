@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE3A4" format="2">
+  <advance width="250"/>
+  <unicode hex="E3A4"/>
+  <note>accSagittal49MediumDiesisUp</note>
+  <outline>
+    <contour>
+      <point x="31" y="-47" type="line" smooth="yes"/>
+      <point x="31" y="37"/>
+      <point x="73" y="78"/>
+      <point x="156" y="78" type="curve" smooth="yes"/>
+      <point x="219" y="78" type="line"/>
+      <point x="219" y="7" type="line"/>
+      <point x="31" y="-101" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-47" type="curve" smooth="yes"/>
+      <point x="0" y="-172" type="line"/>
+      <point x="31" y="-172" type="line"/>
+      <point x="219" y="-65" type="line"/>
+      <point x="219" y="-359" type="line"/>
+      <point x="250" y="-359" type="line"/>
+      <point x="250" y="172" type="line"/>
+      <point x="156" y="172" type="line" smooth="yes"/>
+      <point x="52" y="172"/>
+      <point x="0" y="99"/>
+    </contour>
+  </outline>
+</glyph>

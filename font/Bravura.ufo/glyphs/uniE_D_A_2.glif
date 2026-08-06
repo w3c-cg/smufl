@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDA2" format="2">
+  <advance width="278"/>
+  <unicode hex="EDA2"/>
+  <note>kahnHop</note>
+  <outline>
+    <component base="uniEDA0" xScale="-1" yScale="-1" xOffset="278" yOffset="665"/>
+  </outline>
+</glyph>

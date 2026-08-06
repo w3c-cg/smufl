@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDD9" format="2">
+  <advance width="195"/>
+  <unicode hex="EDD9"/>
+  <note>kahnSlap</note>
+  <outline>
+    <component base="uniEDD8" xScale="-1" xOffset="197"/>
+  </outline>
+</glyph>

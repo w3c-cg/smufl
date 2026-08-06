@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE872" format="2">
+  <advance width="395"/>
+  <unicode hex="E872"/>
+  <note>csymAugmented</note>
+  <outline>
+    <contour>
+      <point x="395" y="221" type="line"/>
+      <point x="220" y="221" type="line"/>
+      <point x="220" y="396" type="line"/>
+      <point x="176" y="396" type="line"/>
+      <point x="176" y="221" type="line"/>
+      <point x="0" y="221" type="line"/>
+      <point x="0" y="177" type="line"/>
+      <point x="176" y="177" type="line"/>
+      <point x="176" y="1" type="line"/>
+      <point x="220" y="1" type="line"/>
+      <point x="220" y="177" type="line"/>
+      <point x="395" y="177" type="line"/>
+    </contour>
+  </outline>
+</glyph>

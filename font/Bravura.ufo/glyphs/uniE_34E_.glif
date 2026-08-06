@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE34E" format="2">
+  <advance width="250"/>
+  <unicode hex="E34E"/>
+  <note>accSagittalSharp55CDown</note>
+  <outline>
+    <contour>
+      <point x="0" y="-188" type="line"/>
+      <point x="94" y="-87" type="line"/>
+      <point x="94" y="-359" type="line"/>
+      <point x="125" y="-359" type="line"/>
+      <point x="125" y="-54" type="line"/>
+      <point x="219" y="45" type="line"/>
+      <point x="219" y="-359" type="line"/>
+      <point x="250" y="-359" type="line"/>
+      <point x="250" y="172" type="line"/>
+      <point x="234" y="172" type="line"/>
+      <point x="0" y="-78" type="line"/>
+    </contour>
+  </outline>
+</glyph>

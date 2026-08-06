@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE83E" format="2">
+  <advance width="286"/>
+  <unicode hex="E83E"/>
+  <note>guitarHalfOpenPedal</note>
+  <outline>
+    <component base="uniE7F6"/>
+  </outline>
+</glyph>

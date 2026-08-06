@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE26A_uniE263_uniE26B" format="2">
+  <advance width="498"/>
+  <unicode hex="F5ED"/>
+  <note>accidentalDoubleSharpParens</note>
+  <outline>
+    <component base="uniE26A"/>
+    <component base="uniE263" xOffset="126"/>
+    <component base="uniE26B" xOffset="357"/>
+  </outline>
+</glyph>

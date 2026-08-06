@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE640" format="2">
+  <advance width="375"/>
+  <unicode hex="E640"/>
+  <note>vocalMouthClosed</note>
+  <outline>
+    <contour>
+      <point x="0" y="101" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="375" y="101" type="line"/>
+    </contour>
+  </outline>
+</glyph>

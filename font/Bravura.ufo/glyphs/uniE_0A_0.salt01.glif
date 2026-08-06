@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0A0.salt01" format="2">
+  <advance width="529"/>
+  <unicode hex="F43F"/>
+  <anchor x="35" y="0" name="noteheadOrigin"/>
+  <note>noteheadDoubleWholeAlt</note>
+  <outline>
+    <component base="uniE1D0.salt01"/>
+  </outline>
+</glyph>

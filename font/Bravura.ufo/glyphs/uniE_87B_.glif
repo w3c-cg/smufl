@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE87B" format="2">
+  <advance width="314"/>
+  <unicode hex="E87B"/>
+  <note>csymAlteredBassSlash</note>
+  <outline>
+    <contour>
+      <point x="-43" y="-146" type="line"/>
+      <point x="21" y="-146" type="line"/>
+      <point x="314" y="850" type="line"/>
+      <point x="250" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

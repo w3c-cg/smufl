@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE213" format="2">
+  <advance width="15"/>
+  <unicode hex="E213"/>
+  <note>stemPendereckiTremolo</note>
+  <outline>
+    <contour>
+      <point x="15" y="490" type="line"/>
+      <point x="169" y="638" type="line"/>
+      <point x="149" y="660" type="line"/>
+      <point x="124" y="638"/>
+      <point x="74" y="624"/>
+      <point x="15" y="622" type="curve"/>
+      <point x="15" y="875" type="line"/>
+      <point x="-15" y="875" type="line"/>
+      <point x="-15" y="622" type="line"/>
+      <point x="-74" y="625"/>
+      <point x="-124" y="640"/>
+      <point x="-150" y="662" type="curve"/>
+      <point x="-170" y="640" type="line"/>
+      <point x="-139" y="612"/>
+      <point x="-82" y="595"/>
+      <point x="-15" y="592" type="curve"/>
+      <point x="-15" y="503" type="line"/>
+      <point x="-170" y="356" type="line"/>
+      <point x="-150" y="334" type="line"/>
+      <point x="-124" y="356"/>
+      <point x="-74" y="371"/>
+      <point x="-15" y="373" type="curve"/>
+      <point x="-15" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="15" y="374" type="line"/>
+      <point x="74" y="372"/>
+      <point x="124" y="358"/>
+      <point x="149" y="336" type="curve"/>
+      <point x="169" y="358" type="line"/>
+      <point x="139" y="385"/>
+      <point x="82" y="402"/>
+      <point x="15" y="404" type="curve"/>
+    </contour>
+    <contour>
+      <point x="15" y="592" type="line"/>
+      <point x="40" y="593"/>
+      <point x="64" y="595"/>
+      <point x="86" y="600" type="curve"/>
+      <point x="15" y="532" type="line"/>
+    </contour>
+    <contour>
+      <point x="-86" y="394" type="curve"/>
+      <point x="-15" y="462" type="line"/>
+      <point x="-15" y="403" type="line"/>
+      <point x="-41" y="402"/>
+      <point x="-65" y="399"/>
+    </contour>
+  </outline>
+</glyph>

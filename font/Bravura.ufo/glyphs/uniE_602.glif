@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE602" format="2">
+  <advance width="588"/>
+  <unicode hex="E602"/>
+  <note>windWeakAirPressure</note>
+  <outline>
+    <contour>
+      <point x="17" y="335" type="line" smooth="yes"/>
+      <point x="7" y="335"/>
+      <point x="0" y="328"/>
+      <point x="0" y="318" type="curve" smooth="yes"/>
+      <point x="0" y="18" type="line" smooth="yes"/>
+      <point x="0" y="8"/>
+      <point x="7" y="0"/>
+      <point x="17" y="0" type="curve" smooth="yes"/>
+      <point x="570" y="0" type="line" smooth="yes"/>
+      <point x="579" y="0"/>
+      <point x="587" y="8"/>
+      <point x="587" y="18" type="curve" smooth="yes"/>
+      <point x="587" y="318" type="line" smooth="yes"/>
+      <point x="587" y="328"/>
+      <point x="579" y="335"/>
+      <point x="570" y="335" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="34" y="301" type="line"/>
+      <point x="552" y="301" type="line"/>
+      <point x="552" y="35" type="line"/>
+      <point x="34" y="35" type="line"/>
+    </contour>
+  </outline>
+</glyph>

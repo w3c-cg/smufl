@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE47C" format="2">
+  <advance width="281"/>
+  <unicode hex="E47C"/>
+  <note>accidentalWilsonMinus</note>
+  <outline>
+    <contour>
+      <point x="0" y="78" type="line"/>
+      <point x="281" y="-186" type="line"/>
+      <point x="281" y="-78" type="line"/>
+      <point x="0" y="186" type="line"/>
+    </contour>
+  </outline>
+</glyph>

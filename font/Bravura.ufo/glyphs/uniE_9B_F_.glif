@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9BF" format="2">
+  <advance width="14"/>
+  <unicode hex="E9BF"/>
+  <note>chantConnectingLineAsc4th</note>
+  <outline>
+    <contour>
+      <point x="0" y="450" type="line"/>
+      <point x="0" y="-150" type="line"/>
+      <point x="14" y="-150" type="line"/>
+      <point x="14" y="450" type="line"/>
+    </contour>
+  </outline>
+</glyph>

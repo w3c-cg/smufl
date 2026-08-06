@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE241.salt02" format="2">
+  <advance width="269"/>
+  <unicode hex="F48C"/>
+  <anchor x="0" y="0" name="stemDownSW"/>
+  <note>flag8thDownSmall</note>
+  <outline>
+    <contour>
+      <point x="19" y="-8" type="line" smooth="yes"/>
+      <point x="27" y="-8"/>
+      <point x="49" y="-6"/>
+      <point x="53" y="13" type="curve" smooth="yes"/>
+      <point x="71" y="108"/>
+      <point x="110" y="191"/>
+      <point x="159" y="270" type="curve"/>
+      <point x="219" y="370"/>
+      <point x="265" y="488"/>
+      <point x="269" y="614" type="curve"/>
+      <point x="269" y="622" type="line" smooth="yes"/>
+      <point x="269" y="656"/>
+      <point x="265" y="817"/>
+      <point x="209" y="808" type="curve"/>
+      <point x="195" y="804"/>
+      <point x="191" y="794"/>
+      <point x="191" y="781" type="curve" smooth="yes"/>
+      <point x="191" y="771"/>
+      <point x="194" y="758"/>
+      <point x="197" y="747" type="curve"/>
+      <point x="206" y="708"/>
+      <point x="214" y="666"/>
+      <point x="214" y="624" type="curve" smooth="yes"/>
+      <point x="214" y="566"/>
+      <point x="203" y="510"/>
+      <point x="192" y="474" type="curve" smooth="yes"/>
+      <point x="139" y="303"/>
+      <point x="43" y="280"/>
+      <point x="1" y="275" type="curve"/>
+      <point x="1" y="3" type="line" smooth="yes"/>
+      <point x="1" y="-8"/>
+      <point x="6" y="-8"/>
+      <point x="12" y="-8" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

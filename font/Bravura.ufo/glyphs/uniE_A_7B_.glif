@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA7B" format="2">
+  <advance width="278"/>
+  <unicode hex="EA7B"/>
+  <note>functionMinus</note>
+  <outline>
+    <contour>
+      <point x="258" y="240" type="line"/>
+      <point x="258" y="312" type="line"/>
+      <point x="20" y="312" type="line"/>
+      <point x="20" y="240" type="line"/>
+    </contour>
+  </outline>
+</glyph>

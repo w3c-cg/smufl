@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE210" format="2">
+  <advance width="15"/>
+  <unicode hex="E210"/>
+  <note>stem</note>
+  <outline>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="15" y="875" type="line"/>
+      <point x="-15" y="875" type="line"/>
+      <point x="-15" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

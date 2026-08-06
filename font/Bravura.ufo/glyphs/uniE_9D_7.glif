@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9D7" format="2">
+  <advance width="74"/>
+  <unicode hex="E9D7"/>
+  <note>chantAccentusBelow</note>
+  <outline>
+    <component base="uniE9D6" yScale="-1"/>
+  </outline>
+</glyph>

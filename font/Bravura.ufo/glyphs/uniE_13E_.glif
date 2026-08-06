@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE13E" format="2">
+  <advance width="291"/>
+  <unicode hex="E13E"/>
+  <anchor x="0" y="15" name="stemDownNW"/>
+  <note>noteheadDiamondClusterWhiteBottom</note>
+  <outline>
+    <component base="uniE13C" yScale="-1" xOffset="-1"/>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5F9" format="2">
+  <advance width="304"/>
+  <unicode hex="E5F9"/>
+  <note>windOpenHole</note>
+  <outline>
+    <contour>
+      <point x="152" y="0" type="curve" smooth="yes"/>
+      <point x="236" y="0"/>
+      <point x="304" y="68"/>
+      <point x="304" y="152" type="curve" smooth="yes"/>
+      <point x="304" y="236"/>
+      <point x="236" y="304"/>
+      <point x="152" y="304" type="curve" smooth="yes"/>
+      <point x="68" y="304"/>
+      <point x="0" y="236"/>
+      <point x="0" y="152" type="curve" smooth="yes"/>
+      <point x="0" y="68"/>
+      <point x="68" y="0"/>
+    </contour>
+    <contour>
+      <point x="152" y="272" type="curve" smooth="yes"/>
+      <point x="218" y="272"/>
+      <point x="272" y="218"/>
+      <point x="272" y="152" type="curve" smooth="yes"/>
+      <point x="272" y="86"/>
+      <point x="218" y="32"/>
+      <point x="152" y="32" type="curve" smooth="yes"/>
+      <point x="86" y="32"/>
+      <point x="32" y="86"/>
+      <point x="32" y="152" type="curve" smooth="yes"/>
+      <point x="32" y="218"/>
+      <point x="86" y="272"/>
+    </contour>
+  </outline>
+</glyph>

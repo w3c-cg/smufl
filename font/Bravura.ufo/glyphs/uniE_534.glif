@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE534" format="2">
+  <advance width="619"/>
+  <unicode hex="E534"/>
+  <anchor x="375" y="0" name="opticalCenter"/>
+  <note>dynamicFortePiano</note>
+  <outline>
+    <component base="uniE522"/>
+    <component base="uniE520" xOffset="253"/>
+  </outline>
+</glyph>

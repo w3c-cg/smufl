@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA71" format="2">
+  <advance width="285"/>
+  <unicode hex="EA71"/>
+  <note>functionOne</note>
+  <outline>
+    <contour>
+      <point x="265" y="0" type="line"/>
+      <point x="265" y="709" type="line"/>
+      <point x="207" y="709" type="line"/>
+      <point x="176" y="600"/>
+      <point x="156" y="585"/>
+      <point x="20" y="568" type="curve"/>
+      <point x="20" y="505" type="line"/>
+      <point x="177" y="505" type="line"/>
+      <point x="177" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA7C" format="2">
+  <advance width="538"/>
+  <unicode hex="EA7C"/>
+  <note>functionGreaterThan</note>
+  <outline>
+    <contour>
+      <point x="518" y="224" type="line"/>
+      <point x="518" y="276" type="line"/>
+      <point x="20" y="569" type="line"/>
+      <point x="20" y="479" type="line"/>
+      <point x="444" y="250" type="line"/>
+      <point x="20" y="21" type="line"/>
+      <point x="20" y="-69" type="line"/>
+    </contour>
+  </outline>
+</glyph>

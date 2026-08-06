@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE553" format="2">
+  <advance width="335"/>
+  <unicode hex="E553"/>
+  <note>lyricsHyphenBaseline</note>
+  <outline>
+    <contour>
+      <point x="292" y="35" type="line"/>
+      <point x="40" y="35" type="line"/>
+      <point x="40" y="-34" type="line"/>
+      <point x="292" y="-34" type="line"/>
+    </contour>
+  </outline>
+</glyph>

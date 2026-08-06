@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE267" format="2">
+  <advance width="459"/>
+  <unicode hex="E267"/>
+  <anchor x="295" y="162" name="cutOutNE"/>
+  <anchor x="187" y="-207" name="cutOutSE"/>
+  <anchor x="109" y="-207" name="cutOutSW"/>
+  <note>accidentalNaturalFlat</note>
+  <outline>
+    <component base="uniE261"/>
+    <component base="uniE260" xOffset="233"/>
+  </outline>
+</glyph>

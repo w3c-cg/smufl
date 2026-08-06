@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE244.ss03" format="2">
+  <advance width="262"/>
+  <unicode hex="F415"/>
+  <anchor x="0" y="174" name="stemUpNW"/>
+  <note>flag32ndUpStraight</note>
+  <outline>
+    <contour>
+      <point x="0" y="3" type="line"/>
+      <point x="0" y="-122" type="line"/>
+      <point x="10" y="-122" type="line"/>
+      <point x="240" y="-352" type="line"/>
+      <point x="240" y="-227" type="line"/>
+      <point x="10" y="3" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-197" type="line"/>
+      <point x="0" y="-322" type="line"/>
+      <point x="10" y="-322" type="line"/>
+      <point x="240" y="-552" type="line"/>
+      <point x="240" y="-427" type="line"/>
+      <point x="10" y="-197" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="203" type="line"/>
+      <point x="0" y="78" type="line"/>
+      <point x="10" y="78" type="line"/>
+      <point x="240" y="-152" type="line"/>
+      <point x="240" y="-27" type="line"/>
+      <point x="10" y="203" type="line"/>
+    </contour>
+  </outline>
+</glyph>

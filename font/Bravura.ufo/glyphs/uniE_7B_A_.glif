@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE7BA" format="2">
+  <advance width="437"/>
+  <unicode hex="E7BA"/>
+  <note>pictWoundSoftLeft</note>
+  <outline>
+    <component base="uniE7B9" xScale="-1" xOffset="438"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDE3" format="2">
+  <advance width="593"/>
+  <unicode hex="EDE3"/>
+  <note>kahnPull</note>
+  <outline>
+    <component base="uniEDDE" xScale="-1" xOffset="592"/>
+  </outline>
+</glyph>

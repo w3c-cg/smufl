@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE844" format="2">
+  <advance width="362"/>
+  <unicode hex="E844"/>
+  <note>guitarFadeOut</note>
+  <outline>
+    <component base="uniE843" xScale="-1" xOffset="362"/>
+  </outline>
+</glyph>

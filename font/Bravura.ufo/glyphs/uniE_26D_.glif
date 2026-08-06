@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE26D" format="2">
+  <advance width="77"/>
+  <unicode hex="E26D"/>
+  <note>accidentalBracketRight</note>
+  <outline>
+    <component base="uniE26C" xScale="-1" xOffset="77"/>
+  </outline>
+</glyph>

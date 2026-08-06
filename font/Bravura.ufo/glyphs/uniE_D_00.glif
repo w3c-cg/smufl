@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED00" format="2">
+  <advance width="736"/>
+  <unicode hex="ED00"/>
+  <note>functionMUpper</note>
+  <outline>
+    <contour>
+      <point x="711" y="0" type="line"/>
+      <point x="711" y="729" type="line"/>
+      <point x="582" y="729" type="line"/>
+      <point x="370" y="94" type="line"/>
+      <point x="154" y="729" type="line"/>
+      <point x="25" y="729" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="113" y="611" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="623" y="611" type="line"/>
+      <point x="623" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

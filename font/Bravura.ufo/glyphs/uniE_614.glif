@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE614" format="2">
+  <advance width="200"/>
+  <unicode hex="E614"/>
+  <note>stringsHarmonic</note>
+  <outline>
+    <contour>
+      <point x="200" y="100" type="curve" smooth="yes"/>
+      <point x="200" y="156"/>
+      <point x="155" y="200"/>
+      <point x="100" y="200" type="curve" smooth="yes"/>
+      <point x="45" y="200"/>
+      <point x="0" y="156"/>
+      <point x="0" y="100" type="curve" smooth="yes"/>
+      <point x="0" y="45"/>
+      <point x="45" y="0"/>
+      <point x="100" y="0" type="curve" smooth="yes"/>
+      <point x="155" y="0"/>
+      <point x="200" y="45"/>
+    </contour>
+    <contour>
+      <point x="100" y="173" type="curve" smooth="yes"/>
+      <point x="141" y="173"/>
+      <point x="173" y="141"/>
+      <point x="173" y="100" type="curve" smooth="yes"/>
+      <point x="173" y="60"/>
+      <point x="141" y="27"/>
+      <point x="100" y="27" type="curve" smooth="yes"/>
+      <point x="60" y="27"/>
+      <point x="27" y="60"/>
+      <point x="27" y="100" type="curve" smooth="yes"/>
+      <point x="27" y="141"/>
+      <point x="60" y="173"/>
+    </contour>
+  </outline>
+</glyph>

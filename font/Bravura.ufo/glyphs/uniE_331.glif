@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE331" format="2">
+  <advance width="406"/>
+  <unicode hex="E331"/>
+  <note>accSagittalDoubleFlat5CUp</note>
+  <outline>
+    <contour>
+      <point x="281" y="349" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="161" y="-3" type="line"/>
+      <point x="406" y="183" type="line"/>
+      <point x="406" y="78" type="line"/>
+      <point x="78" y="-172" type="line"/>
+      <point x="62" y="-172" type="line"/>
+      <point x="62" y="-78" type="line"/>
+      <point x="105" y="-47" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="0" y="349" type="line"/>
+      <point x="36" y="359" type="line"/>
+      <point x="141" y="57" type="line"/>
+      <point x="246" y="359" type="line"/>
+    </contour>
+  </outline>
+</glyph>

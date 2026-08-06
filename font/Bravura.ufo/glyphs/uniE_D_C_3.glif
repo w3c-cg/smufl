@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDC3" format="2">
+  <advance width="319"/>
+  <unicode hex="EDC3"/>
+  <note>kahnStamp</note>
+  <outline>
+    <contour>
+      <point x="0" y="1" type="line"/>
+      <point x="80" y="1" type="line"/>
+      <point x="79.9596" y="2.49495"/>
+      <point x="79.9394" y="3.98867"/>
+      <point x="79.9394" y="5.48118" type="curve" smooth="yes"/>
+      <point x="79.9394" y="97.1022"/>
+      <point x="164.11" y="203"/>
+      <point x="293" y="203" type="curve"/>
+      <point x="293" y="278" type="line"/>
+      <point x="211" y="277.333"/>
+      <point x="140" y="248.333"/>
+      <point x="80" y="191" type="curve"/>
+      <point x="80" y="703" type="line"/>
+      <point x="0" y="703" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="643" type="line"/>
+      <point x="145" y="643" type="line" smooth="yes"/>
+      <point x="129" y="643"/>
+      <point x="117" y="629.667"/>
+      <point x="117" y="615" type="curve" smooth="yes"/>
+      <point x="117" y="595" type="line" smooth="yes"/>
+      <point x="117" y="579"/>
+      <point x="129" y="567"/>
+      <point x="145" y="567" type="curve" smooth="yes"/>
+      <point x="319" y="567" type="line"/>
+    </contour>
+  </outline>
+</glyph>

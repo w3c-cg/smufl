@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA03" format="2">
+  <advance width="615"/>
+  <unicode hex="EA03"/>
+  <note>mensuralCustosDown</note>
+  <outline>
+    <component base="uniEA02" yScale="-1" yOffset="247"/>
+  </outline>
+</glyph>

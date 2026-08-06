@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5E2" format="2">
+  <advance width="307"/>
+  <unicode hex="E5E2"/>
+  <note>brassSmear</note>
+  <outline>
+    <contour>
+      <point x="134" y="55" type="line"/>
+      <point x="152" y="35"/>
+      <point x="183" y="0"/>
+      <point x="214" y="0" type="curve" smooth="yes"/>
+      <point x="275" y="0"/>
+      <point x="304" y="71"/>
+      <point x="305" y="81" type="curve"/>
+      <point x="305" y="84"/>
+      <point x="306" y="86"/>
+      <point x="306" y="89" type="curve" smooth="yes"/>
+      <point x="306" y="94"/>
+      <point x="305" y="98"/>
+      <point x="301" y="98" type="curve" smooth="yes"/>
+      <point x="298" y="98"/>
+      <point x="294" y="95"/>
+      <point x="289" y="90" type="curve"/>
+      <point x="271" y="74"/>
+      <point x="257" y="65"/>
+      <point x="238" y="65" type="curve" smooth="yes"/>
+      <point x="219" y="65"/>
+      <point x="204" y="84"/>
+      <point x="187" y="106" type="curve" smooth="yes"/>
+      <point x="184" y="110" type="line"/>
+      <point x="166" y="132"/>
+      <point x="125" y="170"/>
+      <point x="100" y="170" type="curve" smooth="yes"/>
+      <point x="43" y="170"/>
+      <point x="7" y="99"/>
+      <point x="4" y="93" type="curve"/>
+      <point x="2" y="87"/>
+      <point x="1" y="82"/>
+      <point x="1" y="79" type="curve" smooth="yes"/>
+      <point x="1" y="75"/>
+      <point x="3" y="74"/>
+      <point x="5" y="74" type="curve"/>
+      <point x="9" y="74"/>
+      <point x="15" y="78"/>
+      <point x="25" y="85" type="curve"/>
+      <point x="38" y="95"/>
+      <point x="45" y="105"/>
+      <point x="64" y="105" type="curve" smooth="yes"/>
+      <point x="87" y="105"/>
+      <point x="112" y="78"/>
+      <point x="127" y="62" type="curve"/>
+      <point x="128" y="61"/>
+      <point x="130" y="60"/>
+      <point x="131" y="58" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

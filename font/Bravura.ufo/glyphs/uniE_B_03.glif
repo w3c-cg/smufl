@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB03" format="2">
+  <advance width="32"/>
+  <unicode hex="EB03"/>
+  <note>beamAccelRitFinal</note>
+  <outline>
+    <contour>
+      <point x="-34" y="766" type="line"/>
+      <point x="-34" y="641" type="line"/>
+      <point x="0" y="641" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="32" y="750" type="line" smooth="yes"/>
+      <point x="32" y="759"/>
+      <point x="25" y="766"/>
+      <point x="16" y="766" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

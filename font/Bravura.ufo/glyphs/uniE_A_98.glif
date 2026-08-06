@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEA98" format="2">
+  <advance width="385"/>
+  <unicode hex="EA98"/>
+  <note>functionPlus</note>
+  <outline>
+    <contour>
+      <point x="365" y="553" type="line"/>
+      <point x="365" y="605" type="line"/>
+      <point x="218" y="605" type="line"/>
+      <point x="218" y="751" type="line"/>
+      <point x="166" y="751" type="line"/>
+      <point x="166" y="605" type="line"/>
+      <point x="20" y="605" type="line"/>
+      <point x="20" y="553" type="line"/>
+      <point x="166" y="553" type="line"/>
+      <point x="166" y="407" type="line"/>
+      <point x="218" y="407" type="line"/>
+      <point x="218" y="553" type="line"/>
+    </contour>
+  </outline>
+</glyph>

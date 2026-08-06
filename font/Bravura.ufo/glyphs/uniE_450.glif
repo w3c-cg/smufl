@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE450" format="2">
+  <advance width="384"/>
+  <unicode hex="E450"/>
+  <anchor x="224" y="378" name="cutOutNW"/>
+  <anchor x="272" y="222" name="cutOutSE"/>
+  <anchor x="28" y="-232" name="cutOutSW"/>
+  <note>accidental1CommaSharp</note>
+  <outline>
+    <component base="uniE262"/>
+    <component base="uniEA51" xOffset="258" yOffset="265"/>
+  </outline>
+</glyph>

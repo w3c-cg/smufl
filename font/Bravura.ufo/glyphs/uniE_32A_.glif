@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE32A" format="2">
+  <advance width="500"/>
+  <unicode hex="E32A"/>
+  <note>accSagittalSharp35LUp</note>
+  <outline>
+    <contour>
+      <point x="0" y="-172" type="line"/>
+      <point x="31" y="-172" type="line"/>
+      <point x="31" y="-47" type="line" smooth="yes"/>
+      <point x="31" y="18"/>
+      <point x="62" y="57"/>
+      <point x="125" y="72" type="curve"/>
+      <point x="125" y="-359" type="line"/>
+      <point x="156" y="-359" type="line"/>
+      <point x="156" y="78" type="line"/>
+      <point x="188" y="78" type="line"/>
+      <point x="219" y="78" type="line"/>
+      <point x="219" y="-359" type="line"/>
+      <point x="250" y="-359" type="line"/>
+      <point x="250" y="49" type="line"/>
+      <point x="314" y="-12" type="line"/>
+      <point x="314" y="-359" type="line"/>
+      <point x="344" y="-359" type="line"/>
+      <point x="344" y="-39" type="line"/>
+      <point x="500" y="-186" type="line"/>
+      <point x="500" y="-78" type="line"/>
+      <point x="234" y="172" type="line"/>
+      <point x="156" y="172" type="line" smooth="yes"/>
+      <point x="52" y="172"/>
+      <point x="0" y="130"/>
+      <point x="0" y="47" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

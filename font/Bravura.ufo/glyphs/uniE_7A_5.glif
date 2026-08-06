@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE7A5" format="2">
+  <advance width="454"/>
+  <unicode hex="E7A5"/>
+  <note>pictBeaterSoftYarnLeft</note>
+  <outline>
+    <component base="uniE7A4" xScale="-1" xOffset="453"/>
+  </outline>
+</glyph>

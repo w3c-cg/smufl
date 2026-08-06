@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniECEA" format="2">
+  <advance width="424"/>
+  <unicode hex="ECEA"/>
+  <note>timeSigCommonTurned</note>
+  <outline>
+    <component base="uniE08A" xScale="-1" yScale="-1" xOffset="429" yOffset="2"/>
+  </outline>
+</glyph>

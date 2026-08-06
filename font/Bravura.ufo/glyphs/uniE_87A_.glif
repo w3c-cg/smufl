@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE87A" format="2">
+  <advance width="107"/>
+  <unicode hex="E87A"/>
+  <note>csymParensRightVeryTall</note>
+  <outline>
+    <component base="uniE879" xScale="-1" xOffset="107"/>
+  </outline>
+</glyph>

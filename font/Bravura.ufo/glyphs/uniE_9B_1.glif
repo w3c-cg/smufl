@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE9B1" format="2">
+  <unicode hex="E9B1"/>
+  <note>chantPodatusUpper</note>
+  <outline>
+    <contour>
+      <point x="14" y="150" type="line" smooth="yes"/>
+      <point x="14" y="180"/>
+      <point x="-10" y="195"/>
+      <point x="-57" y="195" type="curve" smooth="yes"/>
+      <point x="-104" y="195"/>
+      <point x="-127" y="180"/>
+      <point x="-127" y="150" type="curve" smooth="yes"/>
+      <point x="-127" y="68" type="line" smooth="yes"/>
+      <point x="-127" y="37"/>
+      <point x="-127" y="36"/>
+      <point x="-125" y="36" type="curve"/>
+      <point x="-124" y="36"/>
+      <point x="-123" y="37"/>
+      <point x="-122" y="37" type="curve"/>
+      <point x="-103" y="48"/>
+      <point x="-83" y="53"/>
+      <point x="-57" y="53" type="curve" smooth="yes"/>
+      <point x="-50" y="53"/>
+      <point x="-41" y="53"/>
+      <point x="-33" y="50" type="curve"/>
+      <point x="-23" y="48"/>
+      <point x="-14" y="42"/>
+      <point x="-8" y="32" type="curve"/>
+      <point x="-5" y="30"/>
+      <point x="1" y="17"/>
+      <point x="1" y="13" type="curve"/>
+      <point x="3" y="2"/>
+      <point x="5" y="-3"/>
+      <point x="8" y="-3" type="curve" smooth="yes"/>
+      <point x="11" y="-3"/>
+      <point x="14" y="4"/>
+      <point x="14" y="17" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

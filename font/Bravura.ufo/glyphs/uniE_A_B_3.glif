@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEAB3" format="2">
+  <advance width="205"/>
+  <unicode hex="EAB3"/>
+  <anchor x="205" y="0" name="repeatOffset"/>
+  <note>guitarWideVibratoStroke</note>
+  <outline>
+    <contour>
+      <point x="0" y="63" type="line"/>
+      <point x="11" y="75"/>
+      <point x="18" y="83"/>
+      <point x="32" y="83" type="curve" smooth="yes"/>
+      <point x="67" y="83"/>
+      <point x="75" y="0"/>
+      <point x="134" y="0" type="curve" smooth="yes"/>
+      <point x="195" y="0"/>
+      <point x="221" y="136"/>
+      <point x="226" y="165" type="curve"/>
+      <point x="226" y="168"/>
+      <point x="227" y="171"/>
+      <point x="227" y="173" type="curve"/>
+      <point x="227" y="180"/>
+      <point x="225" y="183"/>
+      <point x="222" y="183" type="curve" smooth="yes"/>
+      <point x="217" y="183"/>
+      <point x="211" y="176"/>
+      <point x="208" y="170" type="curve" smooth="yes"/>
+      <point x="206" y="166" type="line"/>
+      <point x="198" y="152"/>
+      <point x="190" y="140"/>
+      <point x="179" y="140" type="curve"/>
+      <point x="177" y="140"/>
+      <point x="175" y="140"/>
+      <point x="172" y="141" type="curve"/>
+      <point x="156" y="147"/>
+      <point x="144" y="167"/>
+      <point x="130" y="181" type="curve"/>
+      <point x="113" y="199"/>
+      <point x="89" y="224"/>
+      <point x="71" y="224" type="curve" smooth="yes"/>
+      <point x="11" y="224"/>
+      <point x="-6" y="119"/>
+      <point x="-19" y="89" type="curve" smooth="yes"/>
+      <point x="-22" y="82"/>
+      <point x="-24" y="75"/>
+      <point x="-24" y="70" type="curve" smooth="yes"/>
+      <point x="-24" y="60"/>
+      <point x="-19" y="55"/>
+      <point x="-13" y="55" type="curve" smooth="yes"/>
+      <point x="-10" y="55"/>
+      <point x="-6" y="56"/>
+      <point x="-3" y="60" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

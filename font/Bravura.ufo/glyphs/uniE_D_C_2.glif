@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDC2" format="2">
+  <advance width="485"/>
+  <unicode hex="EDC2"/>
+  <note>kahnRightToeStrike</note>
+  <outline>
+    <component base="uniEDC1" xScale="-1" xOffset="485"/>
+  </outline>
+</glyph>

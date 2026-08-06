@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE5F8" format="2">
+  <advance width="305"/>
+  <unicode hex="E5F8"/>
+  <note>windHalfClosedHole3</note>
+  <outline>
+    <contour>
+      <point x="152" y="273" type="curve" smooth="yes"/>
+      <point x="220" y="273"/>
+      <point x="274" y="218"/>
+      <point x="274" y="152" type="curve" smooth="yes"/>
+      <point x="274" y="87"/>
+      <point x="220" y="32"/>
+      <point x="152" y="32" type="curve" smooth="yes"/>
+      <point x="87" y="32"/>
+      <point x="32" y="87"/>
+      <point x="32" y="152" type="curve" smooth="yes"/>
+      <point x="32" y="218"/>
+      <point x="87" y="273"/>
+    </contour>
+    <contour>
+      <point x="152" y="0" type="curve" smooth="yes"/>
+      <point x="238" y="0"/>
+      <point x="305" y="68"/>
+      <point x="305" y="152" type="curve" smooth="yes"/>
+      <point x="305" y="237"/>
+      <point x="238" y="305"/>
+      <point x="152" y="305" type="curve" smooth="yes"/>
+      <point x="68" y="305"/>
+      <point x="0" y="237"/>
+      <point x="0" y="152" type="curve" smooth="yes"/>
+      <point x="0" y="68"/>
+      <point x="68" y="0"/>
+    </contour>
+    <contour>
+      <point x="152" y="213" type="curve" smooth="yes"/>
+      <point x="120" y="213"/>
+      <point x="92" y="186"/>
+      <point x="92" y="152" type="curve" smooth="yes"/>
+      <point x="92" y="119"/>
+      <point x="120" y="92"/>
+      <point x="152" y="92" type="curve" smooth="yes"/>
+      <point x="186" y="92"/>
+      <point x="213" y="119"/>
+      <point x="213" y="152" type="curve" smooth="yes"/>
+      <point x="213" y="186"/>
+      <point x="186" y="213"/>
+    </contour>
+  </outline>
+</glyph>

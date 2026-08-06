@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE00B" format="2">
+  <advance width="526"/>
+  <unicode hex="E00B"/>
+  <note>staffDivideArrowDown</note>
+  <outline>
+    <component base="uniE00C" yScale="-1" yOffset="1000"/>
+  </outline>
+</glyph>

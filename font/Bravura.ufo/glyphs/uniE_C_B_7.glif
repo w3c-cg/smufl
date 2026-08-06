@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniECB7" format="2">
+  <advance width="100"/>
+  <unicode hex="ECB7"/>
+  <note>metAugmentationDot</note>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="curve" smooth="yes"/>
+      <point x="100" y="28"/>
+      <point x="78" y="50"/>
+      <point x="50" y="50" type="curve" smooth="yes"/>
+      <point x="22" y="50"/>
+      <point x="0" y="28"/>
+      <point x="0" y="0" type="curve" smooth="yes"/>
+      <point x="0" y="-28"/>
+      <point x="22" y="-50"/>
+      <point x="50" y="-50" type="curve" smooth="yes"/>
+      <point x="78" y="-50"/>
+      <point x="100" y="-28"/>
+    </contour>
+  </outline>
+</glyph>

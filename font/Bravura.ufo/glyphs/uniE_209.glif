@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE209" format="2">
+  <advance width="342"/>
+  <unicode hex="E209"/>
+  <note>textHeadlessBlackNoteFrac16thLongStem</note>
+  <outline>
+    <contour>
+      <point x="342" y="47" type="line"/>
+      <point x="342" y="878" type="line"/>
+      <point x="0" y="878" type="line"/>
+      <point x="0" y="753" type="line"/>
+      <point x="312" y="753" type="line"/>
+      <point x="312" y="691" type="line"/>
+      <point x="0" y="691" type="line"/>
+      <point x="0" y="566" type="line"/>
+      <point x="312" y="566" type="line"/>
+      <point x="312" y="47" type="line"/>
+    </contour>
+  </outline>
+</glyph>

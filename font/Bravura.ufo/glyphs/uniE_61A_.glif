@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE61A" format="2">
+  <advance width="198"/>
+  <unicode hex="E61A"/>
+  <note>stringsBowOnTailpiece</note>
+  <outline>
+    <contour>
+      <point x="-197" y="-46" type="line"/>
+      <point x="198" y="-25" type="line"/>
+      <point x="198" y="21" type="line"/>
+      <point x="-197" y="44" type="line"/>
+    </contour>
+  </outline>
+</glyph>

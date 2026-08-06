@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB22" format="2">
+  <advance width="982"/>
+  <unicode hex="EB22"/>
+  <note>elecSkipBackwards</note>
+  <outline>
+    <component base="uniEB21" xScale="-1" xOffset="982"/>
+  </outline>
+</glyph>

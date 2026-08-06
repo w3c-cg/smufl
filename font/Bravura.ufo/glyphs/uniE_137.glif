@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE137" format="2">
+  <advance width="295"/>
+  <unicode hex="E137"/>
+  <anchor x="0" y="-50" name="stemDownNW"/>
+  <note>noteheadClusterQuarterBottom</note>
+  <outline>
+    <contour>
+      <point x="97" y="-125" type="curve" smooth="yes"/>
+      <point x="186" y="-125"/>
+      <point x="295" y="-43"/>
+      <point x="295" y="42" type="curve" smooth="yes"/>
+      <point x="295" y="84"/>
+      <point x="267" y="114"/>
+      <point x="224" y="123" type="curve"/>
+      <point x="224" y="201" type="line"/>
+      <point x="71" y="201" type="line"/>
+      <point x="71" y="85" type="line"/>
+      <point x="27" y="53"/>
+      <point x="0" y="6"/>
+      <point x="0" y="-42" type="curve" smooth="yes"/>
+      <point x="0" y="-94"/>
+      <point x="42" y="-125"/>
+    </contour>
+  </outline>
+</glyph>

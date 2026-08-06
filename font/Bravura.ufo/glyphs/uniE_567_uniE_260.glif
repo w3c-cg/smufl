@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE567_uniE260" format="2">
+  <advance width="460"/>
+  <unicode hex="F5CC"/>
+  <note>ornamentTurnFlatBelow</note>
+  <outline>
+    <component base="uniE567"/>
+    <component base="uniE260.ss01" xScale="0.5954" yScale="0.5968" xOffset="178" yOffset="-321"/>
+  </outline>
+</glyph>

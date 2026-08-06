@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE52D" format="2">
+  <advance width="797"/>
+  <unicode hex="E52D"/>
+  <anchor x="449" y="0" name="opticalCenter"/>
+  <note>dynamicMF</note>
+  <outline>
+    <component base="uniE521"/>
+    <component base="uniE522" xOffset="454" yOffset="-13"/>
+  </outline>
+</glyph>

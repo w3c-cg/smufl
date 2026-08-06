@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE016" format="2">
+  <advance width="750"/>
+  <unicode hex="E016"/>
+  <note>staff1LineWide</note>
+  <outline>
+    <contour>
+      <point x="750" y="484" type="line"/>
+      <point x="750" y="516" type="line"/>
+      <point x="0" y="516" type="line"/>
+      <point x="0" y="484" type="line"/>
+    </contour>
+  </outline>
+</glyph>

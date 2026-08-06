@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE88A.ss06" format="2">
+  <advance width="134"/>
+  <unicode hex="F4D6"/>
+  <note>tupletColonLight</note>
+  <outline>
+    <contour>
+      <point x="144" y="260" type="curve" smooth="yes"/>
+      <point x="144" y="244"/>
+      <point x="127" y="227"/>
+      <point x="110" y="227" type="curve" smooth="yes"/>
+      <point x="89" y="227"/>
+      <point x="73" y="244"/>
+      <point x="73" y="260" type="curve" smooth="yes"/>
+      <point x="73" y="281"/>
+      <point x="89" y="294"/>
+      <point x="110" y="294" type="curve" smooth="yes"/>
+      <point x="127" y="294"/>
+      <point x="144" y="281"/>
+    </contour>
+    <contour>
+      <point x="81" y="34" type="curve" smooth="yes"/>
+      <point x="81" y="13"/>
+      <point x="64" y="-4"/>
+      <point x="47" y="-4" type="curve" smooth="yes"/>
+      <point x="26" y="-4"/>
+      <point x="10" y="13"/>
+      <point x="10" y="34" type="curve" smooth="yes"/>
+      <point x="10" y="50"/>
+      <point x="26" y="67"/>
+      <point x="47" y="67" type="curve" smooth="yes"/>
+      <point x="64" y="67"/>
+      <point x="81" y="50"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE616" format="2">
+  <advance width="388"/>
+  <unicode hex="E616"/>
+  <note>stringsMuteOn</note>
+  <outline>
+    <contour>
+      <point x="368" y="195" type="curve" name="hr01"/>
+      <point x="20" y="195" type="line" smooth="yes"/>
+      <point x="9" y="195"/>
+      <point x="0" y="186"/>
+      <point x="0" y="175" type="curve" smooth="yes"/>
+      <point x="0" y="0" type="line" name="hr02"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="155" type="line" name="hr03"/>
+      <point x="174" y="155" type="line"/>
+      <point x="174" y="-1" type="line" name="hr04"/>
+      <point x="214" y="-1" type="line"/>
+      <point x="214" y="155" type="line" name="hr05"/>
+      <point x="348" y="155" type="line"/>
+      <point x="348" y="0" type="line" name="hr06"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="175" type="line" smooth="yes" name="hr07"/>
+      <point x="388" y="186"/>
+      <point x="379" y="195"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE977" format="2">
+  <advance width="781"/>
+  <unicode hex="E977"/>
+  <note>mensuralObliqueAsc3rdWhite</note>
+  <outline>
+    <component base="uniE987" yScale="-1"/>
+  </outline>
+</glyph>

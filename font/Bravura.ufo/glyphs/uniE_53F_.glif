@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE53F" format="2">
+  <advance width="750"/>
+  <unicode hex="E53F"/>
+  <note>dynamicDiminuendoHairpin</note>
+  <outline>
+    <component base="uniE53E" xScale="-1" xOffset="740"/>
+  </outline>
+</glyph>

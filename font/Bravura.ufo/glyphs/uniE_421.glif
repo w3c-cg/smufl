@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE421" format="2">
+  <advance width="162"/>
+  <unicode hex="E421"/>
+  <anchor x="56" y="40" name="cutOutSE"/>
+  <note>accidentalWyschnegradsky2TwelfthsSharp</note>
+  <outline>
+    <contour>
+      <point x="151" y="258" type="line"/>
+      <point x="157" y="261"/>
+      <point x="163" y="263"/>
+      <point x="163" y="270" type="curve" smooth="yes"/>
+      <point x="163" y="344" type="line" smooth="yes"/>
+      <point x="163" y="349"/>
+      <point x="160" y="351"/>
+      <point x="156" y="351" type="curve"/>
+      <point x="154" y="351"/>
+      <point x="153" y="351"/>
+      <point x="151" y="350" type="curve"/>
+      <point x="12" y="292" type="line" smooth="yes"/>
+      <point x="5" y="289"/>
+      <point x="0" y="287"/>
+      <point x="0" y="280" type="curve" smooth="yes"/>
+      <point x="0" y="-347" type="line" smooth="yes"/>
+      <point x="0" y="-356"/>
+      <point x="5" y="-363"/>
+      <point x="11" y="-363" type="curve" smooth="yes"/>
+      <point x="19" y="-363" type="line" smooth="yes"/>
+      <point x="25" y="-363"/>
+      <point x="30" y="-356"/>
+      <point x="30" y="-347" type="curve" smooth="yes"/>
+      <point x="30" y="63" type="line"/>
+      <point x="151" y="113" type="line"/>
+      <point x="157" y="116"/>
+      <point x="163" y="118"/>
+      <point x="163" y="125" type="curve" smooth="yes"/>
+      <point x="163" y="199" type="line" smooth="yes"/>
+      <point x="163" y="204"/>
+      <point x="160" y="206"/>
+      <point x="156" y="206" type="curve"/>
+      <point x="154" y="206"/>
+      <point x="153" y="206"/>
+      <point x="151" y="205" type="curve"/>
+      <point x="30" y="155" type="line"/>
+      <point x="30" y="208" type="line"/>
+    </contour>
+  </outline>
+</glyph>

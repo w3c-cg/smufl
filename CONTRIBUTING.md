@@ -32,7 +32,7 @@ only inserts an `{{#include}}` reference to it, it doesn't touch its content.
 ## Prerequisites
 
 ```
-pip install pyyaml check-jsonschema
+pip install pyyaml check-jsonschema fonttools
 ```
 
 [Install mdBook](https://rust-lang.github.io/mdBook/guide/installation.html) if you want
@@ -220,6 +220,7 @@ check-jsonschema --schemafile metadata/schema/ranges.schema.json metadata/ranges
 check-jsonschema --schemafile metadata/schema/classes.schema.json metadata/classes.json
 python3 metadata/schema/check_consistency.py
 python3 metadata/schema/check_immutability.py
+python3 tools/sync_ufo_glyphs.py --check
 ```
 
 Then build the book to confirm nothing broke:
@@ -236,9 +237,40 @@ worth understanding before you open the PR.
 
 Adding a glyph, alternate, or ligature to the YAML source describes *what should exist*
 in the specification and, eventually, in the reference font — it doesn't draw anything.
-A maintainer (or you, if you're comfortable with a font editor) still needs to add the
-corresponding glyph to Bravura itself and wire up any OpenType feature it belongs to.
 `metadata/font-optional-codepoints.json` is what keeps the two in sync: it's extracted
 directly from the current Bravura font, and the generator treats it as authoritative
 for optional-glyph codepoints, so the spec and the font never silently disagree about
 what a given codepoint means.
+
+Two more tools close the rest of the loop, and both run in CI on every PR:
+
+* **`tools/sync_ufo_glyphs.py`** adds an empty, correctly-named, correctly-encoded
+  placeholder glyph to `font/Bravura.ufo` for anything the spec defines that the UFO
+  doesn't have yet — so a new glyph in the spec always has a slot waiting for it in
+  FontLab, with the right name, codepoint, and a `<note>` reminding the designer what
+  it's for. It never touches a glyph that's already been drawn. Run it after adding a
+  glyph/alternate/ligature:
+
+  ```
+  python3 tools/sync_ufo_glyphs.py
+  ```
+
+  CI runs it with `--check` and fails if `font/Bravura.ufo` is out of sync with the spec
+  — commit whatever it adds along with your YAML change.
+
+* **`tools/generate_font.py`** compiles `font/Bravura.otf` from `font/Bravura.ufo` using
+  the open-source `fontmake` + `otfautohint` pipeline (no FontLab required). This is a
+  **build artifact** — `font/Bravura.otf` is gitignored, never committed. CI builds it
+  fresh on every PR (to catch a UFO that fails to compile) and on every push to
+  `gh-pages` (where it's published alongside the spec — see
+  [about/implementations.md](mdbook/src/about/implementations.md)).
+
+  ```
+  pip install fontmake afdko
+  python3 tools/generate_font.py
+  ```
+
+A maintainer (or you, if you're comfortable with a font editor) still needs to actually
+*draw* a new placeholder glyph in FontLab and wire up any OpenType feature it belongs
+to — these tools guarantee there's a correctly-labelled slot waiting, not a finished
+design.

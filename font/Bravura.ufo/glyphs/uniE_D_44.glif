@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED44" format="2">
+  <advance width="958"/>
+  <unicode hex="ED44"/>
+  <note>articSoftAccentTenutoAbove</note>
+  <outline>
+    <component base="uniE4A0" xOffset="619"/>
+    <component base="uniE4A0" xScale="-1" xOffset="339"/>
+    <component base="uniE4A4" xOffset="310" yOffset="100"/>
+  </outline>
+</glyph>

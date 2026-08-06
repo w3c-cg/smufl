@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE633" format="2">
+  <advance width="272"/>
+  <unicode hex="E633"/>
+  <note>pluckedLeftHandPizzicato</note>
+  <outline>
+    <component base="uniE5E5"/>
+  </outline>
+</glyph>

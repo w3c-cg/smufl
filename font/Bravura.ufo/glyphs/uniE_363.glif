@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE363" format="2">
+  <advance width="375"/>
+  <unicode hex="E363"/>
+  <note>accSagittalDoubleFlat55CUp</note>
+  <outline>
+    <contour>
+      <point x="297" y="-172" type="line"/>
+      <point x="0" y="78" type="line"/>
+      <point x="0" y="185" type="line"/>
+      <point x="213" y="5" type="line"/>
+      <point x="94" y="349" type="line"/>
+      <point x="129" y="359" type="line"/>
+      <point x="234" y="57" type="line"/>
+      <point x="339" y="359" type="line"/>
+      <point x="375" y="349" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="268" y="-41" type="line"/>
+      <point x="312" y="-78" type="line"/>
+      <point x="312" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

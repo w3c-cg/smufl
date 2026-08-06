@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDCA" format="2">
+  <advance width="445"/>
+  <unicode hex="EDCA"/>
+  <note>kahnStomp</note>
+  <outline>
+    <contour>
+      <point x="278" y="665" type="line"/>
+      <point x="203" y="665" type="line"/>
+      <point x="203" y="180" type="line"/>
+      <point x="145.667" y="234.667"/>
+      <point x="78" y="262.333"/>
+      <point x="0" y="263" type="curve"/>
+      <point x="0" y="193" type="line"/>
+      <point x="120.892" y="193"/>
+      <point x="203" y="91.8745"/>
+      <point x="203" y="1" type="curve"/>
+      <point x="278" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="598" type="line"/>
+      <point x="326" y="598" type="line" smooth="yes"/>
+      <point x="315.333" y="598"/>
+      <point x="306" y="588.667"/>
+      <point x="306" y="578" type="curve" smooth="yes"/>
+      <point x="306" y="564" type="line" smooth="yes"/>
+      <point x="306" y="553.333"/>
+      <point x="315.333" y="545"/>
+      <point x="326" y="545" type="curve" smooth="yes"/>
+      <point x="446" y="545" type="line"/>
+    </contour>
+  </outline>
+</glyph>

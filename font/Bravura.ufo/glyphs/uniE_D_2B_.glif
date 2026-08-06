@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED2B" format="2">
+  <advance width="67"/>
+  <unicode hex="ED2B"/>
+  <note>fingeringRightBracket</note>
+  <outline>
+    <component base="uniED2A" xScale="-1" xOffset="68"/>
+  </outline>
+</glyph>

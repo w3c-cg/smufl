@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEE92" format="2">
+  <advance width="338"/>
+  <unicode hex="EE92"/>
+  <note>mensuralProportion7</note>
+  <outline>
+    <contour>
+      <point x="337.162" y="258.9" type="line"/>
+      <point x="128.066" y="-250" type="line"/>
+      <point x="51.8037" y="-248.569" type="line"/>
+      <point x="134.285" y="-103.516"/>
+      <point x="198.451" y="51.331"/>
+      <point x="264.18" y="204.3" type="curve"/>
+      <point x="85.5" y="204.3" type="line" smooth="yes"/>
+      <point x="50.9905" y="204.3"/>
+      <point x="40.6331" y="178.788"/>
+      <point x="30.5651" y="150.96" type="curve"/>
+      <point x="0" y="150.96" type="line"/>
+      <point x="18.0601" y="258.9" type="line"/>
+    </contour>
+  </outline>
+</glyph>

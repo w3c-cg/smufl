@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEBA7" format="2">
+  <advance width="36"/>
+  <unicode hex="EBA7"/>
+  <note>luteDurationWhole</note>
+  <outline>
+    <contour>
+      <point x="18" y="0" type="curve" smooth="yes"/>
+      <point x="28" y="0"/>
+      <point x="36" y="8"/>
+      <point x="36" y="18" type="curve" smooth="yes"/>
+      <point x="36" y="772" type="line" smooth="yes"/>
+      <point x="36" y="782"/>
+      <point x="28" y="790"/>
+      <point x="18" y="790" type="curve" smooth="yes"/>
+      <point x="8" y="790"/>
+      <point x="0" y="782"/>
+      <point x="0" y="772" type="curve" smooth="yes"/>
+      <point x="0" y="18" type="line" smooth="yes"/>
+      <point x="0" y="8"/>
+      <point x="8" y="0"/>
+    </contour>
+  </outline>
+</glyph>

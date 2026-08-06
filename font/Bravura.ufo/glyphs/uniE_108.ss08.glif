@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE108.ss08" format="2">
+  <advance width="636"/>
+  <unicode hex="F4EB"/>
+  <anchor x="0" y="-300" name="stemDownNW"/>
+  <anchor x="636" y="300" name="stemUpSE"/>
+  <note>noteheadSlashHorizontalEndsMutedOversized</note>
+  <outline>
+    <contour>
+      <point x="636" y="300" type="line"/>
+      <point x="516" y="300" type="line"/>
+      <point x="304" y="53" type="line"/>
+      <point x="114" y="311" type="line"/>
+      <point x="83" y="289" type="line"/>
+      <point x="277" y="23" type="line"/>
+      <point x="0" y="-300" type="line"/>
+      <point x="120" y="-300" type="line"/>
+      <point x="332" y="-53" type="line"/>
+      <point x="521" y="-311" type="line"/>
+      <point x="552" y="-289" type="line"/>
+      <point x="359" y="-23" type="line"/>
+    </contour>
+  </outline>
+</glyph>

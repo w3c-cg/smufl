@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE142" format="2">
+  <advance width="344"/>
+  <unicode hex="E142"/>
+  <note>noteheadRectangularClusterBlackTop</note>
+  <outline>
+    <contour>
+      <point x="344" y="-135" type="line"/>
+      <point x="344" y="125" type="line"/>
+      <point x="0" y="125" type="line"/>
+      <point x="0" y="-135" type="line"/>
+    </contour>
+  </outline>
+</glyph>

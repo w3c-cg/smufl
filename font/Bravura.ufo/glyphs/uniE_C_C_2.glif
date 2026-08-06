@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniECC2" format="2">
+  <advance width="354"/>
+  <unicode hex="ECC2"/>
+  <note>figbassTripleSharp</note>
+  <outline>
+    <component base="uniEA66"/>
+    <component base="uniEA67" xScale="0.7591" yScale="0.7591" xOffset="173.335" yOffset="26.0089"/>
+  </outline>
+</glyph>

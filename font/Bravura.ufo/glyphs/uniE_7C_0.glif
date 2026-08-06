@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE7C0" format="2">
+  <advance width="252"/>
+  <unicode hex="E7C0"/>
+  <note>pictGumMediumDown</note>
+  <outline>
+    <component base="uniE7BF" yScale="-1" yOffset="761"/>
+  </outline>
+</glyph>

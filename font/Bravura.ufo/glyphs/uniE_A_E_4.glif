@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEAE4" format="2">
+  <advance width="376"/>
+  <unicode hex="EAE4"/>
+  <anchor x="376" y="0" name="repeatOffset"/>
+  <note>wiggleVibratoLargeFaster</note>
+  <outline>
+    <contour>
+      <point x="-24" y="40" type="line"/>
+      <point x="-17" y="40"/>
+      <point x="-11" y="44"/>
+      <point x="-5" y="48" type="curve"/>
+      <point x="3" y="56"/>
+      <point x="24" y="67"/>
+      <point x="27" y="82" type="curve" smooth="yes"/>
+      <point x="40" y="150"/>
+      <point x="63" y="221"/>
+      <point x="83" y="262" type="curve"/>
+      <point x="157" y="221"/>
+      <point x="159" y="-127"/>
+      <point x="261" y="-127" type="curve" smooth="yes"/>
+      <point x="271" y="-127"/>
+      <point x="297" y="-117"/>
+      <point x="323" y="-91" type="curve" smooth="yes"/>
+      <point x="369" y="-45"/>
+      <point x="386" y="17"/>
+      <point x="400" y="82" type="curve"/>
+      <point x="400" y="84"/>
+      <point x="400" y="86"/>
+      <point x="397" y="87" type="curve"/>
+      <point x="393" y="87" type="line" smooth="yes"/>
+      <point x="387" y="87"/>
+      <point x="381" y="86"/>
+      <point x="371" y="79" type="curve" smooth="yes"/>
+      <point x="356" y="69"/>
+      <point x="343" y="54"/>
+      <point x="341" y="46" type="curve"/>
+      <point x="331" y="-2"/>
+      <point x="314" y="-47"/>
+      <point x="299" y="-74" type="curve"/>
+      <point x="222" y="-45"/>
+      <point x="221" y="318"/>
+      <point x="116" y="318" type="curve" smooth="yes"/>
+      <point x="109" y="318"/>
+      <point x="85" y="308"/>
+      <point x="62" y="285" type="curve" smooth="yes"/>
+      <point x="9" y="231"/>
+      <point x="-14" y="135"/>
+      <point x="-31" y="46" type="curve"/>
+      <point x="-31" y="44"/>
+      <point x="-31" y="42"/>
+      <point x="-29" y="41" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

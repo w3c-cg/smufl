@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE3AB" format="2">
+  <advance width="312"/>
+  <unicode hex="E3AB"/>
+  <note>accSagittal11v19LargeDiesisDown</note>
+  <outline>
+    <contour>
+      <point x="0" y="359" type="line"/>
+      <point x="31" y="359" type="line"/>
+      <point x="31" y="60" type="line"/>
+      <point x="312" y="178" type="line"/>
+      <point x="312" y="109" type="line"/>
+      <point x="31" y="-9" type="line"/>
+      <point x="31" y="-96" type="line"/>
+      <point x="312" y="21" type="line"/>
+      <point x="312" y="-47" type="line"/>
+      <point x="16" y="-172" type="line"/>
+      <point x="0" y="-172" type="line"/>
+    </contour>
+  </outline>
+</glyph>

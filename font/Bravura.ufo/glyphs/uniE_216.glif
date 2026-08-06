@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE216" format="2">
+  <advance width="14"/>
+  <unicode hex="E216"/>
+  <note>stemBowOnTailpiece</note>
+  <outline>
+    <contour>
+      <point x="197" y="667" type="line" name="hr01"/>
+      <point x="14" y="678" type="line"/>
+      <point x="14" y="875" type="line"/>
+      <point x="-16" y="875" type="line"/>
+      <point x="-16" y="679" type="line" name="hr02"/>
+      <point x="-198" y="690" type="line"/>
+      <point x="-198" y="560" type="line"/>
+      <point x="-16" y="570" type="line"/>
+      <point x="-16" y="0" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="14" y="571" type="line" name="hr03"/>
+      <point x="197" y="581" type="line"/>
+    </contour>
+  </outline>
+</glyph>

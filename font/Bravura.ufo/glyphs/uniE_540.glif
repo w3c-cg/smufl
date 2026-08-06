@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE540" format="2">
+  <advance width="1555"/>
+  <unicode hex="E540"/>
+  <note>dynamicMessaDiVoce</note>
+  <outline>
+    <component base="uniE53E"/>
+    <component base="uniE53E" xScale="-1" xOffset="1559"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE79F" format="2">
+  <advance width="320"/>
+  <unicode hex="E79F"/>
+  <note>pictBeaterMetalBassDrumDown</note>
+  <outline>
+    <component base="uniE79E" yScale="-1" yOffset="761"/>
+  </outline>
+</glyph>

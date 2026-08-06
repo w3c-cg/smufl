@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEF11.ss06" format="2">
+  <advance width="150"/>
+  <unicode hex="F53F"/>
+  <note>tupletParenthesisRightItalicLight</note>
+  <outline>
+    <contour>
+      <point x="-21.6" y="-40.75" type="line"/>
+      <point x="33.3" y="-15.1"/>
+      <point x="115.65" y="45.2"/>
+      <point x="139.95" y="150.5" type="curve" smooth="yes"/>
+      <point x="144.571" y="170.525"/>
+      <point x="146.605" y="190.012"/>
+      <point x="146.605" y="208.765" type="curve" smooth="yes"/>
+      <point x="146.605" y="288.623"/>
+      <point x="109.726" y="355.15"/>
+      <point x="78.75" y="393.05" type="curve"/>
+      <point x="66.15" y="384.95" type="line"/>
+      <point x="89.7938" y="349.165"/>
+      <point x="108.22" y="303.852"/>
+      <point x="108.22" y="243.05" type="curve" smooth="yes"/>
+      <point x="108.22" y="218.219"/>
+      <point x="105.146" y="190.804"/>
+      <point x="98.1" y="160.4" type="curve" smooth="yes"/>
+      <point x="73.8" y="55.1"/>
+      <point x="22.95" y="2.89999"/>
+      <point x="-29.25" y="-28.15" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <real>0</real>
+  </dict>
+  </lib>
+</glyph>

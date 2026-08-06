@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE59F" format="2">
+  <advance width="1"/>
+  <unicode hex="E59F"/>
+  <anchor x="1" y="0" name="repeatOffset"/>
+  <note>ornamentMiddleVerticalStroke</note>
+  <outline>
+    <contour>
+      <point x="-14" y="331" type="line"/>
+      <point x="-14" y="-61" type="line"/>
+      <point x="16" y="-61" type="line"/>
+      <point x="16" y="331" type="line"/>
+    </contour>
+  </outline>
+</glyph>

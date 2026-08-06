@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE087.ss04" format="2">
+  <advance width="128"/>
+  <unicode hex="F447"/>
+  <note>timeSig7Large</note>
+  <outline>
+    <contour>
+      <point x="123" y="196" type="curve"/>
+      <point x="123" y="250" type="line"/>
+      <point x="4" y="250" type="line"/>
+      <point x="4" y="187" type="line"/>
+      <point x="100" y="187" type="line"/>
+      <point x="65" y="59"/>
+      <point x="40" y="-90"/>
+      <point x="27" y="-250" type="curve"/>
+      <point x="51" y="-250" type="line"/>
+      <point x="61" y="-85"/>
+      <point x="86" y="69"/>
+    </contour>
+  </outline>
+</glyph>

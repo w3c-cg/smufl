@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE936" format="2">
+  <advance width="332"/>
+  <unicode hex="E936"/>
+  <note>mensuralNoteheadLongaBlackVoid</note>
+  <outline>
+    <contour>
+      <point x="32" y="109" type="line"/>
+      <point x="164" y="109" type="line"/>
+      <point x="164" y="-109" type="line"/>
+      <point x="32" y="-109" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="141" type="line" smooth="yes"/>
+      <point x="7" y="141"/>
+      <point x="0" y="134"/>
+      <point x="0" y="125" type="curve" smooth="yes"/>
+      <point x="0" y="-125" type="line" smooth="yes"/>
+      <point x="0" y="-133"/>
+      <point x="7" y="-141"/>
+      <point x="16" y="-141" type="curve" smooth="yes"/>
+      <point x="316" y="-141" type="line" smooth="yes"/>
+      <point x="325" y="-141"/>
+      <point x="332" y="-133"/>
+      <point x="332" y="-125" type="curve" smooth="yes"/>
+      <point x="332" y="125" type="line" smooth="yes"/>
+      <point x="332" y="133"/>
+      <point x="327" y="140"/>
+      <point x="320" y="141" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

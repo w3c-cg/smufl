@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE617" format="2">
+  <advance width="388"/>
+  <unicode hex="E617"/>
+  <note>stringsMuteOff</note>
+  <outline>
+    <component base="uniE616" yScale="-1" yOffset="195"/>
+  </outline>
+</glyph>

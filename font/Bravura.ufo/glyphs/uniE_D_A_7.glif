@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEDA7" format="2">
+  <advance width="282"/>
+  <unicode hex="EDA7"/>
+  <note>kahnBrushBackward</note>
+  <outline>
+    <component base="uniEDA6" xScale="-1" xOffset="282"/>
+  </outline>
+</glyph>

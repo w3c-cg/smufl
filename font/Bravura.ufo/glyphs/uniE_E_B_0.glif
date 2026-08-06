@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEEB0" format="2">
+  <advance width="319"/>
+  <unicode hex="EEB0"/>
+  <note>noteheadCowellThirteenthNoteSeriesWhole</note>
+  <outline>
+    <component base="uniE0BB"/>
+    <contour>
+      <point x="320.721" y="-186.174" type="line" smooth="yes"/>
+      <point x="327.092" y="-192.53"/>
+      <point x="335.582" y="-192.525"/>
+      <point x="341.946" y="-186.161" type="curve"/>
+      <point x="341.946" y="-186.161" type="line"/>
+      <point x="348.31" y="-179.797"/>
+      <point x="348.305" y="-171.317"/>
+      <point x="341.934" y="-164.961" type="curve" smooth="yes"/>
+      <point x="57.5773" y="118.71" type="line" smooth="yes"/>
+      <point x="51.2058" y="125.066"/>
+      <point x="44.8368" y="127.182"/>
+      <point x="41.6549" y="124" type="curve" smooth="yes"/>
+      <point x="31.0482" y="113.393" type="line" smooth="yes"/>
+      <point x="27.8663" y="110.211"/>
+      <point x="29.9926" y="103.853"/>
+      <point x="36.3641" y="97.4967" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
