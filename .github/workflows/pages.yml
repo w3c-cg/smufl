@@ -100,7 +100,7 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     needs: validate
-    if: github.event_name == 'push' && github.ref == 'refs/heads/gh-pages'
+    if: (github.event_name == 'push' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/gh-pages'
     runs-on: ubuntu-latest
     permissions:
       contents: read
