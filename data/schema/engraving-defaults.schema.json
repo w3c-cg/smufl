@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bravura engravingDefaults source",
+  "type": "object",
+  "properties": {
+    "arrowShaftThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "barlineSeparation": { "type": "number", "exclusiveMinimum": 0 },
+    "beamSpacing": { "type": "number", "exclusiveMinimum": 0 },
+    "beamThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "bracketThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "dashedBarlineDashLength": { "type": "number", "exclusiveMinimum": 0 },
+    "dashedBarlineGapLength": { "type": "number", "exclusiveMinimum": 0 },
+    "dashedBarlineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "hBarThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "hairpinThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "legerLineExtension": { "type": "number", "exclusiveMinimum": 0 },
+    "legerLineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "lyricLineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "octaveLineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "pedalLineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "repeatBarlineDotSeparation": { "type": "number", "exclusiveMinimum": 0 },
+    "repeatEndingLineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "slurEndpointThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "slurMidpointThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "staffLineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "stemThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "subBracketThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "textEnclosureThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "textFontFamily": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    },
+    "thickBarlineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "thinBarlineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "tieEndpointThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "tieMidpointThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "tupletBracketThickness": { "type": "number", "exclusiveMinimum": 0 }
+  },
+  "required": [
+    "arrowShaftThickness", "barlineSeparation", "beamSpacing", "beamThickness",
+    "bracketThickness", "dashedBarlineDashLength", "dashedBarlineGapLength",
+    "dashedBarlineThickness", "hBarThickness", "hairpinThickness",
+    "legerLineExtension", "legerLineThickness", "lyricLineThickness",
+    "octaveLineThickness", "pedalLineThickness", "repeatBarlineDotSeparation",
+    "repeatEndingLineThickness", "slurEndpointThickness", "slurMidpointThickness",
+    "staffLineThickness", "stemThickness", "subBracketThickness",
+    "textEnclosureThickness", "textFontFamily", "thickBarlineThickness",
+    "thinBarlineThickness", "tieEndpointThickness", "tieMidpointThickness",
+    "tupletBracketThickness"
+  ],
+  "additionalProperties": false
+}

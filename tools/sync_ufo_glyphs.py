@@ -86,7 +86,7 @@ def add_glyphs(missing, index, text, entries):
         filename = userNameToFileName(name, existing=existing_filenames, suffix=".glif")
         existing_filenames.add(filename)
         glif = GLIF_TEMPLATE.format(
-            name=name, hex=f"{info['codepoint']:04X}", note=xml_escape(info["description"])
+            name=name, hex=f"{info['codepoint']:04X}", note=xml_escape(info["name"])
         )
         (GLYPHS_DIR / filename).write_text(glif)
         entries_by_name[name] = filename
@@ -115,7 +115,7 @@ def main():
         if missing:
             print(f"{len(missing)} glyph(s) defined in the spec are missing from Bravura.ufo:")
             for name in missing:
-                print(f"  {name}  ({index[name]['description']})")
+                print(f"  {name}  ({index[name]['name']})")
             print("\nRun `python3 tools/sync_ufo_glyphs.py` to add placeholder glyphs.")
             return 1
         print("OK - Bravura.ufo has a glyph for everything the spec defines")
@@ -128,7 +128,7 @@ def main():
     added = add_glyphs(missing, index, text, entries)
     print(f"Added {len(added)} placeholder glyph(s) to Bravura.ufo:")
     for name, filename in added:
-        print(f"  {name} -> glyphs/{filename}  ({index[name]['description']})")
+        print(f"  {name} -> glyphs/{filename}  ({index[name]['name']})")
     return 0
 
 

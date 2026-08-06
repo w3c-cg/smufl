@@ -12,5 +12,7 @@ __pycache__/
 # Built by tools/generate_font.py - a build artifact, not committed (see
 # CONTRIBUTING.md "How this connects to Bravura").
 font/Bravura.otf
+font/Bravura.json
 mdbook/src/media/Bravura.otf
+mdbook/src/media/Bravura.json
 

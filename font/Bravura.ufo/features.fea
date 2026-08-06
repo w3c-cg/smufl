@@ -170,7 +170,7 @@ feature ss07 {
    sub uniED66 from [uniED66.ss07]; # Alternates for csymAccidentalTripleFlat: csymAccidentalTripleFlatSmall
 } ss07;
 feature ss08 {
-   # Stylistic set 08: Oversized
+   # Stylistic set 08: Oversized noteheads and slash noteheads
    sub uniE0A0 from [uniE0A0.ss08]; # Alternates for noteheadDoubleWhole: noteheadDoubleWholeOversized
    sub uniE0A1 from [uniE0A1.ss08]; # Alternates for noteheadDoubleWholeSquare: noteheadDoubleWholeSquareOversized
    sub uniE0A2 from [uniE0A2.ss08]; # Alternates for noteheadWhole: noteheadWholeOversized

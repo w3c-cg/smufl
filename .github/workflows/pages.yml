@@ -59,6 +59,9 @@ jobs:
       - name: Validate data/stylistic-sets.yaml against schema
         run: check-jsonschema --schemafile data/schema/stylistic-sets.schema.json data/stylistic-sets.yaml
 
+      - name: Validate data/engraving-defaults.yaml against schema
+        run: check-jsonschema --schemafile data/schema/engraving-defaults.schema.json data/engraving-defaults.yaml
+
       - name: Install generator dependencies
         run: pip install pyyaml fonttools
 
@@ -71,8 +74,8 @@ jobs:
       - name: Install font build dependencies
         run: pip install fontmake afdko
 
-      - name: Build Bravura.otf (validates the UFO compiles cleanly)
-        run: python3 tools/generate_font.py --output /tmp/Bravura.otf
+      - name: Build Bravura.otf and Bravura.json (validates the UFO compiles cleanly)
+        run: python3 tools/generate_font.py --output /tmp/Bravura.otf --metadata-output /tmp/Bravura.json
 
       - name: Install mdBook
         run: |
@@ -109,11 +112,13 @@ jobs:
       - name: Install font build dependencies
         run: pip install pyyaml fonttools fontmake afdko
 
-      - name: Build Bravura.otf
-        run: python3 tools/generate_font.py --output font/Bravura.otf
+      - name: Build Bravura.otf and Bravura.json
+        run: python3 tools/generate_font.py --output font/Bravura.otf --metadata-output font/Bravura.json
 
-      - name: Copy Bravura.otf into the book's media folder
-        run: cp font/Bravura.otf mdbook/src/media/Bravura.otf
+      - name: Copy Bravura.otf and Bravura.json into the book's media folder
+        run: |
+          cp font/Bravura.otf mdbook/src/media/Bravura.otf
+          cp font/Bravura.json mdbook/src/media/Bravura.json
 
       - name: Install mdBook
         run: |

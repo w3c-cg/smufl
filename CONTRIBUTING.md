@@ -215,6 +215,7 @@ python3 tools/generate.py
 find data/ranges -name '*.yaml' ! -name 'manifest.yaml' -print0 | xargs -0 check-jsonschema --schemafile data/schema/range.schema.json
 check-jsonschema --schemafile data/schema/manifest.schema.json data/ranges/manifest.yaml
 check-jsonschema --schemafile data/schema/stylistic-sets.schema.json data/stylistic-sets.yaml
+check-jsonschema --schemafile data/schema/engraving-defaults.schema.json data/engraving-defaults.yaml
 check-jsonschema --schemafile metadata/schema/glyphnames.schema.json metadata/glyphnames.json
 check-jsonschema --schemafile metadata/schema/ranges.schema.json metadata/ranges.json
 check-jsonschema --schemafile metadata/schema/classes.schema.json metadata/classes.json
@@ -259,16 +260,25 @@ Two more tools close the rest of the loop, and both run in CI on every PR:
   — commit whatever it adds along with your YAML change.
 
 * **`tools/generate_font.py`** compiles `font/Bravura.otf` from `font/Bravura.ufo` using
-  the open-source `fontmake` + `otfautohint` pipeline (no FontLab required). This is a
-  **build artifact** — `font/Bravura.otf` is gitignored, never committed. CI builds it
-  fresh on every PR (to catch a UFO that fails to compile) and on every push to
-  `gh-pages` (where it's published alongside the spec — see
+  the open-source `fontmake` + `otfautohint` pipeline (no FontLab required), then calls
+  **`tools/generate_font_metadata.py`** to produce `font/Bravura.json`, the font-specific
+  SMuFL metadata file (`glyphAdvanceWidths`, `glyphBBoxes`, `glyphsWithAnchors`,
+  `glyphsWithAlternates`, `ligatures`, `optionalGlyphs`, `sets`), all derived automatically
+  from the compiled OTF's outlines and the UFO's own `<anchor>` elements. Both are **build
+  artifacts** — gitignored, never committed. CI builds them fresh on every PR (to catch a
+  UFO that fails to compile) and on every push to `gh-pages` (where they're published
+  alongside the spec — see
   [about/implementations.md](mdbook/src/about/implementations.md)).
 
   ```
   pip install fontmake afdko
   python3 tools/generate_font.py
   ```
+
+  `engravingDefaults` is the one section that can't be derived from the UFO — it's a set of
+  hand-set design decisions (stroke thicknesses, spacing), not a property of any glyph's
+  outline. Its source of truth is `data/engraving-defaults.yaml`; edit it directly if
+  Bravura's engraving design changes.
 
 A maintainer (or you, if you're comfortable with a font editor) still needs to actually
 *draw* a new placeholder glyph in FontLab and wire up any OpenType feature it belongs

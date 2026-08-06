@@ -2,44 +2,40 @@
 # range's stylistic alternate declares "set: <id>" to join one of these;
 # omitting "set" makes it a plain alternate (.saltNN, numbered per base
 # glyph, assigned automatically). Each id here must have exactly one
-# consistent meaning across every glyph family that uses it - see the
-# ss05/ss08 note below for what happens when that's violated.
+# consistent meaning across every glyph family that uses it.
 #
 # ss05 is intentionally absent: it was a duplicate of ss08 ("oversized"),
 # used only for noteheadDoubleWhole, noteheadDoubleWholeSquare,
-# noteheadWhole, noteheadHalf and noteheadBlack. Those 5 glyphs are
-# recorded here under "oversized" (ss08) as the canonical id, but the
-# *actual* Bravura.otf still has their GSUB registered under ss05 as of
-# this migration - metadata/font-optional-codepoints.json documents this
-# discrepancy explicitly. Fixing it requires a FontLab change to move
-# those 5 glyphs' alternate substitution from ss05 to ss08 (their
-# codepoints don't change, only which feature exposes them). Until that's
-# done, ss05 stays reserved/unused rather than reassigned to a new concept.
+# noteheadWhole, noteheadHalf and noteheadBlack. Those 5 glyphs are recorded
+# here under "oversized" (ss08), and as of the font-build-pipeline PR,
+# Bravura.ufo's own features.fea/glyph names have been corrected to match -
+# ss05 no longer appears anywhere in the font. It stays reserved/unused
+# rather than reassigned to a new concept.
 sets:
   - id: small-staff
     opentype: ss01
-    description: Small staff
+    description: Smaller optical size for small staves
   - id: short
     opentype: ss02
-    description: Short
+    description: Short flags (to avoid augmentation dots)
   - id: straight
     opentype: ss03
-    description: Straight
+    description: Straight flags
   - id: outside-staff
     opentype: ss04
-    description: Outside staff
+    description: Large time signatures
   - id: oversized
     opentype: ss08
-    description: Oversized
+    description: Oversized noteheads and slash noteheads
   - id: light
     opentype: ss06
-    description: Light
+    description: Tuplet numbers at a lighter weight
   - id: superscript-or-subscript
     opentype: ss07
-    description: Superscript or subscript
+    description: Smaller optical size for subscript and superscript placement
   - id: large-narrow
     opentype: ss09
-    description: Large, narrow
+    description: Large, narrow time signatures
   - id: longer-stem
     opentype: ss10
-    description: Longer stem
+    description: Accidentals for figured bass with longer stems
