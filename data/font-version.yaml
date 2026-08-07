@@ -6,24 +6,37 @@
 # designer re-exporting the UFO can never accidentally change the shipped
 # version number.
 #
-# stem: the part that tracks the SMuFL spec version, e.g. "1.49" for
+# The full version number is stem + build, zero-padded so the fractional
+# part is exactly 3 digits total, e.g. stem "1.4" + build 80 => "1.480".
+# Three digits, not more, is deliberate: head.fontRevision is a Fixed
+# 16.16 *number*, not a string - it genuinely cannot distinguish "1.480"
+# from "1.4800" (see steinbergmedia/bravura#102, which caught an earlier
+# version of this scheme using a 4-digit fraction; every tool that reads
+# fontRevision back rounds/truncates to the ecosystem's standard 3 digits,
+# so a 4th digit is never actually recoverable - not just untidy, actively
+# broken).
+#
+# stem: the part that tracks the SMuFL spec version, e.g. "1.4" for
 # "working towards 1.5, following the 1.4 release". This is a deliberate,
-# infrequent decision - bump it to "1.50" only once SMuFL 1.5 is actually
-# ready for release, at the same time resetting build to 0.
+# infrequent decision - bump it to "1.5" only once SMuFL 1.5 is actually
+# ready for release, at the same time resetting build to a fresh starting
+# point (see below - NOT 0).
 #
-# build: increments on every MATERIAL change to the font (not every
-# rebuild - a rebuild with no real design change keeps the same number).
-# tools/check_font_version.py enforces this: it hashes the actual build
-# inputs (font/Bravura.ufo minus fontinfo.plist, plus the metadata/data
-# files that feed generate_font.py and generate_bravura_text.py) and fails
-# CI if that hash has changed but build wasn't incremented and inputsHash
-# wasn't refreshed to match. Two digits (00-99) gives 100 revisions of
-# headroom before stem needs to change anyway.
+# build: two digits (00-99), incrementing on every MATERIAL change to the
+# font (not every rebuild - a rebuild with no real design change keeps the
+# same number). tools/check_font_version.py enforces this: it hashes the
+# actual build inputs (font/Bravura.ufo minus fontinfo.plist, plus the
+# metadata/data files that feed generate_font.py and
+# generate_bravura_text.py) and fails CI if that hash has changed but
+# build wasn't incremented and inputsHash wasn't refreshed to match.
 #
-# The full version number is stem + build zero-padded to 2 digits, e.g.
-# stem "1.49" + build 0 => "1.4900".
-stem: "1.49"
-build: 0
+# Starting build at 80 (not 0) when a new stem begins is also deliberate:
+# it keeps the very first version under a new stem numerically ABOVE the
+# last real release under the old numbering (1.456), so nothing mistakes
+# the new scheme's first release for a downgrade, while still leaving 20
+# revisions (80-99) of headroom before the next stem bump is needed.
+stem: "1.4"
+build: 80
 
 # sha256 of the build inputs as of this version number - see
 # tools/check_font_version.py. Refresh with:

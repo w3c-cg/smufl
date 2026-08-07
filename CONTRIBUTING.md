@@ -317,11 +317,19 @@ Two more tools close the rest of the loop, and both run in CI on every PR:
 ### Font version numbering
 
 `data/font-version.yaml` is the single source of truth for both fonts' version number (they're
-always rebuilt together, so they share one). `stem` (e.g. `"1.49"`) tracks the SMuFL spec
-version being worked towards — bump it to `"1.50"` (resetting `build` to `0`) only once SMuFL
-1.5 is actually ready for release, as a deliberate decision. `build` increments on every
-*material* change to the font — not every rebuild; a rebuild with no real design change keeps
-the same number.
+always rebuilt together, so they share one). The full number is `stem` + `build`, zero-padded
+so the fraction is always exactly 3 digits (e.g. stem `"1.4"` + build `80` → `"1.480"`) — no
+more, no fewer: `head.fontRevision` is a Fixed 16.16 *number*, not a string, so a 4th digit
+is never actually recoverable once written (every tool that reads it back rounds/truncates
+to the ecosystem's standard 3 digits) — see [steinbergmedia/bravura#102](https://github.com/steinbergmedia/bravura/issues/102),
+which caught an earlier version of this scheme getting that wrong.
+
+`stem` tracks the SMuFL spec version being worked towards — bump it (e.g. `"1.4"` → `"1.5"`)
+only once the next SMuFL version is actually ready for release, as a deliberate decision, at
+the same time resetting `build` to a fresh starting point comfortably above the last *real*
+shipped version under the old numbering (not necessarily `0` — see the comments in
+`data/font-version.yaml`). `build` increments on every *material* change to the font — not
+every rebuild; a rebuild with no real design change keeps the same number.
 
 `tools/check_font_version.py` enforces this in CI: it hashes the actual build inputs
 (`font/Bravura.ufo` — skipping empty placeholder glyphs, since adding one isn't a material

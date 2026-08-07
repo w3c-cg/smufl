@@ -56,10 +56,14 @@ def save(data):
 
 
 def format_version(version_data=None):
-    """Returns (versionMajor, versionMinor, version_str) e.g. (1, 4900, "1.4900").
-    version_str is a string, not a float, deliberately - the trailing
-    zeros in e.g. "1.4900" are significant (they're the build number) and
-    a float would silently drop them (float("1.4900") == 1.49)."""
+    """Returns (versionMajor, versionMinor, version_str) e.g. (1, 480, "1.480").
+    version_str is a string, not a float, deliberately - a float would
+    silently drop a trailing zero for some build values (float("1.480")
+    == 1.48). That's harmless for THIS scheme's 3-digit fraction (1.48
+    and 1.480 are the same number, and no other valid build value
+    collides with it), but keeping this as a string avoids relying on
+    that being true - see data/font-version.yaml and
+    steinbergmedia/bravura#102 for why the fraction is 3 digits, not 4."""
     data = version_data or load()
     major_str, minor_stem = data["stem"].split(".")
     minor_str = f"{minor_stem}{data['build']:02d}"

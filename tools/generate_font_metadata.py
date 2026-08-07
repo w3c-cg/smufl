@@ -52,9 +52,9 @@ def font_info():
     fontinfo = plistlib.loads((UFO_DIR / "fontinfo.plist").read_bytes())
     staff_space = fontinfo["unitsPerEm"] / 4
     # fontVersion is a JSON number (matching the historical smufl-admin
-    # export), which can't distinguish "1.4900" from "1.49" - the build
-    # number's trailing zeros are only meaningful in the font's own
-    # name-table "Version" string and in versionMajor/versionMinor.
+    # export) - fine for this scheme's 3-digit fraction (e.g. 1.480 == 1.48
+    # as a float, and no other valid build value collides with that), see
+    # tools/font_version.py.
     _, _, version_str = font_version.format_version()
     return staff_space, float(version_str)
 
