@@ -2,20 +2,20 @@
 <glyph name="uniEE59" format="2">
   <advance width="240"/>
   <unicode hex="EE59"/>
-  <anchor x="161" y="116" name="cutOutSW"/>
+  <anchor x="115" y="-21" name="cutOutSW"/>
   <note>accidentalCombiningRaise47Quartertone</note>
   <outline>
     <contour>
-      <point x="204.4" y="164.4" type="line"/>
-      <point x="204.4" y="-334" type="line"/>
-      <point x="239.4" y="-334" type="line"/>
-      <point x="239.4" y="475.2" type="line"/>
-      <point x="0" y="475.2" type="line"/>
-      <point x="0" y="370.2" type="line"/>
-      <point x="204.4" y="370.2" type="line"/>
-      <point x="204.4" y="268" type="line"/>
-      <point x="0" y="268" type="line"/>
-      <point x="0" y="164.4" type="line"/>
+      <point x="146" y="13" type="line"/>
+      <point x="146" y="-343" type="line"/>
+      <point x="171" y="-343" type="line"/>
+      <point x="171" y="235" type="line"/>
+      <point x="0" y="235" type="line"/>
+      <point x="0" y="160" type="line"/>
+      <point x="146" y="160" type="line"/>
+      <point x="146" y="87" type="line"/>
+      <point x="0" y="87" type="line"/>
+      <point x="0" y="13" type="line"/>
     </contour>
   </outline>
 </glyph>

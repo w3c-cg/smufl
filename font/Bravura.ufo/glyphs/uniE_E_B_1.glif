@@ -8,22 +8,22 @@
   <outline>
     <component base="uniE0BC"/>
     <contour>
-      <point x="320.721" y="-186.174" type="line" smooth="yes"/>
-      <point x="327.092" y="-192.53"/>
-      <point x="335.582" y="-192.525"/>
-      <point x="341.946" y="-186.161" type="curve"/>
-      <point x="341.946" y="-186.161" type="line"/>
-      <point x="348.31" y="-179.797"/>
-      <point x="348.305" y="-171.317"/>
-      <point x="341.934" y="-164.961" type="curve" smooth="yes"/>
-      <point x="57.5773" y="118.71" type="line" smooth="yes"/>
-      <point x="51.2058" y="125.066"/>
-      <point x="44.8368" y="127.182"/>
-      <point x="41.6549" y="124" type="curve" smooth="yes"/>
-      <point x="31.0482" y="113.393" type="line" smooth="yes"/>
-      <point x="27.8663" y="110.211"/>
-      <point x="29.9926" y="103.853"/>
-      <point x="36.3641" y="97.4967" type="curve" smooth="yes"/>
+      <point x="321" y="-186" type="line"/>
+      <point x="327" y="-193"/>
+      <point x="336" y="-193"/>
+      <point x="342" y="-186" type="curve"/>
+      <point x="342" y="-186" type="line"/>
+      <point x="348" y="-180"/>
+      <point x="348" y="-171"/>
+      <point x="342" y="-165" type="curve" smooth="yes"/>
+      <point x="58" y="119" type="line"/>
+      <point x="51" y="125"/>
+      <point x="45" y="127"/>
+      <point x="42" y="124" type="curve" smooth="yes"/>
+      <point x="31" y="113" type="line" smooth="yes"/>
+      <point x="28" y="110"/>
+      <point x="30" y="104"/>
+      <point x="36" y="97" type="curve"/>
     </contour>
   </outline>
 </glyph>

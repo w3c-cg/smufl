@@ -5,6 +5,6 @@
   <note>articMarcatoStaccatoBelowSmall</note>
   <outline>
     <component base="uniE4A2.ss01" xOffset="55" yOffset="-123"/>
-    <component base="uniE4AC.ss01" yScale="-1" yOffset="-256"/>
+    <component base="uniE4AC.ss01" xScale="-1" yScale="-1" xOffset="234" yOffset="-256"/>
   </outline>
 </glyph>

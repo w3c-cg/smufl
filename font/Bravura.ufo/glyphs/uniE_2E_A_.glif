@@ -4,6 +4,6 @@
   <unicode hex="E2EA"/>
   <note>accidentalCombiningLower23Limit29LimitComma</note>
   <outline>
-    <component base="uniE2B4" xScale="1.3743" yScale="1.3768" yOffset="47"/>
+    <component base="uniE2B4" xScale="1.3743" yScale="-1.3768" yOffset="-47"/>
   </outline>
 </glyph>

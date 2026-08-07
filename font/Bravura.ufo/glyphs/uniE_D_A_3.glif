@@ -23,9 +23,9 @@
       <point x="170" y="552" type="curve"/>
       <point x="170" y="1" type="line"/>
       <point x="234" y="1" type="line"/>
-      <point x="233.949" y="2.48718"/>
-      <point x="233.923" y="3.97337"/>
-      <point x="233.923" y="5.45858" type="curve" smooth="yes"/>
+      <point x="233.949" y="2.4872"/>
+      <point x="233.923" y="3.9734"/>
+      <point x="233.923" y="5.4586" type="curve" smooth="yes"/>
       <point x="233.923" y="76.6044"/>
       <point x="299.878" y="161"/>
       <point x="404" y="161" type="curve"/>

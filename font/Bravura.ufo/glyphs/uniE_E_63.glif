@@ -6,6 +6,6 @@
   <anchor x="85" y="-83" name="cutOutSW"/>
   <note>accidentalUpsAndDownsLess</note>
   <outline>
-    <component base="uniEE60" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="106.112" yOffset="-120.958"/>
+    <component base="uniEE60" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="106" yOffset="-121"/>
   </outline>
 </glyph>

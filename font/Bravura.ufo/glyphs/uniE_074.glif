@@ -4,6 +4,6 @@
   <unicode hex="E074"/>
   <note>gClefTurned</note>
   <outline>
-    <component base="uniE050" xScale="-1" yScale="-1" xOffset="677" yOffset="496"/>
+    <component base="uniE050" xScale="-1" yScale="-1" xOffset="670" yOffset="8"/>
   </outline>
 </glyph>

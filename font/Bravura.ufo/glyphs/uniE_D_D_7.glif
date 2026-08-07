@@ -57,15 +57,15 @@
       <point x="60" y="676.667"/>
       <point x="20.6667" y="636.333"/>
       <point x="6" y="587" type="curve"/>
-      <point x="3.33333" y="575"/>
-      <point x="1.33333" y="561"/>
+      <point x="3.3333" y="575"/>
+      <point x="1.3333" y="561"/>
       <point x="0" y="549" type="curve"/>
       <point x="0" y="534" type="line" smooth="yes"/>
       <point x="0" y="528.667"/>
-      <point x="0.666667" y="522.667"/>
+      <point x="0.6667" y="522.667"/>
       <point x="2" y="516" type="curve"/>
-      <point x="3.33333" y="506.667"/>
-      <point x="5.33333" y="497"/>
+      <point x="3.3333" y="506.667"/>
+      <point x="5.3333" y="497"/>
       <point x="8" y="487" type="curve"/>
       <point x="25.3333" y="437.667"/>
       <point x="63.3333" y="398.667"/>

@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE3FC" format="2">
-  <advance width="186"/>
+  <advance width="188"/>
   <unicode hex="E3FC"/>
   <note>accSagittal3TinasDown</note>
   <outline>
     <contour>
-      <point x="-7" y="16" type="curve"/>
+      <point x="-7" y="16" type="line"/>
       <point x="30" y="16" type="line"/>
-      <point x="30.0497" y="16"/>
-      <point x="44.9313" y="38.2745"/>
-      <point x="50" y="45" type="curve" smooth="yes"/>
-      <point x="61.179" y="59.8331"/>
-      <point x="72.2897" y="74.1144"/>
-      <point x="80.5515" y="74.1144" type="curve" smooth="yes"/>
-      <point x="88.654" y="74.1144"/>
-      <point x="94.0165" y="60.379"/>
-      <point x="94.0165" y="19.9581" type="curve" smooth="yes"/>
-      <point x="94.0165" y="18.6661"/>
-      <point x="94.011" y="17.3469"/>
-      <point x="94" y="16" type="curve"/>
+      <point x="55" y="51" type="line" smooth="yes"/>
+      <point x="70" y="72"/>
+      <point x="76" y="76"/>
+      <point x="81" y="76" type="curve" smooth="yes"/>
+      <point x="87" y="76"/>
+      <point x="94" y="72"/>
+      <point x="94" y="53" type="curve" smooth="yes"/>
+      <point x="94" y="16" type="line"/>
       <point x="124" y="16" type="line"/>
-      <point x="124" y="78"/>
-      <point x="113.316" y="94"/>
-      <point x="93" y="104" type="curve" smooth="yes"/>
-      <point x="89.7994" y="105.575"/>
-      <point x="85.9471" y="106.327"/>
-      <point x="81.7882" y="106.327" type="curve" smooth="yes"/>
-      <point x="70.0465" y="106.327"/>
-      <point x="55.8614" y="100.338"/>
-      <point x="47" y="90" type="curve" smooth="yes"/>
-      <point x="29.8184" y="69.9551"/>
-      <point x="9" y="40"/>
+      <point x="124" y="53" type="line" smooth="yes"/>
+      <point x="124" y="95"/>
+      <point x="101" y="107"/>
+      <point x="81" y="107" type="curve" smooth="yes"/>
+      <point x="62" y="107"/>
+      <point x="48" y="93"/>
+      <point x="33" y="72" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f89df16f88bb321f6cb4f1a0e3913a2a1ce174b2276972ff7df37a784f5424c59a7356edcd27471dbbbdf21ba5a63bf650ffb4979413f7bbf7e7e194aa39346f</string>
+    <string>w188m-7,16l30,16l55,51c70,72 76,76 81,76c87,76 94,72 94,53l94,16l124,16l124,53c124,95 101,107 81,107c62,107 48,93 33,72</string>
     <key>hintSetList</key>
     <array>
       <dict>

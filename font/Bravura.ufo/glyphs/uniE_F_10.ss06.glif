@@ -20,17 +20,11 @@
       <point x="32.85" y="307.55"/>
       <point x="12.15" y="201.8" type="curve" smooth="yes"/>
       <point x="8.85155" y="184.877"/>
-      <point x="7.36982" y="168.412"/>
-      <point x="7.36982" y="152.502" type="curve" smooth="yes"/>
-      <point x="7.36982" y="68.5654"/>
-      <point x="48.6101" y="0.0860334"/>
+      <point x="7.36985" y="168.412"/>
+      <point x="7.36985" y="152.502" type="curve" smooth="yes"/>
+      <point x="7.36985" y="68.5654"/>
+      <point x="48.6101" y="0.0860291"/>
       <point x="81.9" y="-38.5" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

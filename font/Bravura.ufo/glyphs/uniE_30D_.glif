@@ -5,30 +5,30 @@
   <note>accSagittal11LargeDiesisDown</note>
   <outline>
     <contour>
-      <point x="0" y="-47" type="curve" smooth="yes"/>
-      <point x="0" y="172" type="line"/>
-      <point x="31" y="172" type="line"/>
-      <point x="31" y="47" type="line" smooth="yes"/>
-      <point x="31" y="-37"/>
-      <point x="62" y="-78"/>
-      <point x="125" y="-78" type="curve" smooth="yes"/>
-      <point x="156" y="-78" type="line"/>
-      <point x="156" y="359" type="line"/>
-      <point x="188" y="359" type="line"/>
-      <point x="188" y="-78" type="line"/>
-      <point x="219" y="-78" type="line" smooth="yes"/>
-      <point x="281" y="-78"/>
-      <point x="312" y="-37"/>
-      <point x="312" y="47" type="curve" smooth="yes"/>
-      <point x="312" y="172" type="line"/>
-      <point x="344" y="172" type="line"/>
-      <point x="344" y="-47" type="line" smooth="yes"/>
-      <point x="344" y="-130"/>
-      <point x="312" y="-172"/>
-      <point x="250" y="-172" type="curve" smooth="yes"/>
-      <point x="94" y="-172" type="line" smooth="yes"/>
-      <point x="31" y="-172"/>
+      <point x="0" y="-47" type="line" smooth="yes"/>
       <point x="0" y="-130"/>
+      <point x="31" y="-172"/>
+      <point x="94" y="-172" type="curve" smooth="yes"/>
+      <point x="250" y="-172" type="line" smooth="yes"/>
+      <point x="312" y="-172"/>
+      <point x="344" y="-130"/>
+      <point x="344" y="-47" type="curve" smooth="yes"/>
+      <point x="344" y="172" type="line"/>
+      <point x="312" y="172" type="line"/>
+      <point x="312" y="47" type="line" smooth="yes"/>
+      <point x="312" y="-37"/>
+      <point x="281" y="-78"/>
+      <point x="219" y="-78" type="curve" smooth="yes"/>
+      <point x="188" y="-78" type="line"/>
+      <point x="188" y="359" type="line"/>
+      <point x="156" y="359" type="line"/>
+      <point x="156" y="-78" type="line"/>
+      <point x="125" y="-78" type="line" smooth="yes"/>
+      <point x="62" y="-78"/>
+      <point x="31" y="-37"/>
+      <point x="31" y="47" type="curve" smooth="yes"/>
+      <point x="31" y="172" type="line"/>
+      <point x="0" y="172" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -5,6 +5,6 @@
   <note>figbassTripleFlat</note>
   <outline>
     <component base="uniEA63"/>
-    <component base="uniEA64" xOffset="200.332"/>
+    <component base="uniEA64" xOffset="200"/>
   </outline>
 </glyph>

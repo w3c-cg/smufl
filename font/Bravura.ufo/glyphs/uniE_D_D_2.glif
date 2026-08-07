@@ -24,9 +24,9 @@
       <point x="168" y="1" type="line"/>
       <point x="230" y="1" type="line"/>
       <point x="229.949" y="2.4359"/>
-      <point x="229.923" y="3.87278"/>
-      <point x="229.923" y="5.31065" type="curve" smooth="yes"/>
-      <point x="229.923" y="75.1625"/>
+      <point x="229.923" y="3.8728"/>
+      <point x="229.923" y="5.3107" type="curve" smooth="yes"/>
+      <point x="229.923" y="75.1626"/>
       <point x="295.926" y="159"/>
       <point x="399" y="159" type="curve"/>
     </contour>

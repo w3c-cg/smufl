@@ -6,15 +6,15 @@
   <outline>
     <component base="uniEA75"/>
     <contour>
-      <point x="44.9835" y="817.54" type="line"/>
-      <point x="199.368" y="1004.4" type="line"/>
-      <point x="301.066" y="1004.4" type="line"/>
-      <point x="457.902" y="817.54" type="line"/>
-      <point x="457.902" y="803.45" type="line"/>
-      <point x="384.998" y="803.45" type="line"/>
-      <point x="249.605" y="937.4" type="line"/>
-      <point x="115.437" y="803.45" type="line"/>
-      <point x="44.9835" y="803.45" type="line"/>
+      <point x="45" y="818" type="line"/>
+      <point x="199" y="1004" type="line"/>
+      <point x="301" y="1004" type="line"/>
+      <point x="458" y="818" type="line"/>
+      <point x="458" y="803" type="line"/>
+      <point x="385" y="803" type="line"/>
+      <point x="250" y="937" type="line"/>
+      <point x="115" y="803" type="line"/>
+      <point x="45" y="803" type="line"/>
     </contour>
   </outline>
 </glyph>

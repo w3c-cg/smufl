@@ -118,7 +118,7 @@
       <point x="949" y="443" type="curve"/>
       <point x="949" y="443"/>
       <point x="960.209" y="468.867"/>
-      <point x="960.209" y="469.36" type="curve" smooth="yes"/>
+      <point x="960.209" y="469.36" type="curve"/>
       <point x="960.209" y="469.398"/>
       <point x="960.143" y="469.286"/>
       <point x="960" y="469" type="curve"/>

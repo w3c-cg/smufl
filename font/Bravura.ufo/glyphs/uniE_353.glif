@@ -6,20 +6,20 @@
   <outline>
     <contour>
       <point x="0" y="22" type="line"/>
-      <point x="281" y="-96" type="line"/>
-      <point x="281" y="-9" type="line"/>
-      <point x="0" y="109" type="line"/>
-      <point x="0" y="178" type="line"/>
-      <point x="156" y="112" type="line"/>
-      <point x="156" y="359" type="line"/>
-      <point x="188" y="359" type="line"/>
-      <point x="188" y="100" type="line"/>
-      <point x="281" y="60" type="line"/>
-      <point x="281" y="359" type="line"/>
-      <point x="312" y="359" type="line"/>
-      <point x="312" y="-172" type="line"/>
-      <point x="297" y="-172" type="line"/>
       <point x="0" y="-47" type="line"/>
+      <point x="297" y="-172" type="line"/>
+      <point x="312" y="-172" type="line"/>
+      <point x="312" y="359" type="line"/>
+      <point x="281" y="359" type="line"/>
+      <point x="281" y="60" type="line"/>
+      <point x="188" y="100" type="line"/>
+      <point x="188" y="359" type="line"/>
+      <point x="156" y="359" type="line"/>
+      <point x="156" y="112" type="line"/>
+      <point x="0" y="178" type="line"/>
+      <point x="0" y="109" type="line"/>
+      <point x="281" y="-9" type="line"/>
+      <point x="281" y="-96" type="line"/>
     </contour>
   </outline>
 </glyph>

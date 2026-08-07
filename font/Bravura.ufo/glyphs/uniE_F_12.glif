@@ -2,7 +2,7 @@
 <glyph name="uniEF12" format="2">
   <advance width="167"/>
   <unicode hex="EF12"/>
-  <note>tupletParenthesisLeftRoman</note>
+  <note>0</note>
   <outline>
     <contour>
       <point x="22.5" y="180" type="curve" smooth="yes"/>
@@ -21,10 +21,4 @@
       <point x="22.5" y="298"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

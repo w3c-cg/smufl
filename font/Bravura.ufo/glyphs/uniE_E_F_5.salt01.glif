@@ -7,14 +7,14 @@
     <contour>
       <point x="239.593" y="140.978" type="curve" smooth="yes" name="hr01"/>
       <point x="107.593" y="140.978"/>
-      <point x="0.593323" y="49.9781"/>
-      <point x="0.593323" y="-47.0219" type="curve" smooth="yes"/>
+      <point x="0.593323" y="49.978"/>
+      <point x="0.593323" y="-47.022" type="curve" smooth="yes"/>
       <point x="0.593323" y="-106.022"/>
       <point x="51.5933" y="-141.022"/>
       <point x="117.593" y="-141.022" type="curve" smooth="yes"/>
       <point x="225.593" y="-141.022"/>
-      <point x="358.593" y="-48.0219"/>
-      <point x="358.593" y="46.9781" type="curve" smooth="yes"/>
+      <point x="358.593" y="-48.0221"/>
+      <point x="358.593" y="46.9779" type="curve" smooth="yes"/>
       <point x="358.593" y="103.978"/>
       <point x="309.593" y="140.978"/>
     </contour>

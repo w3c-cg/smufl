@@ -7,38 +7,38 @@
   <note>noteLiBlack</note>
   <outline>
     <contour>
-      <point x="195.126" y="-98.1559" type="line"/>
-      <point x="94.1259" y="-98.1559" type="line"/>
-      <point x="94.1259" y="65.8441" type="line"/>
-      <point x="124.126" y="65.8441" type="line"/>
-      <point x="124.126" y="-70.1559" type="line"/>
-      <point x="195.126" y="-70.1559" type="line"/>
+      <point x="195" y="-98" type="line"/>
+      <point x="94" y="-98" type="line"/>
+      <point x="94" y="66" type="line"/>
+      <point x="124" y="66" type="line"/>
+      <point x="124" y="-70" type="line"/>
+      <point x="195" y="-70" type="line"/>
     </contour>
     <contour>
-      <point x="238.126" y="140.844" type="curve" smooth="yes"/>
-      <point x="106.126" y="140.844"/>
-      <point x="0.1259" y="49.8441"/>
-      <point x="0.1259" y="-47.1559" type="curve" smooth="yes"/>
-      <point x="0.1259" y="-107.156"/>
-      <point x="51.1259" y="-141.156"/>
-      <point x="117.126" y="-141.156" type="curve" smooth="yes"/>
-      <point x="225.126" y="-141.156"/>
-      <point x="358.126" y="-48.1559"/>
-      <point x="358.126" y="46.8441" type="curve" smooth="yes"/>
-      <point x="358.126" y="103.844"/>
-      <point x="308.126" y="140.844"/>
+      <point x="238" y="141" type="curve" smooth="yes"/>
+      <point x="106" y="141"/>
+      <point x="0" y="50"/>
+      <point x="0" y="-47" type="curve" smooth="yes"/>
+      <point x="0" y="-107"/>
+      <point x="51" y="-141"/>
+      <point x="117" y="-141" type="curve" smooth="yes"/>
+      <point x="225" y="-141"/>
+      <point x="358" y="-48"/>
+      <point x="358" y="47" type="curve" smooth="yes"/>
+      <point x="358" y="104"/>
+      <point x="308" y="141"/>
     </contour>
     <contour>
-      <point x="267.126" y="-59.174" type="line" name="hr07"/>
-      <point x="239.126" y="-59.174" type="line" name="hr08"/>
-      <point x="239.126" y="62.826" type="line"/>
-      <point x="267.126" y="62.826" type="line" name="hr09"/>
+      <point x="267" y="-59" type="line" name="hr07"/>
+      <point x="239" y="-59" type="line" name="hr08"/>
+      <point x="239" y="63" type="line"/>
+      <point x="267" y="63" type="line" name="hr09"/>
     </contour>
     <contour>
-      <point x="268.126" y="76.826" type="line"/>
-      <point x="239.126" y="76.826" type="line" name="hr10"/>
-      <point x="239.126" y="108.826" type="line" name="hr11"/>
-      <point x="268.126" y="108.826" type="line" name="hr12"/>
+      <point x="268" y="77" type="line"/>
+      <point x="239" y="77" type="line" name="hr10"/>
+      <point x="239" y="109" type="line" name="hr11"/>
+      <point x="268" y="109" type="line" name="hr12"/>
     </contour>
   </outline>
 </glyph>

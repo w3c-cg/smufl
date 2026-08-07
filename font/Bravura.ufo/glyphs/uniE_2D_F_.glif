@@ -5,6 +5,6 @@
   <anchor x="75" y="-88" name="cutOutSE"/>
   <note>accidentalRaiseOneSeptimalComma</note>
   <outline>
-    <component base="uniE2DE" yScale="-1" xOffset="1" yOffset="13.3243"/>
+    <component base="uniE2DE" yScale="-1" xOffset="1" yOffset="13"/>
   </outline>
 </glyph>

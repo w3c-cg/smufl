@@ -103,14 +103,14 @@
       <point x="37" y="65" type="curve"/>
       <point x="19" y="71" type="line"/>
       <point x="2" y="36" type="line"/>
-      <point x="3.09091" y="35.6364"/>
-      <point x="3.63636" y="35.3223"/>
-      <point x="3.63636" y="35.0579" type="curve"/>
-      <point x="3.63636" y="34.6171"/>
-      <point x="1.36364" y="34.4518"/>
-      <point x="1.36364" y="33.7355" type="curve"/>
-      <point x="1.36364" y="33.3058"/>
-      <point x="1.90909" y="32.7273"/>
+      <point x="3.0909" y="35.6364"/>
+      <point x="3.6363" y="35.3223"/>
+      <point x="3.6363" y="35.0579" type="curve"/>
+      <point x="3.6363" y="34.6171"/>
+      <point x="1.3636" y="34.4518"/>
+      <point x="1.3636" y="33.7355" type="curve"/>
+      <point x="1.3636" y="33.3058"/>
+      <point x="1.909" y="32.7273"/>
       <point x="3" y="32" type="curve"/>
       <point x="15" y="28"/>
       <point x="24.3333" y="24.3333"/>

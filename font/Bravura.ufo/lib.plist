@@ -3054,11 +3054,6 @@
     <string>uniE766.salt01</string>
     <string>uniE842.salt01</string>
     <string>uniE86B.salt01</string>
-    <string>uniE0A0.ss05</string>
-    <string>uniE0A1.ss05</string>
-    <string>uniE0A2.ss05</string>
-    <string>uniE0A3.ss05</string>
-    <string>uniE0A4.ss05</string>
     <string>uniE05C.salt03</string>
     <string>uniE07B.salt01</string>
     <string>uniE849.salt01</string>
@@ -3777,6 +3772,15 @@
     <string>uniEF16.ss06</string>
     <string>uniEF17.ss06</string>
     <string>uniE830.salt01</string>
+    <string>uniE0A0.ss08</string>
+    <string>uniE0A1.ss08</string>
+    <string>uniE0A2.ss08</string>
+    <string>uniE0A3.ss08</string>
+    <string>uniE0A4.ss08</string>
+    <string>uniE31A</string>
+    <string>uniE31B</string>
+    <string>uniE3DE</string>
+    <string>uniE3DF</string>
   </array>
 </dict>
 </plist>

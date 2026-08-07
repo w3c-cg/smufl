@@ -4,7 +4,7 @@
   <unicode hex="E2F8"/>
   <note>accidentalCombiningRaise53LimitComma</note>
   <outline>
-    <component base="uniE2E6" xScale="-1" xOffset="198" yOffset="-73.1557"/>
-    <component base="uniE2E8" xScale="-1" xOffset="198" yOffset="156.601"/>
+    <component base="uniE2E6" xScale="-1" xOffset="198" yOffset="-73"/>
+    <component base="uniE2E8" xScale="-1" xOffset="198" yOffset="157"/>
   </outline>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE3F3" format="2">
-  <advance width="187"/>
+  <advance width="188"/>
   <unicode hex="E3F3"/>
   <note>accSagittalGrave</note>
   <outline>
     <contour>
       <point x="0" y="0" type="line"/>
-      <point x="0" y="62" type="line"/>
-      <point x="125" y="-62" type="line"/>
       <point x="125" y="-125" type="line"/>
+      <point x="125" y="-62" type="line"/>
+      <point x="0" y="62" type="line"/>
     </contour>
   </outline>
 </glyph>

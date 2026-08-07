@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE038" format="2">
-  <advance width="37"/>
+  <advance width="40"/>
   <unicode hex="E038"/>
   <note>barlineShort</note>
   <outline>
     <contour>
-      <point x="37" y="500" type="line"/>
-      <point x="37" y="1000" type="line"/>
-      <point x="1" y="1000" type="line"/>
-      <point x="1" y="500" type="line"/>
+      <point x="40" y="500" type="line"/>
+      <point x="40" y="1000" type="line"/>
+      <point x="0" y="1000" type="line"/>
+      <point x="0" y="500" type="line"/>
     </contour>
   </outline>
 </glyph>

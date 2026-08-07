@@ -7,14 +7,14 @@
     <contour>
       <point x="248.292" y="143.521" type="curve" smooth="yes" name="hr04"/>
       <point x="95.2919" y="143.521"/>
-      <point x="0.291916" y="78.5208"/>
-      <point x="0.291916" y="-0.479156" type="curve" smooth="yes"/>
-      <point x="0.291916" y="-77.4792"/>
+      <point x="0.291901" y="78.5208"/>
+      <point x="0.291901" y="-0.479202" type="curve" smooth="yes"/>
+      <point x="0.291901" y="-77.4792"/>
       <point x="65.2919" y="-146.479"/>
       <point x="237.292" y="-146.479" type="curve" smooth="yes"/>
       <point x="424.292" y="-146.479"/>
       <point x="486.292" y="-80.4792"/>
-      <point x="486.292" y="-0.479156" type="curve" smooth="yes"/>
+      <point x="486.292" y="-0.479202" type="curve" smooth="yes"/>
       <point x="486.292" y="81.5208"/>
       <point x="355.292" y="143.521"/>
     </contour>
@@ -22,13 +22,13 @@
       <point x="238.292" y="-121.479" type="curve" smooth="yes"/>
       <point x="109.292" y="-121.479"/>
       <point x="60.2919" y="-64.4792"/>
-      <point x="60.2919" y="-1.47916" type="curve" smooth="yes"/>
+      <point x="60.2919" y="-1.47919" type="curve" smooth="yes"/>
       <point x="60.2919" y="63.5208"/>
       <point x="132.292" y="117.521"/>
       <point x="247.292" y="117.521" type="curve" smooth="yes"/>
       <point x="327.292" y="117.521"/>
       <point x="425.292" y="66.5208"/>
-      <point x="425.292" y="-1.47916" type="curve" smooth="yes"/>
+      <point x="425.292" y="-1.47919" type="curve" smooth="yes"/>
       <point x="425.292" y="-67.4792"/>
       <point x="379.292" y="-121.479"/>
     </contour>
@@ -66,11 +66,11 @@
     <contour>
       <point x="337.161" y="-10.2926" type="curve" name="hr10"/>
       <point x="285.161" y="-10.2926" type="line"/>
-      <point x="287.161" y="7.70743"/>
+      <point x="287.161" y="7.7074"/>
       <point x="296.161" y="18.7074"/>
       <point x="311.161" y="18.7074" type="curve" smooth="yes" name="hr11"/>
       <point x="325.161" y="18.7074"/>
-      <point x="335.161" y="8.70743"/>
+      <point x="335.161" y="8.7074"/>
     </contour>
   </outline>
 </glyph>

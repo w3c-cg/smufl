@@ -3,6 +3,8 @@
   <advance width="599"/>
   <unicode hex="E0A0"/>
   <anchor x="90" y="0" name="noteheadOrigin"/>
+  <anchor x="90" y="1" name="stemDownNW"/>
+  <anchor x="509" y="1" name="stemUpSE"/>
   <note>noteheadDoubleWhole</note>
   <outline>
     <contour>

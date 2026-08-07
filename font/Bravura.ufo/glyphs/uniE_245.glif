@@ -32,10 +32,10 @@
       <point x="61" y="432"/>
       <point x="0" y="430" type="curve"/>
       <point x="0" y="-159" type="line"/>
-      <point x="0" y="-168.212"/>
-      <point x="6.18499" y="-171.906"/>
-      <point x="13.8319" y="-171.869" type="curve" smooth="yes"/>
-      <point x="23.6856" y="-171.82"/>
+      <point x="0" y="-168"/>
+      <point x="6" y="-172"/>
+      <point x="14" y="-172" type="curve" smooth="yes"/>
+      <point x="24" y="-172"/>
       <point x="32" y="-161"/>
       <point x="33" y="-152" type="curve"/>
       <point x="50" y="-48"/>

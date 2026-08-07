@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE052.salt01" format="2">
-  <advance width="333"/>
+  <advance width="670"/>
   <unicode hex="F53D"/>
   <note>gClef8vbFrench</note>
   <outline>
     <component base="uniE052"/>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <real>0</real>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
-  </dict>
-  </lib>
 </glyph>

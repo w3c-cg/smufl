@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE036" format="2">
-  <advance width="36"/>
+  <advance width="40"/>
   <unicode hex="E036"/>
   <note>barlineDashed</note>
   <outline>
     <contour>
-      <point x="36" y="875" type="line"/>
-      <point x="36" y="1000" type="line"/>
-      <point x="0" y="1000" type="line"/>
-      <point x="0" y="875" type="line"/>
+      <point x="40" y="925" type="line"/>
+      <point x="40" y="800" type="line"/>
+      <point x="0" y="800" type="line"/>
+      <point x="0" y="925" type="line"/>
     </contour>
     <contour>
-      <point x="36" y="471" type="line"/>
-      <point x="0" y="471" type="line"/>
-      <point x="0" y="182" type="line"/>
-      <point x="36" y="182" type="line"/>
+      <point x="40" y="737" type="line"/>
+      <point x="40" y="612" type="line"/>
+      <point x="0" y="612" type="line"/>
+      <point x="0" y="737" type="line"/>
     </contour>
     <contour>
-      <point x="36" y="817" type="line"/>
-      <point x="0" y="817" type="line"/>
-      <point x="0" y="528" type="line"/>
-      <point x="36" y="528" type="line"/>
+      <point x="40" y="550" type="line"/>
+      <point x="40" y="425" type="line"/>
+      <point x="0" y="425" type="line"/>
+      <point x="0" y="550" type="line"/>
     </contour>
     <contour>
-      <point x="36" y="125" type="line"/>
-      <point x="0" y="125" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="36" y="0" type="line"/>
+      <point x="40" y="362" type="line"/>
+      <point x="40" y="237" type="line"/>
+      <point x="0" y="237" type="line"/>
+      <point x="0" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="175" type="line"/>
+      <point x="40" y="50" type="line"/>
+      <point x="0" y="50" type="line"/>
+      <point x="0" y="175" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE3FE" format="2">
-  <advance width="249"/>
+  <advance width="250"/>
   <unicode hex="E3FE"/>
   <note>accSagittal4TinasDown</note>
   <outline>
     <contour>
-      <point x="0" y="47" type="curve"/>
       <point x="0" y="16" type="line"/>
-      <point x="73" y="16"/>
-      <point x="85.5122" y="18.1317"/>
-      <point x="99" y="31" type="curve"/>
-      <point x="105.761" y="38.5658"/>
-      <point x="126.486" y="74.7104"/>
-      <point x="141.232" y="74.7104" type="curve" smooth="yes"/>
-      <point x="150.239" y="74.7104"/>
-      <point x="157.015" y="61.2238"/>
-      <point x="157.015" y="19.4988" type="curve" smooth="yes"/>
-      <point x="157.015" y="18.3539"/>
-      <point x="157.01" y="17.1877"/>
-      <point x="157" y="16" type="curve"/>
+      <point x="57" y="16" type="line" smooth="yes"/>
+      <point x="88" y="16"/>
+      <point x="98" y="23"/>
+      <point x="108" y="37" type="curve" smooth="yes"/>
+      <point x="118" y="51" type="line" smooth="yes"/>
+      <point x="133" y="72"/>
+      <point x="139" y="76"/>
+      <point x="144" y="76" type="curve" smooth="yes"/>
+      <point x="150" y="76"/>
+      <point x="157" y="72"/>
+      <point x="157" y="53" type="curve" smooth="yes"/>
+      <point x="157" y="16" type="line"/>
       <point x="187" y="16" type="line"/>
-      <point x="187" y="78"/>
-      <point x="176.316" y="94"/>
-      <point x="156" y="104" type="curve" smooth="yes"/>
-      <point x="152.367" y="105.86"/>
-      <point x="148.228" y="106.778"/>
-      <point x="143.807" y="106.778" type="curve" smooth="yes"/>
-      <point x="133.452" y="106.778"/>
-      <point x="121.552" y="101.745"/>
-      <point x="111" y="92" type="curve" smooth="yes"/>
-      <point x="96.3818" y="78"/>
-      <point x="85.501" y="60.8135"/>
-      <point x="80" y="56" type="curve" smooth="yes"/>
-      <point x="72" y="49"/>
-      <point x="65" y="47"/>
+      <point x="187" y="53" type="line" smooth="yes"/>
+      <point x="187" y="95"/>
+      <point x="164" y="107"/>
+      <point x="144" y="107" type="curve" smooth="yes"/>
+      <point x="125" y="107"/>
+      <point x="111" y="93"/>
+      <point x="96" y="72" type="curve" smooth="yes"/>
+      <point x="86" y="58" type="line"/>
+      <point x="80" y="49"/>
+      <point x="70" y="47"/>
+      <point x="57" y="47" type="curve" smooth="yes"/>
+      <point x="0" y="47" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +40,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f534d79963120d1a481883ad07e32162a059df127a59e92aa8fda44eeeffe785dd14c7c4eccc75acc320e05ca35cd549314a414461ebdd7b3fa38b2bc277a7d0</string>
+    <string>0494d53ee865da21bf45907d22bc24969c99cb556bf372625a281ac9e70b604357d8819418299ed776d865b6c1f3d2c98c6eef13c743c8a7282e9a2c2fb59784</string>
     <key>hintSetList</key>
     <array>
       <dict>

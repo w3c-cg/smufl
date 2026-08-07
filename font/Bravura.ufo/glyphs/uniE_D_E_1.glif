@@ -94,11 +94,11 @@
       <point x="314" y="39" type="line"/>
       <point x="314" y="0" type="line"/>
       <point x="329" y="0" type="line"/>
-      <point x="329.667" y="0.666667"/>
+      <point x="329.667" y="0.6667"/>
       <point x="330.333" y="1"/>
       <point x="331" y="1" type="curve"/>
-      <point x="346.333" y="2.33333"/>
-      <point x="361" y="4.33333"/>
+      <point x="346.333" y="2.3333"/>
+      <point x="361" y="4.3333"/>
       <point x="375" y="7" type="curve"/>
       <point x="445" y="23.6667"/>
       <point x="499.333" y="63"/>

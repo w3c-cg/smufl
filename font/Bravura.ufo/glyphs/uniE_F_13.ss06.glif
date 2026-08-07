@@ -21,10 +21,4 @@
       <point x="4.5" y="-27.7" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

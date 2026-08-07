@@ -39,6 +39,7 @@ textFontFamily:
   - serif
 thickBarlineThickness: 0.5
 thinBarlineThickness: 0.16
+thinThickBarlineSeparation: 0.4
 tieEndpointThickness: 0.1
 tieMidpointThickness: 0.22
 tupletBracketThickness: 0.16

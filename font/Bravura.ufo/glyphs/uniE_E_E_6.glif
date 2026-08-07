@@ -7,9 +7,9 @@
     <contour>
       <point x="248.978" y="142.681" type="curve" smooth="yes" name="hr04"/>
       <point x="95.9779" y="142.681"/>
-      <point x="0.977859" y="77.681"/>
-      <point x="0.977859" y="-1.319" type="curve" smooth="yes"/>
-      <point x="0.977859" y="-78.319"/>
+      <point x="0.97789" y="77.681"/>
+      <point x="0.97789" y="-1.319" type="curve" smooth="yes"/>
+      <point x="0.97789" y="-78.319"/>
       <point x="65.9779" y="-147.319"/>
       <point x="237.978" y="-147.319" type="curve" smooth="yes"/>
       <point x="424.978" y="-147.319"/>
@@ -21,9 +21,9 @@
     <contour>
       <point x="238.978" y="-122.319" type="curve" smooth="yes"/>
       <point x="109.978" y="-122.319"/>
-      <point x="60.9779" y="-65.319"/>
-      <point x="60.9779" y="-2.319" type="curve" smooth="yes"/>
-      <point x="60.9779" y="62.681"/>
+      <point x="60.978" y="-65.319"/>
+      <point x="60.978" y="-2.319" type="curve" smooth="yes"/>
+      <point x="60.978" y="62.681"/>
       <point x="132.978" y="116.681"/>
       <point x="247.978" y="116.681" type="curve" smooth="yes"/>
       <point x="327.978" y="116.681"/>

@@ -49,14 +49,14 @@
       <point x="25.3333" y="600"/>
       <point x="8" y="540" type="curve" smooth="yes"/>
       <point x="3.33333" y="524.667"/>
-      <point x="0.666667" y="510"/>
+      <point x="0.66663" y="510"/>
       <point x="0" y="496" type="curve"/>
       <point x="0" y="478" type="line" smooth="yes"/>
       <point x="0" y="471.333"/>
-      <point x="0.666667" y="463.667"/>
+      <point x="0.6667" y="463.667"/>
       <point x="2" y="457" type="curve" smooth="yes"/>
-      <point x="4.66667" y="445"/>
-      <point x="5.66667" y="432.667"/>
+      <point x="4.6667" y="445"/>
+      <point x="5.6667" y="432.667"/>
       <point x="11" y="422" type="curve"/>
       <point x="31" y="362"/>
       <point x="77" y="317.667"/>

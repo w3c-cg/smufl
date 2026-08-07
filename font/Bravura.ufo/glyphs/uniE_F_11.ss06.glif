@@ -23,14 +23,8 @@
       <point x="105.146" y="190.804"/>
       <point x="98.1" y="160.4" type="curve" smooth="yes"/>
       <point x="73.8" y="55.1"/>
-      <point x="22.95" y="2.89999"/>
+      <point x="22.95" y="2.9"/>
       <point x="-29.25" y="-28.15" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

@@ -21,10 +21,4 @@
       <point x="18" y="397" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>
