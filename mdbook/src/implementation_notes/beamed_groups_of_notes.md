@@ -19,6 +19,12 @@ brackets (e.g. **textTupletBracketStartShortStem**), which should be kerned
 leftwards such that they are correctly aligned when entered after a note
 character.
 
+The short and long stem lengths used throughout this range are not
+arbitrary: they are designed to match the **stemUpSE** attachment point
+defined for a regular black or white/half notehead (e.g. U+E0A4), so
+that these glyphs continue to look correct when used to represent a note
+with a real notehead attached, rather than only in their headless form.
+
 By way of example:
 
 | **Example** | **Uses glyphs** |
