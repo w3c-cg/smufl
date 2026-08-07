@@ -3148,7 +3148,16 @@
 		"csymDiminished",
 		"csymHalfDiminished",
 		"csymAugmented",
-		"csymMajorSeventh"
+		"csymMajorSeventh",
+		"csymAlteredBassSlash",
+		"csymBracketLeftTall",
+		"csymBracketRightTall",
+		"csymDiagonalArrangementSlash",
+		"csymMinor",
+		"csymParensLeftTall",
+		"csymParensLeftVeryTall",
+		"csymParensRightTall",
+		"csymParensRightVeryTall"
 	],
 	"tf_daseianNotation": [
 		"daseianGraves1",

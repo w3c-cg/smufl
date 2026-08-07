@@ -25,22 +25,40 @@ glyphs:
   - tf_chordSymbols
 - name: csymMinor
   description: Minor
+  classes:
+  - tf_chordSymbols
 - name: csymParensLeftTall
   description: Double-height left parenthesis
+  classes:
+  - tf_chordSymbols
 - name: csymParensRightTall
   description: Double-height right parenthesis
+  classes:
+  - tf_chordSymbols
 - name: csymBracketLeftTall
   description: Double-height left bracket
+  classes:
+  - tf_chordSymbols
 - name: csymBracketRightTall
   description: Double-height right bracket
+  classes:
+  - tf_chordSymbols
 - name: csymParensLeftVeryTall
   description: Triple-height left parenthesis
+  classes:
+  - tf_chordSymbols
 - name: csymParensRightVeryTall
   description: Triple-height right parenthesis
+  classes:
+  - tf_chordSymbols
 - name: csymAlteredBassSlash
   description: Slash for altered bass note
+  classes:
+  - tf_chordSymbols
 - name: csymDiagonalArrangementSlash
   description: Slash for chord symbols arranged diagonally
+  classes:
+  - tf_chordSymbols
 stylisticAlternates:
 - for: csymDiminished
   name: csymDiminishedSmall
