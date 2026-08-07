@@ -33,6 +33,7 @@
     },
     "thickBarlineThickness": { "type": "number", "exclusiveMinimum": 0 },
     "thinBarlineThickness": { "type": "number", "exclusiveMinimum": 0 },
+    "thinThickBarlineSeparation": { "type": "number", "exclusiveMinimum": 0 },
     "tieEndpointThickness": { "type": "number", "exclusiveMinimum": 0 },
     "tieMidpointThickness": { "type": "number", "exclusiveMinimum": 0 },
     "tupletBracketThickness": { "type": "number", "exclusiveMinimum": 0 }
@@ -46,8 +47,8 @@
     "repeatEndingLineThickness", "slurEndpointThickness", "slurMidpointThickness",
     "staffLineThickness", "stemThickness", "subBracketThickness",
     "textEnclosureThickness", "textFontFamily", "thickBarlineThickness",
-    "thinBarlineThickness", "tieEndpointThickness", "tieMidpointThickness",
-    "tupletBracketThickness"
+    "thinBarlineThickness", "thinThickBarlineSeparation", "tieEndpointThickness",
+    "tieMidpointThickness", "tupletBracketThickness"
   ],
   "additionalProperties": false
 }
