@@ -8,33 +8,65 @@ supplementaryTo: fingering
 glyphs:
 - name: fingering0Italic
   description: Fingering 0 italic (open string)
+  classes:
+  - tf_figuredBass
 - name: fingering1Italic
   description: Fingering 1 italic (thumb)
+  classes:
+  - tf_figuredBass
 - name: fingering2Italic
   description: Fingering 2 italic (index finger)
+  classes:
+  - tf_figuredBass
 - name: fingering3Italic
   description: Fingering 3 italic (middle finger)
+  classes:
+  - tf_figuredBass
 - name: fingering4Italic
   description: Fingering 4 italic (ring finger)
+  classes:
+  - tf_figuredBass
 - name: fingering5Italic
   description: Fingering 5 italic (little finger)
+  classes:
+  - tf_figuredBass
 - name: fingering6Italic
   description: Fingering 6 italic
+  classes:
+  - tf_figuredBass
 - name: fingering7Italic
   description: Fingering 7 italic
+  classes:
+  - tf_figuredBass
 - name: fingering8Italic
   description: Fingering 8 italic
+  classes:
+  - tf_figuredBass
 - name: fingering9Italic
   description: Fingering 9 italic
+  classes:
+  - tf_figuredBass
 - name: fingeringLeftParenthesisItalic
   description: Fingering left parenthesis italic
+  classes:
+  - tf_figuredBass
 - name: fingeringRightParenthesisItalic
   description: Fingering right parenthesis italic
+  classes:
+  - tf_figuredBass
 - name: fingeringLeftBracketItalic
   description: Fingering left bracket italic
+  classes:
+  - tf_figuredBass
 - name: fingeringRightBracketItalic
   description: Fingering right bracket italic
+  classes:
+  - tf_figuredBass
 - name: fingeringQLower
   description: Fingering q (right-hand little finger for guitar)
+  classes:
+  - tf_figuredBass
 - name: fingeringSLower
   description: Fingering s (right-hand little finger for guitar)
+  classes:
+  - tf_figuredBass

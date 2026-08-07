@@ -87,23 +87,45 @@ glyphs:
   - tf_figuredBass
 - name: fingering6
   description: Fingering 6
+  classes:
+  - tf_figuredBass
 - name: fingering7
   description: Fingering 7
+  classes:
+  - tf_figuredBass
 - name: fingering8
   description: Fingering 8
+  classes:
+  - tf_figuredBass
 - name: fingering9
   description: Fingering 9
+  classes:
+  - tf_figuredBass
 - name: fingeringLeftParenthesis
   description: Fingering left parenthesis
+  classes:
+  - tf_figuredBass
 - name: fingeringRightParenthesis
   description: Fingering right parenthesis
+  classes:
+  - tf_figuredBass
 - name: fingeringLeftBracket
   description: Fingering left bracket
+  classes:
+  - tf_figuredBass
 - name: fingeringRightBracket
   description: Fingering right bracket
+  classes:
+  - tf_figuredBass
 - name: fingeringSeparatorMiddleDot
   description: Fingering middle dot separator
+  classes:
+  - tf_figuredBass
 - name: fingeringSeparatorMiddleDotWhite
   description: Fingering white middle dot separator
+  classes:
+  - tf_figuredBass
 - name: fingeringSeparatorSlash
   description: Fingering forward slash separator
+  classes:
+  - tf_figuredBass
