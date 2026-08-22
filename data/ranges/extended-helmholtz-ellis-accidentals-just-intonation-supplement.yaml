@@ -9,40 +9,50 @@ glyphs:
 - name: accidentalCombiningLower29LimitComma
   description: Combining lower by one 29-limit comma
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningRaise29LimitComma
   description: Combining raise by one 29-limit comma
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningLower37Quartertone
   description: Combining lower by one 37-limit quartertone
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningRaise37Quartertone
   description: Combining raise by one 37-limit quartertone
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningLower41Comma
   description: Combining lower by one 41-limit comma
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningRaise41Comma
   description: Combining raise by one 41-limit comma
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningLower43Comma
   description: Combining lower by one 43-limit comma
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningRaise43Comma
   description: Combining raise by one 43-limit comma
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningLower47Quartertone
   description: Combining lower by one 47-limit quartertone
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis
 - name: accidentalCombiningRaise47Quartertone
   description: Combining raise by one 47-limit quartertone
   classes:
+  - accidentals
   - accidentalsHelmholtzEllis

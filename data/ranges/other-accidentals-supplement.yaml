@@ -44,3 +44,5 @@ glyphs:
   - accidentals
 - name: accidentalHabaFlatThreeQuarterTonesLower
   description: Three quarter-tones lower (Alois Hába)
+  classes:
+  - accidentals
