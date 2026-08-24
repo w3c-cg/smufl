@@ -1,7 +1,7 @@
 ### optionalGlyphs
 
 The "optionalGlyphs" structure contains a list of all the optional glyphs
-(those in the range of code points U+F400–U+FFFF) contained within the font.
+(those in the range of code points U+F400–U+F8FF) contained within the font.
 Applications that cannot use advanced OpenType features can use this structure
 to identify the presence of stylistic alternates (though the
 "glyphsWithAlternates" and "sets" structures also specify the original glyphs

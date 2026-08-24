@@ -36,9 +36,9 @@
 # the new scheme's first release for a downgrade, while still leaving 20
 # revisions (80-99) of headroom before the next stem bump is needed.
 stem: "1.4"
-build: 81
+build: 82
 
 # sha256 of the build inputs as of this version number - see
 # tools/check_font_version.py. Refresh with:
 #   python3 tools/check_font_version.py --update
-inputsHash: "57133899966efb0414a2852874eb2c3a425793fa94c591341c63a036e649e9ff"
+inputsHash: "739f73c1d56fc22c39571a3a03754aa36000fae71c60c023d030358bbc407dd6"

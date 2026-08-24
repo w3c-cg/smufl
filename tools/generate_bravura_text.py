@@ -362,11 +362,16 @@ def main():
     try:
         otf_path = build_otf(tmp_dir)
 
-        print(f"Converting to WOFF")
-        ttfont = TTFont(otf_path)
-        ttfont.flavor = "woff"
         args.output.parent.mkdir(parents=True, exist_ok=True)
-        ttfont.save(args.output)
+        suffix = args.output.suffix.lower()
+        if suffix in (".woff", ".woff2"):
+            flavor = suffix.lstrip(".")
+            print(f"Converting to {flavor.upper()}")
+            ttfont = TTFont(otf_path)
+            ttfont.flavor = flavor
+            ttfont.save(args.output)
+        else:
+            shutil.copy(otf_path, args.output)
 
         print(f"\nWrote {relpath(args.output)}")
         return 0

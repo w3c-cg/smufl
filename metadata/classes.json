@@ -460,7 +460,18 @@
 		"accidentalHabaFlatQuarterToneHigher",
 		"accidentalHabaSharpThreeQuarterTonesHigher",
 		"accidentalHabaQuarterToneLower",
-		"accidentalHabaSharpQuarterToneLower"
+		"accidentalHabaSharpQuarterToneLower",
+		"accidentalCombiningLower29LimitComma",
+		"accidentalCombiningLower37Quartertone",
+		"accidentalCombiningLower41Comma",
+		"accidentalCombiningLower43Comma",
+		"accidentalCombiningLower47Quartertone",
+		"accidentalCombiningRaise29LimitComma",
+		"accidentalCombiningRaise37Quartertone",
+		"accidentalCombiningRaise41Comma",
+		"accidentalCombiningRaise43Comma",
+		"accidentalCombiningRaise47Quartertone",
+		"accidentalHabaFlatThreeQuarterTonesLower"
 	],
 	"accidentals24EDOArrows": [
 		"accidentalQuarterToneFlatArrowUp",
@@ -3149,15 +3160,7 @@
 		"csymHalfDiminished",
 		"csymAugmented",
 		"csymMajorSeventh",
-		"csymAlteredBassSlash",
-		"csymBracketLeftTall",
-		"csymBracketRightTall",
-		"csymDiagonalArrangementSlash",
-		"csymMinor",
-		"csymParensLeftTall",
-		"csymParensLeftVeryTall",
-		"csymParensRightTall",
-		"csymParensRightVeryTall"
+		"csymMinor"
 	],
 	"tf_daseianNotation": [
 		"daseianGraves1",

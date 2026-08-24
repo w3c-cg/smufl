@@ -287,7 +287,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.481</string>
+  <string>Version 1.482</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -408,7 +408,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>481</integer>
+  <integer>482</integer>
   <key>xHeight</key>
   <integer>275</integer>
   <key>year</key>
