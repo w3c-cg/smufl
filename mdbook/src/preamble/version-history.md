@@ -1,6 +1,10 @@
 Version history
 ===============
 
+Version 1.50 (2022):
+
+-   Added `noteShapeHourglassWhite` (U+E1CC), `noteShapeHourglassBlack` (U+E1CD), `noteShapeReversedCWhite` (U+E1CE), `noteShapeReversedCBlack` (U+E1CF) to [Shape note noteheads](../tables/shape-note-noteheads.md) to support the seven-shape system used in *The New Harp of Columbia* ([#248](https://github.com/w3c/smufl/issues/248))
+
 Version 1.40 (2021-03-15):
 
 -   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))

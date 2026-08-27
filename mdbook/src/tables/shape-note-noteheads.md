@@ -17,6 +17,8 @@ Shape note noteheads (U+E1B0–U+E1CF)
 |<span class="bravura_large">&#xe1c6;</span> | **U+E1C6**<br/>*noteShapeMoonLeftWhite*<br/>Moon left white (Funk 7-shape do) | <span class="bravura_large">&#xe1c7;</span> | **U+E1C7**<br/>*noteShapeMoonLeftBlack*<br/>Moon left black (Funk 7-shape do)
 |<span class="bravura_large">&#xe1c8;</span> | **U+E1C8**<br/>*noteShapeArrowheadLeftWhite*<br/>Arrowhead left white (Funk 7-shape re) | <span class="bravura_large">&#xe1c9;</span> | **U+E1C9**<br/>*noteShapeArrowheadLeftBlack*<br/>Arrowhead left black (Funk 7-shape re)
 |<span class="bravura_large">&#xe1ca;</span> | **U+E1CA**<br/>*noteShapeTriangleRoundLeftWhite*<br/>Triangle-round left white (Funk 7-shape ti) | <span class="bravura_large">&#xe1cb;</span> | **U+E1CB**<br/>*noteShapeTriangleRoundLeftBlack*<br/>Triangle-round left black (Funk 7-shape ti)
+|<span class="bravura_large">&#xe1cc;</span> | **U+E1CC**<br/>*noteShapeHourglassWhite*<br/>Hourglass white (Columbia 7-shape do) | <span class="bravura_large">&#xe1cd;</span> | **U+E1CD**<br/>*noteShapeHourglassBlack*<br/>Hourglass black (Columbia 7-shape do)
+|<span class="bravura_large">&#xe1ce;</span> | **U+E1CE**<br/>*noteShapeReversedCWhite*<br/>Reversed C white (Columbia 7-shape re) | <span class="bravura_large">&#xe1cf;</span> | **U+E1CF**<br/>*noteShapeReversedCBlack*<br/>Reversed C black (Columbia 7-shape re)
 
 Supplementary Groups
 ---------------------

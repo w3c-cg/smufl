@@ -1,8 +1,8 @@
 A number of different shape note traditions remain in common use in the
 shape note community. SMuFL encodes the noteheads required for four such
-systems: one four-shape system; and three seven-shape systems (Walker,
-Funk, and Aikin). All three seven-shape systems also use the four shapes
-of the four-shape system, each introducing three additional shapes.
+systems: one four-shape system; and four seven-shape systems (Walker,
+Funk, Aikin and Columbia). All four seven-shape systems also use the four
+shapes of the four-shape system, each introducing three additional shapes.
 
 The four-shape system, used in books such as William Walker’s *Southern
 Harmony* (1835), uses a form of solmization where the syllables *fa*,
@@ -62,6 +62,19 @@ are as follows:
 | ---------- | ----------------------- | ---------------------------
 | *do* | noteShapeTriangleUpWhite | noteShapeTriangleUpBlack
 | *re* | noteShapeMoonWhite | noteShapeMoonBlack
+| *mi* | noteShapeDiamondWhite | noteShapeDiamondBlack
+| *fa* (or *faw*) | Stem down: noteShapeTriangleRightWhite<br>Stem up: noteShapeTriangleLeftWhite | Stem down: noteShapeTriangleRightBlack<br>Stem up: noteShapeTriangleLeftBlack
+| *so* (or *sol*) | noteShapeRoundWhite | noteShapeRoundBlack
+| *la* (or *law*) | noteShapeSquareWhite | noteShapeSquareBlack
+| *ti* (or *si*) | noteShapeTriangleRoundWhite | noteShapeTriangleRoundBlack
+
+*The New Harp of Columbia* by M.L. Swan defines a seven-shape system,
+with the following shapes for each syllable:
+
+| *Syllable* | *Half notes and longer* | *Quarter notes and shorter*
+| ---------- | ----------------------- | ---------------------------
+| *do* | noteShapeHourglassWhite | noteShapeHourglassBlack
+| *re* | noteShapeReversedCWhite | noteShapeReversedCBlack
 | *mi* | noteShapeDiamondWhite | noteShapeDiamondBlack
 | *fa* (or *faw*) | Stem down: noteShapeTriangleRightWhite<br>Stem up: noteShapeTriangleLeftWhite | Stem down: noteShapeTriangleRightBlack<br>Stem up: noteShapeTriangleLeftBlack
 | *so* (or *sol*) | noteShapeRoundWhite | noteShapeRoundBlack
