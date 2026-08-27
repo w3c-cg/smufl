@@ -9,6 +9,7 @@ Medieval and Renaissance clefs (U+E900–U+E90F)
 |<span class="bravura_large">&#xe906;</span> | **U+E906** (and U+1D1D0)<br/>*chantCclef*<br/>Plainchant C clef | <span class="bravura_large">&#xe907;</span> | **U+E907**<br/>*mensuralCclefPetrucciPosLowest*<br/>Petrucci C clef, lowest position
 |<span class="bravura_large">&#xe908;</span> | **U+E908**<br/>*mensuralCclefPetrucciPosLow*<br/>Petrucci C clef, low position | <span class="bravura_large">&#xe909;</span> | **U+E909**<br/>*mensuralCclefPetrucciPosMiddle*<br/>Petrucci C clef, middle position
 |<span class="bravura_large">&#xe90a;</span> | **U+E90A**<br/>*mensuralCclefPetrucciPosHigh*<br/>Petrucci C clef, high position | <span class="bravura_large">&#xe90b;</span> | **U+E90B**<br/>*mensuralCclefPetrucciPosHighest*<br/>Petrucci C clef, highest position
+|<span class="bravura_large">&#xe90c;</span> | **U+E90C**<br/>*mensuralUnpitchedClef*<br/>Mensural unpitched clef | &nbsp; | &nbsp;
 
 Recommended stylistic alternates
 --------------------------------
