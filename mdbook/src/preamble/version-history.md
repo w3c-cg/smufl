@@ -1,6 +1,10 @@
 Version history
 ===============
 
+Version 1.50 (2022):
+
+-   Added `mensuralRestMaximaImperfecta` (U+E9F9) to [Medieval and Renaissance rests](../tables/medieval-and-renaissance-rests.md) range ([#226](https://github.com/w3c/smufl/issues/226))
+
 Version 1.40 (2021-03-15):
 
 -   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))
