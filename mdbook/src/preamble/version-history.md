@@ -1,6 +1,10 @@
 Version history
 ===============
 
+Version 1.50 (2022):
+
+- Added `clefCombining8vaAltaSorabji` (U+ED71), `clefCombining15maAltaSorabji` (U+ED72), `clefCombining8vaBassaSorabji` (U+ED73), `clefCombining15maBassaSorabji` (U+ED74) to [Clefs supplement](../tables/clefs-supplement.md) range ([#236](https://github.com/w3c/smufl/issues/236))
+
 Version 1.40 (2021-03-15):
 
 -   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))
