@@ -1,6 +1,10 @@
 Version history
 ===============
 
+Version 1.5 (2024):
+
+-   Added `accidentalQuarterToneSharpZimmermann` (U+E286), `accidentalThreeQuarterToneSharpZimmermann` (U+E287), and `accidentalQuarterToneSharpZimmermannAndSharp` (U+E288) in the [Stein-Zimmermann accidentals](../tables/stein-zimmermann-accidentals-24-edo.md) range
+
 Version 1.40 (2021-03-15):
 
 -   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))
