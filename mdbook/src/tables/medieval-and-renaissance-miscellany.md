@@ -11,4 +11,4 @@ Medieval and Renaissance miscellany (U+EA00–U+EA1F)
 |<span class="bravura_large">&#xea0a;</span> | **U+EA0A**<br/>*mensuralCustosCheckmark*<br/>Checkmark custos | <span class="bravura_large">&#xea0b;</span> | **U+EA0B**<br/>*mensuralCustosTurn*<br/>Turn-like custos
 |<span class="bravura_large">&#xea0c;</span> | **U+EA0C**<br/>*mensuralColorationStartSquare*<br/>Coloration start, square | <span class="bravura_large">&#xea0d;</span> | **U+EA0D**<br/>*mensuralColorationEndSquare*<br/>Coloration end, square
 |<span class="bravura_large">&#xea0e;</span> | **U+EA0E**<br/>*mensuralColorationStartRound*<br/>Coloration start, round | <span class="bravura_large">&#xea0f;</span> | **U+EA0F**<br/>*mensuralColorationEndRound*<br/>Coloration end, round
-|<span class="bravura_large">&#xea10;</span> | **U+EA10**<br/>*mensuralAlterationSign*<br/>Alteration sign | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xea10;</span> | **U+EA10**<br/>*mensuralAlterationSign*<br/>Alteration sign | <span class="bravura_large">&#xea11;</span> | **U+EA11**<br/>*mensuralPunctus*<br/>Mensural punctus
