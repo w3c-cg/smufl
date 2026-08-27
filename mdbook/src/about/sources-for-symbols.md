@@ -67,6 +67,9 @@ musical symbols:
 -   Poulton, Diana. *A Tutor for the Renaissance Lute*. London, UK:
     Schott, 1991.
 
+-   Purcell, Henry. *A Choice Collection of Lessons for the Harpsichord or
+    Spinnet*. London, UK: Henry Playford, 1696.
+
 -   Read, Gardner. *Twentieth-Century Microtonal Notation*. USA:
     Praeger, 1990.
 

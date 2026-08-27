@@ -16,6 +16,9 @@ Other baroque ornaments (U+E570–U+E58F)
 |<span class="bravura_large">&#xe584;</span> | **U+E584**<br/>*ornamentShakeMuffat1*<br/>Shake (Muffat) | <span class="bravura_large">&#xe585;</span> | **U+E585** (and U+1D1B1)<br/>*glissandoUp*<br/>Glissando up
 |<span class="bravura_large">&#xe586;</span> | **U+E586** (and U+1D1B2)<br/>*glissandoDown*<br/>Glissando down | <span class="bravura_large">&#xe587;</span> | **U+E587**<br/>*ornamentSchleifer*<br/>Schleifer (long mordent)
 |<span class="bravura_large">&#xe588;</span> | **U+E588**<br/>*ornamentPinceCouperin*<br/>Pincé (Couperin) | <span class="bravura_large">&#xe589;</span> | **U+E589**<br/>*ornamentTremblementCouperin*<br/>Tremblement appuyé (Couperin)
+|<span class="bravura_large">&#xe58a;</span> | **U+E58A**<br/>*ornamentShakePurcell*<br/>Shake (Purcell) | <span class="bravura_large">&#xe58b;</span> | **U+E58B**<br/>*ornamentPlainNoteAndShakePurcell*<br/>Plain note and shake (Purcell)
+|<span class="bravura_large">&#xe58c;</span> | **U+E58C**<br/>*ornamentForeFallPurcell*<br/>Fore fall (Purcell) | <span class="bravura_large">&#xe58d;</span> | **U+E58D**<br/>*ornamentBackFallPurcell*<br/>Back fall (Purcell)
+|<span class="bravura_large">&#xe58e;</span> | **U+E58E**<br/>*ornamentTurnPurcell*<br/>Turn (Purcell) | <span class="bravura_large">&#xe58f;</span> | **U+E58F**<br/>*ornamentShakeTurnedPurcell*<br/>Shake turned (Purcell)
 
 Implementation notes
 ---------------------
