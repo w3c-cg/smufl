@@ -18,4 +18,4 @@ Percussion playing technique pictograms (U+E7F0–U+E80F)
 |<span class="bravura_large">&#xe808;</span> | **U+E808**<br/>*pictSwishStem*<br/>Combining swish for stem | <span class="bravura_large">&#xe809;</span> | **U+E809**<br/>*pictTurnRightStem*<br/>Combining turn right for stem
 |<span class="bravura_large">&#xe80a;</span> | **U+E80A**<br/>*pictTurnLeftStem*<br/>Combining turn left for stem | <span class="bravura_large">&#xe80b;</span> | **U+E80B**<br/>*pictTurnRightLeftStem*<br/>Combining turn left or right for stem
 |<span class="bravura_large">&#xe80c;</span> | **U+E80C**<br/>*pictCrushStem*<br/>Combining crush for stem | <span class="bravura_large">&#xe80d;</span> | **U+E80D**<br/>*pictDeadNoteStem*<br/>Combining X for stem (dead note)
-|<span class="bravura_large">&#xe80e;</span> | **U+E80E**<br/>*pictScrapeAroundRimClockwise*<br/>Scrape around rim (clockwise) | &nbsp; | &nbsp;
+|<span class="bravura_large">&#xe80e;</span> | **U+E80E**<br/>*pictScrapeAroundRimClockwise*<br/>Scrape around rim (clockwise) | <span class="bravura_large">&#xe80f;</span> | **U+E80D**<br/>*pictHalfOpen3*<br/>Half-open 3 (Gould)
