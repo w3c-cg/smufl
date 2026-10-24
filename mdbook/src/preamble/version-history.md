@@ -1,6 +1,10 @@
 Version history
 ===============
 
+Version 1.50 (2022):
+
+-   Added new `ornamentShakePurcell` (U+E58A), `ornamentPlainNoteAndShakePurcell` (U+E58B), `ornamentForeFallPurcell` (U+E58C), `ornamentBackFallPurcell` (U+E58D), `ornamentTurnPurcell` (U+E58E), `ornamentShakeTurnedPurcell` (U+E58F) glyphs to [Other baroque ornaments](../tables/other-baroque-ornaments.md) range ([#210](https://github.com/w3c/smufl/issues/210))
+
 Version 1.40 (2021-03-15):
 
 -   Added new font metadata values for font design size, barline separation, H-bar thickness, and preferred text fonts to accompany music fonts ([#95](https://github.com/w3c/smufl/issues/95), [#102](https://github.com/w3c/smufl/issues/102), [#124](https://github.com/w3c/smufl/issues/124), [#131](https://github.com/w3c/smufl/issues/131))
