@@ -1,0 +1,20 @@
+{
+  "_comment": "Optional overrides; not required for export.\nCopy this file to <project file name>.smufl-config.json next to the .glyphs file and keep only what you need.\nNormal export already measures engravingDefaults, widths, bboxes, anchors, alternates, ligatures, sets and optional glyphs from the project. Use this file to override those values, choose a master, point to a metadataSource, or supply anchors manually.\nUnits: engravingDefaults and manual anchors are in staff spaces; designSize and sizeRange are integer decipoints (1/720 inch).",
+  "fontName": null,
+  "fontVersion": null,
+  "designSize": null,
+  "sizeRange": null,
+  "master": null,
+  "metadataSource": null,
+  "engravingDefaults": {},
+  "setsTemplate": {},
+  "glyphNameAliases": {},
+  "glyphsWithAnchors": {},
+  "includeOptionalGlyphs": true,
+  "includeGlyphBBoxes": true,
+  "includeGlyphAdvanceWidths": true,
+  "includeGlyphsWithAlternates": true,
+  "includeLigatures": true,
+  "includeSets": true,
+  "includeEngravingDefaults": true
+}
