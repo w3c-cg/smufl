@@ -1,0 +1,49 @@
+{
+ "_note": "Template for stylistic-set tags; config can override.",
+ "_source": "Bravura 1.482 redist/Bravura.json sets",
+ "sets": {
+  "ss01": {
+   "description": "Smaller optical size for small staves",
+   "type": "opticalVariantsSmall"
+  },
+  "ss02": {
+   "description": "Short flags (to avoid augmentation dots)",
+   "type": "flagsShort"
+  },
+  "ss03": {
+   "description": "Straight flags",
+   "type": "flagsStraight"
+  },
+  "ss04": {
+   "description": "Large time signatures",
+   "type": "timeSigsLarge"
+  },
+  "ss05": {
+   "description": "Noteheads at larger optical size ",
+   "type": "noteheadsLarge"
+  },
+  "ss06": {
+   "description": "Tuplet numbers at a lighter weight",
+   "type": "tupletsLight"
+  },
+  "ss07": {
+   "description": "Smaller optical size for subscript and superscript placement",
+   "type": "chordSymbolsOpticalVariants"
+  },
+  "ss08": {
+   "description": "Oversized slash noteheads",
+   "type": "slashesOversized"
+  },
+  "ss09": {
+   "description": "Large, narrow time signatures",
+   "type": "timeSigsLargeNarrow"
+  },
+  "ss10": {
+   "description": "Accidentals for figured bass with longer stems",
+   "type": "figbassAccidentalsLongerStems"
+  }
+ },
+ "_copyright": "Copyright (c) Steinberg Media Technologies GmbH. Derived from Bravura redist/Bravura.json.",
+ "_license": "SIL Open Font License 1.1 (see data/third-party/bravura/LICENSE-OFL-1.1.txt)",
+ "_licenseNote": "This file is distributed under OFL-1.1, not Apache-2.0."
+}
